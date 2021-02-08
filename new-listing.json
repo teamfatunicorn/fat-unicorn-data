@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xef6344de1fcfc5f48c30234c16c1389e8cdc572c",
+    "tokenName": "DNA",
+    "idPair": "0xe7ec53f495cc554e636db1bcfbb2d81e808d92c5",
+    "idToken": "0xef6344de1fcfc5f48c30234c16c1389e8cdc572c",
+    "dateCreationToken": "2021-02-08T22:10:48Z",
+    "initialInfos": {
+      "initialPoolToken": 20000,
+      "initialPriceUSD": 0.12908475,
+      "initialPoolEth": 1.5,
+      "initialMarketCap": 2562.891932993286
+    },
+    "currentInfos": {
+      "currentPoolToken": 20000,
+      "currentPriceUSD": 0.12908475,
+      "currentPoolEth": 1.5,
+      "currentMarketCap": 2581.695
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2986,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1612822248",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x872a4ad1552f96da0f711cfe8be883ebd4f0f7e7",
     "tokenName": "MAGIC",
     "idPair": "0x14ddfce82608af4a0d1aa0c26bf974dc364c29e5",
@@ -12,22 +43,22 @@
       "initialMarketCap": 1721.13
     },
     "currentInfos": {
-      "currentPoolToken": 1750.1331405880417,
-      "currentPriceUSD": 2.3263841059587262,
-      "currentPoolEth": 2.3655865167512737,
-      "currentMarketCap": 4071.481921575649
+      "currentPoolToken": 1792.1331405880417,
+      "currentPriceUSD": 2.218776679676159,
+      "currentPoolEth": 2.3103096333288464,
+      "currentMarketCap": 3976.343219211542
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 33,
     "holderCountOld": 0,
-    "txCount": 57,
+    "txCount": 58,
     "createdAtTimestamp": "1612820112",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 4.406643556172343,
+    "priceChange": 4.1565580279843095,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.43318638101710444,
-    "isRugged": false
-  },
-  {
-    "_id": "0x72bbae960006b950e4dff6170b6266b1aec0203c",
-    "tokenName": "HACHI",
-    "idPair": "0xb91a9a8b3b19b5b1dedc0d2283ab6046b4e0e6d6",
-    "idToken": "0x72bbae960006b950e4dff6170b6266b1aec0203c",
-    "dateCreationToken": "2021-02-02T18:35:41Z",
-    "initialInfos": {
-      "initialPoolToken": 1610000,
-      "initialPriceUSD": 0.06598217391304348,
-      "initialPoolEth": 70,
-      "initialMarketCap": 106231.3
-    },
-    "currentInfos": {
-      "currentPoolToken": 4036012.26724728,
-      "currentPriceUSD": 0.01241125492101704,
-      "currentPoolEth": 29.168181857604935,
-      "currentMarketCap": 50091.97711315795
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 96,
-    "holderCountOld": 97,
-    "txCount": 862,
-    "createdAtTimestamp": "1612290941",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.8118998786342874,
     "isRugged": false
   }
 ]
