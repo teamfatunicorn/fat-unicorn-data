@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x872a4ad1552f96da0f711cfe8be883ebd4f0f7e7",
+    "tokenName": "MAGIC",
+    "idPair": "0x14ddfce82608af4a0d1aa0c26bf974dc364c29e5",
+    "idToken": "0x872a4ad1552f96da0f711cfe8be883ebd4f0f7e7",
+    "dateCreationToken": "2021-02-08T21:35:12Z",
+    "initialInfos": {
+      "initialPoolToken": 4000,
+      "initialPriceUSD": 0.4292,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1716.8
+    },
+    "currentInfos": {
+      "currentPoolToken": 845.3289333760365,
+      "currentPriceUSD": 9.646895637928454,
+      "currentPoolEth": 4.75,
+      "currentMarketCap": 8154.8
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 8,
+    "createdAtTimestamp": "1612820112",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 21.476457683896676,
+    "isRugged": false
+  },
+  {
     "_id": "0xc98a910ede52e7d5308525845f19e17470dbccf7",
     "tokenName": "WILC",
     "idPair": "0x53f4bdf9698efeca1eda872876d116aea2298620",
@@ -105,22 +136,22 @@
       "initialMarketCap": 10226.652644909382
     },
     "currentInfos": {
-      "currentPoolToken": 1.9938565205961194,
-      "currentPriceUSD": 14417.765214883368,
-      "currentPoolEth": 16.74449859396476,
-      "currentMarketCap": 28746.95518611911
+      "currentPoolToken": 2.8313926940193945,
+      "currentPriceUSD": 7156.012811683836,
+      "currentPoolEth": 11.801888626112822,
+      "currentMarketCap": 20261.4823933108
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 3,
     "holderCountOld": 0,
-    "txCount": 48,
+    "txCount": 49,
     "createdAtTimestamp": "1612809633",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 11.59706886202531,
+    "priceChange": 5.2523411099287935,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.8098002021987437,
     "isRugged": false
-  },
-  {
-    "_id": "0x3c0470b476aa3bf615bc828a6b2006aabab440da",
-    "tokenName": "SET",
-    "idPair": "0x6a04f08cf2695a623055029647aba10b3518d9fc",
-    "idToken": "0x3c0470b476aa3bf615bc828a6b2006aabab440da",
-    "dateCreationToken": "2021-02-02T18:11:48Z",
-    "initialInfos": {
-      "initialPoolToken": 50000000,
-      "initialPriceUSD": 0.022352764,
-      "initialPoolEth": 751,
-      "initialMarketCap": 1117638.2
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.01096e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 259,
-    "holderCountOld": 251,
-    "txCount": 351,
-    "createdAtTimestamp": "1612289508",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
