@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xb4f36a87f6fd90128a2b6bb599394ee2625efdc4",
+    "tokenName": "EVN",
+    "idPair": "0xeeb8a4fad9925e99bf82a79d39e769c918cb200b",
+    "idToken": "0xb4f36a87f6fd90128a2b6bb599394ee2625efdc4",
+    "dateCreationToken": "2021-02-09T13:53:43Z",
+    "initialInfos": {
+      "initialPoolToken": 270138,
+      "initialPriceUSD": 1.1145178760485381,
+      "initialPoolEth": 173,
+      "initialMarketCap": 301073.63
+    },
+    "currentInfos": {
+      "currentPoolToken": 270138,
+      "currentPriceUSD": 1.1145178760485381,
+      "currentPoolEth": 173,
+      "currentMarketCap": 301073.63
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 323,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1612878823",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x53886d0ddba6bafaf2c3f9512029a7ff862f5e6e",
     "tokenName": "EVN",
     "idPair": "0x8c6d47c269f2173c73a3312136ef55626b6683e7",
@@ -12,22 +43,22 @@
       "initialMarketCap": 313255.8
     },
     "currentInfos": {
-      "currentPoolToken": 206967.2220799127,
-      "currentPriceUSD": 1.75588931690682,
-      "currentPoolEth": 208.82,
-      "currentMarketCap": 363411.5342
+      "currentPoolToken": 205378.4644316294,
+      "currentPriceUSD": 1.783201846767761,
+      "currentPoolEth": 210.44024171602112,
+      "currentMarketCap": 366231.2570608085
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 11,
+    "txCount": 13,
     "createdAtTimestamp": "1612878093",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.34526938067112173,
+    "priceChange": 0.3661947942360928,
     "isRugged": false
   },
   {
@@ -74,22 +105,22 @@
       "initialMarketCap": 130523.25
     },
     "currentInfos": {
-      "currentPoolToken": 2539836.2482849467,
-      "currentPriceUSD": 0.05261145474037863,
-      "currentPoolEth": 76.78199850866629,
-      "currentMarketCap": 133624.47982461652
+      "currentPoolToken": 2510465.51432657,
+      "currentPriceUSD": 0.05385156592299903,
+      "currentPoolEth": 77.68299851300819,
+      "currentMarketCap": 135192.49914217295
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 3,
     "holderCountOld": 0,
-    "txCount": 7,
+    "txCount": 8,
     "createdAtTimestamp": "1612876075",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.048010851131767146,
+    "priceChange": 0.07271364603469088,
     "isRugged": false
   },
   {
@@ -292,7 +323,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 360224.84209872247,
-      "currentPriceUSD": 1.9672898535209153,
+      "currentPriceUSD": 1.91182563099111,
       "currentPoolEth": 411.4629055437116,
       "currentMarketCap": 708666.6768469906
     },
@@ -306,7 +337,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.0175935035481292,
+    "priceChange": 0.9607110594816358,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.9938900206863649,
     "isRugged": false
-  },
-  {
-    "_id": "0xe887bfdeb9802c1cd625265ffbf06b979363b100",
-    "tokenName": "ART",
-    "idPair": "0x905d7b017ae5d97597fec4b955620fc53fcade80",
-    "idToken": "0xe887bfdeb9802c1cd625265ffbf06b979363b100",
-    "dateCreationToken": "2021-02-03T10:37:54Z",
-    "initialInfos": {
-      "initialPoolToken": 300,
-      "initialPriceUSD": 11.396806666666667,
-      "initialPoolEth": 2.2,
-      "initialMarketCap": 3378.213187500357
-    },
-    "currentInfos": {
-      "currentPoolToken": 9.145e-15,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.1e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 8,
-    "holderCountOld": 9,
-    "txCount": 18,
-    "createdAtTimestamp": "1612348674",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
