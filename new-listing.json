@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x401b40ccc03a512476d406151877bb4b358b6d24",
+    "tokenName": "EVN",
+    "idPair": "0xc07f8188ec6f9cef8382f1f4dec67048336df370",
+    "idToken": "0x401b40ccc03a512476d406151877bb4b358b6d24",
+    "dateCreationToken": "2021-02-09T10:37:16Z",
+    "initialInfos": {
+      "initialPoolToken": 300000,
+      "initialPriceUSD": 0.997452568,
+      "initialPoolEth": 169.68,
+      "initialMarketCap": 299235.7704
+    },
+    "currentInfos": {
+      "currentPoolToken": 300000,
+      "currentPriceUSD": 0.997452568,
+      "currentPoolEth": 169.68,
+      "currentMarketCap": 299235.7704
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1612867036",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xce7eaa0226c4f52b83ae2da945d93cbbc1daede9",
     "tokenName": "SHINU",
     "idPair": "0x09f5d42081ecdee51aed18ac187dd253dcd1fca1",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-02-09T10:27:30Z",
     "initialInfos": {
       "initialPoolToken": 13920220020.202885,
-      "initialPriceUSD": 0.0000012086170315973778,
+      "initialPriceUSD": 0.0000012035395256457893,
       "initialPoolEth": 9.5,
       "initialMarketCap": 16788.765088881377
     },
     "currentInfos": {
-      "currentPoolToken": 6746740704.131274,
-      "currentPriceUSD": 0.000005246235569894956,
-      "currentPoolEth": 19.98621719333003,
-      "currentMarketCap": 35394.99106287163
+      "currentPoolToken": 8641696519.381556,
+      "currentPriceUSD": 0.000003190895841482498,
+      "currentPoolEth": 15.636112505626798,
+      "currentMarketCap": 27574.753487048383
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 24,
     "holderCountOld": 0,
-    "txCount": 40,
+    "txCount": 52,
     "createdAtTimestamp": "1612866450",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 3.3406930671506663,
+    "priceChange": 1.6512596998177882,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-02-09T09:52:12Z",
     "initialInfos": {
       "initialPoolToken": 30000,
-      "initialPriceUSD": 0.4958716,
+      "initialPriceUSD": 0.4937884,
       "initialPoolEth": 8.4,
-      "initialMarketCap": 14876.148
+      "initialMarketCap": 14813.652
     },
     "currentInfos": {
       "currentPoolToken": 11144.90932404,
-      "currentPriceUSD": 3.638497509579856,
+      "currentPriceUSD": 3.623211863029506,
       "currentPoolEth": 22.89746569394893,
-      "currentMarketCap": 40550.72482001286
+      "currentMarketCap": 40380.36767524988
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 6.337579949284968,
+    "priceChange": 6.337579949284969,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x926204665fa06be8f4fac55a122238642c9ba354",
-    "tokenName": "ARGENT",
-    "idPair": "0xfd1776596b1d83866095189eb392f173e85305de",
-    "idToken": "0x926204665fa06be8f4fac55a122238642c9ba354",
-    "dateCreationToken": "2021-02-03T05:00:13Z",
-    "initialInfos": {
-      "initialPoolToken": 99500000,
-      "initialPriceUSD": 0.013889456281407035,
-      "initialPoolEth": 890,
-      "initialMarketCap": 1382000.9
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.001,
-      "currentPriceUSD": 0.00017087424,
-      "currentPoolEth": 9.596871e-11,
-      "currentMarketCap": 1.7087424e-7
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 16,
-    "holderCountOld": 0,
-    "txCount": 20,
-    "createdAtTimestamp": "1612328413",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9876975573026038,
     "isRugged": true
   }
 ]
