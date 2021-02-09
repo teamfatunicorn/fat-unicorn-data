@@ -21,7 +21,7 @@
     "contractId": null,
     "contractVerified": true,
     "holderCount": 10,
-    "holderCountOld": 1,
+    "holderCountOld": 0,
     "txCount": 24,
     "createdAtTimestamp": "1612884401",
     "isCodeGenerator": false,
@@ -144,7 +144,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 33,
+    "holderCount": 34,
     "holderCountOld": 0,
     "txCount": 6,
     "createdAtTimestamp": "1612881019",
@@ -431,6 +431,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.09803179711004038,
+    "isRugged": false
+  },
+  {
+    "_id": "0x6fc13eace26590b80cccab1ba5d51890577d83b2",
+    "tokenName": "UMB",
+    "idPair": "0xb1bbeea2da2905e6b0a30203aef55c399c53d042",
+    "idToken": "0x6fc13eace26590b80cccab1ba5d51890577d83b2",
+    "dateCreationToken": "2021-02-09T11:21:46Z",
+    "initialInfos": {
+      "initialPoolToken": 2500000,
+      "initialPriceUSD": 0.0500431176,
+      "initialPoolEth": 71.4,
+      "initialMarketCap": 125107.794
+    },
+    "currentInfos": {
+      "currentPoolToken": 309275.8675938126,
+      "currentPriceUSD": 3.71683588571525,
+      "currentPoolEth": 583.1165761341904,
+      "currentMarketCap": 1021742.6958680891
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 37,
+    "holderCountOld": 0,
+    "txCount": 135,
+    "createdAtTimestamp": "1612869706",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 73.27266853005277,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x7dbbcae15d4db168e01673400d7844870cc1e36f",
-    "tokenName": "WOLFY",
-    "idPair": "0x75c83c6dafe52218f7a13c8244e9af5b60bc4511",
-    "idToken": "0x7dbbcae15d4db168e01673400d7844870cc1e36f",
-    "dateCreationToken": "2021-02-03T17:53:41Z",
-    "initialInfos": {
-      "initialPoolToken": 742471662.4685138,
-      "initialPriceUSD": 0.000008859112519030232,
-      "initialPoolEth": 4,
-      "initialMarketCap": 6577.64
-    },
-    "currentInfos": {
-      "currentPoolToken": 100339379.49673048,
-      "currentPriceUSD": 0.0005993768485694181,
-      "currentPoolEth": 34.58750586329789,
-      "currentMarketCap": 60141.101070161196
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 308,
-    "holderCountOld": 307,
-    "txCount": 1106,
-    "createdAtTimestamp": "1612374821",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 66.65653413723987,
-    "isRugged": false
   }
 ]
