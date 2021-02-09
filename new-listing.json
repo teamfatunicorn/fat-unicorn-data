@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x6494ab41c7ca1f9849108e23a7ccf75da295ba18",
+    "tokenName": "VAI",
+    "idPair": "0x49043f5698a55546b0b01e90f6c40a7c835dd194",
+    "idToken": "0x6494ab41c7ca1f9849108e23a7ccf75da295ba18",
+    "dateCreationToken": "2021-02-09T18:28:36Z",
+    "initialInfos": {
+      "initialPoolToken": 12000000,
+      "initialPriceUSD": 0.043746,
+      "initialPoolEth": 300,
+      "initialMarketCap": 524952
+    },
+    "currentInfos": {
+      "currentPoolToken": 12000000,
+      "currentPriceUSD": 0.043746,
+      "currentPoolEth": 300,
+      "currentMarketCap": 524952
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1612895316",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x618a76e011cbf540091f9ae7e00dc556ce7089be",
     "tokenName": "YearnDao",
     "idPair": "0xb35f9d6ac7cf4f9d9ea33fd94abd8904c83b980d",
@@ -12,22 +43,22 @@
       "initialMarketCap": 34996.8
     },
     "currentInfos": {
-      "currentPoolToken": 3100.432771725218,
-      "currentPriceUSD": 14.5735682102397,
-      "currentPoolEth": 25.822,
-      "currentMarketCap": 45184.36848
+      "currentPoolToken": 2857.6916635667735,
+      "currentPriceUSD": 17.158609903630794,
+      "currentPoolEth": 28.022,
+      "currentMarketCap": 49034.01648
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 16,
     "holderCountOld": 0,
-    "txCount": 6,
+    "txCount": 7,
     "createdAtTimestamp": "1612894806",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.6657029454395487,
+    "priceChange": 0.9611632953448079,
     "isRugged": false
   },
   {
@@ -168,7 +199,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 180805.596152181,
-      "currentPriceUSD": 2.718770203307812,
+      "currentPriceUSD": 2.66555230434346,
       "currentPoolEth": 282.4962314649565,
       "currentMarketCap": 491568.8674098553
     },
@@ -182,7 +213,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.7577379599275753,
+    "priceChange": 1.703757296191072,
     "isRugged": false
   },
   {
@@ -478,7 +509,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 155344.27623875145,
-      "currentPriceUSD": 3.1190850844640456,
+      "currentPriceUSD": 3.05920162205012,
       "currentPoolEth": 278.4522725681734,
       "currentMarketCap": 484532.01497315214
     },
@@ -492,7 +523,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.3861950900070157,
+    "priceChange": 1.3403824173433323,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xb547faf8bd5a52b1fe4ce5d740bdfb396140eb08",
-    "tokenName": "VARIANT-DAVIS",
-    "idPair": "0xb8b908b20ed98a48204086fe99de6221bd9bcdc6",
-    "idToken": "0xb547faf8bd5a52b1fe4ce5d740bdfb396140eb08",
-    "dateCreationToken": "2021-02-03T23:44:47Z",
-    "initialInfos": {
-      "initialPoolToken": 10,
-      "initialPriceUSD": 205.09268292682924,
-      "initialPoolEth": 1.219512195121951,
-      "initialMarketCap": 2050.9268292682923
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.279006560296837,
-      "currentPriceUSD": 1178.3503359597921,
-      "currentPoolEth": 2.8942552036304496,
-      "currentMarketCap": 5042.168817899932
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 12,
-    "holderCountOld": 13,
-    "txCount": 42,
-    "createdAtTimestamp": "1612395887",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 4.745452832074908,
-    "isRugged": false
   }
 ]
