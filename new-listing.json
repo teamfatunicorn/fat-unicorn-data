@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x3334bdfd35c1c2dbba1139511d9f995a13cfec88",
+    "tokenName": "UMB",
+    "idPair": "0x26a46014b37f2f2556349324cf5382b01de91d86",
+    "idToken": "0x3334bdfd35c1c2dbba1139511d9f995a13cfec88",
+    "dateCreationToken": "2021-02-09T06:05:43Z",
+    "initialInfos": {
+      "initialPoolToken": 5470000,
+      "initialPriceUSD": 0.03507672760511883,
+      "initialPoolEth": 110,
+      "initialMarketCap": 191869.7
+    },
+    "currentInfos": {
+      "currentPoolToken": 5470000,
+      "currentPriceUSD": 0.03507672760511883,
+      "currentPoolEth": 110,
+      "currentMarketCap": 191869.7
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1612850743",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x888e375571b3a2d79693cdb9fb37da01fa53569e",
     "tokenName": "BERY",
     "idPair": "0x8cf64208d7dfc1e86aa9784cbe7a88c256107917",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-02-09T05:59:12Z",
     "initialInfos": {
       "initialPoolToken": 6800000000,
-      "initialPriceUSD": 0.0000025755,
+      "initialPriceUSD": 0.0000025651029411764706,
       "initialPoolEth": 10,
-      "initialMarketCap": 17513.4
+      "initialMarketCap": 17442.7
     },
     "currentInfos": {
-      "currentPoolToken": 4281536554.786291,
-      "currentPriceUSD": 0.000006524745906032905,
-      "currentPoolEth": 15.951179158456556,
-      "currentMarketCap": 27935.938107372083
+      "currentPoolToken": 4411577040.4935,
+      "currentPriceUSD": 0.000006126117084439351,
+      "currentPoolEth": 15.494067705737649,
+      "currentMarketCap": 27025.83747708762
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 20,
     "holderCountOld": 0,
-    "txCount": 17,
+    "txCount": 26,
     "createdAtTimestamp": "1612850352",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.5333899848700854,
+    "priceChange": 1.3882538926993864,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-02-09T05:17:24Z",
     "initialInfos": {
       "initialPoolToken": 18000000,
-      "initialPriceUSD": 0.024324166666666668,
+      "initialPriceUSD": 0.02422597222222222,
       "initialPoolEth": 250,
       "initialMarketCap": 436099.161601866
     },
     "currentInfos": {
       "currentPoolToken": 16237241.810288915,
-      "currentPriceUSD": 0.02990143429435869,
+      "currentPriceUSD": 0.02978072492869519,
       "currentPoolEth": 277.2259065127087,
-      "currentMarketCap": 485516.8191119678
+      "currentMarketCap": 483556.8319529229
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.22928915527186366,
+    "priceChange": 0.22928915527186378,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.6884798373891117,
-    "isRugged": false
-  },
-  {
-    "_id": "0x4ef66e564e89a60041eebce4716e142626c2f2f4",
-    "tokenName": "UPS",
-    "idPair": "0xc1a3e7777f10589c555247ac99b66eb28a395d31",
-    "idToken": "0x4ef66e564e89a60041eebce4716e142626c2f2f4",
-    "dateCreationToken": "2021-02-02T23:16:27Z",
-    "initialInfos": {
-      "initialPoolToken": 70000,
-      "initialPriceUSD": 1.08805,
-      "initialPoolEth": 50,
-      "initialMarketCap": 76163.5
-    },
-    "currentInfos": {
-      "currentPoolToken": 349009.982992825,
-      "currentPriceUSD": 0.13431638884311348,
-      "currentPoolEth": 26.887466782407735,
-      "currentMarketCap": 46877.7605857927
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 197,
-    "holderCountOld": 198,
-    "txCount": 583,
-    "createdAtTimestamp": "1612307787",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.8765531098358408,
     "isRugged": false
   }
 ]
