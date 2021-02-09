@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x4f4a4b66ba77d124cebf608b64ae4b9a9162de61",
+    "tokenName": "UMB",
+    "idPair": "0x5a4bd25c213a56bc0f281121ae752e51c9347161",
+    "idToken": "0x4f4a4b66ba77d124cebf608b64ae4b9a9162de61",
+    "dateCreationToken": "2021-02-09T14:37:41Z",
+    "initialInfos": {
+      "initialPoolToken": 250000,
+      "initialPriceUSD": 0.009059232,
+      "initialPoolEth": 1.3,
+      "initialMarketCap": 2264.808
+    },
+    "currentInfos": {
+      "currentPoolToken": 250000,
+      "currentPriceUSD": 0.009059232,
+      "currentPoolEth": 1.3,
+      "currentMarketCap": 2264.808
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 108,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1612881461",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x20156e0de9f09136dc79da75ba3f3020dae00f74",
     "tokenName": "UMB",
     "idPair": "0x8b65ce1de931c977fc05ef377712b0697dfe6b3a",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xc91689868529736369a133dfa3162b1010ba091c",
-    "tokenName": "MEME",
-    "idPair": "0xf1a8394cf92116f0414707557e183bab0f9ff624",
-    "idToken": "0xc91689868529736369a133dfa3162b1010ba091c",
-    "dateCreationToken": "2021-02-03T12:53:52Z",
-    "initialInfos": {
-      "initialPoolToken": 10000,
-      "initialPriceUSD": 0.0162338,
-      "initialPoolEth": 0.1,
-      "initialMarketCap": 154.59950614283298
-    },
-    "currentInfos": {
-      "currentPoolToken": 6985028970.931982,
-      "currentPriceUSD": 4.65229941697209e-14,
-      "currentPoolEth": 1.8688875574e-7,
-      "currentMarketCap": 0.00032496446209
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 16,
-    "holderCountOld": 14,
-    "txCount": 39,
-    "createdAtTimestamp": "1612356832",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9999999999971343,
     "isRugged": true
   }
 ]
