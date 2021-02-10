@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x6d54155b83d95373901340625a178503291cfeff",
+    "tokenName": "BSN",
+    "idPair": "0x7faa93921f5b6bd75991d6912eb6aebf9a2a144e",
+    "idToken": "0x6d54155b83d95373901340625a178503291cfeff",
+    "dateCreationToken": "2021-02-10T04:52:16Z",
+    "initialInfos": {
+      "initialPoolToken": 4500000,
+      "initialPriceUSD": 0.0713644,
+      "initialPoolEth": 180,
+      "initialMarketCap": 321139.8
+    },
+    "currentInfos": {
+      "currentPoolToken": 4500000,
+      "currentPriceUSD": 0.0715352,
+      "currentPoolEth": 180,
+      "currentMarketCap": 321908.4
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1612932736",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.0023933501858069113,
+    "isRugged": false
+  },
+  {
     "_id": "0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096",
     "tokenName": "Auction",
     "idPair": "0x30d4e73cc4580cbcf50baad3510d1e9efa187716",
@@ -43,22 +74,22 @@
       "initialMarketCap": 361820.4789604183
     },
     "currentInfos": {
-      "currentPoolToken": 188650.02823604242,
-      "currentPriceUSD": 3.1167624473499593,
-      "currentPoolEth": 329.56338101216136,
-      "currentMarketCap": 587977.3236976066
+      "currentPoolToken": 184552.03620263646,
+      "currentPriceUSD": 3.256927983377188,
+      "currentPoolEth": 336.90338101216133,
+      "currentMarketCap": 601072.6910976066
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 44,
     "holderCountOld": 0,
-    "txCount": 5,
+    "txCount": 6,
     "createdAtTimestamp": "1612928958",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.7119882736963707,
+    "priceChange": 1.8339505010086947,
     "isRugged": false
   },
   {
@@ -2865,7 +2896,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 259686.8382873079,
-      "currentPriceUSD": 1.44291021085231,
+      "currentPriceUSD": 1.40594675213303,
       "currentPoolEth": 205.2559808349647,
       "currentMarketCap": 370025.21945023315
     },
@@ -2879,7 +2910,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.10603735536500006,
+    "priceChange": -0.12893826150802715,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 3.897523883831859,
-    "isRugged": true
-  },
-  {
-    "_id": "0x53046364887f367c602ffb76b1448076c9b02aa0",
-    "tokenName": "FLNX",
-    "idPair": "0x2b97cc2be1ef6a0b358d6734aba190c72af4e4ec",
-    "idToken": "0x53046364887f367c602ffb76b1448076c9b02aa0",
-    "dateCreationToken": "2021-02-04T09:42:13Z",
-    "initialInfos": {
-      "initialPoolToken": 6000000,
-      "initialPriceUSD": 0.006892166666666666,
-      "initialPoolEth": 25,
-      "initialMarketCap": 41353
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.69132e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6,
-    "holderCountOld": 0,
-    "txCount": 7,
-    "createdAtTimestamp": "1612431733",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
