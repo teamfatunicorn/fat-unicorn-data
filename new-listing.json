@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
+    "tokenName": "NUX",
+    "idPair": "0x83054b25b21d1f3a2b96e8e3803dbd4921358d52",
+    "idToken": "0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
+    "dateCreationToken": "2021-02-10T22:04:31Z",
+    "initialInfos": {
+      "initialPoolToken": 30000,
+      "initialPriceUSD": 1.72296,
+      "initialPoolEth": 30,
+      "initialMarketCap": 51688.8
+    },
+    "currentInfos": {
+      "currentPoolToken": 21969.302793618375,
+      "currentPriceUSD": 3.2154575256034,
+      "currentPoolEth": 41,
+      "currentMarketCap": 70641.36
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 663,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1612994671",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.8662403802777778,
+    "isRugged": false
+  },
+  {
     "_id": "0xad4e39d9b0c4f3c6f6dac3a4dc2a1b5160ecd380",
     "tokenName": "sYFL",
     "idPair": "0x331cc4bc691744d706c3762e2b4b21f2469d7eb8",
@@ -12,22 +43,22 @@
       "initialMarketCap": 18780.264
     },
     "currentInfos": {
-      "currentPoolToken": 8554.612003870241,
-      "currentPriceUSD": 2.7894316883909234,
-      "currentPoolEth": 13.849715492806427,
-      "currentMarketCap": 23862.505805485027
+      "currentPoolToken": 8735.731885792737,
+      "currentPriceUSD": 2.6751300761250256,
+      "currentPoolEth": 13.563413604870695,
+      "currentMarketCap": 23369.21910464854
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 8,
     "holderCountOld": 0,
-    "txCount": 19,
+    "txCount": 21,
     "createdAtTimestamp": "1612993734",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.6095448121095765,
+    "priceChange": 0.5435910309849127,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 5.10882147739939e+23,
     "isRugged": false
-  },
-  {
-    "_id": "0x3788bdcffc110170ac6c4fc12f93f15c6b5b1c3e",
-    "tokenName": "GFF",
-    "idPair": "0xacece3bd3cd774e90d3900f4b3e02ef540d3c058",
-    "idToken": "0x3788bdcffc110170ac6c4fc12f93f15c6b5b1c3e",
-    "dateCreationToken": "2021-02-04T15:46:19Z",
-    "initialInfos": {
-      "initialPoolToken": 1,
-      "initialPriceUSD": 160.77,
-      "initialPoolEth": 0.1,
-      "initialMarketCap": 160.77
-    },
-    "currentInfos": {
-      "currentPoolToken": 3.16e-15,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3.18e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 5,
-    "createdAtTimestamp": "1612453579",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
