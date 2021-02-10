@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x1aa1778eb261ee3aa111efbfd544b4050c1df428",
+    "tokenName": "CUBES",
+    "idPair": "0x584d368ab300f5f6a0666aef2b1d2d8e3cc7c0f2",
+    "idToken": "0x1aa1778eb261ee3aa111efbfd544b4050c1df428",
+    "dateCreationToken": "2021-02-10T03:14:03Z",
+    "initialInfos": {
+      "initialPoolToken": 0.3,
+      "initialPriceUSD": 19855.33,
+      "initialPoolEth": 3.3,
+      "initialMarketCap": 5956.599
+    },
+    "currentInfos": {
+      "currentPoolToken": 0.26062919573515864,
+      "currentPriceUSD": 26317.519726262628,
+      "currentPoolEth": 3.8,
+      "currentMarketCap": 6859.114
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1612926843",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.3254637281910009,
+    "isRugged": false
+  },
+  {
     "_id": "0xa8076c9a80d11079e6ee67b791c6a13f2aaff9de",
     "tokenName": "$WSG",
     "idPair": "0x22186594eaf90a116cb9856a1fa34b9a4f1d7d5f",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 7.581419016007975,
-    "isRugged": false
-  },
-  {
-    "_id": "0x65e0b5dda9f520d936e52c16f2899443601acd1f",
-    "tokenName": "FROG",
-    "idPair": "0x3a2f2fbba9fcdbd02ea80f0a0a721828e37a7c19",
-    "idToken": "0x65e0b5dda9f520d936e52c16f2899443601acd1f",
-    "dateCreationToken": "2021-02-04T07:23:49Z",
-    "initialInfos": {
-      "initialPoolToken": 916142.5576519916,
-      "initialPriceUSD": 0.0025726498352402747,
-      "initialPoolEth": 1.4,
-      "initialMarketCap": 2356.914
-    },
-    "currentInfos": {
-      "currentPoolToken": 917589.9009698327,
-      "currentPriceUSD": 0.0029123526276099024,
-      "currentPoolEth": 1.4773072253527197,
-      "currentMarketCap": 2672.3453591578022
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 8,
-    "holderCountOld": 9,
-    "txCount": 37,
-    "createdAtTimestamp": "1612423429",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.13204392907124918,
     "isRugged": false
   }
 ]
