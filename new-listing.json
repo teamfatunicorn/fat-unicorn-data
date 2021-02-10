@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc014186cf1ba36032aaec7f96088f09eb3934347",
+    "tokenName": "WCX",
+    "idPair": "0x1e6ed9b226ce8e32db59ddb3e2fce3edcc66d98e",
+    "idToken": "0xc014186cf1ba36032aaec7f96088f09eb3934347",
+    "dateCreationToken": "2021-02-10T22:44:06Z",
+    "initialInfos": {
+      "initialPoolToken": 87050,
+      "initialPriceUSD": 0.010003388856978749,
+      "initialPoolEth": 0.5,
+      "initialMarketCap": 870.795
+    },
+    "currentInfos": {
+      "currentPoolToken": 87050,
+      "currentPriceUSD": 0.010003388856978749,
+      "currentPoolEth": 0.5,
+      "currentMarketCap": 870.795
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 12,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1612997046",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x02f3a1819851d127bcd6f468253d7a498567eee0",
     "tokenName": "GSFY",
     "idPair": "0x7b85bbe242be081d8d8230f4d1464b87e069066a",
@@ -12,22 +43,22 @@
       "initialMarketCap": 1306192.5
     },
     "currentInfos": {
-      "currentPoolToken": 801070.6645192619,
-      "currentPriceUSD": 1.4664110306007179,
-      "currentPoolEth": 674.4979350717983,
-      "currentMarketCap": 1174698.8587416927
+      "currentPoolToken": 824068.673304081,
+      "currentPriceUSD": 1.3919209146160503,
+      "currentPoolEth": 658.6156451586489,
+      "currentMarketCap": 1147038.4214518515
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 458,
     "holderCountOld": 0,
-    "txCount": 50,
+    "txCount": 69,
     "createdAtTimestamp": "1612996673",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.19168427162725485,
+    "priceChange": -0.23274474587508637,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 52247.7
     },
     "currentInfos": {
-      "currentPoolToken": 8484.332901604617,
-      "currentPriceUSD": 22.003017171148212,
-      "currentPoolEth": 107.18993708033723,
-      "currentMarketCap": 186680.9225197441
+      "currentPoolToken": 9272.800051473805,
+      "currentPriceUSD": 18.42501163619045,
+      "currentPoolEth": 98.10084396928757,
+      "currentMarketCap": 170851.4488484723
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 701,
     "holderCountOld": 0,
-    "txCount": 106,
+    "txCount": 108,
     "createdAtTimestamp": "1612994671",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 11.633867426402434,
+    "priceChange": 9.579419746433118,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x8c7424c3000942e5a93de4a01ce2ec86c06333cb",
-    "tokenName": "R3T",
-    "idPair": "0xd9d7d176d7a097acfbb9bd52c3b24b23a8ab0ca4",
-    "idToken": "0x8c7424c3000942e5a93de4a01ce2ec86c06333cb",
-    "dateCreationToken": "2021-02-04T16:24:03Z",
-    "initialInfos": {
-      "initialPoolToken": 66,
-      "initialPriceUSD": 0.498069696969697,
-      "initialPoolEth": 0.02,
-      "initialMarketCap": 32.8726
-    },
-    "currentInfos": {
-      "currentPoolToken": 141015.87739654686,
-      "currentPriceUSD": 0.7324007535696117,
-      "currentPoolEth": 60.24308055373092,
-      "currentMarketCap": 103280.13487051088
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 328,
-    "holderCountOld": 331,
-    "txCount": 729,
-    "createdAtTimestamp": "1612455843",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.47047844513650783,
-    "isRugged": false
   }
 ]
