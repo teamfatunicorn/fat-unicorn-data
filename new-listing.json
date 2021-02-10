@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x19a2cf2a1b2f76e52e2b0c572bd80a95b4fa8643",
+    "tokenName": "FYZNFT",
+    "idPair": "0xc880e14fb9040af1ad0f5250de023573a389240d",
+    "idToken": "0x19a2cf2a1b2f76e52e2b0c572bd80a95b4fa8643",
+    "dateCreationToken": "2021-02-10T20:42:00Z",
+    "initialInfos": {
+      "initialPoolToken": 200000,
+      "initialPriceUSD": 0.0496877625,
+      "initialPoolEth": 5.75,
+      "initialMarketCap": 9937.5525
+    },
+    "currentInfos": {
+      "currentPoolToken": 158724.05854626614,
+      "currentPriceUSD": 0.07894176607352608,
+      "currentPoolEth": 7.25,
+      "currentMarketCap": 12529.9575
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 23,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1612989720",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.5887567099348875,
+    "isRugged": false
+  },
+  {
     "_id": "0xe85e5c05886b821f9075e1e29b1e347bf4e6b4b7",
     "tokenName": "FRT",
     "idPair": "0x74bf81f43b04d5d181b3bb90912f73b046c48bd9",
@@ -2803,7 +2834,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 41916988982523360,
-      "currentPriceUSD": 1.2054032328489734e-12,
+      "currentPriceUSD": 1.11399277928197e-12,
       "currentPoolEth": 28.939639409618316,
       "currentMarketCap": 50526.874030828454
     },
@@ -2817,7 +2848,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 285.78622729667114,
+    "priceChange": 264.0381031838806,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.4134339032729981,
     "isRugged": false
-  },
-  {
-    "_id": "0x5a2a1187e42309b33acfa6f5d44bb1c4f7b201aa",
-    "tokenName": "BFLY",
-    "idPair": "0x028f0a9e877c25a7533db17082103d62a71b2823",
-    "idToken": "0x5a2a1187e42309b33acfa6f5d44bb1c4f7b201aa",
-    "dateCreationToken": "2021-02-04T14:30:34Z",
-    "initialInfos": {
-      "initialPoolToken": 1128000,
-      "initialPriceUSD": 0.32953333333333334,
-      "initialPoolEth": 235,
-      "initialMarketCap": 371713.6
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.7934e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.5e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 328,
-    "holderCountOld": 327,
-    "txCount": 7,
-    "createdAtTimestamp": "1612449034",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
