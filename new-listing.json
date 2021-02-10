@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x02f3a1819851d127bcd6f468253d7a498567eee0",
+    "tokenName": "GSFY",
+    "idPair": "0x7b85bbe242be081d8d8230f4d1464b87e069066a",
+    "idToken": "0x02f3a1819851d127bcd6f468253d7a498567eee0",
+    "dateCreationToken": "2021-02-10T22:37:53Z",
+    "initialInfos": {
+      "initialPoolToken": 720000,
+      "initialPriceUSD": 1.8103854166666666,
+      "initialPoolEth": 750,
+      "initialMarketCap": 1303477.5
+    },
+    "currentInfos": {
+      "currentPoolToken": 716634.1613632701,
+      "currentPriceUSD": 1.8274568960442341,
+      "currentPoolEth": 753.5331680778064,
+      "currentMarketCap": 1309618.0401241845
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 449,
+    "holderCountOld": 0,
+    "txCount": 7,
+    "createdAtTimestamp": "1612996673",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.009429748616181396,
+    "isRugged": false
+  },
+  {
     "_id": "0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
     "tokenName": "NUX",
     "idPair": "0x83054b25b21d1f3a2b96e8e3803dbd4921358d52",
@@ -12,22 +43,22 @@
       "initialMarketCap": 52139.1
     },
     "currentInfos": {
-      "currentPoolToken": 9261.998107160942,
-      "currentPriceUSD": 18.403720624150193,
-      "currentPoolEth": 98.07719672123149,
-      "currentMarketCap": 170455.22558559783
+      "currentPoolToken": 8449.666057447517,
+      "currentPriceUSD": 22.13217769325788,
+      "currentPoolEth": 107.60226622560717,
+      "currentMarketCap": 187009.5106321182
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 683,
     "holderCountOld": 0,
-    "txCount": 90,
+    "txCount": 98,
     "createdAtTimestamp": "1612994671",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 9.589205005926566,
+    "priceChange": 11.734499268260027,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 18943.873
     },
     "currentInfos": {
-      "currentPoolToken": 9902.502025322363,
-      "currentPriceUSD": 2.1008659205745115,
-      "currentPoolEth": 11.970188802695263,
-      "currentMarketCap": 20803.82903341983
+      "currentPoolToken": 9894.261070689086,
+      "currentPriceUSD": 2.104372280523394,
+      "currentPoolEth": 11.980188802695265,
+      "currentMarketCap": 20821.20873341983
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 8,
     "holderCountOld": 0,
-    "txCount": 34,
+    "txCount": 35,
     "createdAtTimestamp": "1612993734",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.20176236128196665,
+    "priceChange": 0.20376811108751405,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.47047844513650783,
-    "isRugged": false
-  },
-  {
-    "_id": "0x9757f662ccb0c5e1fb338d065668dad3be93cbb1",
-    "tokenName": "ROOM",
-    "idPair": "0x3d934f06ca7c86efbf812bbda001555460b835ef",
-    "idToken": "0x9757f662ccb0c5e1fb338d065668dad3be93cbb1",
-    "dateCreationToken": "2021-02-04T16:01:30Z",
-    "initialInfos": {
-      "initialPoolToken": 100000000,
-      "initialPriceUSD": 0.0016107574,
-      "initialPoolEth": 98,
-      "initialMarketCap": 161075.74
-    },
-    "currentInfos": {
-      "currentPoolToken": 1e-18,
-      "currentPriceUSD": 822907200000000000000,
-      "currentPoolEth": 0.48,
-      "currentMarketCap": 822.9072
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 8,
-    "holderCountOld": 7,
-    "txCount": 11,
-    "createdAtTimestamp": "1612454490",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 5.10882147739939e+23,
     "isRugged": false
   }
 ]
