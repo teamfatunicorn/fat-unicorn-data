@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xdd5da4ae7024abdf640cdee45d4f6743fc699292",
+    "tokenName": "OXT",
+    "idPair": "0x337474ef6fa6bf145540838d6e9ec0e5cfb8e978",
+    "idToken": "0xdd5da4ae7024abdf640cdee45d4f6743fc699292",
+    "dateCreationToken": "2021-02-10T06:40:44Z",
+    "initialInfos": {
+      "initialPoolToken": 852637302.0293638,
+      "initialPriceUSD": 0.000002130847425600235,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1809.5153327261578
+    },
+    "currentInfos": {
+      "currentPoolToken": 852637302.0293638,
+      "currentPriceUSD": 0.000002130847425600235,
+      "currentPoolEth": 1,
+      "currentMarketCap": 1816.84
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1612939244",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x3fb348e702ace399daadeb777c6bcca3d26b805a",
     "tokenName": "FLOPPA",
     "idPair": "0xf0d438465750748fb5c2c010b9639304d2ed29ef",
@@ -3609,7 +3640,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 191994.96727381053,
-      "currentPriceUSD": 0.5897448044289384,
+      "currentPriceUSD": 0.582935321448164,
       "currentPoolEth": 62.861508206188745,
       "currentMarketCap": 113228.03442623382
     },
@@ -3623,7 +3654,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 34.03622130216707,
+    "priceChange": 33.63167589392261,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 2.926814792014668,
     "isRugged": false
-  },
-  {
-    "_id": "0x4b184c08bf76eb41624660cdff86a808eda5387e",
-    "tokenName": "TAILS",
-    "idPair": "0x3e02a9f53fc25c3317113758f425312b174f03e5",
-    "idToken": "0x4b184c08bf76eb41624660cdff86a808eda5387e",
-    "dateCreationToken": "2021-02-04T10:52:06Z",
-    "initialInfos": {
-      "initialPoolToken": 70000000000,
-      "initialPriceUSD": 6.373596428571428e-8,
-      "initialPoolEth": 2.75,
-      "initialMarketCap": 4461.5175
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.49431891e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 3,
-    "txCount": 8,
-    "createdAtTimestamp": "1612435926",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
