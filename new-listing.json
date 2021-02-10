@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x3fb348e702ace399daadeb777c6bcca3d26b805a",
+    "tokenName": "FLOPPA",
+    "idPair": "0xf0d438465750748fb5c2c010b9639304d2ed29ef",
+    "idToken": "0x3fb348e702ace399daadeb777c6bcca3d26b805a",
+    "dateCreationToken": "2021-02-10T05:36:55Z",
+    "initialInfos": {
+      "initialPoolToken": 900,
+      "initialPriceUSD": 0.9966611111111111,
+      "initialPoolEth": 0.5,
+      "initialMarketCap": 896.995
+    },
+    "currentInfos": {
+      "currentPoolToken": 900,
+      "currentPriceUSD": 0.9966611111111111,
+      "currentPoolEth": 0.5,
+      "currentMarketCap": 896.995
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1612935415",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x6d54155b83d95373901340625a178503291cfeff",
     "tokenName": "BSN",
     "idPair": "0x7faa93921f5b6bd75991d6912eb6aebf9a2a144e",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x92171d1fee989bdfb2f5764ee4c84f9506619e17",
-    "tokenName": "1TUSD",
-    "idPair": "0x4bcd612f43e7acd49451154081b565b1ecabe490",
-    "idToken": "0x92171d1fee989bdfb2f5764ee4c84f9506619e17",
-    "dateCreationToken": "2021-02-04T10:10:08Z",
-    "initialInfos": {
-      "initialPoolToken": 15000,
-      "initialPriceUSD": 0.00216316,
-      "initialPoolEth": 0.02,
-      "initialMarketCap": 32.4474
-    },
-    "currentInfos": {
-      "currentPoolToken": 7154.622040111064,
-      "currentPriceUSD": 0.010503196336397035,
-      "currentPoolEth": 0.042,
-      "currentMarketCap": 75.1464
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 29,
-    "holderCountOld": 0,
-    "txCount": 4,
-    "createdAtTimestamp": "1612433408",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 3.855487498103254,
     "isRugged": true
   }
 ]
