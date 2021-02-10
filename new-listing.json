@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xad4e39d9b0c4f3c6f6dac3a4dc2a1b5160ecd380",
+    "tokenName": "sYFL",
+    "idPair": "0x331cc4bc691744d706c3762e2b4b21f2469d7eb8",
+    "idToken": "0xad4e39d9b0c4f3c6f6dac3a4dc2a1b5160ecd380",
+    "dateCreationToken": "2021-02-10T21:48:54Z",
+    "initialInfos": {
+      "initialPoolToken": 10836.5,
+      "initialPriceUSD": 1.725321183038804,
+      "initialPoolEth": 10.9,
+      "initialMarketCap": 18696.443
+    },
+    "currentInfos": {
+      "currentPoolToken": 9928.372698999749,
+      "currentPriceUSD": 2.055897136300737,
+      "currentPoolEth": 11.9,
+      "currentMarketCap": 20411.713
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1612993734",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.1916025587071795,
+    "isRugged": false
+  },
+  {
     "_id": "0x19a2cf2a1b2f76e52e2b0c572bd80a95b4fa8643",
     "tokenName": "FYZNFT",
     "idPair": "0xc880e14fb9040af1ad0f5250de023573a389240d",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xd0379b11bb8a9658817593aa9ad5a51b0baaf398",
-    "tokenName": "XTF.UUUB2",
-    "idPair": "0x0d90d99a72bf408df2b0c050f103315c4005cd4e",
-    "idToken": "0xd0379b11bb8a9658817593aa9ad5a51b0baaf398",
-    "dateCreationToken": "2021-02-04T14:47:49Z",
-    "initialInfos": {
-      "initialPoolToken": 500,
-      "initialPriceUSD": 97.007702,
-      "initialPoolEth": 30.7,
-      "initialMarketCap": 49598.28202083466
-    },
-    "currentInfos": {
-      "currentPoolToken": 615.55,
-      "currentPriceUSD": 134.73966949661093,
-      "currentPoolEth": 48.37814240554312,
-      "currentMarketCap": 82939.00355863887
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1,
-    "holderCountOld": 2,
-    "txCount": 7,
-    "createdAtTimestamp": "1612450069",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.3889584715305485,
-    "isRugged": false
   }
 ]
