@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x39e21919697717e5258b3ae7d87f3c40d64f09a9",
+    "tokenName": "ANGB",
+    "idPair": "0xcd96c51369390f208a2ab96da074906357e3617d",
+    "idToken": "0x39e21919697717e5258b3ae7d87f3c40d64f09a9",
+    "dateCreationToken": "2021-02-11T09:33:17Z",
+    "initialInfos": {
+      "initialPoolToken": 20000,
+      "initialPriceUSD": 0.875855,
+      "initialPoolEth": 10,
+      "initialMarketCap": 17517.1
+    },
+    "currentInfos": {
+      "currentPoolToken": 20000,
+      "currentPriceUSD": 0.875855,
+      "currentPoolEth": 10,
+      "currentMarketCap": 17517.1
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613035997",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x84f696eafac7fab3ce3290e07da287b5de957881",
     "tokenName": "DEXM",
     "idPair": "0x04f6da41be871bf13739c6f7bd186557c180f352",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x225968ea57c4004b22e4db695b8ccfd997331c3e",
-    "tokenName": "PROTO",
-    "idPair": "0xc2a89f5534c3906a5d1f3061f621d32c50e85122",
-    "idToken": "0x225968ea57c4004b22e4db695b8ccfd997331c3e",
-    "dateCreationToken": "2021-02-05T05:05:40Z",
-    "initialInfos": {
-      "initialPoolToken": 4200000,
-      "initialPriceUSD": 0.0047343142857142854,
-      "initialPoolEth": 12,
-      "initialMarketCap": 19884.12
-    },
-    "currentInfos": {
-      "currentPoolToken": 10673298.791902352,
-      "currentPriceUSD": 0.001342530277339541,
-      "currentPoolEth": 8.200876097260242,
-      "currentMarketCap": 14329.226787220452
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 89,
-    "holderCountOld": 90,
-    "txCount": 203,
-    "createdAtTimestamp": "1612501540",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.7164256117531944,
-    "isRugged": false
   }
 ]
