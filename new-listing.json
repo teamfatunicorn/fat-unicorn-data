@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x15c303b84045f67156acf6963954e4247b526717",
+    "tokenName": "GCBN",
+    "idPair": "0x7084ea1f613c33933dbdbade7756e570bb568190",
+    "idToken": "0x15c303b84045f67156acf6963954e4247b526717",
+    "dateCreationToken": "2021-02-11T19:55:15Z",
+    "initialInfos": {
+      "initialPoolToken": 483.82280863406476,
+      "initialPriceUSD": 430.2970349574008,
+      "initialPoolEth": 116,
+      "initialMarketCap": 208187.52
+    },
+    "currentInfos": {
+      "currentPoolToken": 479.7106859580448,
+      "currentPriceUSD": 437.7268344161192,
+      "currentPoolEth": 117,
+      "currentMarketCap": 209982.24
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1613073315",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.01726667593573803,
+    "isRugged": false
+  },
+  {
     "_id": "0xb1c7c44d344c92b9a96a00327b1a1fd5208b8cce",
     "tokenName": "POGEFI",
     "idPair": "0xa1739bbea879eb2e94521cbdc03469a10007a73f",
@@ -7,9 +38,9 @@
     "dateCreationToken": "2021-02-11T18:13:34Z",
     "initialInfos": {
       "initialPoolToken": 4850000000000000,
-      "initialPriceUSD": 5.554515463917527e-13,
+      "initialPriceUSD": 5.550680412371134e-13,
       "initialPoolEth": 1.5,
-      "initialMarketCap": 2693.94
+      "initialMarketCap": 2692.08
     },
     "currentInfos": {
       "currentPoolToken": 2.2854658585e-8,
@@ -38,27 +69,27 @@
     "dateCreationToken": "2021-02-11T17:28:52Z",
     "initialInfos": {
       "initialPoolToken": 46,
-      "initialPriceUSD": 272.12698260869564,
+      "initialPriceUSD": 271.93909565217393,
       "initialPoolEth": 6.97,
       "initialMarketCap": 12463.837289674668
     },
     "currentInfos": {
       "currentPoolToken": 33.734016871633585,
-      "currentPriceUSD": 825.9085505502848,
+      "currentPriceUSD": 825.3383114566066,
       "currentPoolEth": 15.513270328230815,
-      "currentMarketCap": 27861.212978689746
+      "currentMarketCap": 27841.97652348274
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 65,
+    "holderCount": 67,
     "holderCountOld": 0,
     "txCount": 141,
     "createdAtTimestamp": "1613064532",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.0350116060997085,
+    "priceChange": 2.035011606099708,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.6535518615136537,
     "isRugged": false
-  },
-  {
-    "_id": "0x1a43a12f5b17b8e8121b025e7773db648bcdff7e",
-    "tokenName": "ROOM",
-    "idPair": "0xbe0bb25081228f60c573d05796d0184bb69c3244",
-    "idToken": "0x1a43a12f5b17b8e8121b025e7773db648bcdff7e",
-    "dateCreationToken": "2021-02-05T13:42:27Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000,
-      "initialPriceUSD": 0.2589015,
-      "initialPoolEth": 150,
-      "initialMarketCap": 258901.5
-    },
-    "currentInfos": {
-      "currentPoolToken": 7.4517e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.4e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 15,
-    "holderCountOld": 0,
-    "txCount": 21,
-    "createdAtTimestamp": "1612532547",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
