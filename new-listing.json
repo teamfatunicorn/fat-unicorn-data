@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xf411903cbc70a74d22900a5de66a2dda66507255",
+    "tokenName": "VRA",
+    "idPair": "0x60031819a16266d896268cfea5d5be0b6c2b5d75",
+    "idToken": "0xf411903cbc70a74d22900a5de66a2dda66507255",
+    "dateCreationToken": "2021-02-11T13:12:48Z",
+    "initialInfos": {
+      "initialPoolToken": 12987013,
+      "initialPriceUSD": 0.0013745423986254576,
+      "initialPoolEth": 10,
+      "initialMarketCap": 17907.85602621601
+    },
+    "currentInfos": {
+      "currentPoolToken": 11809596.253523689,
+      "currentPriceUSD": 0.0016627427033452573,
+      "currentPoolEth": 11,
+      "currentMarketCap": 19636.32
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 195,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1613049168",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.20967,
+    "isRugged": false
+  },
+  {
     "_id": "0x0e3cc2c4fb9252d17d07c67135e48536071735d9",
     "tokenName": "ARTH",
     "idPair": "0xa59fcfeee713e1b4498c5ed76e13dd9f69de3510",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x69c31ce21edc94d5a76f6cfadfd3eaa24f2b6e4e",
-    "tokenName": "HSU",
-    "idPair": "0x550e2c94a05ef61d62046ea6ba72a341e4532044",
-    "idToken": "0x69c31ce21edc94d5a76f6cfadfd3eaa24f2b6e4e",
-    "dateCreationToken": "2021-02-05T09:35:15Z",
-    "initialInfos": {
-      "initialPoolToken": 21.2,
-      "initialPriceUSD": 1.5613207547169812,
-      "initialPoolEth": 0.02,
-      "initialMarketCap": 33.1
-    },
-    "currentInfos": {
-      "currentPoolToken": 780.0767889051816,
-      "currentPriceUSD": 4.170616934282055,
-      "currentPoolEth": 1.829943396226415,
-      "currentMarketCap": 3253.401465848319
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 27,
-    "holderCountOld": 26,
-    "txCount": 8,
-    "createdAtTimestamp": "1612517715",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.671210846126271,
-    "isRugged": false
   }
 ]
