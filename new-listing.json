@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x84f696eafac7fab3ce3290e07da287b5de957881",
+    "tokenName": "DEXM",
+    "idPair": "0x04f6da41be871bf13739c6f7bd186557c180f352",
+    "idToken": "0x84f696eafac7fab3ce3290e07da287b5de957881",
+    "dateCreationToken": "2021-02-11T09:08:20Z",
+    "initialInfos": {
+      "initialPoolToken": 5816600,
+      "initialPriceUSD": 0.03002080253068803,
+      "initialPoolEth": 100,
+      "initialMarketCap": 174619
+    },
+    "currentInfos": {
+      "currentPoolToken": 5816600,
+      "currentPriceUSD": 0.03002080253068803,
+      "currentPoolEth": 100,
+      "currentMarketCap": 174619
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613034500",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x88dafebb769311d7fbbeb9a21431fa026d4100d0",
     "tokenName": "LUX",
     "idPair": "0x509efb2eab6a6f2d163488d5608943b51676f0f4",
@@ -7,9 +38,9 @@
     "dateCreationToken": "2021-02-11T08:06:25Z",
     "initialInfos": {
       "initialPoolToken": 18000,
-      "initialPriceUSD": 0.09707111111111111,
+      "initialPriceUSD": 0.09701055555555556,
       "initialPoolEth": 1,
-      "initialMarketCap": 1747.28
+      "initialMarketCap": 1746.19
     },
     "currentInfos": {
       "currentPoolToken": 9013.520280420631,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.993683541250279,
+    "priceChange": 2.996176463017076,
     "isRugged": false
   },
   {
@@ -38,9 +69,9 @@
     "dateCreationToken": "2021-02-11T07:36:06Z",
     "initialInfos": {
       "initialPoolToken": 32.23417268109977,
-      "initialPriceUSD": 108.41165475448994,
+      "initialPriceUSD": 108.34402466447439,
       "initialPoolEth": 2,
-      "initialMarketCap": 3494.56
+      "initialMarketCap": 3492.38
     },
     "currentInfos": {
       "currentPoolToken": 32.0840398894854,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.008954037872324901,
+    "priceChange": 0.009583843277968445,
     "isRugged": false
   },
   {
@@ -69,9 +100,9 @@
     "dateCreationToken": "2021-02-11T07:12:06Z",
     "initialInfos": {
       "initialPoolToken": 7000000,
-      "initialPriceUSD": 0.04992228571428572,
+      "initialPriceUSD": 0.049891142857142856,
       "initialPoolEth": 200,
-      "initialMarketCap": 349456
+      "initialMarketCap": 349238
     },
     "currentInfos": {
       "currentPoolToken": 6002681.213449246,
@@ -89,7 +120,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.499096127984023,
+    "priceChange": 1.5006561041489894,
     "isRugged": false
   },
   {
@@ -100,9 +131,9 @@
     "dateCreationToken": "2021-02-11T07:11:16Z",
     "initialInfos": {
       "initialPoolToken": 500000,
-      "initialPriceUSD": 0.8386944,
+      "initialPriceUSD": 0.8381712,
       "initialPoolEth": 240,
-      "initialMarketCap": 419347.2
+      "initialMarketCap": 419085.6
     },
     "currentInfos": {
       "currentPoolToken": 266594.7828262333,
@@ -120,7 +151,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.5216331316211607,
+    "priceChange": 2.5238313918983737,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.7164256117531944,
     "isRugged": false
-  },
-  {
-    "_id": "0x53b3c1e295747a54bbae25348be08cdce62d1023",
-    "tokenName": "RHINO",
-    "idPair": "0x6ae991b3dd5a6fc3fd6be68186741bdf2046ba36",
-    "idToken": "0x53b3c1e295747a54bbae25348be08cdce62d1023",
-    "dateCreationToken": "2021-02-05T04:48:49Z",
-    "initialInfos": {
-      "initialPoolToken": 431048.625792811,
-      "initialPriceUSD": 0.018963869760552504,
-      "initialPoolEth": 5,
-      "initialMarketCap": 8174.35
-    },
-    "currentInfos": {
-      "currentPoolToken": 9e-9,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.2286e-13,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 14,
-    "holderCountOld": 13,
-    "txCount": 32,
-    "createdAtTimestamp": "1612500529",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
