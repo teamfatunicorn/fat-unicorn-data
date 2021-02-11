@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x4911f8cebd546ef805e81dd0b0084a90d11a7688",
+    "tokenName": "GRAND",
+    "idPair": "0x11747a464b34ab89d90cafa301eaf87a1727b618",
+    "idToken": "0x4911f8cebd546ef805e81dd0b0084a90d11a7688",
+    "dateCreationToken": "2021-02-11T04:17:02Z",
+    "initialInfos": {
+      "initialPoolToken": 430000,
+      "initialPriceUSD": 0.0010084360465116278,
+      "initialPoolEth": 0.25,
+      "initialMarketCap": 433.6275
+    },
+    "currentInfos": {
+      "currentPoolToken": 358512.5896281475,
+      "currentPriceUSD": 0.0014514218330232555,
+      "currentPoolEth": 0.3,
+      "currentMarketCap": 520.353
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 507,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1613017022",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.4392799999999998,
+    "isRugged": false
+  },
+  {
     "_id": "0x1b5fc621a982a6c0e281d3e087264e55e3c95654",
     "tokenName": "VAI",
     "idPair": "0xa6b0a74f8385c97daeb79fa71b38edc290a7240c",
@@ -12,22 +43,22 @@
       "initialMarketCap": 346902
     },
     "currentInfos": {
-      "currentPoolToken": 3066909.172268817,
-      "currentPriceUSD": 0.12543474595806547,
-      "currentPoolEth": 221.79,
-      "currentMarketCap": 384696.9729
+      "currentPoolToken": 2999491.94275163,
+      "currentPriceUSD": 0.13114538408765866,
+      "currentPoolEth": 226.79,
+      "currentMarketCap": 393369.5229
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 14,
     "holderCountOld": 0,
-    "txCount": 15,
+    "txCount": 16,
     "createdAtTimestamp": "1613014697",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.22939082581657827,
+    "priceChange": 0.2853610123263615,
     "isRugged": false
   },
   {
@@ -323,7 +354,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 409.817237,
-      "currentPriceUSD": 4.666589951168891,
+      "currentPriceUSD": 2.13006021314402,
       "currentPoolEth": 1.1,
       "currentMarketCap": 1912.449
     },
@@ -337,7 +368,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 3.8251497326616333,
+    "priceChange": 1.2024346633306924,
     "isRugged": false
   },
   {
@@ -1005,7 +1036,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 255.26197937658438,
-      "currentPriceUSD": 162.11123119293867,
+      "currentPriceUSD": 161.794218919418,
       "currentPoolEth": 23.80137568574771,
       "currentMarketCap": 41380.833753484614
     },
@@ -1019,7 +1050,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.09349108090323181,
+    "priceChange": 0.09135273372592154,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xa5d15db786466c26112e3366c1473f28cb6f273c",
-    "tokenName": "SLOTH",
-    "idPair": "0xc894f9d948b91259368be97d4c07f7047c7be82c",
-    "idToken": "0xa5d15db786466c26112e3366c1473f28cb6f273c",
-    "dateCreationToken": "2021-02-04T19:55:19Z",
-    "initialInfos": {
-      "initialPoolToken": 3951612903.225806,
-      "initialPriceUSD": 0.00000820308081632653,
-      "initialPoolEth": 20,
-      "initialMarketCap": 32415.4
-    },
-    "currentInfos": {
-      "currentPoolToken": 5496450425.88196,
-      "currentPriceUSD": 0.000004835451186091835,
-      "currentPoolEth": 15.389052917169394,
-      "currentMarketCap": 26577.81773112589
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 185,
-    "holderCountOld": 188,
-    "txCount": 498,
-    "createdAtTimestamp": "1612468519",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.41053229946633313,
-    "isRugged": false
   }
 ]
