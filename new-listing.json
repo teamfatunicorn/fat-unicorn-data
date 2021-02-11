@@ -7,27 +7,58 @@
     "dateCreationToken": "2021-02-11T05:24:37Z",
     "initialInfos": {
       "initialPoolToken": 150000,
-      "initialPriceUSD": 1.7367818666666666,
+      "initialPriceUSD": 1.744805,
       "initialPoolEth": 151,
-      "initialMarketCap": 260517.28
+      "initialMarketCap": 261720.75
     },
     "currentInfos": {
-      "currentPoolToken": 130250.51813689197,
-      "currentPriceUSD": 2.3043741651242207,
-      "currentPoolEth": 173.96940148190316,
-      "currentMarketCap": 300145.9289886976
+      "currentPoolToken": 125388.64861212386,
+      "currentPriceUSD": 2.48874600693269,
+      "currentPoolEth": 180.73560148190316,
+      "currentMarketCap": 313259.98126850836
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 2,
+    "holderCount": 47,
     "holderCountOld": 0,
-    "txCount": 49,
+    "txCount": 59,
     "createdAtTimestamp": "1613021077",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.3268069003661988,
+    "priceChange": 0.42637487107882543,
+    "isRugged": false
+  },
+  {
+    "_id": "0xb5ad88e567d3f97f0523ecadf451d5a806f242c5",
+    "tokenName": "Truste",
+    "idPair": "0x84310701b62b0a7133118bca21e75fb9cec90b03",
+    "idToken": "0xb5ad88e567d3f97f0523ecadf451d5a806f242c5",
+    "dateCreationToken": "2021-02-11T05:12:44Z",
+    "initialInfos": {
+      "initialPoolToken": 8000,
+      "initialPriceUSD": 1.278271875,
+      "initialPoolEth": 5.9,
+      "initialMarketCap": 10226.175
+    },
+    "currentInfos": {
+      "currentPoolToken": 5721.900808999681,
+      "currentPriceUSD": 2.570933180740503,
+      "currentPoolEth": 8.487306878270653,
+      "currentMarketCap": 14710.62464676321
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 8,
+    "createdAtTimestamp": "1613020364",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.0112569407353216,
     "isRugged": false
   },
   {
@@ -38,27 +69,27 @@
     "dateCreationToken": "2021-02-11T05:04:50Z",
     "initialInfos": {
       "initialPoolToken": 1600000,
-      "initialPriceUSD": 0.226443,
+      "initialPriceUSD": 0.2274890625,
       "initialPoolEth": 210,
-      "initialMarketCap": 362308.8
+      "initialMarketCap": 363982.5
     },
     "currentInfos": {
-      "currentPoolToken": 1473369.416672104,
-      "currentPriceUSD": 0.267105445482165,
-      "currentPoolEth": 228.105,
-      "currentMarketCap": 393544.9944
+      "currentPoolToken": 1454927.766332146,
+      "currentPriceUSD": 0.27519539149312994,
+      "currentPoolEth": 231.005,
+      "currentMarketCap": 400389.41625
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 14,
+    "holderCount": 17,
     "holderCountOld": 0,
-    "txCount": 16,
+    "txCount": 17,
     "createdAtTimestamp": "1613019890",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.17957033550237816,
+    "priceChange": 0.20970823154686802,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xe6d4544f90da3e9611ea3b711df27f336cb41e2d",
-    "tokenName": "LIONK",
-    "idPair": "0x9331c636f60313b649870ab0fda6432766ee73ab",
-    "idToken": "0xe6d4544f90da3e9611ea3b711df27f336cb41e2d",
-    "dateCreationToken": "2021-02-05T01:25:47Z",
-    "initialInfos": {
-      "initialPoolToken": 190000,
-      "initialPriceUSD": 0.055316026315789475,
-      "initialPoolEth": 6.5,
-      "initialMarketCap": 10522.0991118788
-    },
-    "currentInfos": {
-      "currentPoolToken": 174487.57036717443,
-      "currentPriceUSD": 0.08802154995943046,
-      "currentPoolEth": 8.8929547279043,
-      "currentMarketCap": 15358.666392373882
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 42,
-    "holderCountOld": 43,
-    "txCount": 218,
-    "createdAtTimestamp": "1612488347",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.5912486095246772,
-    "isRugged": false
   }
 ]
