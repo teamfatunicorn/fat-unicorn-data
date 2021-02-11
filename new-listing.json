@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xb1c7c44d344c92b9a96a00327b1a1fd5208b8cce",
+    "tokenName": "POGEFI",
+    "idPair": "0xa1739bbea879eb2e94521cbdc03469a10007a73f",
+    "idToken": "0xb1c7c44d344c92b9a96a00327b1a1fd5208b8cce",
+    "dateCreationToken": "2021-02-11T18:13:34Z",
+    "initialInfos": {
+      "initialPoolToken": 4850000000000000,
+      "initialPriceUSD": 5.535494845360825e-13,
+      "initialPoolEth": 1.5,
+      "initialMarketCap": 2684.715
+    },
+    "currentInfos": {
+      "currentPoolToken": 1944385957359392,
+      "currentPriceUSD": 3.4518802579273215e-12,
+      "currentPoolEth": 3.75,
+      "currentMarketCap": 6711.7875
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1613067214",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 5.235901855857143,
+    "isRugged": false
+  },
+  {
     "_id": "0x44b537b6f94c73a54f7bf8a9b68f8125da3c330b",
     "tokenName": "PBASE",
     "idPair": "0xc3cc214c0c5f81f52f6849b8fcf423133a9c183c",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-02-11T16:08:07Z",
     "initialInfos": {
       "initialPoolToken": 195204.6,
-      "initialPriceUSD": 1.7906,
+      "initialPriceUSD": 1.78981,
       "initialPoolEth": 195.2046,
-      "initialMarketCap": 349533.35676
+      "initialMarketCap": 349379.145126
     },
     "currentInfos": {
-      "currentPoolToken": 155064.498034503,
-      "currentPriceUSD": 2.9106379269867118,
-      "currentPoolEth": 252.0588680377423,
-      "currentMarketCap": 451336.6091083808
+      "currentPoolToken": 155309.429824913,
+      "currentPriceUSD": 2.9001982991878785,
+      "currentPoolEth": 251.6625475475342,
+      "currentMarketCap": 450428.1442260518
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 238,
     "holderCountOld": 0,
-    "txCount": 586,
+    "txCount": 587,
     "createdAtTimestamp": "1613059687",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.6255098441788852,
+    "priceChange": 0.6203945106954809,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-02-11T15:52:15Z",
     "initialInfos": {
       "initialPoolToken": 14478.737596304187,
-      "initialPriceUSD": 0.7914944188867139,
+      "initialPriceUSD": 0.7911452171716907,
       "initialPoolEth": 6.4,
-      "initialMarketCap": 11459.84
+      "initialMarketCap": 11454.784
     },
     "currentInfos": {
       "currentPoolToken": 15502.760740287906,
-      "currentPriceUSD": 0.69228229252411,
+      "currentPriceUSD": 0.6919768624944584,
       "currentPoolEth": 5.9936818640337135,
-      "currentMarketCap": 10732.28674573928
+      "currentMarketCap": 10727.551737066693
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.1253478533710344,
+    "priceChange": -0.12534785337103443,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x94ec4e3a7c5068ae4a035f702f2cd5a6da9c5cc1",
-    "tokenName": "GEL",
-    "idPair": "0x7eabe80026b71d1484a23ddcdb1ef7131c20aee8",
-    "idToken": "0x94ec4e3a7c5068ae4a035f702f2cd5a6da9c5cc1",
-    "dateCreationToken": "2021-02-05T12:55:53Z",
-    "initialInfos": {
-      "initialPoolToken": 20844.225358568696,
-      "initialPriceUSD": 0.9108653485366033,
-      "initialPoolEth": 11.000099997223758,
-      "initialMarketCap": 18986.282596208177
-    },
-    "currentInfos": {
-      "currentPoolToken": 17587.73873554134,
-      "currentPriceUSD": 0.49233692264677653,
-      "currentPoolEth": 4.856228886579759,
-      "currentMarketCap": 8659.093165371933
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 25,
-    "holderCountOld": 26,
-    "txCount": 144,
-    "createdAtTimestamp": "1612529753",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.4594844084937853,
-    "isRugged": false
   }
 ]
