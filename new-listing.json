@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xe59416f314951a1538f8fe9cc3dec87fd925ae5b",
+    "tokenName": "PUDL",
+    "idPair": "0xe4f547dec6bc339afef9a223497d72739b102b6c",
+    "idToken": "0xe59416f314951a1538f8fe9cc3dec87fd925ae5b",
+    "dateCreationToken": "2021-02-11T20:38:59Z",
+    "initialInfos": {
+      "initialPoolToken": 1299999998,
+      "initialPriceUSD": 0.000006852807702850474,
+      "initialPoolEth": 5,
+      "initialMarketCap": 9013.75406983956
+    },
+    "currentInfos": {
+      "currentPoolToken": 903702023.2102032,
+      "currentPriceUSD": 0.000014195449020275206,
+      "currentPoolEth": 7.2,
+      "currentMarketCap": 12828.456
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 17,
+    "holderCountOld": 0,
+    "txCount": 5,
+    "createdAtTimestamp": "1613075939",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.071479258694288,
+    "isRugged": false
+  },
+  {
     "_id": "0x8861cff2366c1128fd699b68304ad99a0764ef9a",
     "tokenName": "CYC",
     "idPair": "0x37d9c7f451e5c619a7d4ca01e06761eb7dae6f89",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-11T20:05:47Z",
     "initialInfos": {
       "initialPoolToken": 10,
-      "initialPriceUSD": 89.696,
+      "initialPriceUSD": 89.0865,
       "initialPoolEth": 0.5,
-      "initialMarketCap": 896.96
+      "initialMarketCap": 890.865
     },
     "currentInfos": {
       "currentPoolToken": 8,
-      "currentPriceUSD": 140.2343430290524,
+      "currentPriceUSD": 139.28142615342577,
       "currentPoolEth": 0.6253761283851554,
-      "currentMarketCap": 1121.8747442324193
+      "currentMarketCap": 1114.2514092274062
     },
     "trustScore": null,
     "contractId": null,
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-02-11T19:55:15Z",
     "initialInfos": {
       "initialPoolToken": 483.82280863406476,
-      "initialPriceUSD": 430.1052292005329,
+      "initialPriceUSD": 427.18258898025863,
       "initialPoolEth": 116,
-      "initialMarketCap": 208094.72
+      "initialMarketCap": 206680.68
     },
     "currentInfos": {
       "currentPoolToken": 482.4868246392191,
-      "currentPriceUSD": 432.6501552276432,
+      "currentPriceUSD": 429.7102217901293,
       "currentPoolEth": 116.36416315970142,
-      "currentMarketCap": 208747.9995754508
+      "currentMarketCap": 207329.52042653406
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.005916984622206853,
+    "priceChange": 0.005916984622206807,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.8542600070386174,
-    "isRugged": false
-  },
-  {
-    "_id": "0x018fb5af9d015af25592a014c4266a84143de7a0",
-    "tokenName": "MP3",
-    "idPair": "0xfaedb1b74f50086775fd15bbb3570eadd897e514",
-    "idToken": "0x018fb5af9d015af25592a014c4266a84143de7a0",
-    "dateCreationToken": "2021-02-05T19:02:46Z",
-    "initialInfos": {
-      "initialPoolToken": 6435000,
-      "initialPriceUSD": 0.0340818,
-      "initialPoolEth": 128.7,
-      "initialMarketCap": 219316.383
-    },
-    "currentInfos": {
-      "currentPoolToken": 4644369.313695147,
-      "currentPriceUSD": 0.07648252977320662,
-      "currentPoolEth": 198.55511451291287,
-      "currentMarketCap": 355213.1143124562
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 654,
-    "holderCountOld": 653,
-    "txCount": 3294,
-    "createdAtTimestamp": "1612551766",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.2440871601032402,
     "isRugged": false
   }
 ]
