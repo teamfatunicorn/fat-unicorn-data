@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x0e3cc2c4fb9252d17d07c67135e48536071735d9",
+    "tokenName": "ARTH",
+    "idPair": "0xa59fcfeee713e1b4498c5ed76e13dd9f69de3510",
+    "idToken": "0x0e3cc2c4fb9252d17d07c67135e48536071735d9",
+    "dateCreationToken": "2021-02-11T11:45:04Z",
+    "initialInfos": {
+      "initialPoolToken": 457.736496587308,
+      "initialPriceUSD": 0.7811131571672755,
+      "initialPoolEth": 0.2,
+      "initialMarketCap": 357.544
+    },
+    "currentInfos": {
+      "currentPoolToken": 305.4631275190577,
+      "currentPriceUSD": 1.7557470990227435,
+      "currentPoolEth": 0.3,
+      "currentMarketCap": 536.316
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1842,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1613043904",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.2477500000000001,
+    "isRugged": false
+  },
+  {
     "_id": "0xa96b5c88d9ce06b17ee67f468f58876ebb247048",
     "tokenName": "P3RP",
     "idPair": "0x54704e66bf066e4810a6692c7f66402f99dcd62b",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 1.6855294629900366,
-    "isRugged": false
-  },
-  {
-    "_id": "0xf5433db1d23b77fbc5a60d1256570d6dbdf0f95f",
-    "tokenName": "CGCI",
-    "idPair": "0x354bb285b40436390965a0aea9b5ed7c048716c6",
-    "idToken": "0xf5433db1d23b77fbc5a60d1256570d6dbdf0f95f",
-    "dateCreationToken": "2021-02-05T05:51:10Z",
-    "initialInfos": {
-      "initialPoolToken": 18,
-      "initialPriceUSD": 104.11546166666666,
-      "initialPoolEth": 1.131,
-      "initialMarketCap": 1847.9128216053
-    },
-    "currentInfos": {
-      "currentPoolToken": 18,
-      "currentPriceUSD": 112.8884210526159,
-      "currentPoolEth": 1.1368421052631579,
-      "currentMarketCap": 2031.9915789470863
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1,
-    "holderCountOld": 2,
-    "txCount": 11,
-    "createdAtTimestamp": "1612504270",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.08426183052462,
     "isRugged": false
   }
 ]
