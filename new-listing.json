@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x8861cff2366c1128fd699b68304ad99a0764ef9a",
+    "tokenName": "CYC",
+    "idPair": "0x37d9c7f451e5c619a7d4ca01e06761eb7dae6f89",
+    "idToken": "0x8861cff2366c1128fd699b68304ad99a0764ef9a",
+    "dateCreationToken": "2021-02-11T20:05:47Z",
+    "initialInfos": {
+      "initialPoolToken": 10,
+      "initialPriceUSD": 89.4495,
+      "initialPoolEth": 0.5,
+      "initialMarketCap": 894.495
+    },
+    "currentInfos": {
+      "currentPoolToken": 10,
+      "currentPriceUSD": 89.4495,
+      "currentPoolEth": 0.5,
+      "currentMarketCap": 894.495
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613073947",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x15c303b84045f67156acf6963954e4247b526717",
     "tokenName": "GCBN",
     "idPair": "0x7084ea1f613c33933dbdbade7756e570bb568190",
@@ -106,7 +137,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 158963.654308314,
-      "currentPriceUSD": 2.7829807970584004,
+      "currentPriceUSD": 2.72126852094056,
       "currentPoolEth": 246.49683369565636,
       "currentMarketCap": 442392.79737026774
     },
@@ -120,7 +151,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.5549029210130687,
+    "priceChange": 0.5204231292374945,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 1.2440871601032402,
     "isRugged": false
-  },
-  {
-    "_id": "0x1129eb10812935593bf44fe0a9b62a59a9202f6d",
-    "tokenName": "OPT",
-    "idPair": "0x162d0e36ea0be74ff5b3836a47ecb6cbce1e146d",
-    "idToken": "0x1129eb10812935593bf44fe0a9b62a59a9202f6d",
-    "dateCreationToken": "2021-02-05T18:22:50Z",
-    "initialInfos": {
-      "initialPoolToken": 25000000,
-      "initialPriceUSD": 0.00682317636,
-      "initialPoolEth": 100.1,
-      "initialMarketCap": 170579.409
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.6767e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3.8e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 217,
-    "holderCountOld": 215,
-    "txCount": 271,
-    "createdAtTimestamp": "1612549370",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
