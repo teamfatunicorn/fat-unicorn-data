@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x661bb561e7fc5a2b2b5fd883ee35c395c4ae9985",
+    "tokenName": "DEGEN",
+    "idPair": "0xd3356ba22f06c326a5803f003da728535536c263",
+    "idToken": "0x661bb561e7fc5a2b2b5fd883ee35c395c4ae9985",
+    "dateCreationToken": "2021-02-12T04:23:47Z",
+    "initialInfos": {
+      "initialPoolToken": 400000,
+      "initialPriceUSD": 0.2608723590822116,
+      "initialPoolEth": 59.428627195,
+      "initialMarketCap": 104348.94363288465
+    },
+    "currentInfos": {
+      "currentPoolToken": 400000,
+      "currentPriceUSD": 0.2608723590822116,
+      "currentPoolEth": 59.428627195,
+      "currentMarketCap": 104348.94363288465
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613103827",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x754dcd58c0e5284d3e1df11e3d46a48548ee0361",
     "tokenName": "HYAP",
     "idPair": "0x16aac27d2d3c398a381bfa46c2facad44f983784",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x7c974104df9dd7fb91205ab3d66d15aff1049de8",
-    "tokenName": "WUSD",
-    "idPair": "0x760afbf17014e9cb32ed183908cc6dbd9f9300f1",
-    "idToken": "0x7c974104df9dd7fb91205ab3d66d15aff1049de8",
-    "dateCreationToken": "2021-02-06T02:28:53Z",
-    "initialInfos": {
-      "initialPoolToken": 350,
-      "initialPriceUSD": 0.9638285714285715,
-      "initialPoolEth": 0.2,
-      "initialMarketCap": 337.34
-    },
-    "currentInfos": {
-      "currentPoolToken": 350,
-      "currentPriceUSD": 1.022822857142857,
-      "currentPoolEth": 0.2,
-      "currentMarketCap": 357.988
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 12,
-    "holderCountOld": 11,
-    "txCount": 1,
-    "createdAtTimestamp": "1612578533",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.06120827651627421,
-    "isRugged": false
   }
 ]
