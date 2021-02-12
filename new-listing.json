@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x9743cb5f346daa80a3a50b0859efb85a49e4b8cc",
+    "tokenName": "FTEX",
+    "idPair": "0xf357eacee4d86b0e39a83025d43b4185556866bf",
+    "idToken": "0x9743cb5f346daa80a3a50b0859efb85a49e4b8cc",
+    "dateCreationToken": "2021-02-12T17:50:00Z",
+    "initialInfos": {
+      "initialPoolToken": 665,
+      "initialPriceUSD": 427.4014285714286,
+      "initialPoolEth": 155,
+      "initialMarketCap": 284221.95
+    },
+    "currentInfos": {
+      "currentPoolToken": 624.8117526530947,
+      "currentPriceUSD": 484.24001103574864,
+      "currentPoolEth": 165,
+      "currentMarketCap": 302558.85
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 35,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1613152200",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.13298641198814104,
+    "isRugged": false
+  },
+  {
     "_id": "0xcbd3cdc81410a01c2bc2a1cbf034b1da36dec11e",
     "tokenName": "SWPG",
     "idPair": "0x289a9da703f7a69ed1687a642007fabbebe02f38",
@@ -2803,7 +2834,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 537330.2469636516,
-      "currentPriceUSD": 1.68058289452724,
+      "currentPriceUSD": 1.70128693520238,
       "currentPoolEth": 483.84839582864447,
       "currentMarketCap": 874628.5527196483
     },
@@ -2817,7 +2848,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 32.58269778394542,
+    "priceChange": 32.99642182169682,
     "isRugged": false
   },
   {
@@ -2958,7 +2989,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 626211.500728877,
-      "currentPriceUSD": 2.7863528211235655,
+      "currentPriceUSD": 2.78490478981622,
       "currentPoolEth": 965.2566490614486,
       "currentMarketCap": 1744846.1816759282
     },
@@ -2972,7 +3003,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.8575999314135334,
+    "priceChange": 1.8561148739099806,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.06564040498103944,
     "isRugged": false
-  },
-  {
-    "_id": "0xab46f62554a59aa83e5de94f6aaaf93a865f8d23",
-    "tokenName": "POLT",
-    "idPair": "0xa11a7cde397846cd49707e37ffaea3cc3903c4eb",
-    "idToken": "0xab46f62554a59aa83e5de94f6aaaf93a865f8d23",
-    "dateCreationToken": "2021-02-06T06:56:59Z",
-    "initialInfos": {
-      "initialPoolToken": 35000000,
-      "initialPriceUSD": 0.0009616857142857143,
-      "initialPoolEth": 20,
-      "initialMarketCap": 33659
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.294569e-12,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 0,
-    "txCount": 12,
-    "createdAtTimestamp": "1612594619",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
