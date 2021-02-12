@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc690f7c7fcffa6a82b79fab7508c466fefdfc8c5",
+    "tokenName": "LYM",
+    "idPair": "0x80ddbeeb05788980caa0b1b433b40d4443f4439e",
+    "idToken": "0xc690f7c7fcffa6a82b79fab7508c466fefdfc8c5",
+    "dateCreationToken": "2021-02-12T22:17:05Z",
+    "initialInfos": {
+      "initialPoolToken": 50000,
+      "initialPriceUSD": 0.0369468,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1845.5203780899
+    },
+    "currentInfos": {
+      "currentPoolToken": 111815.89647111231,
+      "currentPriceUSD": 0.00739998122028046,
+      "currentPoolEth": 0.447906467685877,
+      "currentMarketCap": 827.4355340150553
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 73285,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1613168225",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -0.7997125266523634,
+    "isRugged": false
+  },
+  {
     "_id": "0x592b412295c60af634dbc0c53e8642807f52cb1e",
     "tokenName": "Bda",
     "idPair": "0xec316082749995512f1a00ac3ae1ca83da8e1c5a",
@@ -43,22 +74,22 @@
       "initialMarketCap": 95327.04828083536
     },
     "currentInfos": {
-      "currentPoolToken": 631978.8949076779,
-      "currentPriceUSD": 0.16712512945887784,
-      "currentPoolEth": 57.1738578857839,
-      "currentMarketCap": 105619.55462672422
+      "currentPoolToken": 559228.8131956918,
+      "currentPriceUSD": 0.213514314902555,
+      "currentPoolEth": 64.63529015949766,
+      "currentMarketCap": 119403.35692324703
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 8,
     "holderCountOld": 0,
-    "txCount": 16,
+    "txCount": 37,
     "createdAtTimestamp": "1613167435",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.22722346627755372,
+    "priceChange": 0.5678658169659921,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.6255620668507899,
     "isRugged": false
-  },
-  {
-    "_id": "0x02421250e4d6c12913c15c7c2e9b0d99d5451224",
-    "tokenName": "OXYI",
-    "idPair": "0xec206730c4a111f3309eef22752a900a9002170a",
-    "idToken": "0x02421250e4d6c12913c15c7c2e9b0d99d5451224",
-    "dateCreationToken": "2021-02-06T13:24:06Z",
-    "initialInfos": {
-      "initialPoolToken": 841500,
-      "initialPriceUSD": 0.034217171717171715,
-      "initialPoolEth": 17,
-      "initialMarketCap": 28793.75
-    },
-    "currentInfos": {
-      "currentPoolToken": 38677.16518056214,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 9,
-    "createdAtTimestamp": "1612617846",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
