@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x98b91604da8a346dea09e2304264ddebac5c81b4",
+    "tokenName": "TRZ",
+    "idPair": "0x5b2bacd75c0ee84a4ca6a5536bbc5f4334b47554",
+    "idToken": "0x98b91604da8a346dea09e2304264ddebac5c81b4",
+    "dateCreationToken": "2021-02-11T23:53:56Z",
+    "initialInfos": {
+      "initialPoolToken": 6650,
+      "initialPriceUSD": 1.3676992481203007,
+      "initialPoolEth": 5,
+      "initialMarketCap": 9095.2
+    },
+    "currentInfos": {
+      "currentPoolToken": 4787.442062763302,
+      "currentPriceUSD": 2.6557675456155847,
+      "currentPoolEth": 6.989584207495468,
+      "currentMarketCap": 12714.333256801705
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 7,
+    "createdAtTimestamp": "1613087636",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.9417774406658059,
+    "isRugged": false
+  },
+  {
     "_id": "0x405bd66c47e5c906f3b8a9a67e071b96b83d036c",
     "tokenName": "ESX",
     "idPair": "0xb48fb49102d64096be2bda315179645bf474a845",
@@ -12,22 +43,22 @@
       "initialMarketCap": 20009.44
     },
     "currentInfos": {
-      "currentPoolToken": 53.27246042376478,
-      "currentPriceUSD": 913.7492649024261,
-      "currentPoolEth": 26.760088591652398,
-      "currentMarketCap": 48677.671551758656
+      "currentPoolToken": 50.225579914153215,
+      "currentPriceUSD": 1028.3783181069937,
+      "currentPoolEth": 28.39459132183249,
+      "currentMarketCap": 51650.89739806528
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 51,
     "holderCountOld": 0,
-    "txCount": 121,
+    "txCount": 126,
     "createdAtTimestamp": "1613086312",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 4.753904525949037,
+    "priceChange": 5.47572686099567,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.21245139628493195,
     "isRugged": false
-  },
-  {
-    "_id": "0xa4443ec19ac02a757bfa8a2a5071b2e65e29ca71",
-    "tokenName": "VES",
-    "idPair": "0x22cddd3ea6e1f9c71862898bbc60ac40d5cbaca1",
-    "idToken": "0xa4443ec19ac02a757bfa8a2a5071b2e65e29ca71",
-    "dateCreationToken": "2021-02-05T22:50:11Z",
-    "initialInfos": {
-      "initialPoolToken": 3000000,
-      "initialPriceUSD": 0.02892057,
-      "initialPoolEth": 51,
-      "initialMarketCap": 86761.71
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.7546e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3.7e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 129,
-    "holderCountOld": 128,
-    "txCount": 161,
-    "createdAtTimestamp": "1612565411",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
