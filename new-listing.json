@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xebdf6b2080bd8487804abd662e2d142daa943451",
+    "tokenName": "XFIM",
+    "idPair": "0xdfdf73f4a9f186c99bb18def289e26979e36340e",
+    "idToken": "0xebdf6b2080bd8487804abd662e2d142daa943451",
+    "dateCreationToken": "2021-02-12T01:48:14Z",
+    "initialInfos": {
+      "initialPoolToken": 225,
+      "initialPriceUSD": 39.855777777777774,
+      "initialPoolEth": 5,
+      "initialMarketCap": 8945.119926275802
+    },
+    "currentInfos": {
+      "currentPoolToken": 160.86362460921757,
+      "currentPriceUSD": 78.04480366831555,
+      "currentPoolEth": 7,
+      "currentMarketCap": 12554.57
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 5,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1613094494",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.95818042,
+    "isRugged": false
+  },
+  {
     "_id": "0x98b91604da8a346dea09e2304264ddebac5c81b4",
     "tokenName": "TRZ",
     "idPair": "0x5b2bacd75c0ee84a4ca6a5536bbc5f4334b47554",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 7.846638353793425,
-    "isRugged": false
-  },
-  {
-    "_id": "0x760105ce485072c921968edc0593c754691970a7",
-    "tokenName": "DOGEG",
-    "idPair": "0xfdf88bb179e4176a29dc5ee7fb9fbab3b17e8cd6",
-    "idToken": "0x760105ce485072c921968edc0593c754691970a7",
-    "dateCreationToken": "2021-02-05T23:29:48Z",
-    "initialInfos": {
-      "initialPoolToken": 500000,
-      "initialPriceUSD": 0.001531089,
-      "initialPoolEth": 0.45,
-      "initialMarketCap": 765.5445
-    },
-    "currentInfos": {
-      "currentPoolToken": 465984.31033990986,
-      "currentPriceUSD": 0.0018629109859740634,
-      "currentPoolEth": 0.4837353604098864,
-      "currentMarketCap": 868.0872910237655
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 4,
-    "txCount": 6,
-    "createdAtTimestamp": "1612567788",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.21672285933349622,
     "isRugged": false
   }
 ]
