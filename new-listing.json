@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x754dcd58c0e5284d3e1df11e3d46a48548ee0361",
+    "tokenName": "HYAP",
+    "idPair": "0x16aac27d2d3c398a381bfa46c2facad44f983784",
+    "idToken": "0x754dcd58c0e5284d3e1df11e3d46a48548ee0361",
+    "dateCreationToken": "2021-02-12T03:08:13Z",
+    "initialInfos": {
+      "initialPoolToken": 121000,
+      "initialPriceUSD": 0.44186776859504134,
+      "initialPoolEth": 30,
+      "initialMarketCap": 53466
+    },
+    "currentInfos": {
+      "currentPoolToken": 121000,
+      "currentPriceUSD": 0.44186776859504134,
+      "currentPoolEth": 30,
+      "currentMarketCap": 53466
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613099293",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xebdf6b2080bd8487804abd662e2d142daa943451",
     "tokenName": "XFIM",
     "idPair": "0xdfdf73f4a9f186c99bb18def289e26979e36340e",
@@ -7,7 +38,7 @@
     "dateCreationToken": "2021-02-12T01:48:14Z",
     "initialInfos": {
       "initialPoolToken": 225,
-      "initialPriceUSD": 39.38444444444445,
+      "initialPriceUSD": 39.60444444444445,
       "initialPoolEth": 5,
       "initialMarketCap": 8945.119926275802
     },
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.06120827651627421,
-    "isRugged": false
-  },
-  {
-    "_id": "0x5cc737a37a02a1b34ba8edf899aa6441765232a0",
-    "tokenName": "XYX",
-    "idPair": "0x54e9984a859f2618f4da3485654fbe484a3d3b58",
-    "idToken": "0x5cc737a37a02a1b34ba8edf899aa6441765232a0",
-    "dateCreationToken": "2021-02-06T01:51:13Z",
-    "initialInfos": {
-      "initialPoolToken": 9585345.42830886,
-      "initialPriceUSD": 0.0007038661309037807,
-      "initialPoolEth": 4,
-      "initialMarketCap": 6746.8
-    },
-    "currentInfos": {
-      "currentPoolToken": 1965566.38898089,
-      "currentPriceUSD": 0.018912237368075336,
-      "currentPoolEth": 20.767879432337185,
-      "currentMarketCap": 37173.25811111729
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 84,
-    "holderCountOld": 78,
-    "txCount": 302,
-    "createdAtTimestamp": "1612576273",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 25.869082823734644,
     "isRugged": false
   }
 ]
