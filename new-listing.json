@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xb34a87a79eba99a27d47e1a8b0ab9553ffe5f951",
+    "tokenName": "FINAL",
+    "idPair": "0x97482136b54c1eb4bc4da64ba21db9e7bf2a8d64",
+    "idToken": "0xb34a87a79eba99a27d47e1a8b0ab9553ffe5f951",
+    "dateCreationToken": "2021-02-13T13:44:48Z",
+    "initialInfos": {
+      "initialPoolToken": 17500,
+      "initialPriceUSD": 1.02768,
+      "initialPoolEth": 10,
+      "initialMarketCap": 17984.4
+    },
+    "currentInfos": {
+      "currentPoolToken": 17500,
+      "currentPriceUSD": 1.02768,
+      "currentPoolEth": 10,
+      "currentMarketCap": 17984.4
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613223888",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x64f4b1383d80f8aa9aeca14321559e8a5514c140",
     "tokenName": "TPIAH",
     "idPair": "0xf03f69d760b5372eb36c46186ba3bc1b65393d32",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-13T12:46:56Z",
     "initialInfos": {
       "initialPoolToken": 20000,
-      "initialPriceUSD": 0.01974247,
+      "initialPriceUSD": 0.01978284,
       "initialPoolEth": 0.22,
-      "initialMarketCap": 394.8494
+      "initialMarketCap": 395.6568
     },
     "currentInfos": {
       "currentPoolToken": 20000,
-      "currentPriceUSD": 0.01974247,
+      "currentPriceUSD": 0.01978284,
       "currentPoolEth": 0.22,
-      "currentMarketCap": 394.8494
+      "currentMarketCap": 395.6568
     },
     "trustScore": null,
     "contractId": null,
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-02-13T12:46:43Z",
     "initialInfos": {
       "initialPoolToken": 115.58416790897049,
-      "initialPriceUSD": 18.221414812892878,
+      "initialPriceUSD": 18.258674513224015,
       "initialPoolEth": 1.1734690624828878,
-      "initialMarketCap": 2106.1070692724124
+      "initialMarketCap": 2110.4137007317245
     },
     "currentInfos": {
       "currentPoolToken": 105.44916873559377,
-      "currentPriceUSD": 21.949439638188682,
+      "currentPriceUSD": 21.994322516480693,
       "currentPoolEth": 1.2896082306140895,
-      "currentMarketCap": 2314.5501640590887
+      "currentMarketCap": 2319.283026265442
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.20459579366240957,
+    "priceChange": 0.20459579366240963,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 25.521407715710193,
     "isRugged": false
-  },
-  {
-    "_id": "0xa0ce0d783a18bf2fef6066e5557e9f80c98abc18",
-    "tokenName": "PRSC",
-    "idPair": "0x81f47d71d14da0c91467f922e17448e358440fb4",
-    "idToken": "0xa0ce0d783a18bf2fef6066e5557e9f80c98abc18",
-    "dateCreationToken": "2021-02-06T21:34:07Z",
-    "initialInfos": {
-      "initialPoolToken": 300000,
-      "initialPriceUSD": 0.2855133,
-      "initialPoolEth": 51,
-      "initialMarketCap": 85653.99
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.228e-15,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2.39e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 323,
-    "holderCountOld": 321,
-    "txCount": 380,
-    "createdAtTimestamp": "1612647247",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
