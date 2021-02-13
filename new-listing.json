@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x5d1093ba80db781e5cffafcdb37f52d660dace30",
+    "tokenName": "SPIFF",
+    "idPair": "0xb2c3b355acb5450f758a97acaa3b8e0b7a56963a",
+    "idToken": "0x5d1093ba80db781e5cffafcdb37f52d660dace30",
+    "dateCreationToken": "2021-02-13T23:09:05Z",
+    "initialInfos": {
+      "initialPoolToken": 500000,
+      "initialPriceUSD": 0.00097473208,
+      "initialPoolEth": 0.268,
+      "initialMarketCap": 487.36604
+    },
+    "currentInfos": {
+      "currentPoolToken": 500000,
+      "currentPriceUSD": 0.00097473208,
+      "currentPoolEth": 0.268,
+      "currentMarketCap": 487.36604
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613257745",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x223b787a82d286bec67b9f8068c1d679ca4cfb4a",
     "tokenName": "ETHC",
     "idPair": "0xe722fb52adfc36059a586efab5fccdb84edbde4b",
@@ -43,22 +74,22 @@
       "initialMarketCap": 26940.620064236744
     },
     "currentInfos": {
-      "currentPoolToken": 236686.85274533433,
-      "currentPriceUSD": 0.14093543642545966,
-      "currentPoolEth": 18.390070449604135,
-      "currentMarketCap": 33357.5648878322
+      "currentPoolToken": 231663.0958820351,
+      "currentPriceUSD": 0.14712365281170045,
+      "currentPoolEth": 18.790070449604134,
+      "currentMarketCap": 34083.1208878322
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 8,
     "holderCountOld": 0,
-    "txCount": 7,
+    "txCount": 8,
     "createdAtTimestamp": "1613250431",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.5021593210681023,
+    "priceChange": 0.5681163802800658,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.27579471055459537,
-    "isRugged": false
-  },
-  {
-    "_id": "0xa7e0719a65128b2f6cdbc86096753ff7d5962106",
-    "tokenName": "PICA",
-    "idPair": "0x1d5a1eaf90218e91f2bb32e42b0b02ff39827d16",
-    "idToken": "0xa7e0719a65128b2f6cdbc86096753ff7d5962106",
-    "dateCreationToken": "2021-02-07T02:04:04Z",
-    "initialInfos": {
-      "initialPoolToken": 2500000,
-      "initialPriceUSD": 0.038000956,
-      "initialPoolEth": 59,
-      "initialMarketCap": 95002.39
-    },
-    "currentInfos": {
-      "currentPoolToken": 2562882,
-      "currentPriceUSD": 0.04081947781205636,
-      "currentPoolEth": 57.62225284704224,
-      "currentMarketCap": 104615.50493391864
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2592,
-    "holderCountOld": 2593,
-    "txCount": 21,
-    "createdAtTimestamp": "1612663444",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.07416976067803023,
     "isRugged": false
   }
 ]
