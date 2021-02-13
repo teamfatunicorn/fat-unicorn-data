@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xfd619b1cfafb1bbddc6a8ccc20cd3795333db6d1",
+    "tokenName": "MUSK",
+    "idPair": "0x31091b3fb325a06b14b77988512849fb4c1eb775",
+    "idToken": "0xfd619b1cfafb1bbddc6a8ccc20cd3795333db6d1",
+    "dateCreationToken": "2021-02-13T02:57:11Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000,
+      "initialPriceUSD": 1.85316e-7,
+      "initialPoolEth": 0.1,
+      "initialMarketCap": 185.2039645712081
+    },
+    "currentInfos": {
+      "currentPoolToken": 313909416.69087565,
+      "currentPriceUSD": 0.0000018855735843785683,
+      "currentPoolEth": 0.3194,
+      "currentMarketCap": 591.899304
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1613185031",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 9.174909799362,
+    "isRugged": false
+  },
+  {
     "_id": "0x8792911752bea42254bed893e7b995ce3e10c84c",
     "tokenName": "EST",
     "idPair": "0x6e696b3a71fdde40b5b4c443141c4c3ab6e4e3df",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-13T02:31:51Z",
     "initialInfos": {
       "initialPoolToken": 0.49875,
-      "initialPriceUSD": 0.3724471177944862,
+      "initialPriceUSD": 0.3715609022556391,
       "initialPoolEth": 0.0001,
-      "initialMarketCap": 0.185758
+      "initialMarketCap": 0.185316
     },
     "currentInfos": {
       "currentPoolToken": 0.49875,
-      "currentPriceUSD": 0.3724471177944862,
+      "currentPriceUSD": 0.3715609022556391,
       "currentPoolEth": 0.0001,
-      "currentMarketCap": 0.185758
+      "currentMarketCap": 0.185316
     },
     "trustScore": null,
     "contractId": null,
@@ -44,7 +75,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 1596580.356149315,
-      "currentPriceUSD": 0.32425781993922204,
+      "currentPriceUSD": 0.327924247875699,
       "currentPoolEth": 278.6979110685746,
       "currentMarketCap": 517703.66564276355
     },
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.1272036199269425,
+    "priceChange": -0.11733479076083128,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.12346429860293985,
-    "isRugged": false
-  },
-  {
-    "_id": "0xc52e23194476b1dd39408cb0b9d935da8e6db3d6",
-    "tokenName": "CLVA",
-    "idPair": "0xac119171d4dcae3d0c9f4dd8d721be0093662252",
-    "idToken": "0xc52e23194476b1dd39408cb0b9d935da8e6db3d6",
-    "dateCreationToken": "2021-02-06T14:54:23Z",
-    "initialInfos": {
-      "initialPoolToken": 100,
-      "initialPriceUSD": 3.73373,
-      "initialPoolEth": 0.22,
-      "initialMarketCap": 371.6765540409572
-    },
-    "currentInfos": {
-      "currentPoolToken": 100,
-      "currentPriceUSD": 4.087798,
-      "currentPoolEth": 0.22,
-      "currentMarketCap": 408.7798
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 325,
-    "holderCountOld": 324,
-    "txCount": 1,
-    "createdAtTimestamp": "1612623263",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.09482956721562627,
     "isRugged": false
   }
 ]
