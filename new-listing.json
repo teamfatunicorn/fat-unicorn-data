@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xb3bf79ef025bba6f1e413137c7885ee046b30c72",
+    "tokenName": "ALICE",
+    "idPair": "0xe1105d58b1b7400ff607e9709d54750ab5773c30",
+    "idToken": "0xb3bf79ef025bba6f1e413137c7885ee046b30c72",
+    "dateCreationToken": "2021-02-13T23:51:18Z",
+    "initialInfos": {
+      "initialPoolToken": 750000,
+      "initialPriceUSD": 0.12221937064734388,
+      "initialPoolEth": 50.36512526676259,
+      "initialMarketCap": 91664.52798550791
+    },
+    "currentInfos": {
+      "currentPoolToken": 750000,
+      "currentPriceUSD": 0.12221937064734488,
+      "currentPoolEth": 50.36512526676259,
+      "currentMarketCap": 91664.52798550866
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613260278",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 8.175469378301498e-15,
+    "isRugged": false
+  },
+  {
     "_id": "0x5d1093ba80db781e5cffafcdb37f52d660dace30",
     "tokenName": "SPIFF",
     "idPair": "0xb2c3b355acb5450f758a97acaa3b8e0b7a56963a",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-13T23:09:05Z",
     "initialInfos": {
       "initialPoolToken": 500000,
-      "initialPriceUSD": 0.0009732956,
+      "initialPriceUSD": 0.00097552,
       "initialPoolEth": 0.268,
-      "initialMarketCap": 486.6478
+      "initialMarketCap": 487.76
     },
     "currentInfos": {
       "currentPoolToken": 365908.1107121457,
-      "currentPriceUSD": 0.0018189398882377543,
+      "currentPriceUSD": 0.0018230969499643214,
       "currentPoolEth": 0.3665307475861087,
-      "currentMarketCap": 665.5648580040381
+      "currentMarketCap": 667.08596060652
     },
     "trustScore": null,
     "contractId": null,
@@ -3795,7 +3826,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 527109.3961667104,
-      "currentPriceUSD": 2.094021777496347,
+      "currentPriceUSD": 2.43871912871613,
       "currentPoolEth": 608.400563708042,
       "currentMarketCap": 1103778.554696041
     },
@@ -3809,7 +3840,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 40.84435099016187,
+    "priceChange": 47.73235812782635,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 3.5033050096360623,
     "isRugged": true
-  },
-  {
-    "_id": "0xdeeb6091a5adc78fa0332bee5a38a8908b6b566e",
-    "tokenName": "TAC",
-    "idPair": "0x1b23e3c5fa38c9b1748b6f04a64af1cb1bb9535f",
-    "idToken": "0xdeeb6091a5adc78fa0332bee5a38a8908b6b566e",
-    "dateCreationToken": "2021-02-07T02:24:17Z",
-    "initialInfos": {
-      "initialPoolToken": 50000,
-      "initialPriceUSD": 0.9983302,
-      "initialPoolEth": 31,
-      "initialMarketCap": 50110.80366730856
-    },
-    "currentInfos": {
-      "currentPoolToken": 78696.99600036856,
-      "currentPriceUSD": 1.2736643885469112,
-      "currentPoolEth": 55.208676917769615,
-      "currentMarketCap": 100233.56129128815
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6,
-    "holderCountOld": 5,
-    "txCount": 17,
-    "createdAtTimestamp": "1612664657",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.27579471055459537,
-    "isRugged": false
   }
 ]
