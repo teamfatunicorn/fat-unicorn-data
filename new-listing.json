@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x0020d80229877b495d2bf3269a4c13f6f1e1b9d3",
+    "tokenName": "DEXM",
+    "idPair": "0xc92b1c381450c5972ee3f4a801e651257aed449a",
+    "idToken": "0x0020d80229877b495d2bf3269a4c13f6f1e1b9d3",
+    "dateCreationToken": "2021-02-13T17:39:37Z",
+    "initialInfos": {
+      "initialPoolToken": 10000000,
+      "initialPriceUSD": 0.0451455,
+      "initialPoolEth": 250,
+      "initialMarketCap": 451455
+    },
+    "currentInfos": {
+      "currentPoolToken": 10000000,
+      "currentPriceUSD": 0.0451455,
+      "currentPoolEth": 250,
+      "currentMarketCap": 451455
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 210,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613237977",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xf05731df070ad8e6058d07e620e2f50bfa78e4c2",
     "tokenName": "SKRG",
     "idPair": "0xbc365f6c554a8f412acb75aa71265ba9278977fb",
@@ -12,22 +43,22 @@
       "initialMarketCap": 186897.4312888603
     },
     "currentInfos": {
-      "currentPoolToken": 1572.4934681113584,
-      "currentPriceUSD": 131.84624736500297,
-      "currentPoolEth": 114.81064711680104,
-      "currentMarketCap": 207327.36277646158
+      "currentPoolToken": 1549.086885063906,
+      "currentPriceUSD": 135.86680747592726,
+      "currentPoolEth": 116.55064711680103,
+      "currentMarketCap": 210469.48957646158
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 146,
     "holderCountOld": 0,
-    "txCount": 361,
+    "txCount": 362,
     "createdAtTimestamp": "1613230268",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.21686405958699254,
+    "priceChange": 0.2539714873384138,
     "isRugged": false
   },
   {
@@ -4446,7 +4477,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 1904538.4268959318,
-      "currentPriceUSD": 0.6259338717576208,
+      "currentPriceUSD": 0.644252934334084,
       "currentPoolEth": 656.6065265774049,
       "currentMarketCap": 1192115.1114581393
     },
@@ -4460,7 +4491,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 11.472841737422069,
+    "priceChange": 11.837881526134181,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.3412368301025599,
-    "isRugged": true
-  },
-  {
-    "_id": "0xc88178eb1b0094ad2839de7fd69cce2245539819",
-    "tokenName": "XTF.VVVSFO",
-    "idPair": "0xa36cb8a15308e4c86f806acfa87b409010719a58",
-    "idToken": "0xc88178eb1b0094ad2839de7fd69cce2245539819",
-    "dateCreationToken": "2021-02-07T00:08:07Z",
-    "initialInfos": {
-      "initialPoolToken": 100,
-      "initialPriceUSD": 100.00287,
-      "initialPoolEth": 5.94,
-      "initialMarketCap": 9955.090151341648
-    },
-    "currentInfos": {
-      "currentPoolToken": 3.97e-15,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2.52e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 1,
-    "txCount": 8,
-    "createdAtTimestamp": "1612656487",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
