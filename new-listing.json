@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x18e709403b486624a0de8e3db2d6c20690c5feeb",
+    "tokenName": "SOV",
+    "idPair": "0xaee3e4c5e5dc86822aaf37871a01d4acfc360d18",
+    "idToken": "0x18e709403b486624a0de8e3db2d6c20690c5feeb",
+    "dateCreationToken": "2021-02-13T09:53:41Z",
+    "initialInfos": {
+      "initialPoolToken": 1200000,
+      "initialPriceUSD": 0.30443166666666666,
+      "initialPoolEth": 200,
+      "initialMarketCap": 365318
+    },
+    "currentInfos": {
+      "currentPoolToken": 1191742.239262812,
+      "currentPriceUSD": 0.30867158012923074,
+      "currentPoolEth": 201.39,
+      "currentMarketCap": 367856.9601
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1613210021",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.013927307592499955,
+    "isRugged": false
+  },
+  {
     "_id": "0x85bc988c425347363986b52c9e9f995190d3ec61",
     "tokenName": "BURNEFI",
     "idPair": "0xe5f97272880d63de57cf25d9d4f13524742698e2",
@@ -6162,37 +6193,6 @@
     "holderCountOld": 20,
     "txCount": 3,
     "createdAtTimestamp": "1612642514",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xa11de57cf74144dbefe0e07ed592623cde834ada",
-    "tokenName": "MILLA",
-    "idPair": "0x1d788fb86628a29ae7245d3a2a48aadb5ff33222",
-    "idToken": "0xa11de57cf74144dbefe0e07ed592623cde834ada",
-    "dateCreationToken": "2021-02-06T17:27:08Z",
-    "initialInfos": {
-      "initialPoolToken": 10000,
-      "initialPriceUSD": 0.0170355,
-      "initialPoolEth": 0.1,
-      "initialMarketCap": 170.355
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.22946e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 5e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 0,
-    "txCount": 12,
-    "createdAtTimestamp": "1612632428",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
