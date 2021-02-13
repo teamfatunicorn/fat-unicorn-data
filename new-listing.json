@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc6d8cc59a7491730ecc2e6e61fb9a2fc37368064",
+    "tokenName": "YNI",
+    "idPair": "0x5fa3a846efb67e200dcff0a5790e1b0c28abe71b",
+    "idToken": "0xc6d8cc59a7491730ecc2e6e61fb9a2fc37368064",
+    "dateCreationToken": "2021-02-13T10:10:53Z",
+    "initialInfos": {
+      "initialPoolToken": 12600,
+      "initialPriceUSD": 26.126857142857144,
+      "initialPoolEth": 180,
+      "initialMarketCap": 328167.0162183676
+    },
+    "currentInfos": {
+      "currentPoolToken": 12474.933935929113,
+      "currentPriceUSD": 26.654142980456214,
+      "currentPoolEth": 181.81,
+      "currentMarketCap": 332508.6728
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1613211053",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.020181755299382632,
+    "isRugged": false
+  },
+  {
     "_id": "0x18e709403b486624a0de8e3db2d6c20690c5feeb",
     "tokenName": "SOV",
     "idPair": "0xaee3e4c5e5dc86822aaf37871a01d4acfc360d18",
@@ -12,22 +43,22 @@
       "initialMarketCap": 365776
     },
     "currentInfos": {
-      "currentPoolToken": 1115123.433693396,
-      "currentPriceUSD": 0.35305777432729385,
-      "currentPoolEth": 215.27,
-      "currentMarketCap": 393702.9976
+      "currentPoolToken": 1108960.1969228357,
+      "currentPriceUSD": 0.35699897498444444,
+      "currentPoolEth": 216.47,
+      "currentMarketCap": 395897.6536
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 10,
     "holderCountOld": 0,
-    "txCount": 9,
+    "txCount": 10,
     "createdAtTimestamp": "1613210021",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.15827536304391931,
+    "priceChange": 0.17120524578248256,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9999999999999435,
-    "isRugged": true
-  },
-  {
-    "_id": "0x5959eed63ddebb40d1ed14de9733caff56d50f13",
-    "tokenName": "TZU",
-    "idPair": "0x492605b80f555db54a3033bc5b9770ebc5f987e7",
-    "idToken": "0x5959eed63ddebb40d1ed14de9733caff56d50f13",
-    "dateCreationToken": "2021-02-06T20:15:14Z",
-    "initialInfos": {
-      "initialPoolToken": 175,
-      "initialPriceUSD": 0.009731085714285714,
-      "initialPoolEth": 0.001,
-      "initialMarketCap": 1.70294
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.391e-15,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 4.2e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 21,
-    "holderCountOld": 20,
-    "txCount": 3,
-    "createdAtTimestamp": "1612642514",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
