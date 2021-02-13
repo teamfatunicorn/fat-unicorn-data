@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac",
+    "tokenName": "fDAI",
+    "idPair": "0xb99e61d5760fc611dcc2f0dce02e8d1f1c1b5986",
+    "idToken": "0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac",
+    "dateCreationToken": "2021-02-13T04:28:20Z",
+    "initialInfos": {
+      "initialPoolToken": 38.688273043723335,
+      "initialPriceUSD": 0.9611336220145064,
+      "initialPoolEth": 0.02,
+      "initialMarketCap": 76.84219175923849
+    },
+    "currentInfos": {
+      "currentPoolToken": 38.688273043723335,
+      "currentPriceUSD": 0.9611336220145064,
+      "currentPoolEth": 0.02,
+      "currentMarketCap": 37.1846
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 183,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613190500",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x8f82592327d6d0b0a3f85eaf046aaee3e6bc064d",
     "tokenName": "PAZZY",
     "idPair": "0xe1a1bda51dc672401c025a9cf247516da9f6737a",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xe809eb70da138ea9cbaaa88a838532ea0d6178e1",
-    "tokenName": "NEKO",
-    "idPair": "0x935665dfefdbe8403176283851f70e23d07e14b9",
-    "idToken": "0xe809eb70da138ea9cbaaa88a838532ea0d6178e1",
-    "dateCreationToken": "2021-02-06T16:06:56Z",
-    "initialInfos": {
-      "initialPoolToken": 759840280.2101576,
-      "initialPriceUSD": 0.000017655078770356384,
-      "initialPoolEth": 8,
-      "initialMarketCap": 13362.088117175079
-    },
-    "currentInfos": {
-      "currentPoolToken": 752357207.0657679,
-      "currentPriceUSD": 0.000023218556890062215,
-      "currentPoolEth": 9.35337760364996,
-      "currentMarketCap": 17468.64861390485
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 82,
-    "holderCountOld": 83,
-    "txCount": 382,
-    "createdAtTimestamp": "1612627616",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.3151205492805359,
-    "isRugged": false
   }
 ]
