@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x85bc988c425347363986b52c9e9f995190d3ec61",
+    "tokenName": "BURNEFI",
+    "idPair": "0xe5f97272880d63de57cf25d9d4f13524742698e2",
+    "idToken": "0x85bc988c425347363986b52c9e9f995190d3ec61",
+    "dateCreationToken": "2021-02-13T07:24:30Z",
+    "initialInfos": {
+      "initialPoolToken": 970000000000000,
+      "initialPriceUSD": 1.8974536082474227e-12,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1840.53
+    },
+    "currentInfos": {
+      "currentPoolToken": 970000000000000,
+      "currentPriceUSD": 1.8974536082474227e-12,
+      "currentPoolEth": 1,
+      "currentMarketCap": 1840.53
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613201070",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x4bb58e2cf39a207d55dce2d831894df0ff230a47",
     "tokenName": "MINT",
     "idPair": "0x367ea3ed51afb12dba46a85e8cc189876b7d26f0",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-13T06:21:26Z",
     "initialInfos": {
       "initialPoolToken": 3688000,
-      "initialPriceUSD": 0.0997114967462039,
+      "initialPriceUSD": 0.09981182212581345,
       "initialPoolEth": 200,
-      "initialMarketCap": 367736
+      "initialMarketCap": 368106
     },
     "currentInfos": {
       "currentPoolToken": 3265138.231841147,
-      "currentPriceUSD": 0.12725710959642023,
+      "currentPriceUSD": 0.12738515017594107,
       "currentPoolEth": 225.98388725437292,
-      "currentMarketCap": 415512.05381687055
+      "currentMarketCap": 415930.1240082911
     },
     "trustScore": null,
     "contractId": null,
@@ -2586,7 +2617,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 61.42138687217055,
-      "currentPriceUSD": 508.3318837246384,
+      "currentPriceUSD": 575.1433072917,
       "currentPoolEth": 16.93586318377393,
       "currentMarketCap": 31222.449289710232
     },
@@ -2600,7 +2631,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.7124949754962228,
+    "priceChange": -0.6747074186169744,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x123151402076fc819b7564510989e475c9cd93ca",
-    "tokenName": "wDGLD",
-    "idPair": "0x9c3b0c576d4c969dfc625f4d6e98236754362602",
-    "idToken": "0x123151402076fc819b7564510989e475c9cd93ca",
-    "dateCreationToken": "2021-02-06T16:37:57Z",
-    "initialInfos": {
-      "initialPoolToken": 838.2,
-      "initialPriceUSD": 181.8537455422781,
-      "initialPoolEth": 89.47774325,
-      "initialMarketCap": 152429.8095135375
-    },
-    "currentInfos": {
-      "currentPoolToken": 823.74801606,
-      "currentPriceUSD": 204.59431991963083,
-      "currentPoolEth": 91.05229995836821,
-      "currentMarketCap": 168534.16513094082
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1473,
-    "holderCountOld": 1474,
-    "txCount": 4,
-    "createdAtTimestamp": "1612629477",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.12504869948948025,
-    "isRugged": false
   }
 ]
