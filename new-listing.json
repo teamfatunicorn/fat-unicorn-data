@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x8792911752bea42254bed893e7b995ce3e10c84c",
+    "tokenName": "EST",
+    "idPair": "0x6e696b3a71fdde40b5b4c443141c4c3ab6e4e3df",
+    "idToken": "0x8792911752bea42254bed893e7b995ce3e10c84c",
+    "dateCreationToken": "2021-02-13T02:31:51Z",
+    "initialInfos": {
+      "initialPoolToken": 0.49875,
+      "initialPriceUSD": 0.37143659147869673,
+      "initialPoolEth": 0.0001,
+      "initialMarketCap": 0.185254
+    },
+    "currentInfos": {
+      "currentPoolToken": 0.49875,
+      "currentPriceUSD": 0.37143659147869673,
+      "currentPoolEth": 0.0001,
+      "currentMarketCap": 0.185254
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 5,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613183511",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x74c287ad5328daca276c6a1c1f149415b12c148d",
     "tokenName": "PAZZY",
     "idPair": "0xdc5df90222e63d77111aab7e4cd9edd055926f53",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-02-13T01:36:01Z",
     "initialInfos": {
       "initialPoolToken": 1485000,
-      "initialPriceUSD": 0.371092,
+      "initialPriceUSD": 0.370508,
       "initialPoolEth": 297,
-      "initialMarketCap": 551071.62
+      "initialMarketCap": 550204.38
     },
     "currentInfos": {
-      "currentPoolToken": 1592062.3870606553,
-      "currentPriceUSD": 0.32555117738199785,
-      "currentPoolEth": 279.33654434651766,
-      "currentMarketCap": 518297.78457319026
+      "currentPoolToken": 1600506.0891883136,
+      "currentPriceUSD": 0.32163552006242735,
+      "currentPoolEth": 277.8777291497973,
+      "currentMarketCap": 514779.6083591649
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 286,
     "holderCountOld": 0,
-    "txCount": 244,
+    "txCount": 248,
     "createdAtTimestamp": "1613180161",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.12272111125543567,
+    "priceChange": -0.1319066793094148,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.09482956721562627,
     "isRugged": false
-  },
-  {
-    "_id": "0x17b7b0ceda671bfbd9258f4a4a553042072152e4",
-    "tokenName": "UNA",
-    "idPair": "0x8377c5971b982f080da2862b2f1827932c318ca2",
-    "idToken": "0x17b7b0ceda671bfbd9258f4a4a553042072152e4",
-    "dateCreationToken": "2021-02-06T14:51:37Z",
-    "initialInfos": {
-      "initialPoolToken": 100000000,
-      "initialPriceUSD": 0.0008655465,
-      "initialPoolEth": 51,
-      "initialMarketCap": 86554.65
-    },
-    "currentInfos": {
-      "currentPoolToken": 5.9071e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.8e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 197,
-    "holderCountOld": 196,
-    "txCount": 258,
-    "createdAtTimestamp": "1612623097",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
