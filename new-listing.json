@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x227603167dc8766269da470390e629a1d9ac7125",
+    "tokenName": "DVG",
+    "idPair": "0xbc1877fddddb94744b4346fcc55dbd5af6fc8349",
+    "idToken": "0x227603167dc8766269da470390e629a1d9ac7125",
+    "dateCreationToken": "2021-02-14T10:27:59Z",
+    "initialInfos": {
+      "initialPoolToken": 1500000,
+      "initialPriceUSD": 0.2212524,
+      "initialPoolEth": 180,
+      "initialMarketCap": 331878.6
+    },
+    "currentInfos": {
+      "currentPoolToken": 1500000,
+      "currentPriceUSD": 0.2212524,
+      "currentPoolEth": 180,
+      "currentMarketCap": 331878.6
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613298479",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xc7ff1e126cc81e816915ff48c940ed9d4e6d05d6",
     "tokenName": "IJC",
     "idPair": "0x56601760b9ffb2c8546cb0e37870060b0e5b3ad3",
@@ -106,7 +137,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 12852.278573720312,
-      "currentPriceUSD": 0.15648900040143887,
+      "currentPriceUSD": 0.0747179768068935,
       "currentPoolEth": 1.0926852762525943,
       "currentMarketCap": 2011.2402268823218
     },
@@ -120,7 +151,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 6.416861683986795,
+    "priceChange": 2.541289789457732,
     "isRugged": false
   },
   {
@@ -323,7 +354,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 160057.9815592335,
-      "currentPriceUSD": 2.72384586225674,
+      "currentPriceUSD": 2.73518501059671,
       "currentPoolEth": 237.08914147430662,
       "currentMarketCap": 436395.75736326847
     },
@@ -337,7 +368,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 21.200170466155285,
+    "priceChange": 21.29258796656399,
     "isRugged": false
   },
   {
@@ -1408,7 +1439,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 10249.651643979,
-      "currentPriceUSD": 0.5513939927338884,
+      "currentPriceUSD": 0.555639292092153,
       "currentPoolEth": 3.070451769007336,
       "currentMarketCap": 5651.596344105044
     },
@@ -1422,7 +1453,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.7003336611856921,
+    "priceChange": -0.6980264664526588,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 1.2657045342149629,
-    "isRugged": false
-  },
-  {
-    "_id": "0xfad45e47083e4607302aa43c65fb3106f1cd7607",
-    "tokenName": "HOGE",
-    "idPair": "0x7fd1de95fc975fbbd8be260525758549ec477960",
-    "idToken": "0xfad45e47083e4607302aa43c65fb3106f1cd7607",
-    "dateCreationToken": "2021-02-07T12:39:52Z",
-    "initialInfos": {
-      "initialPoolToken": 500000000000,
-      "initialPriceUSD": 3.07322e-9,
-      "initialPoolEth": 1,
-      "initialMarketCap": 1613.7040337038889
-    },
-    "currentInfos": {
-      "currentPoolToken": 56852976202.368385,
-      "currentPriceUSD": 6.609527739792654e-7,
-      "currentPoolEth": 20.41891438395341,
-      "currentMarketCap": 37577.132329932545
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1245,
-    "holderCountOld": 1246,
-    "txCount": 4594,
-    "createdAtTimestamp": "1612701592",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 214.06848646672398,
     "isRugged": false
   }
 ]
