@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xbb2b8038a1640196fbe3e38816f3e67cba72d940",
+    "tokenName": "UNI-V2",
+    "idPair": "0x05c526de40af79926d6d9ad49e21708724a843a1",
+    "idToken": "0xbb2b8038a1640196fbe3e38816f3e67cba72d940",
+    "dateCreationToken": "2021-02-14T02:29:02Z",
+    "initialInfos": {
+      "initialPoolToken": 0.000002393421257537,
+      "initialPriceUSD": 2092560214.4747288,
+      "initialPoolEth": 2.71,
+      "initialMarketCap": 5008.3781
+    },
+    "currentInfos": {
+      "currentPoolToken": 0.000002393421257537,
+      "currentPriceUSD": 2092560214.4747288,
+      "currentPoolEth": 2.71,
+      "currentMarketCap": 5008.3781
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2808,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613269742",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x792f5bdde5f8cf4b075b7a9dc4f296341d00b0d1",
     "tokenName": "STE",
     "idPair": "0xcce22f4f40d637340d16d42c2f71db306d96ca85",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.11697671373308469,
-    "isRugged": false
-  },
-  {
-    "_id": "0xb8fa12f8409da31a4fc43d15c4c78c33d8213b9b",
-    "tokenName": "CALI",
-    "idPair": "0xb12b884cae67c38602d076c8ff822cd8989aa223",
-    "idToken": "0xb8fa12f8409da31a4fc43d15c4c78c33d8213b9b",
-    "dateCreationToken": "2021-02-07T06:29:26Z",
-    "initialInfos": {
-      "initialPoolToken": 2000,
-      "initialPriceUSD": 0.163936,
-      "initialPoolEth": 0.2,
-      "initialMarketCap": 327.872
-    },
-    "currentInfos": {
-      "currentPoolToken": 18830.41203829653,
-      "currentPriceUSD": 0.4311169273227444,
-      "currentPoolEth": 4.427608849737828,
-      "currentMarketCap": 8118.109378171618
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 17,
-    "holderCountOld": 16,
-    "txCount": 8,
-    "createdAtTimestamp": "1612679366",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.6297880107038385,
     "isRugged": false
   }
 ]
