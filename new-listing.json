@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x6d4f393bf60aee890027d5a560473148fa61385a",
+    "tokenName": "ENSO",
+    "idPair": "0x078634d1bc02768c07b4bd0de0aee3e4584f18e6",
+    "idToken": "0x6d4f393bf60aee890027d5a560473148fa61385a",
+    "dateCreationToken": "2021-02-14T17:07:59Z",
+    "initialInfos": {
+      "initialPoolToken": 400000,
+      "initialPriceUSD": 0.228344341024027,
+      "initialPoolEth": 50.443607911686044,
+      "initialMarketCap": 91337.7364096108
+    },
+    "currentInfos": {
+      "currentPoolToken": 400000,
+      "currentPriceUSD": 0.22834434102402681,
+      "currentPoolEth": 50.443607911686044,
+      "currentMarketCap": 91337.73640961072
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613322479",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -8.508598393027781e-16,
+    "isRugged": false
+  },
+  {
     "_id": "0x2baaa86a7cd6a46e297e75945f53fad2f8626683",
     "tokenName": "PSET",
     "idPair": "0xff35957741320adb0ce6d16562903274a918cd62",
@@ -12,22 +43,22 @@
       "initialMarketCap": 177809.758
     },
     "currentInfos": {
-      "currentPoolToken": 6157.05264173,
-      "currentPriceUSD": 25.714010757982592,
-      "currentPoolEth": 87.43767175326005,
-      "currentMarketCap": 158322.51786691035
+      "currentPoolToken": 5865.831047488,
+      "currentPriceUSD": 28.39029659669955,
+      "currentPoolEth": 91.97194617759659,
+      "currentMarketCap": 166532.6832243131
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 19,
     "holderCountOld": 0,
-    "txCount": 43,
+    "txCount": 55,
     "createdAtTimestamp": "1613321787",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.21952256669594863,
+    "priceChange": -0.1382913374704045,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 19.420497742787244,
-    "isRugged": false
-  },
-  {
-    "_id": "0x196c81385bc536467433014042788eb707703934",
-    "tokenName": "CTASK",
-    "idPair": "0x8d82b68f2346483d6b210383edbe27e7f5ef2365",
-    "idToken": "0x196c81385bc536467433014042788eb707703934",
-    "dateCreationToken": "2021-02-07T16:28:05Z",
-    "initialInfos": {
-      "initialPoolToken": 210605,
-      "initialPriceUSD": 1.614060967213504,
-      "initialPoolEth": 219.38,
-      "initialMarketCap": 339929.31
-    },
-    "currentInfos": {
-      "currentPoolToken": 266545.3840454299,
-      "currentPriceUSD": 1.4230495481902838,
-      "currentPoolEth": 209.482179908242,
-      "currentMarketCap": 379307.2883380547
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1142,
-    "holderCountOld": 1143,
-    "txCount": 4685,
-    "createdAtTimestamp": "1612715285",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.11834213384949148,
     "isRugged": false
   }
 ]
