@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x792f5bdde5f8cf4b075b7a9dc4f296341d00b0d1",
+    "tokenName": "STE",
+    "idPair": "0xcce22f4f40d637340d16d42c2f71db306d96ca85",
+    "idToken": "0x792f5bdde5f8cf4b075b7a9dc4f296341d00b0d1",
+    "dateCreationToken": "2021-02-14T01:25:12Z",
+    "initialInfos": {
+      "initialPoolToken": 0.08617575937375094,
+      "initialPriceUSD": 1971.828040093231,
+      "initialPoolEth": 0.09300292199,
+      "initialMarketCap": 169.9237787094892
+    },
+    "currentInfos": {
+      "currentPoolToken": 0.08617575937375094,
+      "currentPriceUSD": 1971.828040093231,
+      "currentPoolEth": 0.09300292199,
+      "currentMarketCap": 169.9237787094892
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613265912",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0xb3bf79ef025bba6f1e413137c7885ee046b30c72",
     "tokenName": "ALICE",
     "idPair": "0xe1105d58b1b7400ff607e9709d54750ab5773c30",
@@ -20,7 +51,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 222,
+    "holderCount": 256,
     "holderCountOld": 0,
     "txCount": 274,
     "createdAtTimestamp": "1613260278",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 1.6132363757920172,
-    "isRugged": false
-  },
-  {
-    "_id": "0xd1a58a18ab40e3c5b8f611d0d405d01707cf77ac",
-    "tokenName": "WISER",
-    "idPair": "0x97c68a56df08fc71acd5eaf874ecef19ae19526f",
-    "idToken": "0xd1a58a18ab40e3c5b8f611d0d405d01707cf77ac",
-    "dateCreationToken": "2021-02-07T04:20:45Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000,
-      "initialPriceUSD": 0.491409,
-      "initialPoolEth": 300,
-      "initialMarketCap": 483736.8743257874
-    },
-    "currentInfos": {
-      "currentPoolToken": 1243142.587755244,
-      "currentPriceUSD": 0.6276734727536973,
-      "currentPoolEth": 428.26355129274344,
-      "currentMarketCap": 780287.6251843519
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 219,
-    "holderCountOld": 220,
-    "txCount": 868,
-    "createdAtTimestamp": "1612671645",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.2772934007185407,
     "isRugged": false
   }
 ]
