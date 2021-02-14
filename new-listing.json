@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x6e765d26388a17a6e86c49a8e41df3f58abcd337",
+    "tokenName": "KANGAL",
+    "idPair": "0x0bc4428491010dfeaa97e48c70bf4940fa783b40",
+    "idToken": "0x6e765d26388a17a6e86c49a8e41df3f58abcd337",
+    "dateCreationToken": "2021-02-14T18:06:51Z",
+    "initialInfos": {
+      "initialPoolToken": 100000000000,
+      "initialPriceUSD": 1.80356e-8,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1803.56
+    },
+    "currentInfos": {
+      "currentPoolToken": 100000000000,
+      "currentPriceUSD": 1.80356e-8,
+      "currentPoolEth": 1,
+      "currentMarketCap": 1803.56
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613326011",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x6d4f393bf60aee890027d5a560473148fa61385a",
     "tokenName": "ENSO",
     "idPair": "0x078634d1bc02768c07b4bd0de0aee3e4584f18e6",
@@ -43,22 +74,22 @@
       "initialMarketCap": 177109.592
     },
     "currentInfos": {
-      "currentPoolToken": 6216.492336794,
-      "currentPriceUSD": 25.642923844823752,
-      "currentPoolEth": 88.38577012926584,
-      "currentMarketCap": 159409.039574339
+      "currentPoolToken": 6314.555590345,
+      "currentPriceUSD": 24.86036009185928,
+      "currentPoolEth": 87.04014604229396,
+      "currentMarketCap": 156982.12579603976
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 185,
     "holderCountOld": 0,
-    "txCount": 176,
+    "txCount": 180,
     "createdAtTimestamp": "1613321787",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.2186032869773033,
+    "priceChange": -0.24244973865331132,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xf9fbe825bfb2bf3e387af0dc18cac8d87f29dea8",
-    "tokenName": "BOTS",
-    "idPair": "0x71000582ec4914629a61ec95f22f764aa7e3b8a5",
-    "idToken": "0xf9fbe825bfb2bf3e387af0dc18cac8d87f29dea8",
-    "dateCreationToken": "2021-02-07T18:01:02Z",
-    "initialInfos": {
-      "initialPoolToken": 7812500,
-      "initialPriceUSD": 0.03169521024,
-      "initialPoolEth": 157,
-      "initialMarketCap": 244707.42161743116
-    },
-    "currentInfos": {
-      "currentPoolToken": 1858384.3681013982,
-      "currentPriceUSD": 0.7445768771170541,
-      "currentPoolEth": 767.2104223225667,
-      "currentMarketCap": 1383710.0292840889
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2391,
-    "holderCountOld": 2381,
-    "txCount": 9447,
-    "createdAtTimestamp": "1612720862",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 22.491779088355216,
-    "isRugged": false
   }
 ]
