@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xa5f1dbb0e55bc31f32c6d032bee330288490e722",
+    "tokenName": "DBD",
+    "idPair": "0xd460414c7d3ae8210f56d629b10e3c9aa46967f7",
+    "idToken": "0xa5f1dbb0e55bc31f32c6d032bee330288490e722",
+    "dateCreationToken": "2021-02-14T06:31:49Z",
+    "initialInfos": {
+      "initialPoolToken": 23160,
+      "initialPriceUSD": 0.3974827288428325,
+      "initialPoolEth": 5,
+      "initialMarketCap": 9205.7
+    },
+    "currentInfos": {
+      "currentPoolToken": 19309.654827413706,
+      "currentPriceUSD": 0.5720889419689119,
+      "currentPoolEth": 6,
+      "currentMarketCap": 11046.84
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1613284309",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.43927999999999995,
+    "isRugged": false
+  },
+  {
     "_id": "0x3172b0f7c198425205e30574c10bddbc78588b0a",
     "tokenName": "UBDT",
     "idPair": "0x032b062767f355c7048bf541bf90fdf7195f656a",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9999999965147729,
-    "isRugged": true
-  },
-  {
-    "_id": "0x9124d868aba6e5099f966ba74e791eaa2d9ed701",
-    "tokenName": "ALICE",
-    "idPair": "0x0b5b02aa4b1e7e46bc34ae0002a270e2ef8fd5b1",
-    "idToken": "0x9124d868aba6e5099f966ba74e791eaa2d9ed701",
-    "dateCreationToken": "2021-02-07T07:05:47Z",
-    "initialInfos": {
-      "initialPoolToken": 3294600,
-      "initialPriceUSD": 0.050754179566563466,
-      "initialPoolEth": 102,
-      "initialMarketCap": 167214.72
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.44098e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 7e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 29,
-    "holderCountOld": 28,
-    "txCount": 43,
-    "createdAtTimestamp": "1612681547",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
