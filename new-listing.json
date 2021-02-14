@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc7ff1e126cc81e816915ff48c940ed9d4e6d05d6",
+    "tokenName": "IJC",
+    "idPair": "0x56601760b9ffb2c8546cb0e37870060b0e5b3ad3",
+    "idToken": "0xc7ff1e126cc81e816915ff48c940ed9d4e6d05d6",
+    "dateCreationToken": "2021-02-14T10:08:23Z",
+    "initialInfos": {
+      "initialPoolToken": 222,
+      "initialPriceUSD": 0.004529732402252252,
+      "initialPoolEth": 0.00054643,
+      "initialMarketCap": 1.004349687133064
+    },
+    "currentInfos": {
+      "currentPoolToken": 222,
+      "currentPriceUSD": 0.004529732402252252,
+      "currentPoolEth": 0.00054643,
+      "currentMarketCap": 1.0056005933
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 48,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613297303",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0xf28eae18ba5a27c63b5f6b9aaa1ebc0c9affba4f",
     "tokenName": "DVG",
     "idPair": "0xfe0ba3c1271778a4f2b65af1f375510834e27b7f",
@@ -12,22 +43,22 @@
       "initialMarketCap": 183867.40542042104
     },
     "currentInfos": {
-      "currentPoolToken": 1379250.1056227395,
-      "currentPriceUSD": 0.14757170231145372,
-      "currentPoolEth": 110.6,
-      "currentMarketCap": 203538.286
+      "currentPoolToken": 1331248.1383903637,
+      "currentPriceUSD": 0.1584224006915814,
+      "currentPoolEth": 114.6,
+      "currentMarketCap": 210899.526
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 0,
     "holderCountOld": null,
-    "txCount": 4,
+    "txCount": 5,
     "createdAtTimestamp": "1613296827",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.22287465712280505,
+    "priceChange": 0.3127905681904768,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 368062
     },
     "currentInfos": {
-      "currentPoolToken": 1665331.842497866,
-      "currentPriceUSD": 0.23894231659417844,
-      "currentPoolEth": 216.22348862120566,
-      "currentMarketCap": 397918.2483444916
+      "currentPoolToken": 1663031.3861932238,
+      "currentPriceUSD": 0.2396048232478724,
+      "currentPoolEth": 216.52348862120564,
+      "currentMarketCap": 398470.34134449164
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 10,
     "holderCountOld": 0,
-    "txCount": 13,
+    "txCount": 14,
     "createdAtTimestamp": "1613295479",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.1685427179918634,
+    "priceChange": 0.17178269380205066,
     "isRugged": false
   },
   {
@@ -6089,7 +6120,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 252103.22002097606,
-      "currentPriceUSD": 1.6157483768805283,
+      "currentPriceUSD": 1.61684777578572,
       "currentPoolEth": 221.3406266092381,
       "currentMarketCap": 407335.3685552468
     },
@@ -6103,7 +6134,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.0010454435744998048,
+    "priceChange": 0.001726581974798102,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 214.06848646672398,
     "isRugged": false
-  },
-  {
-    "_id": "0x455f42a087928d16e101d082ed71cc2c73030e4a",
-    "tokenName": "STRAWBERRIES",
-    "idPair": "0x97c21abe462fd80ac1c211d355f0011ca68fb47a",
-    "idToken": "0x455f42a087928d16e101d082ed71cc2c73030e4a",
-    "dateCreationToken": "2021-02-07T12:27:10Z",
-    "initialInfos": {
-      "initialPoolToken": 80000000000,
-      "initialPriceUSD": 5.7622875e-9,
-      "initialPoolEth": 0.3,
-      "initialMarketCap": 460.983
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.13956827e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 7,
-    "holderCountOld": 8,
-    "txCount": 9,
-    "createdAtTimestamp": "1612700830",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
