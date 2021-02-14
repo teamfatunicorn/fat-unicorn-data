@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x4a01c8775319244bf0680ed61a61ab4f6ec38a39",
+    "tokenName": "$GASPAY",
+    "idPair": "0xc3ba90184bce7e332e9de493a782cffdcbeb30a9",
+    "idToken": "0x4a01c8775319244bf0680ed61a61ab4f6ec38a39",
+    "dateCreationToken": "2021-02-14T21:08:58Z",
+    "initialInfos": {
+      "initialPoolToken": 14889.6,
+      "initialPriceUSD": 48.20797872340425,
+      "initialPoolEth": 396,
+      "initialMarketCap": 717797.52
+    },
+    "currentInfos": {
+      "currentPoolToken": 14889.6,
+      "currentPriceUSD": 48.20797872340425,
+      "currentPoolEth": 396,
+      "currentMarketCap": 717797.52
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 12,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613336938",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xece1e7380a23670c9a91f72b3a44b5a3725e98b0",
     "tokenName": "PRM",
     "idPair": "0x2a25dd460dd8937522f97654340e91fed2b02706",
@@ -4973,7 +5004,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 1106269.450067064,
-      "currentPriceUSD": 1.0170136508625485,
+      "currentPriceUSD": 1.00465854142462,
       "currentPoolEth": 620.698840490786,
       "currentMarketCap": 1125091.1322504084
     },
@@ -4987,7 +5018,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 5.634758206931817,
+    "priceChange": 5.5541563746247355,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.8529529048086273,
     "isRugged": false
-  },
-  {
-    "_id": "0x56aa438244bfcf530387cc7315384fa4e1de0e9c",
-    "tokenName": "GLX",
-    "idPair": "0x15454ad4e00cd90424954c3721abcea58d654e1b",
-    "idToken": "0x56aa438244bfcf530387cc7315384fa4e1de0e9c",
-    "dateCreationToken": "2021-02-07T20:32:17Z",
-    "initialInfos": {
-      "initialPoolToken": 1300000,
-      "initialPriceUSD": 0.024290923076923078,
-      "initialPoolEth": 20,
-      "initialMarketCap": 31578.2
-    },
-    "currentInfos": {
-      "currentPoolToken": 26189176573.284424,
-      "currentPriceUSD": 6.941394570512513e-11,
-      "currentPoolEth": 0.001002909645289045,
-      "currentMarketCap": 1.8178940807199
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 25,
-    "holderCountOld": 20,
-    "txCount": 45,
-    "createdAtTimestamp": "1612729937",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9999999971423915,
-    "isRugged": true
   }
 ]
