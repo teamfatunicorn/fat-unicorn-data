@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x3fe0c6d5fe5cc4eb295ea8de60012154e44e9ce3",
+    "tokenName": "FLAME",
+    "idPair": "0xe18f316a57e111ebe95aaa8a9f6e641bf45b4c40",
+    "idToken": "0x3fe0c6d5fe5cc4eb295ea8de60012154e44e9ce3",
+    "dateCreationToken": "2021-02-14T18:27:17Z",
+    "initialInfos": {
+      "initialPoolToken": 450000,
+      "initialPriceUSD": 0.08032977777777778,
+      "initialPoolEth": 20,
+      "initialMarketCap": 36148.4
+    },
+    "currentInfos": {
+      "currentPoolToken": 450000,
+      "currentPriceUSD": 0.08032977777777778,
+      "currentPoolEth": 20,
+      "currentMarketCap": 36148.4
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613327237",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x6e765d26388a17a6e86c49a8e41df3f58abcd337",
     "tokenName": "KANGAL",
     "idPair": "0x0bc4428491010dfeaa97e48c70bf4940fa783b40",
@@ -12,22 +43,22 @@
       "initialMarketCap": 1807.42
     },
     "currentInfos": {
-      "currentPoolToken": 100000000000,
-      "currentPriceUSD": 1.80742e-8,
-      "currentPoolEth": 1,
-      "currentMarketCap": 1807.42
+      "currentPoolToken": 90933891061.1985,
+      "currentPriceUSD": 2.1863817514e-8,
+      "currentPoolEth": 1.1,
+      "currentMarketCap": 1988.162
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 1,
+    "txCount": 2,
     "createdAtTimestamp": "1613326011",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.20967000000000002,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 91172.78581173958
     },
     "currentInfos": {
-      "currentPoolToken": 149127.0384435212,
-      "currentPriceUSD": 1.6447140582972997,
-      "currentPoolEth": 135.7024579789428,
-      "currentMarketCap": 245271.33660030115
+      "currentPoolToken": 141765.09884939448,
+      "currentPriceUSD": 1.8202481002444009,
+      "currentPoolEth": 142.7712716809428,
+      "currentMarketCap": 258047.65186157
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 97,
+    "holderCount": 153,
     "holderCountOld": 0,
-    "txCount": 158,
+    "txCount": 175,
     "createdAtTimestamp": "1613322479",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 6.215811357101356,
+    "priceChange": 6.985927309506526,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.836671948308435,
     "isRugged": false
-  },
-  {
-    "_id": "0x70464e9035c579f81aea3ace3217cbd2e0aa2134",
-    "tokenName": "BOTS",
-    "idPair": "0x56da0b1dfcbed58ef2beef5ccf4fcf2c6d19fc9b",
-    "idToken": "0x70464e9035c579f81aea3ace3217cbd2e0aa2134",
-    "dateCreationToken": "2021-02-07T18:21:31Z",
-    "initialInfos": {
-      "initialPoolToken": 3390625,
-      "initialPriceUSD": 0.03230410322580645,
-      "initialPoolEth": 70,
-      "initialMarketCap": 109531.1
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.94353e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 6e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 9,
-    "holderCountOld": 0,
-    "txCount": 10,
-    "createdAtTimestamp": "1612722091",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
