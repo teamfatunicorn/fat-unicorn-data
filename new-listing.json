@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x71ec3b49c4fef75666b4b112068f99f003ef2cec",
+    "tokenName": "GROW",
+    "idPair": "0x1c3f53630663ee8a2881dbca559929ccb03abfea",
+    "idToken": "0x71ec3b49c4fef75666b4b112068f99f003ef2cec",
+    "dateCreationToken": "2021-02-15T00:28:22Z",
+    "initialInfos": {
+      "initialPoolToken": 600000000000,
+      "initialPriceUSD": 2.1069766666666666e-7,
+      "initialPoolEth": 70,
+      "initialMarketCap": 126418.6
+    },
+    "currentInfos": {
+      "currentPoolToken": 599146643994.1968,
+      "currentPriceUSD": 2.1129918571525238e-7,
+      "currentPoolEth": 70.1,
+      "currentMarketCap": 126599.198
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1613348902",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.0028548918367347544,
+    "isRugged": false
+  },
+  {
     "_id": "0xf7eef264614eea546c07188f71b6c0e19cb66ef0",
     "tokenName": "BIN",
     "idPair": "0x9f726fe1901c2ffaa81d25b99caf0cc69803756b",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.016594023767065053,
     "isRugged": false
-  },
-  {
-    "_id": "0x6ec141ade822d7ccaaaef08a5370dcdcb21f6a14",
-    "tokenName": "JINDOGE",
-    "idPair": "0xcbbe20be09f356eb54ea5e5c87913ac38151d885",
-    "idToken": "0x6ec141ade822d7ccaaaef08a5370dcdcb21f6a14",
-    "dateCreationToken": "2021-02-07T23:15:41Z",
-    "initialInfos": {
-      "initialPoolToken": 900000000000,
-      "initialPriceUSD": 3.018652222222222e-9,
-      "initialPoolEth": 1.7,
-      "initialMarketCap": 2716.787
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.30395455e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 11,
-    "holderCountOld": 10,
-    "txCount": 30,
-    "createdAtTimestamp": "1612739741",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
