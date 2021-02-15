@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x4c6719bf85903d18c295da44216f862b01b36f43",
+    "tokenName": "ALH",
+    "idPair": "0x9585f8533942123d9fada9c5c56a346ad4fdb553",
+    "idToken": "0x4c6719bf85903d18c295da44216f862b01b36f43",
+    "dateCreationToken": "2021-02-15T06:16:37Z",
+    "initialInfos": {
+      "initialPoolToken": 100000,
+      "initialPriceUSD": 0.0173078,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1730.78
+    },
+    "currentInfos": {
+      "currentPoolToken": 50075.1126690035,
+      "currentPriceUSD": 0.069226005,
+      "currentPoolEth": 2,
+      "currentMarketCap": 3466.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 18,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1613369797",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.9996998463120668,
+    "isRugged": false
+  },
+  {
     "_id": "0xa671d088ef820e1547c46f5ef833a79c8516cac8",
     "tokenName": "LITE",
     "idPair": "0x27e5f00afa979048d65adb415ddb89983a989e57",
@@ -13,9 +44,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 1000000,
-      "currentPriceUSD": 0.259617,
+      "currentPriceUSD": 0.2599875,
       "currentPoolEth": 150,
-      "currentMarketCap": 259617
+      "currentMarketCap": 259987.5
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.0014271022313638777,
     "isRugged": false
   },
   {
@@ -106,7 +137,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 53510.359828904206,
-      "currentPriceUSD": 3.9225133695160506,
+      "currentPriceUSD": 4.02850648426031,
       "currentPoolEth": 122.35927587530149,
       "currentMarketCap": 209895.10183649135
     },
@@ -120,7 +151,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.18663720525144703,
+    "priceChange": 0.21870220072947189,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.4356440020816384,
     "isRugged": false
-  },
-  {
-    "_id": "0xefd07d082833150e5a5cb0705386e0554c06dc12",
-    "tokenName": "NERO",
-    "idPair": "0x2f3a141102537f47e0be3a54841f24b65b5b911d",
-    "idToken": "0xefd07d082833150e5a5cb0705386e0554c06dc12",
-    "dateCreationToken": "2021-02-08T00:59:26Z",
-    "initialInfos": {
-      "initialPoolToken": 950000,
-      "initialPriceUSD": 0.00501378947368421,
-      "initialPoolEth": 3,
-      "initialMarketCap": 4797.3929015032345
-    },
-    "currentInfos": {
-      "currentPoolToken": 1,
-      "currentPriceUSD": 0.0000051881486,
-      "currentPoolEth": 3.019963113e-9,
-      "currentMarketCap": 0.0000051881486
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 5,
-    "holderCountOld": 4,
-    "txCount": 19,
-    "createdAtTimestamp": "1612745966",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9989652240830551,
-    "isRugged": true
   }
 ]
