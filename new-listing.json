@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x837c257dd50fd20edc0a52afbbc9253ecb132678",
+    "tokenName": "AOX",
+    "idPair": "0x11341b18c1e50a528a868d6a4d8c2d95abfbb156",
+    "idToken": "0x837c257dd50fd20edc0a52afbbc9253ecb132678",
+    "dateCreationToken": "2021-02-15T12:12:26Z",
+    "initialInfos": {
+      "initialPoolToken": 720000,
+      "initialPriceUSD": 0.07431375,
+      "initialPoolEth": 30,
+      "initialMarketCap": 53505.9
+    },
+    "currentInfos": {
+      "currentPoolToken": 708231.5523714281,
+      "currentPriceUSD": 0.07680774009270833,
+      "currentPoolEth": 30.5,
+      "currentMarketCap": 54397.665
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1613391146",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.03356027777777772,
+    "isRugged": false
+  },
+  {
     "_id": "0x9a21c935e627063261cc8917b85f080ba001699d",
     "tokenName": "DVG",
     "idPair": "0x0fe19ba4703f542c76f0e87be99e58ee5f344d2f",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-15T12:06:52Z",
     "initialInfos": {
       "initialPoolToken": 444444,
-      "initialPriceUSD": 0.002023123273123273,
+      "initialPriceUSD": 0.0020064732564732566,
       "initialPoolEth": 0.5,
-      "initialMarketCap": 899.165
+      "initialMarketCap": 891.765
     },
     "currentInfos": {
       "currentPoolToken": 444444,
-      "currentPriceUSD": 0.002023123273123273,
+      "currentPriceUSD": 0.0020064732564732566,
       "currentPoolEth": 0.5,
-      "currentMarketCap": 899.165
+      "currentMarketCap": 891.765
     },
     "trustScore": null,
     "contractId": null,
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-02-15T11:17:04Z",
     "initialInfos": {
       "initialPoolToken": 708,
-      "initialPriceUSD": 101.75296581920904,
+      "initialPriceUSD": 100.9155533898305,
       "initialPoolEth": 40.06,
-      "initialMarketCap": 72041.0998
+      "initialMarketCap": 71448.2118
     },
     "currentInfos": {
       "currentPoolToken": 708,
-      "currentPriceUSD": 101.76048119202456,
+      "currentPriceUSD": 100.9230069121972,
       "currentPoolEth": 40.062958791742126,
-      "currentMarketCap": 72046.42068395339
+      "currentMarketCap": 71453.48889383562
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.00007385900504238528,
+    "priceChange": 0.00007385900504252312,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.3590318461008319,
     "isRugged": false
-  },
-  {
-    "_id": "0xe3288594a374221c88ae1a9aeb372d0fa5589ced",
-    "tokenName": "Beets",
-    "idPair": "0x2035ad7475ae93f780fb5a340b7fc0bea89e3468",
-    "idToken": "0xe3288594a374221c88ae1a9aeb372d0fa5589ced",
-    "dateCreationToken": "2021-02-08T04:21:18Z",
-    "initialInfos": {
-      "initialPoolToken": 77333.33333333333,
-      "initialPriceUSD": 0.13486519396551724,
-      "initialPoolEth": 6.5,
-      "initialMarketCap": 10470.631824076874
-    },
-    "currentInfos": {
-      "currentPoolToken": 1307.5210801652818,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 8,
-    "holderCountOld": 0,
-    "txCount": 19,
-    "createdAtTimestamp": "1612758078",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
