@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x60acd58d00b2bcc9a8924fdaa54a2f7c0793b3b2",
+    "tokenName": "MEME20",
+    "idPair": "0xe14f1283059afa8d3c9c52eff76fe91854f5d1b3",
+    "idToken": "0x60acd58d00b2bcc9a8924fdaa54a2f7c0793b3b2",
+    "dateCreationToken": "2021-02-15T00:53:57Z",
+    "initialInfos": {
+      "initialPoolToken": 1000,
+      "initialPriceUSD": 0.180796,
+      "initialPoolEth": 0.1,
+      "initialMarketCap": 180.796
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000,
+      "currentPriceUSD": 0.180796,
+      "currentPoolEth": 0.1,
+      "currentMarketCap": 180.796
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 8,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613350437",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x71ec3b49c4fef75666b4b112068f99f003ef2cec",
     "tokenName": "GROW",
     "idPair": "0x1c3f53630663ee8a2881dbca559929ccb03abfea",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-02-15T00:28:22Z",
     "initialInfos": {
       "initialPoolToken": 600000000000,
-      "initialPriceUSD": 2.1126933333333333e-7,
+      "initialPriceUSD": 2.1092866666666668e-7,
       "initialPoolEth": 70,
-      "initialMarketCap": 126761.6
+      "initialMarketCap": 126557.2
     },
     "currentInfos": {
       "currentPoolToken": 592221878347.558,
-      "currentPriceUSD": 2.1686565032055205e-7,
+      "currentPriceUSD": 2.1651595972872046e-7,
       "currentPoolEth": 70.92274627910257,
-      "currentMarketCap": 128432.58278190203
+      "currentMarketCap": 128225.48836276706
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 9,
+    "holderCount": 11,
     "holderCountOld": 0,
     "txCount": 6,
     "createdAtTimestamp": "1613348902",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.02648901711820643,
+    "priceChange": 0.026489017118206372,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.2684893194068232,
-    "isRugged": false
-  },
-  {
-    "_id": "0x40821cd074dfecb1524286923bc69315075b5c89",
-    "tokenName": "QUAI",
-    "idPair": "0xc574213172847efd56c3802082f3cb22106d4447",
-    "idToken": "0x40821cd074dfecb1524286923bc69315075b5c89",
-    "dateCreationToken": "2021-02-07T23:58:05Z",
-    "initialInfos": {
-      "initialPoolToken": 19000,
-      "initialPriceUSD": 0.21015263157894737,
-      "initialPoolEth": 2.5,
-      "initialMarketCap": 3992.9
-    },
-    "currentInfos": {
-      "currentPoolToken": 20213.192563395936,
-      "currentPriceUSD": 0.2136399093420797,
-      "currentPoolEth": 2.364493069027613,
-      "currentMarketCap": 4318.3446267579075
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 53,
-    "holderCountOld": 55,
-    "txCount": 32,
-    "createdAtTimestamp": "1612742285",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.016594023767065053,
     "isRugged": false
   }
 ]
