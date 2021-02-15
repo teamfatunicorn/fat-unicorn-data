@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xba57cb79c58e35a87ca3ba2cae73d1c575db1f09",
+    "tokenName": "EDP",
+    "idPair": "0xc70efbf80bdb3d8e57576892e18e41d28f0a4ea7",
+    "idToken": "0xba57cb79c58e35a87ca3ba2cae73d1c575db1f09",
+    "dateCreationToken": "2021-02-15T16:16:52Z",
+    "initialInfos": {
+      "initialPoolToken": 1000,
+      "initialPriceUSD": 0.0182658,
+      "initialPoolEth": 0.01,
+      "initialMarketCap": 18.2658
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000,
+      "currentPriceUSD": 0.0182658,
+      "currentPoolEth": 0.01,
+      "currentMarketCap": 18.2658
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613405812",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x6595b8fd9c920c81500dca94e53cdc712513fb1f",
     "tokenName": "OLY",
     "idPair": "0x2b68e9b9984e2f68ffc8fe450b896147dc27206f",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-02-15T15:56:32Z",
     "initialInfos": {
       "initialPoolToken": 2000000,
-      "initialPriceUSD": 0.0410697,
+      "initialPriceUSD": 0.04109805,
       "initialPoolEth": 45,
-      "initialMarketCap": 82139.4
+      "initialMarketCap": 82196.1
     },
     "currentInfos": {
-      "currentPoolToken": 696036.4830828551,
-      "currentPriceUSD": 0.34683323856664383,
-      "currentPoolEth": 132.25548812710255,
-      "currentMarketCap": 241408.58758816365
+      "currentPoolToken": 592246.5000605846,
+      "currentPriceUSD": 0.4807748899131604,
+      "currentPoolEth": 155.88545033236048,
+      "currentMarketCap": 284737.2458680821
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 70,
     "holderCountOld": 0,
-    "txCount": 192,
+    "txCount": 226,
     "createdAtTimestamp": "1613404592",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 7.444990797757077,
+    "priceChange": 10.698240911993645,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.16267777185489504,
     "isRugged": false
-  },
-  {
-    "_id": "0xdda89c20fac2838e9af2bb5f82d416ed5219ee50",
-    "tokenName": "AGT",
-    "idPair": "0x40c59a9f1cae23320aec7fd249e5f5dac54f3f2e",
-    "idToken": "0xdda89c20fac2838e9af2bb5f82d416ed5219ee50",
-    "dateCreationToken": "2021-02-08T09:54:34Z",
-    "initialInfos": {
-      "initialPoolToken": 50000000000,
-      "initialPriceUSD": 2.9781e-8,
-      "initialPoolEth": 0.9,
-      "initialMarketCap": 1470.1423671074679
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.02120011e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 2,
-    "txCount": 4,
-    "createdAtTimestamp": "1612778074",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
