@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x08b654e709b957886990bd235d72b5f3d01a5fc9",
+    "tokenName": "Badger",
+    "idPair": "0x636e8e39fbbf7c8154efa88283e7d12f34062457",
+    "idToken": "0x08b654e709b957886990bd235d72b5f3d01a5fc9",
+    "dateCreationToken": "2021-02-15T09:10:13Z",
+    "initialInfos": {
+      "initialPoolToken": 1,
+      "initialPriceUSD": 59.85564,
+      "initialPoolEth": 0.034,
+      "initialMarketCap": 59.85564
+    },
+    "currentInfos": {
+      "currentPoolToken": 1,
+      "currentPriceUSD": 59.85564,
+      "currentPoolEth": 0.034,
+      "currentMarketCap": 59.85564
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613380213",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x164f91a7b7e24e5cfec5fc1031a55f0be6b5f19d",
     "tokenName": "0xTRUMP",
     "idPair": "0xbc985a91bcee4b65249d34d410dc8a23af72ee52",
@@ -3578,7 +3609,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 33471.664098383466,
-      "currentPriceUSD": 1.8603329546121805,
+      "currentPriceUSD": 1.85224007089438,
       "currentPoolEth": 35.222494862677266,
       "currentMarketCap": 62268.43976793216
     },
@@ -3592,7 +3623,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 36.724226042490066,
+    "priceChange": 36.56011683077665,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xffa8adac294413a470287c2cd54ab8d5b80c9d4b",
-    "tokenName": "ALICE",
-    "idPair": "0xb3c8fcab42b83d6d929e34520feda7e57e805b0f",
-    "idToken": "0xffa8adac294413a470287c2cd54ab8d5b80c9d4b",
-    "dateCreationToken": "2021-02-08T02:27:13Z",
-    "initialInfos": {
-      "initialPoolToken": 2400000,
-      "initialPriceUSD": 0.13185166666666667,
-      "initialPoolEth": 200,
-      "initialMarketCap": 317650.6022240755
-    },
-    "currentInfos": {
-      "currentPoolToken": 2044479.1413576405,
-      "currentPriceUSD": 0.20311031189135204,
-      "currentPoolEth": 234.89122218756756,
-      "currentMarketCap": 415254.79605651397
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 25,
-    "holderCountOld": 24,
-    "txCount": 24,
-    "createdAtTimestamp": "1612751233",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.5404455402511814,
-    "isRugged": false
   }
 ]
