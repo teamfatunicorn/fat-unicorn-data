@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70",
+    "tokenName": "PREMIA",
+    "idPair": "0x755fa735f831878ae47fde6606b28d38aaab20f2",
+    "idToken": "0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70",
+    "dateCreationToken": "2021-02-15T02:12:27Z",
+    "initialInfos": {
+      "initialPoolToken": 26048.60207,
+      "initialPriceUSD": 3.381217915775854,
+      "initialPoolEth": 50,
+      "initialMarketCap": 88076
+    },
+    "currentInfos": {
+      "currentPoolToken": 25049.65135570213,
+      "currentPriceUSD": 3.60035997211846,
+      "currentPoolEth": 52,
+      "currentMarketCap": 91599.04
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 9,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1613355147",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.06481157435022095,
+    "isRugged": false
+  },
+  {
     "_id": "0x60acd58d00b2bcc9a8924fdaa54a2f7c0793b3b2",
     "tokenName": "MEME20",
     "idPair": "0xe14f1283059afa8d3c9c52eff76fe91854f5d1b3",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-15T00:53:57Z",
     "initialInfos": {
       "initialPoolToken": 1000,
-      "initialPriceUSD": 0.176128,
+      "initialPriceUSD": 0.176152,
       "initialPoolEth": 0.1,
-      "initialMarketCap": 176.128
+      "initialMarketCap": 176.152
     },
     "currentInfos": {
       "currentPoolToken": 1000,
-      "currentPriceUSD": 0.176128,
+      "currentPriceUSD": 0.176152,
       "currentPoolEth": 0.1,
-      "currentMarketCap": 176.128
+      "currentMarketCap": 176.152
     },
     "trustScore": null,
     "contractId": null,
@@ -38,9 +69,9 @@
     "dateCreationToken": "2021-02-15T00:28:22Z",
     "initialInfos": {
       "initialPoolToken": 600000000000,
-      "initialPriceUSD": 2.0548266666666667e-7,
+      "initialPriceUSD": 2.0551066666666668e-7,
       "initialPoolEth": 70,
-      "initialMarketCap": 123289.6
+      "initialMarketCap": 123306.4
     },
     "currentInfos": {
       "currentPoolToken": 9.1401431e-11,
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.4705356279915779,
-    "isRugged": false
-  },
-  {
-    "_id": "0x8d554db662583d4e3b7d61514da7b79e023ae94d",
-    "tokenName": "WBS",
-    "idPair": "0xaae570327330b4efc0ae0edf84b0509ad4a3cb0e",
-    "idToken": "0x8d554db662583d4e3b7d61514da7b79e023ae94d",
-    "dateCreationToken": "2021-02-08T00:05:30Z",
-    "initialInfos": {
-      "initialPoolToken": 119000,
-      "initialPriceUSD": 0.30631361344537816,
-      "initialPoolEth": 23,
-      "initialMarketCap": 36451.32
-    },
-    "currentInfos": {
-      "currentPoolToken": 149428.73259854602,
-      "currentPriceUSD": 0.2167115313113521,
-      "currentPoolEth": 18.33335001378332,
-      "currentMarketCap": 32382.929463345463
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 37,
-    "holderCountOld": 39,
-    "txCount": 13,
-    "createdAtTimestamp": "1612742730",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.2925174664168294,
     "isRugged": false
   }
 ]
