@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x45028896f53e2295665cedac1a7f74b13592748c",
+    "tokenName": "DVG",
+    "idPair": "0x5a6087636d8f318c88be9349f481f5fce3d3d2a7",
+    "idToken": "0x45028896f53e2295665cedac1a7f74b13592748c",
+    "dateCreationToken": "2021-02-15T12:18:59Z",
+    "initialInfos": {
+      "initialPoolToken": 1550000,
+      "initialPriceUSD": 0.23013290322580646,
+      "initialPoolEth": 200,
+      "initialMarketCap": 356706
+    },
+    "currentInfos": {
+      "currentPoolToken": 1550000,
+      "currentPriceUSD": 0.23013290322580646,
+      "currentPoolEth": 200,
+      "currentMarketCap": 356706
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613391539",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x837c257dd50fd20edc0a52afbbc9253ecb132678",
     "tokenName": "AOX",
     "idPair": "0x11341b18c1e50a528a868d6a4d8c2d95abfbb156",
@@ -13,9 +44,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 708231.5523714281,
-      "currentPriceUSD": 0.07680774009270833,
+      "currentPriceUSD": 0.07665873515266204,
       "currentPoolEth": 30.5,
-      "currentMarketCap": 54397.665
+      "currentMarketCap": 54292.135
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.03356027777777772,
+    "priceChange": 0.03155519877091445,
     "isRugged": false
   },
   {
@@ -44,9 +75,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 444444,
-      "currentPriceUSD": 0.0020064732564732566,
+      "currentPriceUSD": 0.0020025807525807524,
       "currentPoolEth": 0.5,
-      "currentMarketCap": 891.765
+      "currentMarketCap": 890.035
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": -0.0019399729749431246,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.11354444396033002,
-    "isRugged": false
-  },
-  {
-    "_id": "0x3f807ddd3b97ec2455099bc58ec3e072e03184aa",
-    "tokenName": "HAM",
-    "idPair": "0xd857bfea188d18225e01725ff801a699fadc8474",
-    "idToken": "0x3f807ddd3b97ec2455099bc58ec3e072e03184aa",
-    "dateCreationToken": "2021-02-08T04:44:55Z",
-    "initialInfos": {
-      "initialPoolToken": 100000000000000,
-      "initialPriceUSD": 8.1295e-11,
-      "initialPoolEth": 5,
-      "initialMarketCap": 8129.5
-    },
-    "currentInfos": {
-      "currentPoolToken": 90640903194534.22,
-      "currentPriceUSD": 1.1048249392876713e-10,
-      "currentPoolEth": 5.688838477380565,
-      "currentMarketCap": 10014.233036888096
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 38,
-    "holderCountOld": 39,
-    "txCount": 289,
-    "createdAtTimestamp": "1612759495",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.3590318461008319,
     "isRugged": false
   }
 ]
