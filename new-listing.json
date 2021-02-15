@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x68123b76e410fcdd644e9a2a39356ed000bd4a57",
+    "tokenName": "DVG",
+    "idPair": "0xd758476230528c24ccd45cdc7808f3f07d0c5f77",
+    "idToken": "0x68123b76e410fcdd644e9a2a39356ed000bd4a57",
+    "dateCreationToken": "2021-02-15T05:21:49Z",
+    "initialInfos": {
+      "initialPoolToken": 4000000,
+      "initialPriceUSD": 0.107631875,
+      "initialPoolEth": 250,
+      "initialMarketCap": 430527.5
+    },
+    "currentInfos": {
+      "currentPoolToken": 4000000,
+      "currentPriceUSD": 0.107631875,
+      "currentPoolEth": 250,
+      "currentMarketCap": 430527.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613366509",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70",
     "tokenName": "PREMIA",
     "idPair": "0x755fa735f831878ae47fde6606b28d38aaab20f2",
@@ -12,22 +43,22 @@
       "initialMarketCap": 86105.5
     },
     "currentInfos": {
-      "currentPoolToken": 53058.36975645093,
-      "currentPriceUSD": 3.9525913759134585,
-      "currentPoolEth": 121.77970903099994,
-      "currentMarketCap": 209718.05471937542
+      "currentPoolToken": 52294.131719468416,
+      "currentPriceUSD": 4.069649968835621,
+      "currentPoolEth": 123.58026579162777,
+      "currentMarketCap": 212818.8115224205
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1053,
     "holderCountOld": 0,
-    "txCount": 382,
+    "txCount": 387,
     "createdAtTimestamp": "1613355147",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.19573639194341205,
+    "priceChange": 0.23114891153743938,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 130.76105171174908,
-    "isRugged": false
-  },
-  {
-    "_id": "0x4b86e0295e7d32433ffa6411b82b4f4e56a581e1",
-    "tokenName": "DOGIRA",
-    "idPair": "0xe9bd6ddc2b13f46715382f74534950e004399d10",
-    "idToken": "0x4b86e0295e7d32433ffa6411b82b4f4e56a581e1",
-    "dateCreationToken": "2021-02-08T00:42:44Z",
-    "initialInfos": {
-      "initialPoolToken": 28281600,
-      "initialPriceUSD": 0.0024385416666666665,
-      "initialPoolEth": 39.28,
-      "initialMarketCap": 68965.86
-    },
-    "currentInfos": {
-      "currentPoolToken": 40649380.11831419,
-      "currentPriceUSD": 0.0012596166282437225,
-      "currentPoolEth": 29.713002904313292,
-      "currentMarketCap": 51202.63512482833
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 125,
-    "holderCountOld": 126,
-    "txCount": 413,
-    "createdAtTimestamp": "1612744964",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.4834549495455046,
     "isRugged": false
   }
 ]
