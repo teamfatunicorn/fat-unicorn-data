@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x47a4a6176ef6e42b6ab23f9eefba8757b6d67bd5",
+    "tokenName": "KGCC",
+    "idPair": "0x464740712fa8785708bd582044e7f6a66df8beb4",
+    "idToken": "0x47a4a6176ef6e42b6ab23f9eefba8757b6d67bd5",
+    "dateCreationToken": "2021-02-15T17:23:58Z",
+    "initialInfos": {
+      "initialPoolToken": 10000,
+      "initialPriceUSD": 0.0913475,
+      "initialPoolEth": 0.5,
+      "initialMarketCap": 913.475
+    },
+    "currentInfos": {
+      "currentPoolToken": 10000,
+      "currentPriceUSD": 0.0913475,
+      "currentPoolEth": 0.5,
+      "currentMarketCap": 913.475
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613409838",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xf3afd0feac711f754d430de41ec0c7314a397ca1",
     "tokenName": "OSIS",
     "idPair": "0x3d10f3b2265eb2015e1e1c7b88936f2354c67106",
@@ -12,22 +43,22 @@
       "initialMarketCap": 128169.07146544855
     },
     "currentInfos": {
-      "currentPoolToken": 5649241.934649794,
-      "currentPriceUSD": 0.032139576751743365,
-      "currentPoolEth": 99.38106940411276,
-      "currentMarketCap": 181564.24474784423
+      "currentPoolToken": 5343704.930044871,
+      "currentPriceUSD": 0.035925913932252286,
+      "currentPoolEth": 105.08086340411276,
+      "currentMarketCap": 191977.48339614423
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 6,
+    "holderCount": 68,
     "holderCountOld": 0,
-    "txCount": 56,
+    "txCount": 64,
     "createdAtTimestamp": "1613408814",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.0074843952658672,
+    "priceChange": 1.243984485599954,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 217041.66
     },
     "currentInfos": {
-      "currentPoolToken": 88103.08415733628,
-      "currentPriceUSD": 2.679295952114453,
-      "currentPoolEth": 129.2067307542895,
-      "currentMarketCap": 236054.2367515501
+      "currentPoolToken": 85420.15952832557,
+      "currentPriceUSD": 2.8524473522969434,
+      "currentPoolEth": 133.36791257525135,
+      "currentMarketCap": 243656.50787935482
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 85,
+    "holderCount": 126,
     "holderCountOld": 0,
-    "txCount": 123,
+    "txCount": 133,
     "createdAtTimestamp": "1613408643",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.17323230613402785,
+    "priceChange": 0.24905327558912646,
     "isRugged": false
   },
   {
@@ -447,7 +478,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 93662.06201628102,
-      "currentPriceUSD": 6.44419408155508,
+      "currentPriceUSD": 6.39135936865928,
       "currentPoolEth": 303.1432876662612,
       "currentMarketCap": 553479.0146210593
     },
@@ -461,7 +492,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 24.797127372748513,
+    "priceChange": 24.58562166683305,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x8a40c222996f9f3431f63bf80244c36822060f12",
-    "tokenName": "FXF",
-    "idPair": "0x8d9a7c5170af4249c37c489339da0fed0f7c7f5f",
-    "idToken": "0x8a40c222996f9f3431f63bf80244c36822060f12",
-    "dateCreationToken": "2021-02-08T11:03:26Z",
-    "initialInfos": {
-      "initialPoolToken": 5000000,
-      "initialPriceUSD": 0.050183742,
-      "initialPoolEth": 147,
-      "initialMarketCap": 250918.71
-    },
-    "currentInfos": {
-      "currentPoolToken": 2018816.5870495823,
-      "currentPriceUSD": 0.531408015290469,
-      "currentPoolEth": 588.2100694489508,
-      "currentMarketCap": 1078806.6778728487
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4628,
-    "holderCountOld": 4631,
-    "txCount": 13389,
-    "createdAtTimestamp": "1612782206",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 9.589246519131017,
-    "isRugged": false
   }
 ]
