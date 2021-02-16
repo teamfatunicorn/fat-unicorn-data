@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xd132ccc5f98d1323626bcbc5a3a91aba53333e62",
+    "tokenName": "HAPI",
+    "idPair": "0x60f94cfdda6aa76dffd2af42b2697760963b3eae",
+    "idToken": "0xd132ccc5f98d1323626bcbc5a3a91aba53333e62",
+    "dateCreationToken": "2021-02-16T06:17:58Z",
+    "initialInfos": {
+      "initialPoolToken": 102411,
+      "initialPriceUSD": 3.169874329905967,
+      "initialPoolEth": 180,
+      "initialMarketCap": 325324.0712758658
+    },
+    "currentInfos": {
+      "currentPoolToken": 102411,
+      "currentPriceUSD": 3.169874329905967,
+      "currentPoolEth": 180,
+      "currentMarketCap": 324630
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": null,
+    "txCount": 1,
+    "createdAtTimestamp": "1613456278",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x0394635c930716a7a5c0da1da5ed8a0b12305cff",
     "tokenName": "BME",
     "idPair": "0xeee65150b8ac2cd3bf474e9b79db0c7d6915ff8c",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-16T04:15:48Z",
     "initialInfos": {
       "initialPoolToken": 480,
-      "initialPriceUSD": 3.760125,
+      "initialPriceUSD": 3.7572916666666667,
       "initialPoolEth": 1,
-      "initialMarketCap": 1804.86
+      "initialMarketCap": 1803.5
     },
     "currentInfos": {
       "currentPoolToken": 316.3645093053426,
-      "currentPriceUSD": 18.124417856409902,
+      "currentPriceUSD": 18.11076072605923,
       "currentPoolEth": 3.176934810228226,
-      "currentMarketCap": 5733.922561588108
+      "currentMarketCap": 5729.601930246198
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 3.820163653179057,
+    "priceChange": 3.8201636531790575,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xef6344de1fcfc5f48c30234c16c1389e8cdc572c",
-    "tokenName": "DNA",
-    "idPair": "0xe7ec53f495cc554e636db1bcfbb2d81e808d92c5",
-    "idToken": "0xef6344de1fcfc5f48c30234c16c1389e8cdc572c",
-    "dateCreationToken": "2021-02-08T22:10:48Z",
-    "initialInfos": {
-      "initialPoolToken": 20000,
-      "initialPriceUSD": 0.131079,
-      "initialPoolEth": 1.5,
-      "initialMarketCap": 2562.891932993286
-    },
-    "currentInfos": {
-      "currentPoolToken": 39815.88851694948,
-      "currentPriceUSD": 0.07761428399665286,
-      "currentPoolEth": 1.7109678427901063,
-      "currentMarketCap": 3090.2816789335866
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2970,
-    "holderCountOld": 2969,
-    "txCount": 40,
-    "createdAtTimestamp": "1612822248",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.40788162866170125,
-    "isRugged": false
   }
 ]
