@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x0394635c930716a7a5c0da1da5ed8a0b12305cff",
+    "tokenName": "BME",
+    "idPair": "0xeee65150b8ac2cd3bf474e9b79db0c7d6915ff8c",
+    "idToken": "0x0394635c930716a7a5c0da1da5ed8a0b12305cff",
+    "dateCreationToken": "2021-02-16T04:15:48Z",
+    "initialInfos": {
+      "initialPoolToken": 480,
+      "initialPriceUSD": 3.7813958333333333,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1815.07
+    },
+    "currentInfos": {
+      "currentPoolToken": 240.36054081121682,
+      "currentPriceUSD": 15.102894958333334,
+      "currentPoolEth": 2,
+      "currentMarketCap": 3630.14
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1613448948",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.994,
+    "isRugged": false
+  },
+  {
     "_id": "0x23157662a9cb9be32d4d9bd019d9bcbaa040a62b",
     "tokenName": "BASX",
     "idPair": "0xa2fc0a09ed525ed1e1322472d3f71270c167e976",
@@ -12,22 +43,22 @@
       "initialMarketCap": 356479.748
     },
     "currentInfos": {
-      "currentPoolToken": 403324.9813036534,
-      "currentPriceUSD": 0.6467527948206717,
-      "currentPoolEth": 143.7143244498189,
-      "currentMarketCap": 260851.55887913296
+      "currentPoolToken": 422883.9255672162,
+      "currentPriceUSD": 0.5883925684879446,
+      "currentPoolEth": 137.0865912261012,
+      "currentMarketCap": 248821.75913675915
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 143,
     "holderCountOld": 0,
-    "txCount": 79,
+    "txCount": 81,
     "createdAtTimestamp": "1613442629",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.4655141717779438,
+    "priceChange": -0.5137439036886088,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.4027084281148403,
-    "isRugged": false
-  },
-  {
-    "_id": "0x872a4ad1552f96da0f711cfe8be883ebd4f0f7e7",
-    "tokenName": "MAGIC",
-    "idPair": "0x14ddfce82608af4a0d1aa0c26bf974dc364c29e5",
-    "idToken": "0x872a4ad1552f96da0f711cfe8be883ebd4f0f7e7",
-    "dateCreationToken": "2021-02-08T21:35:12Z",
-    "initialInfos": {
-      "initialPoolToken": 4000,
-      "initialPriceUSD": 0.43693,
-      "initialPoolEth": 1,
-      "initialMarketCap": 1747.72
-    },
-    "currentInfos": {
-      "currentPoolToken": 2240.0373969909415,
-      "currentPriceUSD": 1.5115321085756745,
-      "currentPoolEth": 1.858397340177085,
-      "currentMarketCap": 3385.8884499620835
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 43,
-    "holderCountOld": 42,
-    "txCount": 81,
-    "createdAtTimestamp": "1612820112",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 2.4594376869880175,
     "isRugged": false
   }
 ]
