@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xbb17df8d6c073524ba91be7f1b850ec3ecb6994f",
+    "tokenName": "MOD",
+    "idPair": "0x2f3b3145ac8412bfc5d748bcb287fbc42205d84b",
+    "idToken": "0xbb17df8d6c073524ba91be7f1b850ec3ecb6994f",
+    "dateCreationToken": "2021-02-16T13:52:11Z",
+    "initialInfos": {
+      "initialPoolToken": 300000,
+      "initialPriceUSD": 0.23710133333333333,
+      "initialPoolEth": 40,
+      "initialMarketCap": 71130.4
+    },
+    "currentInfos": {
+      "currentPoolToken": 300000,
+      "currentPriceUSD": 0.23710133333333333,
+      "currentPoolEth": 40,
+      "currentMarketCap": 71130.4
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613483531",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x74d0fd4292cfe7cf5fad95ac8ad312484cd24eba",
     "tokenName": "MOD",
     "idPair": "0xe8f95e58a5e41813e368311a7a330112fd1595ac",
@@ -12,22 +43,22 @@
       "initialMarketCap": 533478
     },
     "currentInfos": {
-      "currentPoolToken": 1956454.8731226348,
-      "currentPriceUSD": 0.3130198308885861,
-      "currentPoolEth": 344.38674520373723,
-      "currentMarketCap": 612409.1735259973
+      "currentPoolToken": 1955888.643148811,
+      "currentPriceUSD": 0.3132013684274916,
+      "currentPoolEth": 344.48674520373726,
+      "currentMarketCap": 612586.9995259973
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 11,
     "holderCountOld": 0,
-    "txCount": 19,
+    "txCount": 20,
     "createdAtTimestamp": "1613482055",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.31726054372415685,
+    "priceChange": 0.3180244960799106,
     "isRugged": false
   },
   {
@@ -2183,7 +2214,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 6479430.824939437,
-      "currentPriceUSD": 0.117822321356021,
+      "currentPriceUSD": 0.117855554360079,
       "currentPoolEth": 423.2202306524538,
       "currentMarketCap": 763421.5808601226
     },
@@ -2197,7 +2228,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.6193797682581759,
+    "priceChange": 1.6201185914070164,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x888e375571b3a2d79693cdb9fb37da01fa53569e",
-    "tokenName": "BERY",
-    "idPair": "0x8cf64208d7dfc1e86aa9784cbe7a88c256107917",
-    "idToken": "0x888e375571b3a2d79693cdb9fb37da01fa53569e",
-    "dateCreationToken": "2021-02-09T05:59:12Z",
-    "initialInfos": {
-      "initialPoolToken": 6800000000,
-      "initialPriceUSD": 0.0000025998088235294117,
-      "initialPoolEth": 10,
-      "initialMarketCap": 17678.7
-    },
-    "currentInfos": {
-      "currentPoolToken": 20208743824.688595,
-      "currentPriceUSD": 3.063734979150693e-7,
-      "currentPoolEth": 3.4716770311034293,
-      "currentMarketCap": 6191.423534039402
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 34,
-    "holderCountOld": 35,
-    "txCount": 173,
-    "createdAtTimestamp": "1612850352",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.8821553742174215,
-    "isRugged": false
   }
 ]
