@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xa3b4377fe0fee031535dc13d8d9d7d6e6c6f2016",
+    "tokenName": "DBNKUSD",
+    "idPair": "0xc1bde875d2a3aa05e246f5df16e4b65b51e619f0",
+    "idToken": "0xa3b4377fe0fee031535dc13d8d9d7d6e6c6f2016",
+    "dateCreationToken": "2021-02-16T23:10:45Z",
+    "initialInfos": {
+      "initialPoolToken": 1785,
+      "initialPriceUSD": 0.9947450980392157,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1775.62
+    },
+    "currentInfos": {
+      "currentPoolToken": 1785,
+      "currentPriceUSD": 0.9947450980392157,
+      "currentPoolEth": 1,
+      "currentMarketCap": 1775.62
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613517045",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x09eb73f1589054e2e6ef3f7ffa09ee5dcb4b0551",
     "tokenName": "VEGA",
     "idPair": "0xd66ecf28f47395bd86e97ab0988bf1611800b3e7",
@@ -51,7 +82,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 18,
+    "holderCount": 24,
     "holderCountOld": 0,
     "txCount": 34,
     "createdAtTimestamp": "1613511612",
@@ -6163,37 +6194,6 @@
     "txCount": 57,
     "createdAtTimestamp": "1612878093",
     "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xefdd28d4385056ef2a533da3426230bce30a41b1",
-    "tokenName": "EVNY",
-    "idPair": "0x222c7f71c7228c1019440f30d7253d5262d2be64",
-    "idToken": "0xefdd28d4385056ef2a533da3426230bce30a41b1",
-    "dateCreationToken": "2021-02-09T13:26:55Z",
-    "initialInfos": {
-      "initialPoolToken": 100000,
-      "initialPriceUSD": 0.4528732,
-      "initialPoolEth": 26,
-      "initialMarketCap": 44920.62154084981
-    },
-    "currentInfos": {
-      "currentPoolToken": 5.5277e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.9e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 19,
-    "holderCountOld": 18,
-    "txCount": 22,
-    "createdAtTimestamp": "1612877215",
-    "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
