@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x0bfec35a1a3550deed3f6fc76dde7fc412729a91",
+    "tokenName": "xKNCa",
+    "idPair": "0x3b686b18617f884bd9601ef594e19e4a917278a9",
+    "idToken": "0x0bfec35a1a3550deed3f6fc76dde7fc412729a91",
+    "dateCreationToken": "2021-02-16T18:42:47Z",
+    "initialInfos": {
+      "initialPoolToken": 262,
+      "initialPriceUSD": 0.19990992366412214,
+      "initialPoolEth": 0.03,
+      "initialMarketCap": 52.3764
+    },
+    "currentInfos": {
+      "currentPoolToken": 262,
+      "currentPriceUSD": 0.19990992366412214,
+      "currentPoolEth": 0.03,
+      "currentMarketCap": 52.3764
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 12,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613500967",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x2fda1a8463f2a5e2b483b0e10baab3a9a6fb76d3",
     "tokenName": "MARS",
     "idPair": "0xd45bbc74862268b02405d9f51f39dcb43fcc97b2",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 2.2749810321271893,
-    "isRugged": false
-  },
-  {
-    "_id": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
-    "tokenName": "DAO",
-    "idPair": "0x7dd3f5705504002dc946aeafe6629b9481b72272",
-    "idToken": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
-    "dateCreationToken": "2021-02-09T09:00:29Z",
-    "initialInfos": {
-      "initialPoolToken": 500000,
-      "initialPriceUSD": 0.9750675,
-      "initialPoolEth": 275,
-      "initialMarketCap": 487533.75
-    },
-    "currentInfos": {
-      "currentPoolToken": 451859.91008160403,
-      "currentPriceUSD": 4.329724322594263,
-      "currentPoolEth": 1113.7398559090857,
-      "currentMarketCap": 1956428.8430855777
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3513,
-    "holderCountOld": 3488,
-    "txCount": 8248,
-    "createdAtTimestamp": "1612861229",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 3.440435480204461,
     "isRugged": false
   }
 ]
