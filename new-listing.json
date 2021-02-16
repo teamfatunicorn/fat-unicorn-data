@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x117235ae46f539122211f3cd663dde36f803803a",
+    "tokenName": "BEAR",
+    "idPair": "0x1199e60a3c98e2e83d38dddab8a33985ec6dde15",
+    "idToken": "0x117235ae46f539122211f3cd663dde36f803803a",
+    "dateCreationToken": "2021-02-16T20:43:45Z",
+    "initialInfos": {
+      "initialPoolToken": 200000,
+      "initialPriceUSD": 0.21711625,
+      "initialPoolEth": 25,
+      "initialMarketCap": 43423.25
+    },
+    "currentInfos": {
+      "currentPoolToken": 200000,
+      "currentPriceUSD": 0.21711625,
+      "currentPoolEth": 25,
+      "currentMarketCap": 43423.25
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613508225",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xe8ff5c9c75deb346acac493c463c8950be03dfba",
     "tokenName": "VIBE",
     "idPair": "0x1c87170cdbb3de04dce91bc99c04680d140d1982",
@@ -12,22 +43,22 @@
       "initialMarketCap": 12521.061262278005
     },
     "currentInfos": {
-      "currentPoolToken": 3003818.2099067424,
-      "currentPriceUSD": 0.005833838925934984,
-      "currentPoolEth": 10.088945207571161,
-      "currentMarketCap": 17523.791599386295
+      "currentPoolToken": 2974424.6380013083,
+      "currentPriceUSD": 0.005949885020881983,
+      "currentPoolEth": 10.18894520757116,
+      "currentMarketCap": 17697.4845993863
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 4632,
     "holderCountOld": 0,
-    "txCount": 13,
+    "txCount": 14,
     "createdAtTimestamp": "1613506415",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.9593856882069636,
+    "priceChange": 0.9983615770681759,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x6fc13eace26590b80cccab1ba5d51890577d83b2",
-    "tokenName": "UMB",
-    "idPair": "0xb1bbeea2da2905e6b0a30203aef55c399c53d042",
-    "idToken": "0x6fc13eace26590b80cccab1ba5d51890577d83b2",
-    "dateCreationToken": "2021-02-09T11:21:46Z",
-    "initialInfos": {
-      "initialPoolToken": 2500000,
-      "initialPriceUSD": 0.0500431176,
-      "initialPoolEth": 71.4,
-      "initialMarketCap": 125107.794
-    },
-    "currentInfos": {
-      "currentPoolToken": 541214.0278752722,
-      "currentPriceUSD": 1.875045606262596,
-      "currentPoolEth": 577.562824417891,
-      "currentMarketCap": 1014800.9850152112
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 5707,
-    "holderCountOld": 5712,
-    "txCount": 18842,
-    "createdAtTimestamp": "1612869706",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 36.46860100224043,
-    "isRugged": false
   }
 ]
