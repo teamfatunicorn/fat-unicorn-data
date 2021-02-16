@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x85ce663a8c18331f68f9551becb49f9fff1ab843",
+    "tokenName": "$cYFI",
+    "idPair": "0x423d533495ccf20fd6698b2030c649f92305669c",
+    "idToken": "0x85ce663a8c18331f68f9551becb49f9fff1ab843",
+    "dateCreationToken": "2021-02-16T06:40:43Z",
+    "initialInfos": {
+      "initialPoolToken": 500,
+      "initialPriceUSD": 86.0256,
+      "initialPoolEth": 24,
+      "initialMarketCap": 43012.8
+    },
+    "currentInfos": {
+      "currentPoolToken": 500,
+      "currentPriceUSD": 86.0256,
+      "currentPoolEth": 24,
+      "currentMarketCap": 43012.8
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613457643",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xd132ccc5f98d1323626bcbc5a3a91aba53333e62",
     "tokenName": "HAPI",
     "idPair": "0x60f94cfdda6aa76dffd2af42b2697760963b3eae",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-02-16T06:17:58Z",
     "initialInfos": {
       "initialPoolToken": 102411,
-      "initialPriceUSD": 3.146972493189208,
+      "initialPriceUSD": 3.1500131821776955,
       "initialPoolEth": 180,
       "initialMarketCap": 325324.0712758658
     },
     "currentInfos": {
-      "currentPoolToken": 95983.93910095036,
-      "currentPriceUSD": 3.5832180417004227,
-      "currentPoolEth": 192.09,
-      "currentMarketCap": 343931.3823
+      "currentPoolToken": 95115.07386892743,
+      "currentPriceUSD": 3.652606846300267,
+      "currentPoolEth": 193.85,
+      "currentMarketCap": 347417.97
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 6,
+    "holderCount": 12,
     "holderCountOld": 0,
-    "txCount": 10,
+    "txCount": 11,
     "createdAtTimestamp": "1613456278",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.1386238835755168,
+    "priceChange": 0.15955287646609595,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.7299780835017347,
     "isRugged": false
-  },
-  {
-    "_id": "0x6fcb6408499a7c0f242e32d77eb51ffa1dd28a7e",
-    "tokenName": "xHDX",
-    "idPair": "0xbcde8cc87a500d087cd44efafb70490572d1bace",
-    "idToken": "0x6fcb6408499a7c0f242e32d77eb51ffa1dd28a7e",
-    "dateCreationToken": "2021-02-08T22:34:02Z",
-    "initialInfos": {
-      "initialPoolToken": 140864.68921970206,
-      "initialPriceUSD": 0.04729580334791364,
-      "initialPoolEth": 3.812,
-      "initialMarketCap": 6662.30864
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.6e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 6.685e-15,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 5274,
-    "holderCountOld": 5215,
-    "txCount": 234,
-    "createdAtTimestamp": "1612823642",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
