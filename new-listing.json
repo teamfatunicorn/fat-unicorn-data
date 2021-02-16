@@ -2170,6 +2170,37 @@
     "isRugged": true
   },
   {
+    "_id": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+    "tokenName": "RAI",
+    "idPair": "0x8ae720a71622e824f576b4a8c03031066548a3b1",
+    "idToken": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+    "dateCreationToken": "2021-02-13T13:48:18Z",
+    "initialInfos": {
+      "initialPoolToken": 800,
+      "initialPriceUSD": 3.1634736547958147,
+      "initialPoolEth": 1.392726440360485,
+      "initialMarketCap": 2530.7789238366518
+    },
+    "currentInfos": {
+      "currentPoolToken": 917.567958599398,
+      "currentPriceUSD": 5.544191857165451,
+      "currentPoolEth": 2.7995491841374434,
+      "currentMarketCap": 5087.172804462708
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 26,
+    "holderCountOld": 0,
+    "txCount": 84,
+    "createdAtTimestamp": "1613224098",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.7525645736800989,
+    "isRugged": false
+  },
+  {
     "_id": "0xb34a87a79eba99a27d47e1a8b0ab9553ffe5f951",
     "tokenName": "FINAL",
     "idPair": "0x97482136b54c1eb4bc4da64ba21db9e7bf2a8d64",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.3018664877221203,
-    "isRugged": false
-  },
-  {
-    "_id": "0x90d938022690dd03bbc631ac6485d7aeabca787e",
-    "tokenName": "BZB",
-    "idPair": "0xf38ebe74c8a29ce9c17ac02684c0874f8f009e30",
-    "idToken": "0x90d938022690dd03bbc631ac6485d7aeabca787e",
-    "dateCreationToken": "2021-02-09T01:59:19Z",
-    "initialInfos": {
-      "initialPoolToken": 2978.936810431,
-      "initialPriceUSD": 4.075618508417911,
-      "initialPoolEth": 7,
-      "initialMarketCap": 12141.01
-    },
-    "currentInfos": {
-      "currentPoolToken": 21709.792225544,
-      "currentPriceUSD": 0.8085441393287638,
-      "currentPoolEth": 9.84256299449313,
-      "currentMarketCap": 17553.32527000876
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 48,
-    "holderCountOld": 49,
-    "txCount": 117,
-    "createdAtTimestamp": "1612835959",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.8016143714975356,
     "isRugged": false
   }
 ]
