@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7c63164d2e50618c5497ef1e1fbd686e06b7cc12",
+    "tokenName": "RUDE20",
+    "idPair": "0xc189ac491c4b69198d39a9b691f65901b747c52e",
+    "idToken": "0x7c63164d2e50618c5497ef1e1fbd686e06b7cc12",
+    "dateCreationToken": "2021-02-17T08:20:52Z",
+    "initialInfos": {
+      "initialPoolToken": 40,
+      "initialPriceUSD": 13.494075,
+      "initialPoolEth": 0.3,
+      "initialMarketCap": 539.763
+    },
+    "currentInfos": {
+      "currentPoolToken": 40,
+      "currentPriceUSD": 13.494075,
+      "currentPoolEth": 0.3,
+      "currentMarketCap": 539.763
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613550052",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xc2600f260e105988fca1e83f7005e92285aacdb5",
     "tokenName": "MASK",
     "idPair": "0xe0a023b5eca0114c5210f667cb316cd6621e8eed",
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 6,
     "createdAtTimestamp": "1612881019",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x834460e25d4ee4a17955c2056b7b1fdfe35f1755",
-    "tokenName": "EVN",
-    "idPair": "0x0cfb0f0a318874d3e47bd70ce537a30270ac6f50",
-    "idToken": "0x834460e25d4ee4a17955c2056b7b1fdfe35f1755",
-    "dateCreationToken": "2021-02-09T14:03:52Z",
-    "initialInfos": {
-      "initialPoolToken": 300000,
-      "initialPriceUSD": 0.9844475333333333,
-      "initialPoolEth": 169,
-      "initialMarketCap": 295334.26
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.9668e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 5.1e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 44,
-    "holderCountOld": 43,
-    "txCount": 49,
-    "createdAtTimestamp": "1612879432",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
