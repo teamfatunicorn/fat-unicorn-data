@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xce0a4db43fd0930ea3aaa62e2530827938fd055c",
+    "tokenName": "KRATOM",
+    "idPair": "0x42d6d0729ae930d11f9cf7154fc56e1c6627a86f",
+    "idToken": "0xce0a4db43fd0930ea3aaa62e2530827938fd055c",
+    "dateCreationToken": "2021-02-17T06:13:18Z",
+    "initialInfos": {
+      "initialPoolToken": 700000000,
+      "initialPriceUSD": 2.4899285714285713e-7,
+      "initialPoolEth": 0.1,
+      "initialMarketCap": 175.16027125572518
+    },
+    "currentInfos": {
+      "currentPoolToken": 700000000,
+      "currentPriceUSD": 2.4899285714285713e-7,
+      "currentPoolEth": 0.1,
+      "currentMarketCap": 174.295
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613542398",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x476a98fed57fb485b9fab54c66e7e755b965fffd",
     "tokenName": "MM",
     "idPair": "0xbe12d7b62432e1eedcf425873886486cf85dc898",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 8.309776409505172e+21,
     "isRugged": false
-  },
-  {
-    "_id": "0x8888888861ba162cb37b98792e9427fcd77f1c24",
-    "tokenName": "EVN",
-    "idPair": "0x11c27799a3ce1b459af7adda3af2e88eee9951ff",
-    "idToken": "0x8888888861ba162cb37b98792e9427fcd77f1c24",
-    "dateCreationToken": "2021-02-09T13:55:29Z",
-    "initialInfos": {
-      "initialPoolToken": 300000,
-      "initialPriceUSD": 0.9902726666666667,
-      "initialPoolEth": 170,
-      "initialMarketCap": 297081.8
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.4494e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 4.1e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 77,
-    "holderCountOld": 78,
-    "txCount": 94,
-    "createdAtTimestamp": "1612878929",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
