@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x32d056b39e5242f43f17be38014703cf6554fb50",
+    "tokenName": "GRAF",
+    "idPair": "0x52f55bdd0d6363ecfec10be1875529df0705a0c5",
+    "idToken": "0x32d056b39e5242f43f17be38014703cf6554fb50",
+    "dateCreationToken": "2021-02-17T14:50:48Z",
+    "initialInfos": {
+      "initialPoolToken": 117000,
+      "initialPriceUSD": 0.1552008547008547,
+      "initialPoolEth": 10,
+      "initialMarketCap": 18158.5
+    },
+    "currentInfos": {
+      "currentPoolToken": 117000,
+      "currentPriceUSD": 0.1552008547008547,
+      "currentPoolEth": 10,
+      "currentMarketCap": 18158.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613573448",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x79d415b4cf08ddd17a262e65e28d915aebfc4b70",
     "tokenName": "XEND",
     "idPair": "0xa3b12083132e6a1443f6b556e4d0a86177de685f",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-17T13:26:42Z",
     "initialInfos": {
       "initialPoolToken": 4368000,
-      "initialPriceUSD": 0.07490233516483516,
+      "initialPriceUSD": 0.07482898351648351,
       "initialPoolEth": 180,
-      "initialMarketCap": 327173.4
+      "initialMarketCap": 326853
     },
     "currentInfos": {
       "currentPoolToken": 3662600.587177475,
-      "currentPriceUSD": 0.10658835494285995,
+      "currentPriceUSD": 0.10648397326353122,
       "currentPoolEth": 214.78,
-      "currentMarketCap": 390390.5714
+      "currentMarketCap": 390008.263
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.4230311339198489,
+    "priceChange": 0.42303113391984903,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xbec8d5c639778652dc2440da996a6bcf43f07746",
-    "tokenName": "NXN",
-    "idPair": "0x3802ceddc1052e66568a5a5d2e2772a7b7b00c08",
-    "idToken": "0xbec8d5c639778652dc2440da996a6bcf43f07746",
-    "dateCreationToken": "2021-02-09T18:01:26Z",
-    "initialInfos": {
-      "initialPoolToken": 210000,
-      "initialPriceUSD": 0.08400952380952381,
-      "initialPoolEth": 10,
-      "initialMarketCap": 17642
-    },
-    "currentInfos": {
-      "currentPoolToken": 203884.4165583967,
-      "currentPriceUSD": 0.09274068251643228,
-      "currentPoolEth": 10.313230508227512,
-      "currentMarketCap": 18908.3799460903
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 9,
-    "holderCountOld": 10,
-    "txCount": 12,
-    "createdAtTimestamp": "1612893686",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.10393058204573051,
-    "isRugged": false
   }
 ]
