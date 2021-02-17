@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc2600f260e105988fca1e83f7005e92285aacdb5",
+    "tokenName": "MASK",
+    "idPair": "0xe0a023b5eca0114c5210f667cb316cd6621e8eed",
+    "idToken": "0xc2600f260e105988fca1e83f7005e92285aacdb5",
+    "dateCreationToken": "2021-02-17T06:32:56Z",
+    "initialInfos": {
+      "initialPoolToken": 1320000,
+      "initialPriceUSD": 0.19981704545454546,
+      "initialPoolEth": 150,
+      "initialMarketCap": 263802.0285051235
+    },
+    "currentInfos": {
+      "currentPoolToken": 1320000,
+      "currentPriceUSD": 0.19981704545454546,
+      "currentPoolEth": 150,
+      "currentMarketCap": 263758.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": null,
+    "txCount": 1,
+    "createdAtTimestamp": "1613543576",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xce0a4db43fd0930ea3aaa62e2530827938fd055c",
     "tokenName": "KRATOM",
     "idPair": "0x42d6d0729ae930d11f9cf7154fc56e1c6627a86f",
@@ -12,22 +43,22 @@
       "initialMarketCap": 175.16027125572518
     },
     "currentInfos": {
-      "currentPoolToken": 449201704.39960986,
-      "currentPriceUSD": 6.106585022125715e-7,
-      "currentPoolEth": 0.156,
-      "currentMarketCap": 274.30884
+      "currentPoolToken": 324694031.53711027,
+      "currentPriceUSD": 0.0000011697543013093239,
+      "currentPoolEth": 0.216,
+      "currentMarketCap": 379.81224
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 3,
     "holderCountOld": 0,
-    "txCount": 2,
+    "txCount": 3,
     "createdAtTimestamp": "1613542398",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.4309792,
+    "priceChange": 3.6566916947692305,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xa22e0d6ab33d80172cd15c5e809ee03f0422893a",
-    "tokenName": "UMB",
-    "idPair": "0x838f02f8a98cc4f17248b72182acdb33c1895a90",
-    "idToken": "0xa22e0d6ab33d80172cd15c5e809ee03f0422893a",
-    "dateCreationToken": "2021-02-09T13:57:28Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000,
-      "initialPriceUSD": 0.0524262,
-      "initialPoolEth": 30,
-      "initialMarketCap": 52426.2
-    },
-    "currentInfos": {
-      "currentPoolToken": 1e-18,
-      "currentPriceUSD": 435650000000000000000,
-      "currentPoolEth": 0.25,
-      "currentMarketCap": 435.65
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 73,
-    "holderCountOld": 0,
-    "txCount": 53,
-    "createdAtTimestamp": "1612879048",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 8.309776409505172e+21,
-    "isRugged": false
   }
 ]
