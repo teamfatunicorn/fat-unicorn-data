@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x79d415b4cf08ddd17a262e65e28d915aebfc4b70",
+    "tokenName": "XEND",
+    "idPair": "0xa3b12083132e6a1443f6b556e4d0a86177de685f",
+    "idToken": "0x79d415b4cf08ddd17a262e65e28d915aebfc4b70",
+    "dateCreationToken": "2021-02-17T13:26:42Z",
+    "initialInfos": {
+      "initialPoolToken": 4368000,
+      "initialPriceUSD": 0.07541208791208791,
+      "initialPoolEth": 180,
+      "initialMarketCap": 329400
+    },
+    "currentInfos": {
+      "currentPoolToken": 4368000,
+      "currentPriceUSD": 0.07541208791208791,
+      "currentPoolEth": 180,
+      "currentMarketCap": 329400
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613568402",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xa0ea8d2d23d688eac55f8c977fa778cedad9b077",
     "tokenName": "XTF.TTTYFI",
     "idPair": "0xf7bc9207269232ee849d5edddff88e3ef49ac098",
@@ -144,7 +175,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 3,
+    "holderCount": 4,
     "holderCountOld": 0,
     "txCount": 5,
     "createdAtTimestamp": "1613559849",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.10279859874998869,
-    "isRugged": false
-  },
-  {
-    "_id": "0x9bbd51ab0a7fddcfa0ec739960c3505e9342d5b6",
-    "tokenName": "NUDE",
-    "idPair": "0x0f88fc0442abb71f803c0b4dd8c56489ca899fdf",
-    "idToken": "0x9bbd51ab0a7fddcfa0ec739960c3505e9342d5b6",
-    "dateCreationToken": "2021-02-09T17:20:35Z",
-    "initialInfos": {
-      "initialPoolToken": 200000000,
-      "initialPriceUSD": 0.00000109365,
-      "initialPoolEth": 0.125,
-      "initialMarketCap": 218.73
-    },
-    "currentInfos": {
-      "currentPoolToken": 188580734.00433,
-      "currentPriceUSD": 0.000001297959920439303,
-      "currentPoolEth": 0.13364249261768257,
-      "currentMarketCap": 244.77023450464554
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 5,
-    "txCount": 9,
-    "createdAtTimestamp": "1612891235",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.18681472174763697,
     "isRugged": false
   }
 ]
