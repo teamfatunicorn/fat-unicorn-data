@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7b2d6633f56c05f76409ae236a2036f07232bbfa",
+    "tokenName": "XEND",
+    "idPair": "0x4c3bf87f96efcc999240b01017a9b5042c273b34",
+    "idToken": "0x7b2d6633f56c05f76409ae236a2036f07232bbfa",
+    "dateCreationToken": "2021-02-17T11:21:52Z",
+    "initialInfos": {
+      "initialPoolToken": 20000000,
+      "initialPriceUSD": 0.0362258,
+      "initialPoolEth": 400,
+      "initialMarketCap": 724516
+    },
+    "currentInfos": {
+      "currentPoolToken": 20000000,
+      "currentPriceUSD": 0.0362258,
+      "currentPoolEth": 400,
+      "currentMarketCap": 724516
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613560912",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x2824f0c8ec66c74c3f855d8445892e1e896ca8e6",
     "tokenName": "DSTAR",
     "idPair": "0x630ef502c5349bd89b4da9ddc36a57b0d5091761",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c",
-    "tokenName": "NFTI",
-    "idPair": "0x23bfedb92a5e5b8571650c975f9553c1113e75cb",
-    "idToken": "0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c",
-    "dateCreationToken": "2021-02-09T15:26:41Z",
-    "initialInfos": {
-      "initialPoolToken": 199.5,
-      "initialPriceUSD": 148.2510776942356,
-      "initialPoolEth": 17,
-      "initialMarketCap": 29822.581658584608
-    },
-    "currentInfos": {
-      "currentPoolToken": 343.53403320793484,
-      "currentPriceUSD": 273.5271412728054,
-      "currentPoolEth": 51.91284427303026,
-      "currentMarketCap": 93965.88203328341
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 114,
-    "holderCountOld": 113,
-    "txCount": 233,
-    "createdAtTimestamp": "1612884401",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.8450263264658945,
-    "isRugged": false
   }
 ]
