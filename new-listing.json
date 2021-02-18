@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xb6c6920327b33f8eec26786c7462c5f4098d47e3",
+    "tokenName": "MINTY",
+    "idPair": "0xe4fa0ae0bff44540515f38c36cacb38d9797bbd8",
+    "idToken": "0xb6c6920327b33f8eec26786c7462c5f4098d47e3",
+    "dateCreationToken": "2021-02-18T03:15:34Z",
+    "initialInfos": {
+      "initialPoolToken": 200000,
+      "initialPriceUSD": 0.190956,
+      "initialPoolEth": 20,
+      "initialMarketCap": 38191.2
+    },
+    "currentInfos": {
+      "currentPoolToken": 200000,
+      "currentPriceUSD": 0.190956,
+      "currentPoolEth": 20,
+      "currentMarketCap": 38191.2
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613618134",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x082e1e50a882a6320144b5338b987e09e89ed6ea",
     "tokenName": "SHIRLEY",
     "idPair": "0x364a397ee8f7b6326ac3f7a752ba8b2189a960e0",
@@ -292,7 +323,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 18205.63686978388,
-      "currentPriceUSD": 36.8104817394916,
+      "currentPriceUSD": 37.1134590480309,
       "currentPoolEth": 287.7630156881314,
       "currentMarketCap": 549169.8167693861
     },
@@ -306,7 +337,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.4272914551023952,
+    "priceChange": 1.4472698470536849,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.3510030878654401,
     "isRugged": false
-  },
-  {
-    "_id": "0xd385b8784c167c6dff911f9a36f8758fbcaa7640",
-    "tokenName": "Auction",
-    "idPair": "0x8640f7ca78297154339877cdc3c139ddf4e63fc3",
-    "idToken": "0xd385b8784c167c6dff911f9a36f8758fbcaa7640",
-    "dateCreationToken": "2021-02-10T03:49:18Z",
-    "initialInfos": {
-      "initialPoolToken": 310481.5,
-      "initialPriceUSD": 1.1492536592357354,
-      "initialPoolEth": 200,
-      "initialMarketCap": 361820.4789604183
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.1381e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 4.7e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 55,
-    "holderCountOld": 53,
-    "txCount": 23,
-    "createdAtTimestamp": "1612928958",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
