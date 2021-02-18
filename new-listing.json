@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x48fb253446873234f2febbf9bdeaa72d9d387f94",
+    "tokenName": "vBNT",
+    "idPair": "0x68552173d677569177f4816822bd6274791a0192",
+    "idToken": "0x48fb253446873234f2febbf9bdeaa72d9d387f94",
+    "dateCreationToken": "2021-02-18T21:54:11Z",
+    "initialInfos": {
+      "initialPoolToken": 1449.8,
+      "initialPriceUSD": 4.706121534004691,
+      "initialPoolEth": 3.5,
+      "initialMarketCap": 6822.935
+    },
+    "currentInfos": {
+      "currentPoolToken": 1449.8,
+      "currentPriceUSD": 4.706121534004691,
+      "currentPoolEth": 3.5,
+      "currentMarketCap": 6822.935
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1933,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613685251",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xe1a0da60f8802b49cc36313bafade3f9e12342fd",
     "tokenName": "MP4",
     "idPair": "0xe3bd93547009449b4af93d3c4f47b8ba05cf4934",
@@ -12,22 +43,22 @@
       "initialMarketCap": 687461.6007574485
     },
     "currentInfos": {
-      "currentPoolToken": 60129747.17504158,
-      "currentPriceUSD": 0.011496484825491097,
-      "currentPoolEth": 354.6102287145756,
-      "currentMarketCap": 691280.7259584815
+      "currentPoolToken": 59686586.70107074,
+      "currentPriceUSD": 0.01166998811519033,
+      "currentPoolEth": 357.3090101301278,
+      "currentMarketCap": 696541.7574377728
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 676,
     "holderCountOld": 0,
-    "txCount": 483,
+    "txCount": 491,
     "createdAtTimestamp": "1613674986",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.017097068216272587,
+    "priceChange": -0.002263239032123404,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xc014186cf1ba36032aaec7f96088f09eb3934347",
-    "tokenName": "WCX",
-    "idPair": "0x1e6ed9b226ce8e32db59ddb3e2fce3edcc66d98e",
-    "idToken": "0xc014186cf1ba36032aaec7f96088f09eb3934347",
-    "dateCreationToken": "2021-02-10T22:44:06Z",
-    "initialInfos": {
-      "initialPoolToken": 87050,
-      "initialPriceUSD": 0.010045720850086157,
-      "initialPoolEth": 0.5,
-      "initialMarketCap": 874.48
-    },
-    "currentInfos": {
-      "currentPoolToken": 87050,
-      "currentPriceUSD": 0.01111280873061459,
-      "currentPoolEth": 0.5,
-      "currentMarketCap": 967.37
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 16,
-    "holderCountOld": 15,
-    "txCount": 1,
-    "createdAtTimestamp": "1612997046",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.10622312688683569,
-    "isRugged": false
   }
 ]
