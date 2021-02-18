@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x1e96a1792ab6a5741a37d1898b2f55afebd7a0a9",
+    "tokenName": "DODO",
+    "idPair": "0xc8a1a58cfc20e392bcd40f2049a1e40131aa00eb",
+    "idToken": "0x1e96a1792ab6a5741a37d1898b2f55afebd7a0a9",
+    "dateCreationToken": "2021-02-18T10:22:43Z",
+    "initialInfos": {
+      "initialPoolToken": 400000,
+      "initialPriceUSD": 0.962395,
+      "initialPoolEth": 200,
+      "initialMarketCap": 384958
+    },
+    "currentInfos": {
+      "currentPoolToken": 400000,
+      "currentPriceUSD": 0.962395,
+      "currentPoolEth": 200,
+      "currentMarketCap": 384958
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613643763",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xa856763fa49aa5cfadf7e86f2ab2ccda9abb78c2",
     "tokenName": "MARS",
     "idPair": "0x25a920ddc4632b682b2272518bbe4f29d07f4032",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-18T09:55:43Z",
     "initialInfos": {
       "initialPoolToken": 3000000,
-      "initialPriceUSD": 0.095759,
+      "initialPriceUSD": 0.0962395,
       "initialPoolEth": 150,
-      "initialMarketCap": 287277
+      "initialMarketCap": 288718.5
     },
     "currentInfos": {
       "currentPoolToken": 2896481.0163817583,
-      "currentPriceUSD": 0.10273687811604103,
+      "currentPriceUSD": 0.103252391748543,
       "currentPoolEth": 155.37725808824155,
-      "currentMarketCap": 297575.4171454393
+      "currentMarketCap": 299068.59259566735
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.07286916233503933,
+    "priceChange": 0.07286916233503912,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.19872691727625458,
-    "isRugged": false
-  },
-  {
-    "_id": "0x6f347aec9078d988d9509c970c71839f020838c1",
-    "tokenName": "NEON",
-    "idPair": "0x7a8630bb517163e2f86925e3716898d9658cf582",
-    "idToken": "0x6f347aec9078d988d9509c970c71839f020838c1",
-    "dateCreationToken": "2021-02-10T08:06:44Z",
-    "initialInfos": {
-      "initialPoolToken": 300000000,
-      "initialPriceUSD": 0.00000531489,
-      "initialPoolEth": 0.9,
-      "initialMarketCap": 1594.467
-    },
-    "currentInfos": {
-      "currentPoolToken": 191273879.95338866,
-      "currentPriceUSD": 0.000014698350673353176,
-      "currentPoolEth": 1.4833747848382817,
-      "currentMarketCap": 2811.4105622077645
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 22,
-    "holderCountOld": 23,
-    "txCount": 65,
-    "createdAtTimestamp": "1612944404",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.7655042105016616,
     "isRugged": false
   }
 ]
