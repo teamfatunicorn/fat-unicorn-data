@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x67520897d47dcbfc4da681db17ae1d3b1612751a",
+    "tokenName": "eRowan",
+    "idPair": "0xde9ba99a2be78de37a2eb1e22c9d6bb36ffe5419",
+    "idToken": "0x67520897d47dcbfc4da681db17ae1d3b1612751a",
+    "dateCreationToken": "2021-02-18T18:48:53Z",
+    "initialInfos": {
+      "initialPoolToken": 780000,
+      "initialPriceUSD": 0.4955794871794872,
+      "initialPoolEth": 200,
+      "initialMarketCap": 386552
+    },
+    "currentInfos": {
+      "currentPoolToken": 780000,
+      "currentPriceUSD": 0.4955794871794872,
+      "currentPoolEth": 200,
+      "currentMarketCap": 386552
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613674133",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xbacdbe7cd52bdf11065210863139e9dad875a896",
     "tokenName": "FUR",
     "idPair": "0x838cc44eb793d79dd4d33d8cbe9b58a1556626d4",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-18T18:06:34Z",
     "initialInfos": {
       "initialPoolToken": 4300,
-      "initialPriceUSD": 0.8966139534883721,
+      "initialPriceUSD": 0.8989581395348837,
       "initialPoolEth": 2,
-      "initialMarketCap": 3855.44
+      "initialMarketCap": 3865.52
     },
     "currentInfos": {
       "currentPoolToken": 3933.6627445575427,
-      "currentPriceUSD": 1.0740006708947665,
+      "currentPriceUSD": 1.0768086323110042,
       "currentPoolEth": 2.1915819863514714,
-      "currentMarketCap": 4224.75642672855
+      "currentMarketCap": 4235.801999939758
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.19784068351407247,
+    "priceChange": 0.1978406835140727,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.4238918737090362,
-    "isRugged": false
-  },
-  {
-    "_id": "0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
-    "tokenName": "NUX",
-    "idPair": "0x83054b25b21d1f3a2b96e8e3803dbd4921358d52",
-    "idToken": "0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
-    "dateCreationToken": "2021-02-10T22:04:31Z",
-    "initialInfos": {
-      "initialPoolToken": 30000,
-      "initialPriceUSD": 1.74896,
-      "initialPoolEth": 30,
-      "initialMarketCap": 52468.8
-    },
-    "currentInfos": {
-      "currentPoolToken": 9767.60212293441,
-      "currentPriceUSD": 19.157455271638455,
-      "currentPoolEth": 97.52256706481087,
-      "currentMarketCap": 187122.40078127675
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 778,
-    "holderCountOld": 776,
-    "txCount": 861,
-    "createdAtTimestamp": "1612994671",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 9.953626882054737,
     "isRugged": false
   }
 ]
