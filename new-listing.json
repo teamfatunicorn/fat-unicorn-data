@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x80a7e048f37a50500351c204cb407766fa3bae7f",
+    "tokenName": "CRPT",
+    "idPair": "0x857de873190fe43b2cab9265605d8d4138f2f863",
+    "idToken": "0x80a7e048f37a50500351c204cb407766fa3bae7f",
+    "dateCreationToken": "2021-02-18T14:12:32Z",
+    "initialInfos": {
+      "initialPoolToken": 13000,
+      "initialPriceUSD": 0.18396153846153845,
+      "initialPoolEth": 1.25,
+      "initialMarketCap": 2391.5
+    },
+    "currentInfos": {
+      "currentPoolToken": 7289.546061415221,
+      "currentPriceUSD": 0.5858717047351506,
+      "currentPoolEth": 2.2322489952677036,
+      "currentMarketCap": 4270.7387777467375
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 56929,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1613657552",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.18475106065522,
+    "isRugged": false
+  },
+  {
     "_id": "0xe54826fb1f6bb0f2640bacd138c37fa6215ba4b4",
     "tokenName": "BTK",
     "idPair": "0xa4a4c1f2eb3b5f9e0a7a41384f5a7eef6409a028",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-18T13:18:39Z",
     "initialInfos": {
       "initialPoolToken": 19000,
-      "initialPriceUSD": 0.0010098368421052632,
+      "initialPriceUSD": 0.0010069473684210526,
       "initialPoolEth": 0.01,
       "initialMarketCap": 18.968563199252248
     },
     "currentInfos": {
       "currentPoolToken": 19000,
-      "currentPriceUSD": 0.0010098368421052632,
+      "currentPriceUSD": 0.0010069473684210526,
       "currentPoolEth": 0.01,
-      "currentMarketCap": 19.1869
+      "currentMarketCap": 19.132
     },
     "trustScore": null,
     "contractId": null,
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-02-18T12:54:59Z",
     "initialInfos": {
       "initialPoolToken": 5002.409712978812,
-      "initialPriceUSD": 1.1506594481986965,
+      "initialPriceUSD": 1.1473670349528826,
       "initialPoolEth": 3,
-      "initialMarketCap": 5756.07
+      "initialMarketCap": 5739.6
     },
     "currentInfos": {
       "currentPoolToken": 5202.409712978812,
-      "currentPriceUSD": 1.0659275371127452,
+      "currentPriceUSD": 1.0628775695938917,
       "currentPoolEth": 2.890196838680328,
-      "currentMarketCap": 5545.391772406929
+      "currentMarketCap": 5529.524591762576
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.0736376963823615,
+    "priceChange": -0.07363769638236169,
     "isRugged": false
   },
   {
@@ -69,15 +100,15 @@
     "dateCreationToken": "2021-02-18T12:26:11Z",
     "initialInfos": {
       "initialPoolToken": 100000,
-      "initialPriceUSD": 0.004796725,
+      "initialPriceUSD": 0.004783,
       "initialPoolEth": 0.25,
-      "initialMarketCap": 479.6725
+      "initialMarketCap": 478.3
     },
     "currentInfos": {
       "currentPoolToken": 100000,
-      "currentPriceUSD": 0.004796725,
+      "currentPriceUSD": 0.004783,
       "currentPoolEth": 0.25,
-      "currentMarketCap": 479.6725
+      "currentMarketCap": 478.3
     },
     "trustScore": null,
     "contractId": null,
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.04569444307973396,
-    "isRugged": false
-  },
-  {
-    "_id": "0x672ef7e4fe230b5ca1466c5fdd40588d30fdf90a",
-    "tokenName": "WOWS",
-    "idPair": "0xdf21bb85a5bfb606bfca4562aa8cea2017622415",
-    "idToken": "0x672ef7e4fe230b5ca1466c5fdd40588d30fdf90a",
-    "dateCreationToken": "2021-02-10T21:30:02Z",
-    "initialInfos": {
-      "initialPoolToken": 239.64444444444445,
-      "initialPriceUSD": 28.4928125,
-      "initialPoolEth": 3.7444444444444445,
-      "initialMarketCap": 6828.144222222222
-    },
-    "currentInfos": {
-      "currentPoolToken": 4417.409914511543,
-      "currentPriceUSD": 54.22812935421567,
-      "currentPoolEth": 125.0706814883971,
-      "currentMarketCap": 239547.87625472678
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 87,
-    "holderCountOld": 88,
-    "txCount": 351,
-    "createdAtTimestamp": "1612992602",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.9032213599207052,
     "isRugged": false
   }
 ]
