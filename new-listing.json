@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xa840fde9efa92b426e730e3da7e4082ceb87afa1",
+    "tokenName": "eRowan",
+    "idPair": "0x2f139303b6455ca7e36f197a04f71b2b61f40f59",
+    "idToken": "0xa840fde9efa92b426e730e3da7e4082ceb87afa1",
+    "dateCreationToken": "2021-02-19T08:14:54Z",
+    "initialInfos": {
+      "initialPoolToken": 750000,
+      "initialPriceUSD": 0.5126533333333333,
+      "initialPoolEth": 200,
+      "initialMarketCap": 384490
+    },
+    "currentInfos": {
+      "currentPoolToken": 750000,
+      "currentPriceUSD": 0.5126533333333333,
+      "currentPoolEth": 200,
+      "currentMarketCap": 384490
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613722494",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x55d7a9ffff4d6d0031655fc78fb13f0252b4e955",
     "tokenName": "SOTA",
     "idPair": "0x1207e5ca22714f4e2c01a8784ea9892f9cf8de1e",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.14339482823829944,
     "isRugged": false
-  },
-  {
-    "_id": "0x9abb02b0889d794d010d43c8dc9bf2360f3e67b8",
-    "tokenName": "BUILD",
-    "idPair": "0x3b50cd5de3158119e6d8f32670ba4800b0b11192",
-    "idToken": "0x9abb02b0889d794d010d43c8dc9bf2360f3e67b8",
-    "dateCreationToken": "2021-02-11T05:55:43Z",
-    "initialInfos": {
-      "initialPoolToken": 720000,
-      "initialPriceUSD": 0.021616,
-      "initialPoolEth": 9,
-      "initialMarketCap": 15563.52
-    },
-    "currentInfos": {
-      "currentPoolToken": 45452.91019252036,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 7,
-    "holderCountOld": 8,
-    "txCount": 19,
-    "createdAtTimestamp": "1613022943",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
