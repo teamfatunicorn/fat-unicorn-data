@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x0563dce613d559a47877ffd1593549fb9d3510d6",
+    "tokenName": "SUPERBID",
+    "idPair": "0x0d9c6511980f80e477a774156492f5c133d2c0f3",
+    "idToken": "0x0563dce613d559a47877ffd1593549fb9d3510d6",
+    "dateCreationToken": "2021-02-19T20:25:10Z",
+    "initialInfos": {
+      "initialPoolToken": 1961000,
+      "initialPriceUSD": 0.00998281489036206,
+      "initialPoolEth": 10,
+      "initialMarketCap": 19576.3
+    },
+    "currentInfos": {
+      "currentPoolToken": 1961000,
+      "currentPriceUSD": 0.00998281489036206,
+      "currentPoolEth": 10,
+      "currentMarketCap": 19576.3
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613766310",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xd6cb2adf47655b1babddc214d79257348cbc39a7",
     "tokenName": "ORCL5",
     "idPair": "0xf58d2bacbc68c587730ea0ce5131f6ae7c622a5d",
@@ -12,22 +43,22 @@
       "initialMarketCap": 1959.7071029318697
     },
     "currentInfos": {
-      "currentPoolToken": 2845.595271867059,
-      "currentPriceUSD": 23.3263571501837,
-      "currentPoolEth": 33.90700572449568,
-      "currentMarketCap": 66377.3716164451
+      "currentPoolToken": 2871.3831844015504,
+      "currentPriceUSD": 22.911086912838186,
+      "currentPoolEth": 33.605180599952675,
+      "currentMarketCap": 65786.509697886
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 43,
     "holderCountOld": 0,
-    "txCount": 65,
+    "txCount": 68,
     "createdAtTimestamp": "1613758661",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.1915610789671031,
+    "priceChange": 0.17034817165849453,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.6251408101922945,
     "isRugged": false
-  },
-  {
-    "_id": "0xa96b5c88d9ce06b17ee67f468f58876ebb247048",
-    "tokenName": "P3RP",
-    "idPair": "0x54704e66bf066e4810a6692c7f66402f99dcd62b",
-    "idToken": "0xa96b5c88d9ce06b17ee67f468f58876ebb247048",
-    "dateCreationToken": "2021-02-11T10:18:04Z",
-    "initialInfos": {
-      "initialPoolToken": 90000,
-      "initialPriceUSD": 0.18274471111111112,
-      "initialPoolEth": 9.2,
-      "initialMarketCap": 16447.024
-    },
-    "currentInfos": {
-      "currentPoolToken": 8.9736e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.2e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 5,
-    "txCount": 11,
-    "createdAtTimestamp": "1613038684",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
