@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x37776ff25bb2c392e46a5e490f90ca5438248c1d",
+    "tokenName": "eRowan",
+    "idPair": "0x986c7016d9d0315ccfea9770d36f3cfcdd44cdc4",
+    "idToken": "0x37776ff25bb2c392e46a5e490f90ca5438248c1d",
+    "dateCreationToken": "2021-02-19T03:34:44Z",
+    "initialInfos": {
+      "initialPoolToken": 15000000,
+      "initialPriceUSD": 0.028160146666666667,
+      "initialPoolEth": 220,
+      "initialMarketCap": 422402.2
+    },
+    "currentInfos": {
+      "currentPoolToken": 15000000,
+      "currentPriceUSD": 0.028160146666666667,
+      "currentPoolEth": 220,
+      "currentMarketCap": 422402.2
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613705684",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x4664a0438d8e50e00b285fdd24a3a5c9c76a75e5",
     "tokenName": "FLOP",
     "idPair": "0xc16666e79bdeb9b9e670c54624f5ef30c3e2e1b4",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-19T02:48:40Z",
     "initialInfos": {
       "initialPoolToken": 104719666667,
-      "initialPriceUSD": 1.831938604331463e-9,
+      "initialPriceUSD": 1.833476042380344e-9,
       "initialPoolEth": 0.1,
-      "initialMarketCap": 191.84
+      "initialMarketCap": 192.001
     },
     "currentInfos": {
       "currentPoolToken": 89581910111.47049,
-      "currentPriceUSD": 2.5119935821434263e-9,
+      "currentPriceUSD": 2.514101750235196e-9,
       "currentPoolEth": 0.11730044999796892,
-      "currentMarketCap": 225.0291832761632
+      "currentMarketCap": 225.21803700066
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.37122148973990243,
+    "priceChange": 0.3712214897399025,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 6.418730866228675,
     "isRugged": false
-  },
-  {
-    "_id": "0x1b5fc621a982a6c0e281d3e087264e55e3c95654",
-    "tokenName": "VAI",
-    "idPair": "0xa6b0a74f8385c97daeb79fa71b38edc290a7240c",
-    "idToken": "0x1b5fc621a982a6c0e281d3e087264e55e3c95654",
-    "dateCreationToken": "2021-02-11T03:38:17Z",
-    "initialInfos": {
-      "initialPoolToken": 3400000,
-      "initialPriceUSD": 0.10106,
-      "initialPoolEth": 200,
-      "initialMarketCap": 343604
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.1322e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 9e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 22,
-    "holderCountOld": 21,
-    "txCount": 22,
-    "createdAtTimestamp": "1613014697",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
