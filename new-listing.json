@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x84d86c4a34fdeb681c32687aef8287f42d622e57",
+    "tokenName": "TFG",
+    "idPair": "0xba1a2ed7d634da14a4898164f7f9805604b7c2ab",
+    "idToken": "0x84d86c4a34fdeb681c32687aef8287f42d622e57",
+    "dateCreationToken": "2021-02-19T20:54:49Z",
+    "initialInfos": {
+      "initialPoolToken": 150000,
+      "initialPriceUSD": 0.3714462,
+      "initialPoolEth": 28.5,
+      "initialMarketCap": 55716.93
+    },
+    "currentInfos": {
+      "currentPoolToken": 150000,
+      "currentPriceUSD": 0.3714462,
+      "currentPoolEth": 28.5,
+      "currentMarketCap": 55716.93
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 40,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613768089",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x0563dce613d559a47877ffd1593549fb9d3510d6",
     "tokenName": "SUPERBID",
     "idPair": "0x0d9c6511980f80e477a774156492f5c133d2c0f3",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.07564264286952022,
-    "isRugged": false
-  },
-  {
-    "_id": "0x60a995cebcd44ca566ae22a9666ed28c67b598a1",
-    "tokenName": "HCORE",
-    "idPair": "0x356b3ae8fdb6532d62ad337eeeeac8a363cb8c55",
-    "idToken": "0x60a995cebcd44ca566ae22a9666ed28c67b598a1",
-    "dateCreationToken": "2021-02-11T11:10:06Z",
-    "initialInfos": {
-      "initialPoolToken": 5,
-      "initialPriceUSD": 50.44592,
-      "initialPoolEth": 0.14,
-      "initialMarketCap": 252.2296
-    },
-    "currentInfos": {
-      "currentPoolToken": 3980.612916570365,
-      "currentPriceUSD": 18.91011670030433,
-      "currentPoolEth": 38.573294110063905,
-      "currentMarketCap": 75273.85479108439
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 283,
-    "holderCountOld": 284,
-    "txCount": 301,
-    "createdAtTimestamp": "1613041806",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.6251408101922945,
     "isRugged": false
   }
 ]
