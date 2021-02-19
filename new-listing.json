@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x4664a0438d8e50e00b285fdd24a3a5c9c76a75e5",
+    "tokenName": "FLOP",
+    "idPair": "0xc16666e79bdeb9b9e670c54624f5ef30c3e2e1b4",
+    "idToken": "0x4664a0438d8e50e00b285fdd24a3a5c9c76a75e5",
+    "dateCreationToken": "2021-02-19T02:48:40Z",
+    "initialInfos": {
+      "initialPoolToken": 0,
+      "initialPriceUSD": 0,
+      "initialPoolEth": 0,
+      "initialMarketCap": 0
+    },
+    "currentInfos": {
+      "currentPoolToken": 104719666667,
+      "currentPriceUSD": 1.8243087099149655e-9,
+      "currentPoolEth": 0.1,
+      "currentMarketCap": 191.041
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613702920",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": null,
+    "isRugged": true
+  },
+  {
     "_id": "0x5881da4527bcdc44a100f8ba2efc4039243d2c07",
     "tokenName": "LGBTQ",
     "idPair": "0x12e000961034308a29a5050d317c6d3c270418d0",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-19T01:19:40Z",
     "initialInfos": {
       "initialPoolToken": 600000,
-      "initialPriceUSD": 0.00012734266666666666,
+      "initialPriceUSD": 0.00012736066666666667,
       "initialPoolEth": 0.04,
-      "initialMarketCap": 76.4056
+      "initialMarketCap": 76.4164
     },
     "currentInfos": {
       "currentPoolToken": 600000,
-      "currentPriceUSD": 0.00012734266666666666,
+      "currentPriceUSD": 0.00012736066666666667,
       "currentPoolEth": 0.04,
-      "currentMarketCap": 76.4056
+      "currentMarketCap": 76.4164
     },
     "trustScore": null,
     "contractId": null,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x3fa807b6f8d4c407e6e605368f4372d14658b38c",
-    "tokenName": "RISE",
-    "idPair": "0x5777af58135e1ffebdf925da447030f9595e30c4",
-    "idToken": "0x3fa807b6f8d4c407e6e605368f4372d14658b38c",
-    "dateCreationToken": "2021-02-11T03:25:49Z",
-    "initialInfos": {
-      "initialPoolToken": 1000,
-      "initialPriceUSD": 17.8899,
-      "initialPoolEth": 10,
-      "initialMarketCap": 17889.9
-    },
-    "currentInfos": {
-      "currentPoolToken": 44414.082710163,
-      "currentPriceUSD": 20.869646643038138,
-      "currentPoolEth": 482.11580903565635,
-      "currentMarketCap": 926906.2121357715
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1410,
-    "holderCountOld": 1407,
-    "txCount": 2150,
-    "createdAtTimestamp": "1613013949",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.1665602738437966,
-    "isRugged": false
   }
 ]
