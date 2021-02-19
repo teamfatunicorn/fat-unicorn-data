@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x97b1571a4ba244f538de29dcbb0f05207dfceed5",
+    "tokenName": "TORK",
+    "idPair": "0x29a763295074a40ee773f8b39a23b8958b8b8f01",
+    "idToken": "0x97b1571a4ba244f538de29dcbb0f05207dfceed5",
+    "dateCreationToken": "2021-02-19T15:59:58Z",
+    "initialInfos": {
+      "initialPoolToken": 80000,
+      "initialPriceUSD": 0.049022,
+      "initialPoolEth": 2,
+      "initialMarketCap": 3921.76
+    },
+    "currentInfos": {
+      "currentPoolToken": 80000,
+      "currentPriceUSD": 0.049022,
+      "currentPoolEth": 2,
+      "currentMarketCap": 3921.76
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 7,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613750398",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xf34588114f10b5d8e620c6f53b65d2f57a73f0da",
     "tokenName": "ABRE",
     "idPair": "0x292988825315d65c2c60dc4b049ae155cdbb7baa",
@@ -7,7 +38,7 @@
     "dateCreationToken": "2021-02-19T13:09:10Z",
     "initialInfos": {
       "initialPoolToken": 9500000,
-      "initialPriceUSD": 0.0010324052631578947,
+      "initialPriceUSD": 0.001032042105263158,
       "initialPoolEth": 5,
       "initialMarketCap": 9646.260472255728
     },
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x88dafebb769311d7fbbeb9a21431fa026d4100d0",
-    "tokenName": "LUX",
-    "idPair": "0x509efb2eab6a6f2d163488d5608943b51676f0f4",
-    "idToken": "0x88dafebb769311d7fbbeb9a21431fa026d4100d0",
-    "dateCreationToken": "2021-02-11T08:06:25Z",
-    "initialInfos": {
-      "initialPoolToken": 18000,
-      "initialPriceUSD": 0.09701055555555556,
-      "initialPoolEth": 1,
-      "initialMarketCap": 1746.19
-    },
-    "currentInfos": {
-      "currentPoolToken": 9184.87885407779,
-      "currentPriceUSD": 0.8270584994569333,
-      "currentPoolEth": 3.8857026566888377,
-      "currentMarketCap": 7596.432122747295
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 37,
-    "holderCountOld": 36,
-    "txCount": 25,
-    "createdAtTimestamp": "1613030785",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 7.525448542383589,
-    "isRugged": false
   }
 ]
