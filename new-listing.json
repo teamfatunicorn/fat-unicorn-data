@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x19f3446fda63cbeb02114dcbfb9ba2466dcc82e5",
+    "tokenName": "TLC",
+    "idPair": "0x8bb504b0644dffb5187f3c4294fff922c109f2d8",
+    "idToken": "0x19f3446fda63cbeb02114dcbfb9ba2466dcc82e5",
+    "dateCreationToken": "2021-02-19T03:47:58Z",
+    "initialInfos": {
+      "initialPoolToken": 3333,
+      "initialPriceUSD": 1.3252637263726372,
+      "initialPoolEth": 2.3,
+      "initialMarketCap": 4417.104
+    },
+    "currentInfos": {
+      "currentPoolToken": 3333,
+      "currentPriceUSD": 1.3252637263726372,
+      "currentPoolEth": 2.3,
+      "currentMarketCap": 4417.104
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613706478",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x37776ff25bb2c392e46a5e490f90ca5438248c1d",
     "tokenName": "eRowan",
     "idPair": "0x986c7016d9d0315ccfea9770d36f3cfcdd44cdc4",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-19T03:34:44Z",
     "initialInfos": {
       "initialPoolToken": 15000000,
-      "initialPriceUSD": 0.02817408,
+      "initialPriceUSD": 0.02816704,
       "initialPoolEth": 220,
-      "initialMarketCap": 422611.2
+      "initialMarketCap": 422505.6
     },
     "currentInfos": {
       "currentPoolToken": 14832329.398136627,
-      "currentPriceUSD": 0.02881563436656852,
+      "currentPriceUSD": 0.028808434058131095,
       "currentPoolEth": 222.49447190009684,
-      "currentMarketCap": 427402.98074121034
+      "currentMarketCap": 427296.1833946983
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.022771084861280922,
+    "priceChange": 0.022771084861280905,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-02-19T02:48:40Z",
     "initialInfos": {
       "initialPoolToken": 104719666667,
-      "initialPriceUSD": 1.8343832263222304e-9,
+      "initialPriceUSD": 1.8339248596989616e-9,
       "initialPoolEth": 0.1,
-      "initialMarketCap": 192.096
+      "initialMarketCap": 192.048
     },
     "currentInfos": {
       "currentPoolToken": 89581910111.47049,
-      "currentPriceUSD": 2.5153457003514577e-9,
+      "currentPriceUSD": 2.5147171781874517e-9,
       "currentPoolEth": 0.11730044999796892,
-      "currentMarketCap": 225.32947242815808
+      "currentMarketCap": 225.27316821215905
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.3712214897399026,
+    "priceChange": 0.37122148973990243,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 1.396219597683268,
-    "isRugged": false
-  },
-  {
-    "_id": "0x4911f8cebd546ef805e81dd0b0084a90d11a7688",
-    "tokenName": "GRAND",
-    "idPair": "0x11747a464b34ab89d90cafa301eaf87a1727b618",
-    "idToken": "0x4911f8cebd546ef805e81dd0b0084a90d11a7688",
-    "dateCreationToken": "2021-02-11T04:17:02Z",
-    "initialInfos": {
-      "initialPoolToken": 430000,
-      "initialPriceUSD": 0.0010051744186046511,
-      "initialPoolEth": 0.25,
-      "initialMarketCap": 432.225
-    },
-    "currentInfos": {
-      "currentPoolToken": 504681.3846945593,
-      "currentPriceUSD": 0.0074571184852457876,
-      "currentPoolEth": 1.9618259874191082,
-      "currentMarketCap": 3763.4688829652387
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 523,
-    "holderCountOld": 522,
-    "txCount": 21,
-    "createdAtTimestamp": "1613017022",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 6.418730866228675,
     "isRugged": false
   }
 ]
