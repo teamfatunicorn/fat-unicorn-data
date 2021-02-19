@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xd4b5b0932cd6af2c925dfd4c721716e564ca2080",
+    "tokenName": "GLTS",
+    "idPair": "0xd15511d3b38c394a64caa7a36df28b5b34445e8c",
+    "idToken": "0xd4b5b0932cd6af2c925dfd4c721716e564ca2080",
+    "dateCreationToken": "2021-02-19T16:58:53Z",
+    "initialInfos": {
+      "initialPoolToken": 100,
+      "initialPriceUSD": 0.98274,
+      "initialPoolEth": 0.05,
+      "initialMarketCap": 97.28234783543006
+    },
+    "currentInfos": {
+      "currentPoolToken": 100,
+      "currentPriceUSD": 0.98274,
+      "currentPoolEth": 0.05,
+      "currentMarketCap": 98.274
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613753933",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x97b1571a4ba244f538de29dcbb0f05207dfceed5",
     "tokenName": "TORK",
     "idPair": "0x29a763295074a40ee773f8b39a23b8958b8b8f01",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9999999999999513,
-    "isRugged": true
-  },
-  {
-    "_id": "0x84f696eafac7fab3ce3290e07da287b5de957881",
-    "tokenName": "DEXM",
-    "idPair": "0x04f6da41be871bf13739c6f7bd186557c180f352",
-    "idToken": "0x84f696eafac7fab3ce3290e07da287b5de957881",
-    "dateCreationToken": "2021-02-11T09:08:20Z",
-    "initialInfos": {
-      "initialPoolToken": 5816600,
-      "initialPriceUSD": 0.03044665268369838,
-      "initialPoolEth": 100,
-      "initialMarketCap": 177096
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.35145e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 8e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 50,
-    "holderCountOld": 49,
-    "txCount": 80,
-    "createdAtTimestamp": "1613034500",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
