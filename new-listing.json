@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7025bab2ec90410de37f488d1298204cd4d6b29d",
+    "tokenName": "XRA",
+    "idPair": "0xd2ba2af89026ba8f474da229ea1a3e46f3531217",
+    "idToken": "0x7025bab2ec90410de37f488d1298204cd4d6b29d",
+    "dateCreationToken": "2021-02-19T17:56:20Z",
+    "initialInfos": {
+      "initialPoolToken": 200000,
+      "initialPriceUSD": 0.01955162895,
+      "initialPoolEth": 1.993,
+      "initialMarketCap": 3910.32579
+    },
+    "currentInfos": {
+      "currentPoolToken": 133977.92642140467,
+      "currentPriceUSD": 0.04361324969798007,
+      "currentPoolEth": 2.978146490642164,
+      "currentMarketCap": 5843.212759034323
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1687,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1613757380",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.2306708975253986,
+    "isRugged": false
+  },
+  {
     "_id": "0xd4b5b0932cd6af2c925dfd4c721716e564ca2080",
     "tokenName": "GLTS",
     "idPair": "0xd15511d3b38c394a64caa7a36df28b5b34445e8c",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-19T16:58:53Z",
     "initialInfos": {
       "initialPoolToken": 100,
-      "initialPriceUSD": 0.982745,
+      "initialPriceUSD": 0.981015,
       "initialPoolEth": 0.05,
       "initialMarketCap": 97.28234783543006
     },
     "currentInfos": {
       "currentPoolToken": 97.85367743905184,
-      "currentPriceUSD": 1.02639514046426,
+      "currentPriceUSD": 1.02458829983622,
       "currentPoolEth": 0.0511,
-      "currentMarketCap": 100.436539
+      "currentMarketCap": 100.259733
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.044416547999999965,
+    "priceChange": 0.04441654799999994,
     "isRugged": true
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-02-19T15:59:58Z",
     "initialInfos": {
       "initialPoolToken": 80000,
-      "initialPriceUSD": 0.04913725,
+      "initialPriceUSD": 0.04905075,
       "initialPoolEth": 2,
-      "initialMarketCap": 3930.98
+      "initialMarketCap": 3924.06
     },
     "currentInfos": {
       "currentPoolToken": 72417.42946639328,
-      "currentPriceUSD": 0.06015688589330208,
+      "currentPriceUSD": 0.06005098719873186,
       "currentPoolEth": 2.2164483365964776,
-      "currentMarketCap": 4356.407041096072
+      "currentMarketCap": 4348.73812985145
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.2242623649736621,
+    "priceChange": 0.2242623649736622,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.9928434468870303,
     "isRugged": false
-  },
-  {
-    "_id": "0x39e21919697717e5258b3ae7d87f3c40d64f09a9",
-    "tokenName": "ANGB",
-    "idPair": "0xcd96c51369390f208a2ab96da074906357e3617d",
-    "idToken": "0x39e21919697717e5258b3ae7d87f3c40d64f09a9",
-    "dateCreationToken": "2021-02-11T09:33:17Z",
-    "initialInfos": {
-      "initialPoolToken": 20000,
-      "initialPriceUSD": 0.89386,
-      "initialPoolEth": 10,
-      "initialMarketCap": 17877.2
-    },
-    "currentInfos": {
-      "currentPoolToken": 95278467344.11198,
-      "currentPriceUSD": 4.35659321799168e-14,
-      "currentPoolEth": 0.000002111899112657,
-      "currentMarketCap": 0.00415089524652
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 30,
-    "holderCountOld": 29,
-    "txCount": 39,
-    "createdAtTimestamp": "1613035997",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9999999999999513,
-    "isRugged": true
   }
 ]
