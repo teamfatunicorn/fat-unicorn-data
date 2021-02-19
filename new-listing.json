@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x143d3406b13666365a52075c3cbf6a68424b6968",
+    "tokenName": "erowan",
+    "idPair": "0x15a96bd24b382d6011f0e26a5422701d74fbe7a7",
+    "idToken": "0x143d3406b13666365a52075c3cbf6a68424b6968",
+    "dateCreationToken": "2021-02-19T04:55:22Z",
+    "initialInfos": {
+      "initialPoolToken": 350000,
+      "initialPriceUSD": 0.2991544285714286,
+      "initialPoolEth": 55,
+      "initialMarketCap": 104704.05
+    },
+    "currentInfos": {
+      "currentPoolToken": 350000,
+      "currentPriceUSD": 0.2991544285714286,
+      "currentPoolEth": 55,
+      "currentMarketCap": 104704.05
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613710522",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x19f3446fda63cbeb02114dcbfb9ba2466dcc82e5",
     "tokenName": "TLC",
     "idPair": "0x8bb504b0644dffb5187f3c4294fff922c109f2d8",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x6c28aef8977c9b773996d0e8376d2ee379446f2f",
-    "tokenName": "QUICK",
-    "idPair": "0xdc3e94ddf605864b79fce18c7cf974e579001e7b",
-    "idToken": "0x6c28aef8977c9b773996d0e8376d2ee379446f2f",
-    "dateCreationToken": "2021-02-11T04:23:13Z",
-    "initialInfos": {
-      "initialPoolToken": 5,
-      "initialPriceUSD": 41.4936,
-      "initialPoolEth": 0.12,
-      "initialMarketCap": 207.468
-    },
-    "currentInfos": {
-      "currentPoolToken": 1593.9427616109363,
-      "currentPriceUSD": 99.42777749843046,
-      "currentPoolEth": 82.61380157254152,
-      "currentMarketCap": 158482.18624668595
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 352,
-    "holderCountOld": 350,
-    "txCount": 1626,
-    "createdAtTimestamp": "1613017393",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.396219597683268,
-    "isRugged": false
   }
 ]
