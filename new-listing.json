@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xf34588114f10b5d8e620c6f53b65d2f57a73f0da",
+    "tokenName": "ABRE",
+    "idPair": "0x292988825315d65c2c60dc4b049ae155cdbb7baa",
+    "idToken": "0xf34588114f10b5d8e620c6f53b65d2f57a73f0da",
+    "dateCreationToken": "2021-02-19T13:09:10Z",
+    "initialInfos": {
+      "initialPoolToken": 9500000,
+      "initialPriceUSD": 0.0010170000000000001,
+      "initialPoolEth": 5,
+      "initialMarketCap": 9646.260472255728
+    },
+    "currentInfos": {
+      "currentPoolToken": 6890400.66386538,
+      "currentPriceUSD": 0.0019630353385592706,
+      "currentPoolEth": 7,
+      "currentMarketCap": 13526.1
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1613740150",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.930221571838024,
+    "isRugged": false
+  },
+  {
     "_id": "0xca7ac1dd35876a0dabec1ab1b37129c37b78a20f",
     "tokenName": "GRN",
     "idPair": "0x2cb6067bfffe2344d5062090bdd93045398e0f8e",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-19T10:27:40Z",
     "initialInfos": {
       "initialPoolToken": 1250000,
-      "initialPriceUSD": 0.040292226912,
+      "initialPriceUSD": 0.04032478224,
       "initialPoolEth": 26.086,
       "initialMarketCap": 50471.515042101055
     },
     "currentInfos": {
       "currentPoolToken": 1164465.051412549,
-      "currentPriceUSD": 0.046438770920238674,
+      "currentPriceUSD": 0.04647629253507835,
       "currentPoolEth": 28.00808279062523,
-      "currentMarketCap": 54076.325767171315
+      "currentMarketCap": 54120.01837632469
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.15254912620399466,
+    "priceChange": 0.15254912620399433,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 7.412195705436883,
-    "isRugged": false
-  },
-  {
-    "_id": "0xada0a1202462085999652dc5310a7a9e2bf3ed42",
-    "tokenName": "CGI",
-    "idPair": "0x3458766bfd015df952ddb286fe315d58ecf6f516",
-    "idToken": "0xada0a1202462085999652dc5310a7a9e2bf3ed42",
-    "dateCreationToken": "2021-02-11T07:36:06Z",
-    "initialInfos": {
-      "initialPoolToken": 32.23417268109977,
-      "initialPriceUSD": 108.34402466447439,
-      "initialPoolEth": 2,
-      "initialMarketCap": 3492.38
-    },
-    "currentInfos": {
-      "currentPoolToken": 50.58729378709061,
-      "currentPriceUSD": 90.09359746261943,
-      "currentPoolEth": 2.3626704422898435,
-      "currentMarketCap": 4557.59128317741
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 35,
-    "holderCountOld": 34,
-    "txCount": 150,
-    "createdAtTimestamp": "1613028966",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.16844885777848725,
     "isRugged": false
   }
 ]
