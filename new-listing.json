@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x2b4bb243a632cb2a9247e01edd7789c7a41a8f09",
+    "tokenName": "XBOMB",
+    "idPair": "0x6a05eada4ae37a4e417b4c1355b84bc8e56ad9c2",
+    "idToken": "0x2b4bb243a632cb2a9247e01edd7789c7a41a8f09",
+    "dateCreationToken": "2021-02-19T23:50:12Z",
+    "initialInfos": {
+      "initialPoolToken": 100,
+      "initialPriceUSD": 0.196766,
+      "initialPoolEth": 0.01,
+      "initialMarketCap": 19.6766
+    },
+    "currentInfos": {
+      "currentPoolToken": 100,
+      "currentPriceUSD": 0.196766,
+      "currentPoolEth": 0.01,
+      "currentMarketCap": 19.6766
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613778612",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x84d86c4a34fdeb681c32687aef8287f42d622e57",
     "tokenName": "TFG",
     "idPair": "0xba1a2ed7d634da14a4898164f7f9805604b7c2ab",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.8076382936851123,
-    "isRugged": false
-  },
-  {
-    "_id": "0x0e3cc2c4fb9252d17d07c67135e48536071735d9",
-    "tokenName": "ARTH",
-    "idPair": "0xa59fcfeee713e1b4498c5ed76e13dd9f69de3510",
-    "idToken": "0x0e3cc2c4fb9252d17d07c67135e48536071735d9",
-    "dateCreationToken": "2021-02-11T11:45:04Z",
-    "initialInfos": {
-      "initialPoolToken": 457.736496587308,
-      "initialPriceUSD": 0.7799771323934659,
-      "initialPoolEth": 0.2,
-      "initialMarketCap": 357.024
-    },
-    "currentInfos": {
-      "currentPoolToken": 575.7815845782841,
-      "currentPriceUSD": 0.8406576698593922,
-      "currentPoolEth": 0.24754275695488193,
-      "currentMarketCap": 484.0352052395288
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1841,
-    "holderCountOld": 1840,
-    "txCount": 6,
-    "createdAtTimestamp": "1613043904",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.07779784168764,
     "isRugged": false
   }
 ]
