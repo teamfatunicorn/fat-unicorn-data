@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x8a055d58c27767541a25f89ece7af2d03113b65c",
+    "tokenName": "LPOOL",
+    "idPair": "0x8d365633fbab06ad47c895a1ad25dca485a4d582",
+    "idToken": "0x8a055d58c27767541a25f89ece7af2d03113b65c",
+    "dateCreationToken": "2021-02-20T23:57:49Z",
+    "initialInfos": {
+      "initialPoolToken": 396400,
+      "initialPriceUSD": 0.38586478304742683,
+      "initialPoolEth": 80,
+      "initialMarketCap": 152956.8
+    },
+    "currentInfos": {
+      "currentPoolToken": 396400,
+      "currentPriceUSD": 0.38586478304742683,
+      "currentPoolEth": 80,
+      "currentMarketCap": 152956.8
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613865469",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x3df0f320280640155c4ba6e4cdc9bdf3f6631806",
     "tokenName": "KWON",
     "idPair": "0x59d5fb9af8de9e05002a2e5a5cb57d69abd07479",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.9567967510960251,
     "isRugged": false
-  },
-  {
-    "_id": "0x98b91604da8a346dea09e2304264ddebac5c81b4",
-    "tokenName": "TRZ",
-    "idPair": "0x5b2bacd75c0ee84a4ca6a5536bbc5f4334b47554",
-    "idToken": "0x98b91604da8a346dea09e2304264ddebac5c81b4",
-    "dateCreationToken": "2021-02-11T23:53:56Z",
-    "initialInfos": {
-      "initialPoolToken": 6650,
-      "initialPriceUSD": 1.3485037593984963,
-      "initialPoolEth": 5,
-      "initialMarketCap": 8967.55
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.5849e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 4e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 13,
-    "holderCountOld": 0,
-    "txCount": 18,
-    "createdAtTimestamp": "1613087636",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
