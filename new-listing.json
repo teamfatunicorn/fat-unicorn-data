@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x501262281b2ba043e2fbf14904980689cddb0c78",
+    "tokenName": "MORE",
+    "idPair": "0x060946fa940d225c921c6efd28950986955c9bbc",
+    "idToken": "0x501262281b2ba043e2fbf14904980689cddb0c78",
+    "dateCreationToken": "2021-02-20T03:38:39Z",
+    "initialInfos": {
+      "initialPoolToken": 3000,
+      "initialPriceUSD": 9.95835,
+      "initialPoolEth": 15,
+      "initialMarketCap": 29875.05
+    },
+    "currentInfos": {
+      "currentPoolToken": 2814.89,
+      "currentPriceUSD": 11.313311176484255,
+      "currentPoolEth": 15.989459346966722,
+      "currentMarketCap": 31845.726497573763
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 55,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1613792319",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.13606281929077166,
+    "isRugged": false
+  },
+  {
     "_id": "0x359b04965a756052b335d962826a6292b40cb343",
     "tokenName": "LIFT",
     "idPair": "0x2b2dcb7161e5b0471afa594812798b9501f23792",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-02-20T03:32:33Z",
     "initialInfos": {
       "initialPoolToken": 90,
-      "initialPriceUSD": 398.97,
+      "initialPriceUSD": 398.334,
       "initialPoolEth": 18,
-      "initialMarketCap": 35907.3
+      "initialMarketCap": 35850.06
     },
     "currentInfos": {
-      "currentPoolToken": 89.50424592672806,
-      "currentPriceUSD": 403.4086274472222,
-      "currentPoolEth": 18.1,
-      "currentMarketCap": 36106.785
+      "currentPoolToken": 89.2584154289858,
+      "currentPriceUSD": 404.99050231022835,
+      "currentPoolEth": 18.15,
+      "currentMarketCap": 36148.8105
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 122,
     "holderCountOld": 0,
-    "txCount": 2,
+    "txCount": 3,
     "createdAtTimestamp": "1613791953",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.01112521604938263,
+    "priceChange": 0.016710856492863645,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x058d972d6fd8407a295bf5e9b5c2a5fa2d7287c2",
-    "tokenName": "RBASE",
-    "idPair": "0x9250807c6097796b87e279f903856d7cb151e9ac",
-    "idToken": "0x058d972d6fd8407a295bf5e9b5c2a5fa2d7287c2",
-    "dateCreationToken": "2021-02-11T15:06:58Z",
-    "initialInfos": {
-      "initialPoolToken": 80000,
-      "initialPriceUSD": 0.3357675,
-      "initialPoolEth": 15,
-      "initialMarketCap": 26861.4
-    },
-    "currentInfos": {
-      "currentPoolToken": 99968739.39383666,
-      "currentPriceUSD": 2.3483338328649466e-7,
-      "currentPoolEth": 0.012058885593144454,
-      "currentMarketCap": 23.47599729474054
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 15,
-    "holderCountOld": 0,
-    "txCount": 21,
-    "createdAtTimestamp": "1613056018",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9999993006071662,
     "isRugged": true
   }
 ]
