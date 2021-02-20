@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x03356e9b3271168ee51b5092a7b0740be8643da1",
+    "tokenName": "FCL",
+    "idPair": "0xb05cb406fcbc6f0e4e4bf81b4116ff4c3e90d6b9",
+    "idToken": "0x03356e9b3271168ee51b5092a7b0740be8643da1",
+    "dateCreationToken": "2021-02-20T08:37:35Z",
+    "initialInfos": {
+      "initialPoolToken": 4000000,
+      "initialPriceUSD": 0.1004365,
+      "initialPoolEth": 200,
+      "initialMarketCap": 401746
+    },
+    "currentInfos": {
+      "currentPoolToken": 3958559.8165603383,
+      "currentPriceUSD": 0.10255354265500262,
+      "currentPoolEth": 202.1,
+      "currentMarketCap": 405964.333
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1613810255",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.021078419249999963,
+    "isRugged": false
+  },
+  {
     "_id": "0x87e0f29a12784cb381cf81ec4bd40739424fad97",
     "tokenName": "BEAR",
     "idPair": "0x3ef287a659697548dc97be7b86590d5098076863",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-20T08:14:01Z",
     "initialInfos": {
       "initialPoolToken": 1000,
-      "initialPriceUSD": 1.001425,
+      "initialPriceUSD": 1.004365,
       "initialPoolEth": 0.5,
-      "initialMarketCap": 1001.425
+      "initialMarketCap": 1004.365
     },
     "currentInfos": {
       "currentPoolToken": 1000,
-      "currentPriceUSD": 1.001425,
+      "currentPriceUSD": 1.004365,
       "currentPoolEth": 0.5,
-      "currentMarketCap": 1001.425
+      "currentMarketCap": 1004.365
     },
     "trustScore": null,
     "contractId": null,
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-02-20T07:55:00Z",
     "initialInfos": {
       "initialPoolToken": 100,
-      "initialPriceUSD": 0.5007125,
+      "initialPriceUSD": 0.5021825,
       "initialPoolEth": 0.025,
-      "initialMarketCap": 50.07125
+      "initialMarketCap": 50.21825
     },
     "currentInfos": {
       "currentPoolToken": 2000,
-      "currentPriceUSD": 0.5007125,
+      "currentPriceUSD": 0.5021825,
       "currentPoolEth": 0.5,
-      "currentMarketCap": 1001.425
+      "currentMarketCap": 1004.365
     },
     "trustScore": null,
     "contractId": null,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.44860626801773273,
     "isRugged": false
-  },
-  {
-    "_id": "0xe59416f314951a1538f8fe9cc3dec87fd925ae5b",
-    "tokenName": "PUDL",
-    "idPair": "0xe4f547dec6bc339afef9a223497d72739b102b6c",
-    "idToken": "0xe59416f314951a1538f8fe9cc3dec87fd925ae5b",
-    "dateCreationToken": "2021-02-11T20:38:59Z",
-    "initialInfos": {
-      "initialPoolToken": 1299999998,
-      "initialPriceUSD": 0.000006793153856604852,
-      "initialPoolEth": 5,
-      "initialMarketCap": 9013.75406983956
-    },
-    "currentInfos": {
-      "currentPoolToken": 3.2679479e-11,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 14,
-    "holderCountOld": 13,
-    "txCount": 39,
-    "createdAtTimestamp": "1613075939",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
