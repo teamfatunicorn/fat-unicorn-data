@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xa00ff298634f0d2a6e1604b4a3378fd6aa2047e6",
+    "tokenName": "XBOMB2",
+    "idPair": "0x877231ae6f8d6f095ea49385d505af0474363720",
+    "idToken": "0xa00ff298634f0d2a6e1604b4a3378fd6aa2047e6",
+    "dateCreationToken": "2021-02-20T00:42:42Z",
+    "initialInfos": {
+      "initialPoolToken": 10000,
+      "initialPriceUSD": 0.00387258,
+      "initialPoolEth": 0.02,
+      "initialMarketCap": 38.7258
+    },
+    "currentInfos": {
+      "currentPoolToken": 6673.34000667334,
+      "currentPriceUSD": 0.008704591695,
+      "currentPoolEth": 0.03,
+      "currentMarketCap": 58.0887
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1613781762",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.2477499999999997,
+    "isRugged": true
+  },
+  {
     "_id": "0x2b4bb243a632cb2a9247e01edd7789c7a41a8f09",
     "tokenName": "XBOMB",
     "idPair": "0x6a05eada4ae37a4e417b4c1355b84bc8e56ad9c2",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xf411903cbc70a74d22900a5de66a2dda66507255",
-    "tokenName": "VRA",
-    "idPair": "0x60031819a16266d896268cfea5d5be0b6c2b5d75",
-    "idToken": "0xf411903cbc70a74d22900a5de66a2dda66507255",
-    "dateCreationToken": "2021-02-11T13:12:48Z",
-    "initialInfos": {
-      "initialPoolToken": 12987013,
-      "initialPriceUSD": 0.0013885101986114898,
-      "initialPoolEth": 10,
-      "initialMarketCap": 17907.85602621601
-    },
-    "currentInfos": {
-      "currentPoolToken": 14946822.937846605,
-      "currentPriceUSD": 0.0021893163231592595,
-      "currentPoolEth": 16.707933643358068,
-      "currentMarketCap": 32723.32343719881
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 837,
-    "holderCountOld": 833,
-    "txCount": 85,
-    "createdAtTimestamp": "1613049168",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.5767376612347362,
-    "isRugged": false
   }
 ]
