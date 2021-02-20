@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x359b04965a756052b335d962826a6292b40cb343",
+    "tokenName": "LIFT",
+    "idPair": "0x2b2dcb7161e5b0471afa594812798b9501f23792",
+    "idToken": "0x359b04965a756052b335d962826a6292b40cb343",
+    "dateCreationToken": "2021-02-20T03:32:33Z",
+    "initialInfos": {
+      "initialPoolToken": 90,
+      "initialPriceUSD": 398.97,
+      "initialPoolEth": 18,
+      "initialMarketCap": 35907.3
+    },
+    "currentInfos": {
+      "currentPoolToken": 90,
+      "currentPriceUSD": 398.97,
+      "currentPoolEth": 18,
+      "currentMarketCap": 35907.3
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 122,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613791953",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x02538f3480770ad7028418852c8f559eac5f1478",
     "tokenName": "XBOM3",
     "idPair": "0x3cc80dafad588738decf4fa1462a4698fe338df7",
@@ -168,7 +199,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 3317.064413989233,
-      "currentPriceUSD": 19.4280446917734,
+      "currentPriceUSD": 22.5916138626221,
       "currentPoolEth": 35.80961568482874,
       "currentMarketCap": 70671.70893863743
     },
@@ -182,7 +213,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.007573203732400848,
+    "priceChange": 0.15402879311320836,
     "isRugged": false
   },
   {
@@ -3330,7 +3361,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 145839.3220631409,
-      "currentPriceUSD": 3.25655507568052,
+      "currentPriceUSD": 3.18339956021209,
       "currentPoolEth": 262.1069894755002,
       "currentMarketCap": 510264.6449711139
     },
@@ -3344,7 +3375,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 12.036504645966255,
+    "priceChange": 11.743651555777708,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9999993006071662,
-    "isRugged": true
-  },
-  {
-    "_id": "0x81de93b3a1d09a067126241390fae5dd5a26548e",
-    "tokenName": "OCF",
-    "idPair": "0x92ce3458b0a5eaca0d8bd9c6e4375721bbfe263b",
-    "idToken": "0x81de93b3a1d09a067126241390fae5dd5a26548e",
-    "dateCreationToken": "2021-02-11T15:03:57Z",
-    "initialInfos": {
-      "initialPoolToken": 5000,
-      "initialPriceUSD": 0.1432608,
-      "initialPoolEth": 0.4,
-      "initialMarketCap": 716.304
-    },
-    "currentInfos": {
-      "currentPoolToken": 7.2242e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.4e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 4,
-    "holderCountOld": 3,
-    "txCount": 6,
-    "createdAtTimestamp": "1613055837",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
