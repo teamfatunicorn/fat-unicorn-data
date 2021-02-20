@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x9d79b5b82d65a04b7758aa70d13e486e317f9371",
+    "tokenName": "BULL",
+    "idPair": "0x8dc66f8302c9e37de60c6d7ad3d945ac252a667e",
+    "idToken": "0x9d79b5b82d65a04b7758aa70d13e486e317f9371",
+    "dateCreationToken": "2021-02-20T07:55:00Z",
+    "initialInfos": {
+      "initialPoolToken": 100,
+      "initialPriceUSD": 0.500975,
+      "initialPoolEth": 0.025,
+      "initialMarketCap": 50.0975
+    },
+    "currentInfos": {
+      "currentPoolToken": 100,
+      "currentPriceUSD": 0.500975,
+      "currentPoolEth": 0.025,
+      "currentMarketCap": 50.0975
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613807700",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0xd9e99dd4947e8ac44cb61e409ec3d3c32fe429dc",
     "tokenName": "DSTAR",
     "idPair": "0x61ec3d4a0f790818ea089a84bb76640fcbfd7d92",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.14337337582696685,
-    "isRugged": false
-  },
-  {
-    "_id": "0x15c303b84045f67156acf6963954e4247b526717",
-    "tokenName": "GCBN",
-    "idPair": "0x7084ea1f613c33933dbdbade7756e570bb568190",
-    "idToken": "0x15c303b84045f67156acf6963954e4247b526717",
-    "dateCreationToken": "2021-02-11T19:55:15Z",
-    "initialInfos": {
-      "initialPoolToken": 483.82280863406476,
-      "initialPriceUSD": 426.41296838082627,
-      "initialPoolEth": 116,
-      "initialMarketCap": 206308.32
-    },
-    "currentInfos": {
-      "currentPoolToken": 906.7406605964624,
-      "currentPriceUSD": 141.6672270510505,
-      "currentPoolEth": 63.24520328749776,
-      "currentMarketCap": 128455.43504113857
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 459,
-    "holderCountOld": 460,
-    "txCount": 403,
-    "createdAtTimestamp": "1613073315",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.6677698907962656,
     "isRugged": false
   }
 ]
