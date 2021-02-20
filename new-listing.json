@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xd9e99dd4947e8ac44cb61e409ec3d3c32fe429dc",
+    "tokenName": "DSTAR",
+    "idPair": "0x61ec3d4a0f790818ea089a84bb76640fcbfd7d92",
+    "idToken": "0xd9e99dd4947e8ac44cb61e409ec3d3c32fe429dc",
+    "dateCreationToken": "2021-02-20T06:52:37Z",
+    "initialInfos": {
+      "initialPoolToken": 2153,
+      "initialPriceUSD": 231.29713693450998,
+      "initialPoolEth": 245.458,
+      "initialMarketCap": 497971.4451596285
+    },
+    "currentInfos": {
+      "currentPoolToken": 2135.7373515,
+      "currentPriceUSD": 235.05702504771534,
+      "currentPoolEth": 247.44801981815613,
+      "currentMarketCap": 502020.0681268767
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": null,
+    "txCount": 4,
+    "createdAtTimestamp": "1613803957",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.016255662145398486,
+    "isRugged": false
+  },
+  {
     "_id": "0x7743db95a17be7455710e338292eeaefd28a66ae",
     "tokenName": "RIFT",
     "idPair": "0x2b73d2c911d19c6cccb4fbdccad48ef111b07625",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-20T06:34:11Z",
     "initialInfos": {
       "initialPoolToken": 111111,
-      "initialPriceUSD": 0.07300807300807301,
+      "initialPriceUSD": 0.07303651303651304,
       "initialPoolEth": 4,
-      "initialMarketCap": 8112
+      "initialMarketCap": 8115.16
     },
     "currentInfos": {
       "currentPoolToken": 104593.51650291227,
-      "currentPriceUSD": 0.08240472534222534,
+      "currentPriceUSD": 0.08243682580229456,
       "currentPoolEth": 4.25,
-      "currentMarketCap": 8619
+      "currentMarketCap": 8622.3575
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.12870703125000002,
+    "priceChange": 0.12870703125,
     "isRugged": false
   },
   {
@@ -38,27 +69,27 @@
     "dateCreationToken": "2021-02-20T06:33:10Z",
     "initialInfos": {
       "initialPoolToken": 1300000,
-      "initialPriceUSD": 0.2808,
+      "initialPriceUSD": 0.2809093846153846,
       "initialPoolEth": 180,
-      "initialMarketCap": 365040
+      "initialMarketCap": 365182.2
     },
     "currentInfos": {
-      "currentPoolToken": 1274585.1060729758,
-      "currentPriceUSD": 0.2921270601907393,
-      "currentPoolEth": 183.6,
-      "currentMarketCap": 372340.8
+      "currentPoolToken": 1766285.247293937,
+      "currentPriceUSD": 0.15230696990316386,
+      "currentPoolEth": 132.6,
+      "currentMarketCap": 269017.554
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 4,
+    "txCount": 5,
     "createdAtTimestamp": "1613802790",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.040338533442803824,
+    "priceChange": -0.4578074701502072,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.6704786751357584,
     "isRugged": false
-  },
-  {
-    "_id": "0xb1c7c44d344c92b9a96a00327b1a1fd5208b8cce",
-    "tokenName": "POGEFI",
-    "idPair": "0xa1739bbea879eb2e94521cbdc03469a10007a73f",
-    "idToken": "0xb1c7c44d344c92b9a96a00327b1a1fd5208b8cce",
-    "dateCreationToken": "2021-02-11T18:13:34Z",
-    "initialInfos": {
-      "initialPoolToken": 4850000000000000,
-      "initialPriceUSD": 5.550680412371134e-13,
-      "initialPoolEth": 1.5,
-      "initialMarketCap": 2692.08
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.2854658585e-8,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 5,
-    "holderCountOld": 0,
-    "txCount": 8,
-    "createdAtTimestamp": "1613067214",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
