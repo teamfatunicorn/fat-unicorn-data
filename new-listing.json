@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x455f7ef6d8bcfc35f9337e85aee1b0600a59fabe",
+    "tokenName": "ALOHA",
+    "idPair": "0xcbb577e5d60503313575218392ea7c41e61a9bef",
+    "idToken": "0x455f7ef6d8bcfc35f9337e85aee1b0600a59fabe",
+    "dateCreationToken": "2021-02-21T17:53:20Z",
+    "initialInfos": {
+      "initialPoolToken": 2000,
+      "initialPriceUSD": 3.9115,
+      "initialPoolEth": 4,
+      "initialMarketCap": 7823
+    },
+    "currentInfos": {
+      "currentPoolToken": 5600.960576345808,
+      "currentPriceUSD": 0.5001156198181803,
+      "currentPoolEth": 1.4322525221608853,
+      "currentMarketCap": 2801.127870216376
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 162,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1613930000",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -0.8721422421530921,
+    "isRugged": false
+  },
+  {
     "_id": "0xaa8330fb2b4d5d07abfe7a72262752a8505c6b37",
     "tokenName": "POLC",
     "idPair": "0xb5bd39fc0c57d902271ba6c5cd89c1510a37c0dd",
@@ -12,22 +43,22 @@
       "initialMarketCap": 11734.5
     },
     "currentInfos": {
-      "currentPoolToken": 2346683.473477291,
-      "currentPriceUSD": 0.1519343132466445,
-      "currentPoolEth": 182.30435482552627,
-      "currentMarketCap": 356541.74195002246
+      "currentPoolToken": 2393480.130341417,
+      "currentPriceUSD": 0.1463733461227755,
+      "currentPoolEth": 179.13419177116234,
+      "currentMarketCap": 350341.69555645005
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 194,
     "holderCountOld": 0,
-    "txCount": 54,
+    "txCount": 79,
     "createdAtTimestamp": "1613929111",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.4173553115941026,
+    "priceChange": -0.4386807639418043,
     "isRugged": false
   },
   {
@@ -4384,7 +4415,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 161935.3559419673,
-      "currentPriceUSD": 2.73763423404255,
+      "currentPriceUSD": 2.90685502670137,
       "currentPoolEth": 234.85410232635266,
       "currentMarketCap": 460602.9111055133
     },
@@ -4398,7 +4429,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 9.95918250471905,
+    "priceChange": 10.636600082012688,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xf1ca9cb74685755965c7458528a36934df52a3ef",
-    "tokenName": "AVINOC",
-    "idPair": "0x1277a33fbe93e010c1edbb6ef1c3a3426210ef52",
-    "idToken": "0xf1ca9cb74685755965c7458528a36934df52a3ef",
-    "dateCreationToken": "2021-02-12T23:08:28Z",
-    "initialInfos": {
-      "initialPoolToken": 4250,
-      "initialPriceUSD": 0.04822322352941177,
-      "initialPoolEth": 0.11,
-      "initialMarketCap": 203.9604563339755
-    },
-    "currentInfos": {
-      "currentPoolToken": 16814.92517363086,
-      "currentPriceUSD": 0.09262888754889333,
-      "currentPoolEth": 0.7941688700722243,
-      "currentMarketCap": 1557.5478130513086
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 161438,
-    "holderCountOld": 161439,
-    "txCount": 22,
-    "createdAtTimestamp": "1613171308",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.9208356631820384,
-    "isRugged": false
   }
 ]
