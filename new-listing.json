@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7277a44d1325d81ac58893002a1b40a41bea43fe",
+    "tokenName": "FAANG",
+    "idPair": "0xcb261783816f8488d09eb4595811b3c620c419e4",
+    "idToken": "0x7277a44d1325d81ac58893002a1b40a41bea43fe",
+    "dateCreationToken": "2021-02-21T08:44:45Z",
+    "initialInfos": {
+      "initialPoolToken": 9.794,
+      "initialPriceUSD": 98.8207065550337,
+      "initialPoolEth": 0.5,
+      "initialMarketCap": 967.85
+    },
+    "currentInfos": {
+      "currentPoolToken": 9.794,
+      "currentPriceUSD": 98.8207065550337,
+      "currentPoolEth": 0.5,
+      "currentMarketCap": 967.85
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613897085",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x9ad9ce046e970aa258cb81c565c2ee681df0583f",
     "tokenName": "xCC",
     "idPair": "0x50de3e45b2d50c1fe2cbc38a619188a3fc3f5f89",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-21T07:10:31Z",
     "initialInfos": {
       "initialPoolToken": 0.4325,
-      "initialPriceUSD": 2237.6531791907514,
+      "initialPriceUSD": 2237.8034682080925,
       "initialPoolEth": 0.5,
-      "initialMarketCap": 967.785
+      "initialMarketCap": 967.85
     },
     "currentInfos": {
       "currentPoolToken": 0.4325,
-      "currentPriceUSD": 2237.6531791907514,
+      "currentPriceUSD": 2237.8034682080925,
       "currentPoolEth": 0.5,
-      "currentMarketCap": 967.785
+      "currentMarketCap": 967.85
     },
     "trustScore": null,
     "contractId": null,
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-02-21T07:07:03Z",
     "initialInfos": {
       "initialPoolToken": 850000,
-      "initialPriceUSD": 0.6831423529411764,
+      "initialPriceUSD": 0.6831882352941177,
       "initialPoolEth": 300,
-      "initialMarketCap": 580671
+      "initialMarketCap": 580710
     },
     "currentInfos": {
       "currentPoolToken": 766784.3074971954,
-      "currentPriceUSD": 0.8397232584847499,
+      "currentPriceUSD": 0.8397796573871936,
       "currentPoolEth": 332.65994887630865,
-      "currentMarketCap": 643886.6172465174
+      "currentMarketCap": 643929.8630398713
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.22920684813265602,
+    "priceChange": 0.22920684813265585,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.5385727256268869,
     "isRugged": false
-  },
-  {
-    "_id": "0x0f71639250b17504505c8b521d13ae249649afec",
-    "tokenName": "MMS",
-    "idPair": "0xba158ace2aece3fa1c7ba8433fd2b1ea517fb537",
-    "idToken": "0x0f71639250b17504505c8b521d13ae249649afec",
-    "dateCreationToken": "2021-02-12T06:41:12Z",
-    "initialInfos": {
-      "initialPoolToken": 87422,
-      "initialPriceUSD": 0.6495024135801057,
-      "initialPoolEth": 32,
-      "initialMarketCap": 56780.8
-    },
-    "currentInfos": {
-      "currentPoolToken": 5.2268e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 1,
-    "txCount": 2,
-    "createdAtTimestamp": "1613112072",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
