@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xb98d4c97425d9908e66e53a6fdf673acca0be986",
+    "tokenName": "ABT",
+    "idPair": "0xecadc47bc0dbc696eef28e4fe80a4360f9ed39eb",
+    "idToken": "0xb98d4c97425d9908e66e53a6fdf673acca0be986",
+    "dateCreationToken": "2021-02-21T23:23:06Z",
+    "initialInfos": {
+      "initialPoolToken": 5000,
+      "initialPriceUSD": 0.1609482987,
+      "initialPoolEth": 0.41785,
+      "initialMarketCap": 804.7414935
+    },
+    "currentInfos": {
+      "currentPoolToken": 5000,
+      "currentPriceUSD": 0.1609482987,
+      "currentPoolEth": 0.41785,
+      "currentMarketCap": 804.7414935
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 17659,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613949786",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xb84a500f6226fcbddad0470248639587c1306556",
     "tokenName": "KIRA",
     "idPair": "0xb53a81a3f9486182cf80d0b23e259697e1066cf7",
@@ -2493,7 +2524,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 26035.94081944575,
-      "currentPriceUSD": 38.270331932215264,
+      "currentPriceUSD": 38.5636720545504,
       "currentPoolEth": 517.6286519723737,
       "currentMarketCap": 996404.0973277016
     },
@@ -2507,7 +2538,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.0710441547647454,
+    "priceChange": 0.07925365302416744,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x74c287ad5328daca276c6a1c1f149415b12c148d",
-    "tokenName": "PAZZY",
-    "idPair": "0xdc5df90222e63d77111aab7e4cd9edd055926f53",
-    "idToken": "0x74c287ad5328daca276c6a1c1f149415b12c148d",
-    "dateCreationToken": "2021-02-13T01:36:01Z",
-    "initialInfos": {
-      "initialPoolToken": 1485000,
-      "initialPriceUSD": 0.371516,
-      "initialPoolEth": 297,
-      "initialMarketCap": 551701.26
-    },
-    "currentInfos": {
-      "currentPoolToken": 3518453.0886772163,
-      "currentPriceUSD": 0.07187924698298385,
-      "currentPoolEth": 131.3826709191309,
-      "currentMarketCap": 252903.75855907204
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 398,
-    "holderCountOld": 399,
-    "txCount": 2067,
-    "createdAtTimestamp": "1613180161",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.8065244915885619,
-    "isRugged": false
   }
 ]
