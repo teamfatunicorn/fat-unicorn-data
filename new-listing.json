@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x2ff1c732a2f415749cd7a776cbcba339804baed2",
+    "tokenName": "MASK",
+    "idPair": "0x9a4684be49d70404e821e43343120203552f66dc",
+    "idToken": "0x2ff1c732a2f415749cd7a776cbcba339804baed2",
+    "dateCreationToken": "2021-02-21T07:07:03Z",
+    "initialInfos": {
+      "initialPoolToken": 850000,
+      "initialPriceUSD": 0.6837423529411765,
+      "initialPoolEth": 300,
+      "initialMarketCap": 581181
+    },
+    "currentInfos": {
+      "currentPoolToken": 850000,
+      "currentPriceUSD": 0.6837423529411765,
+      "currentPoolEth": 300,
+      "currentMarketCap": 581181
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613891223",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xc36810ad3980c08a40fdde4c47e9f7913bc1f7e4",
     "tokenName": "IRDT",
     "idPair": "0x024b01287d950718525a594d05dfadb00f714b12",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.6744896598626504,
     "isRugged": false
-  },
-  {
-    "_id": "0x661bb561e7fc5a2b2b5fd883ee35c395c4ae9985",
-    "tokenName": "DEGEN",
-    "idPair": "0xd3356ba22f06c326a5803f003da728535536c263",
-    "idToken": "0x661bb561e7fc5a2b2b5fd883ee35c395c4ae9985",
-    "dateCreationToken": "2021-02-12T04:23:47Z",
-    "initialInfos": {
-      "initialPoolToken": 400000,
-      "initialPriceUSD": 0.2611353307575495,
-      "initialPoolEth": 59.428627195,
-      "initialMarketCap": 104454.1323030198
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.843e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 5.5e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 263,
-    "holderCountOld": 262,
-    "txCount": 293,
-    "createdAtTimestamp": "1613103827",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
