@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xee3f3939c60745a7ba9800b4f5d91e8fbd026625",
+    "tokenName": "XIYORE",
+    "idPair": "0xf5ae73ce4bd7fef28ec6c2bf2544f3508cd1fc62",
+    "idToken": "0xee3f3939c60745a7ba9800b4f5d91e8fbd026625",
+    "dateCreationToken": "2021-02-21T11:32:58Z",
+    "initialInfos": {
+      "initialPoolToken": 100000,
+      "initialPriceUSD": 0.01280357,
+      "initialPoolEth": 0.65,
+      "initialMarketCap": 1279.3407901614733
+    },
+    "currentInfos": {
+      "currentPoolToken": 100000,
+      "currentPriceUSD": 0.01277783,
+      "currentPoolEth": 0.65,
+      "currentMarketCap": 1277.783
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 13,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613907178",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -0.002010376793347464,
+    "isRugged": false
+  },
+  {
     "_id": "0xb37d025fde8b45d105edec9078f3e8e73f8274b4",
     "tokenName": "HOPR",
     "idPair": "0xcaeb92f9554ea665816f179ddca106f35e47e5c8",
@@ -12,22 +43,22 @@
       "initialMarketCap": 472747.2
     },
     "currentInfos": {
-      "currentPoolToken": 1710000,
-      "currentPriceUSD": 0.276460350877193,
-      "currentPoolEth": 240,
-      "currentMarketCap": 472747.2
+      "currentPoolToken": 1678415.5354085502,
+      "currentPriceUSD": 0.2864022373833607,
+      "currentPoolEth": 244.53,
+      "currentMarketCap": 480701.9646
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 0,
     "holderCountOld": 0,
-    "txCount": 1,
+    "txCount": 4,
     "createdAtTimestamp": "1613907043",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.035961346625737224,
     "isRugged": false
   },
   {
@@ -44,9 +75,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 854932.9720583366,
-      "currentPriceUSD": 0.3638765385084085,
+      "currentPriceUSD": 0.3631450095597476,
       "currentPoolEth": 157.93136823873368,
-      "currentMarketCap": 311090.0505292935
+      "currentMarketCap": 310464.6423110681
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.10837719494078067,
+    "priceChange": 0.10614893914979617,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.8156170630507016,
-    "isRugged": false
-  },
-  {
-    "_id": "0x70451864e75e987acdef0cdd508106c78b03e093",
-    "tokenName": "ZFARM",
-    "idPair": "0x3c2ded7084075106f41230991f4640ba0fb8d9d9",
-    "idToken": "0x70451864e75e987acdef0cdd508106c78b03e093",
-    "dateCreationToken": "2021-02-12T14:19:44Z",
-    "initialInfos": {
-      "initialPoolToken": 2500,
-      "initialPriceUSD": 3.6156,
-      "initialPoolEth": 5,
-      "initialMarketCap": 9039
-    },
-    "currentInfos": {
-      "currentPoolToken": 2451.1245759554486,
-      "currentPriceUSD": 4.085556115032,
-      "currentPoolEth": 5.1,
-      "currentMarketCap": 10014.207
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1613139584",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.12998011810819785,
     "isRugged": false
   }
 ]
