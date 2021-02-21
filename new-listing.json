@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7230153aaaf0b862300c703b5bfbfd31b2a011a8",
+    "tokenName": "DUCK",
+    "idPair": "0xb21c6c610d2a1f5c0189c13474bbff2f564f176c",
+    "idToken": "0x7230153aaaf0b862300c703b5bfbfd31b2a011a8",
+    "dateCreationToken": "2021-02-21T00:13:52Z",
+    "initialInfos": {
+      "initialPoolToken": 500000,
+      "initialPriceUSD": 0.0190459,
+      "initialPoolEth": 5,
+      "initialMarketCap": 9522.95
+    },
+    "currentInfos": {
+      "currentPoolToken": 500000,
+      "currentPriceUSD": 0.0190459,
+      "currentPoolEth": 5,
+      "currentMarketCap": 9522.95
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613866432",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x8a055d58c27767541a25f89ece7af2d03113b65c",
     "tokenName": "LPOOL",
     "idPair": "0x8d365633fbab06ad47c895a1ad25dca485a4d582",
@@ -12,22 +43,22 @@
       "initialMarketCap": 152367.2
     },
     "currentInfos": {
-      "currentPoolToken": 380970.0152097843,
-      "currentPriceUSD": 0.4161931678866884,
-      "currentPoolEth": 83.25,
-      "currentMarketCap": 158557.1175
+      "currentPoolToken": 368567.91564705694,
+      "currentPriceUSD": 0.4447176914084948,
+      "currentPoolEth": 86.05982,
+      "currentMarketCap": 163908.6725738
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 5,
     "holderCountOld": 0,
-    "txCount": 5,
+    "txCount": 8,
     "createdAtTimestamp": "1613865469",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.082772222304297,
+    "priceChange": 0.15698190210443808,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x9f5e7f317385e51b39333107ac1c3de3957b0f73",
-    "tokenName": "$EDrain",
-    "idPair": "0x277f51fb92f56426face7c0e6c487f0e9563b10d",
-    "idToken": "0x9f5e7f317385e51b39333107ac1c3de3957b0f73",
-    "dateCreationToken": "2021-02-12T01:28:47Z",
-    "initialInfos": {
-      "initialPoolToken": 59400,
-      "initialPriceUSD": 3.63626,
-      "initialPoolEth": 118.8,
-      "initialMarketCap": 215993.844
-    },
-    "currentInfos": {
-      "currentPoolToken": 303486.2990834241,
-      "currentPriceUSD": 0.15075308820044203,
-      "currentPoolEth": 23.847286873917575,
-      "currentMarketCap": 45751.496813349164
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 25,
-    "holderCountOld": 26,
-    "txCount": 353,
-    "createdAtTimestamp": "1613093327",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9585417191838752,
-    "isRugged": false
   }
 ]
