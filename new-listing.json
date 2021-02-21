@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x9f4ac2dae3f0bb18a96bb3ea2fb5ed7b8488f282",
+    "tokenName": "GEN",
+    "idPair": "0x1801ce6a2cb47bea2d991cbbb6747e3fbd0b3faa",
+    "idToken": "0x9f4ac2dae3f0bb18a96bb3ea2fb5ed7b8488f282",
+    "dateCreationToken": "2021-02-21T09:56:27Z",
+    "initialInfos": {
+      "initialPoolToken": 100000,
+      "initialPriceUSD": 0.00193673,
+      "initialPoolEth": 0.1,
+      "initialMarketCap": 193.673
+    },
+    "currentInfos": {
+      "currentPoolToken": 100000,
+      "currentPriceUSD": 0.00193673,
+      "currentPoolEth": 0.1,
+      "currentMarketCap": 193.673
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613901387",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x7277a44d1325d81ac58893002a1b40a41bea43fe",
     "tokenName": "FAANG",
     "idPair": "0xcb261783816f8488d09eb4595811b3c620c419e4",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.05924189078975351,
-    "isRugged": false
-  },
-  {
-    "_id": "0x6c1af18a949c293ad4bfc0dc455b463498463705",
-    "tokenName": "POLK",
-    "idPair": "0x1ef20467d73e863646764b7cf25f7153a38fff79",
-    "idToken": "0x6c1af18a949c293ad4bfc0dc455b463498463705",
-    "dateCreationToken": "2021-02-12T08:47:15Z",
-    "initialInfos": {
-      "initialPoolToken": 3400000,
-      "initialPriceUSD": 0.10430882352941176,
-      "initialPoolEth": 200,
-      "initialMarketCap": 354650
-    },
-    "currentInfos": {
-      "currentPoolToken": 2865769.7968748985,
-      "currentPriceUSD": 0.1606250565383798,
-      "currentPoolEth": 237.40519853580378,
-      "currentMarketCap": 460314.4356490118
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 45,
-    "holderCountOld": 44,
-    "txCount": 49,
-    "createdAtTimestamp": "1613119635",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.5398990334992002,
     "isRugged": false
   }
 ]
