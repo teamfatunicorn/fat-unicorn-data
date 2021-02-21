@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x466060dd07ea7914e1e8d22b9cd0e2f308c18045",
+    "tokenName": "AOX",
+    "idPair": "0x304c3a01926fb82163b12716d149c90ec70c7368",
+    "idToken": "0x466060dd07ea7914e1e8d22b9cd0e2f308c18045",
+    "dateCreationToken": "2021-02-21T14:43:57Z",
+    "initialInfos": {
+      "initialPoolToken": 60,
+      "initialPriceUSD": 16.355083333333333,
+      "initialPoolEth": 0.5,
+      "initialMarketCap": 981.305
+    },
+    "currentInfos": {
+      "currentPoolToken": 57.884082290861066,
+      "currentPriceUSD": 17.84263491506287,
+      "currentPoolEth": 0.5262403369543989,
+      "currentMarketCap": 1032.8045477092899
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 10,
+    "createdAtTimestamp": "1613918637",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.09095347002590656,
+    "isRugged": false
+  },
+  {
     "_id": "0x3719c13d28a5adaba97b6c343b1f51e57b6b6e7d",
     "tokenName": "RAPID",
     "idPair": "0x5437685b3546bef422cac9e586a623e688231f15",
@@ -74,22 +105,22 @@
       "initialMarketCap": 58878.3
     },
     "currentInfos": {
-      "currentPoolToken": 75355.41986071093,
-      "currentPriceUSD": 1.0158805420849404,
-      "currentPoolEth": 39.005255642811484,
-      "currentMarketCap": 76552.1047771373
+      "currentPoolToken": 73845.39044422211,
+      "currentPriceUSD": 1.0579156303079689,
+      "currentPoolEth": 39.80525564281148,
+      "currentMarketCap": 78122.1927771373
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 10,
     "holderCountOld": 0,
-    "txCount": 8,
+    "txCount": 9,
     "createdAtTimestamp": "1613914903",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.6891572119119552,
+    "priceChange": 0.7590511310134661,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x471a843ff7a631ab6d2540c619b6163119484081",
-    "tokenName": "KOTH",
-    "idPair": "0x34a2820ccbfde886b1a502ee9a85fc151b34dfc5",
-    "idToken": "0x471a843ff7a631ab6d2540c619b6163119484081",
-    "dateCreationToken": "2021-02-12T20:01:54Z",
-    "initialInfos": {
-      "initialPoolToken": 200000,
-      "initialPriceUSD": 0.92434,
-      "initialPoolEth": 100,
-      "initialMarketCap": 184868
-    },
-    "currentInfos": {
-      "currentPoolToken": 83603.44180844164,
-      "currentPriceUSD": 0.35277803428529453,
-      "currentPoolEth": 15.127255030628787,
-      "currentMarketCap": 29493.457860667055
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 92,
-    "holderCountOld": 91,
-    "txCount": 107,
-    "createdAtTimestamp": "1613160114",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.6183460260452923,
-    "isRugged": false
   }
 ]
