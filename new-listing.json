@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x9ad9ce046e970aa258cb81c565c2ee681df0583f",
+    "tokenName": "xCC",
+    "idPair": "0x50de3e45b2d50c1fe2cbc38a619188a3fc3f5f89",
+    "idToken": "0x9ad9ce046e970aa258cb81c565c2ee681df0583f",
+    "dateCreationToken": "2021-02-21T07:10:31Z",
+    "initialInfos": {
+      "initialPoolToken": 0.4325,
+      "initialPriceUSD": 2251.7109826589594,
+      "initialPoolEth": 0.5,
+      "initialMarketCap": 973.865
+    },
+    "currentInfos": {
+      "currentPoolToken": 0.4325,
+      "currentPriceUSD": 2251.7109826589594,
+      "currentPoolEth": 0.5,
+      "currentMarketCap": 973.865
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613891431",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x2ff1c732a2f415749cd7a776cbcba339804baed2",
     "tokenName": "MASK",
     "idPair": "0x9a4684be49d70404e821e43343120203552f66dc",
@@ -12,22 +43,22 @@
       "initialMarketCap": 584319
     },
     "currentInfos": {
-      "currentPoolToken": 850000,
-      "currentPriceUSD": 0.6874341176470589,
-      "currentPoolEth": 300,
-      "currentMarketCap": 584319
+      "currentPoolToken": 845783.7818548692,
+      "currentPriceUSD": 0.6943152701653086,
+      "currentPoolEth": 301.5,
+      "currentMarketCap": 587240.595
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 1,
+    "holderCount": 3,
     "holderCountOld": 0,
-    "txCount": 1,
+    "txCount": 3,
     "createdAtTimestamp": "1613891223",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.010009908355730797,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xd9993268c62809888c0da34638347992fe27dbc5",
-    "tokenName": "SCORT",
-    "idPair": "0x58cbf1f33a730754a1432b2f446abc4fe0b83fd2",
-    "idToken": "0xd9993268c62809888c0da34638347992fe27dbc5",
-    "dateCreationToken": "2021-02-12T04:53:41Z",
-    "initialInfos": {
-      "initialPoolToken": 11984.1665821508,
-      "initialPriceUSD": 10.98525,
-      "initialPoolEth": 74.9010411384425,
-      "initialMarketCap": 130725.62301696975
-    },
-    "currentInfos": {
-      "currentPoolToken": 22363.186550756713,
-      "currentPriceUSD": 3.5758124639938207,
-      "currentPoolEth": 41.277963940397655,
-      "currentMarketCap": 79966.56120281483
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 110,
-    "holderCountOld": 112,
-    "txCount": 513,
-    "createdAtTimestamp": "1613105621",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.6744896598626504,
-    "isRugged": false
   }
 ]
