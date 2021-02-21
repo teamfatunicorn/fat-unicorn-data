@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x5245c0249e5eeb2a0838266800471fd32adb1089",
+    "tokenName": "RAY",
+    "idPair": "0x3c4adc4dc1a50bf6ec59af196a204415bc708429",
+    "idToken": "0x5245c0249e5eeb2a0838266800471fd32adb1089",
+    "dateCreationToken": "2021-02-21T15:11:22Z",
+    "initialInfos": {
+      "initialPoolToken": 200000,
+      "initialPriceUSD": 2.456375,
+      "initialPoolEth": 250,
+      "initialMarketCap": 491275
+    },
+    "currentInfos": {
+      "currentPoolToken": 262752.467541,
+      "currentPriceUSD": 1.4242976560066036,
+      "currentPoolEth": 190.44207604121758,
+      "currentMarketCap": 374237.7236285975
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 17,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1613920282",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -0.42016277807476315,
+    "isRugged": false
+  },
+  {
     "_id": "0xbc19eb086cfec2782bf2e0b27303abcf1e323523",
     "tokenName": "BLFI",
     "idPair": "0xfc201c4be1161c8d3b61a4658dd29e833843511d",
@@ -43,22 +74,22 @@
       "initialMarketCap": 982.55
     },
     "currentInfos": {
-      "currentPoolToken": 10604.508987170755,
-      "currentPriceUSD": 4.753186750721973,
-      "currentPoolEth": 25.650201829796483,
-      "currentMarketCap": 50405.21161573212
+      "currentPoolToken": 10687.235486193153,
+      "currentPriceUSD": 4.689075452944073,
+      "currentPoolEth": 25.501630236700752,
+      "currentMarketCap": 50113.253578141135
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 81,
+    "holderCount": 110,
     "holderCountOld": 0,
-    "txCount": 60,
+    "txCount": 68,
     "createdAtTimestamp": "1613918637",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.7097438246976557,
+    "priceChange": -0.7136588192187222,
     "isRugged": false
   },
   {
@@ -74,22 +105,22 @@
       "initialMarketCap": 179960.32303619824
     },
     "currentInfos": {
-      "currentPoolToken": 117713.88622490146,
-      "currentPriceUSD": 2.3728057912155207,
-      "currentPoolEth": 142.13637521802025,
-      "currentMarketCap": 279312.1909409311
+      "currentPoolToken": 113772.4917930182,
+      "currentPriceUSD": 2.543729396258548,
+      "currentPoolEth": 147.2731320846185,
+      "currentMarketCap": 289406.4318594848
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 1,
+    "holderCount": 33,
     "holderCountOld": 0,
-    "txCount": 80,
+    "txCount": 100,
     "createdAtTimestamp": "1613918620",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.365018442434152,
+    "priceChange": 1.535381090599728,
     "isRugged": false
   },
   {
@@ -105,22 +136,22 @@
       "initialMarketCap": 29476.5
     },
     "currentInfos": {
-      "currentPoolToken": 21413.331792565223,
-      "currentPriceUSD": 2.382589941340408,
-      "currentPoolEth": 25.9626425828463,
-      "currentMarketCap": 51019.18893955067
+      "currentPoolToken": 21298.82534231487,
+      "currentPriceUSD": 2.408316051009775,
+      "currentPoolEth": 26.1026425828463,
+      "currentMarketCap": 51294.302939550675
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 16,
+    "holderCount": 19,
     "holderCountOld": 0,
-    "txCount": 26,
+    "txCount": 27,
     "createdAtTimestamp": "1613917266",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.9907155812119859,
+    "priceChange": 2.0230079516686748,
     "isRugged": false
   },
   {
@@ -6162,37 +6193,6 @@
     "holderCountOld": 247,
     "txCount": 271,
     "createdAtTimestamp": "1613167435",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xfb9fd5a8774ae16f6052fdb1dd562669fa4692b7",
-    "tokenName": "CROC",
-    "idPair": "0x9717a619b54b14cacf657d7df3291f0b3cbefdca",
-    "idToken": "0xfb9fd5a8774ae16f6052fdb1dd562669fa4692b7",
-    "dateCreationToken": "2021-02-12T21:35:29Z",
-    "initialInfos": {
-      "initialPoolToken": 165000,
-      "initialPriceUSD": 0.10051854545454546,
-      "initialPoolEth": 9,
-      "initialMarketCap": 16559.82877343764
-    },
-    "currentInfos": {
-      "currentPoolToken": 7.5746e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.4e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 17,
-    "holderCountOld": 16,
-    "txCount": 20,
-    "createdAtTimestamp": "1613165729",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
