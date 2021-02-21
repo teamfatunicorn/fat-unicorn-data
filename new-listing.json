@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x89816b6412dc9d216e1e7428279123b1f4973f1e",
+    "tokenName": "AOX",
+    "idPair": "0x546d5b8e96ed2676163e56af711a106a26fad531",
+    "idToken": "0x89816b6412dc9d216e1e7428279123b1f4973f1e",
+    "dateCreationToken": "2021-02-21T13:43:53Z",
+    "initialInfos": {
+      "initialPoolToken": 97900,
+      "initialPriceUSD": 0.5974535240040858,
+      "initialPoolEth": 30,
+      "initialMarketCap": 58490.7
+    },
+    "currentInfos": {
+      "currentPoolToken": 97900,
+      "currentPriceUSD": 0.5974535240040858,
+      "currentPoolEth": 30,
+      "currentMarketCap": 58490.7
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613915033",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x7ab67e6c99fdeb69a97be04a289a6704dd1ca329",
     "tokenName": "AOZ",
     "idPair": "0x5b25ceb955a514e22ee9e0d1c6bf4bfff7fa7c85",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.5342069375203301,
     "isRugged": false
-  },
-  {
-    "_id": "0xcbd3cdc81410a01c2bc2a1cbf034b1da36dec11e",
-    "tokenName": "SWPG",
-    "idPair": "0x289a9da703f7a69ed1687a642007fabbebe02f38",
-    "idToken": "0xcbd3cdc81410a01c2bc2a1cbf034b1da36dec11e",
-    "dateCreationToken": "2021-02-12T17:08:21Z",
-    "initialInfos": {
-      "initialPoolToken": 100000,
-      "initialPriceUSD": 0.073632,
-      "initialPoolEth": 4,
-      "initialMarketCap": 7269.403876336071
-    },
-    "currentInfos": {
-      "currentPoolToken": 5.6889e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.8e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 14,
-    "holderCountOld": 0,
-    "txCount": 17,
-    "createdAtTimestamp": "1613149701",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
