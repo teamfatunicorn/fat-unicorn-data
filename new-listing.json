@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xaa8330fb2b4d5d07abfe7a72262752a8505c6b37",
+    "tokenName": "POLC",
+    "idPair": "0xb5bd39fc0c57d902271ba6c5cd89c1510a37c0dd",
+    "idToken": "0xaa8330fb2b4d5d07abfe7a72262752a8505c6b37",
+    "dateCreationToken": "2021-02-21T17:38:31Z",
+    "initialInfos": {
+      "initialPoolToken": 0,
+      "initialPriceUSD": 0,
+      "initialPoolEth": 0,
+      "initialMarketCap": 0
+    },
+    "currentInfos": {
+      "currentPoolToken": 38652.08660854652,
+      "currentPriceUSD": 0.35410133330866084,
+      "currentPoolEth": 6.9884224087165565,
+      "currentMarketCap": 13686.755403248157
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 193,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1613929111",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": null,
+    "isRugged": false
+  },
+  {
     "_id": "0xc8af92371af91965c493569693c4385567f874d0",
     "tokenName": "PAIR",
     "idPair": "0x3356c9a8f40f8e9c1d192a4347a76d18243fabc5",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-21T16:51:37Z",
     "initialInfos": {
       "initialPoolToken": 200,
-      "initialPriceUSD": 0.99818,
+      "initialPriceUSD": 0.979245,
       "initialPoolEth": 0.1,
       "initialMarketCap": 195.7077340292082
     },
     "currentInfos": {
       "currentPoolToken": 200,
-      "currentPriceUSD": 0.99818,
+      "currentPriceUSD": 0.979245,
       "currentPoolEth": 0.1,
-      "currentMarketCap": 199.636
+      "currentMarketCap": 195.849
     },
     "trustScore": null,
     "contractId": null,
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-02-21T16:17:19Z",
     "initialInfos": {
       "initialPoolToken": 500000,
-      "initialPriceUSD": 0.99818,
+      "initialPriceUSD": 0.979245,
       "initialPoolEth": 250,
-      "initialMarketCap": 499090
+      "initialMarketCap": 489622.5
     },
     "currentInfos": {
       "currentPoolToken": 393681.11399528815,
-      "currentPriceUSD": 1.6112690737086786,
+      "currentPriceUSD": 1.580704065483034,
       "currentPoolEth": 317.74139127401344,
-      "currentMarketCap": 634326.2038837885
+      "currentMarketCap": 622293.3373962417
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.6142069303218645,
+    "priceChange": 0.6142069303218642,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.9208356631820384,
-    "isRugged": false
-  },
-  {
-    "_id": "0xc690f7c7fcffa6a82b79fab7508c466fefdfc8c5",
-    "tokenName": "LYM",
-    "idPair": "0x80ddbeeb05788980caa0b1b433b40d4443f4439e",
-    "idToken": "0xc690f7c7fcffa6a82b79fab7508c466fefdfc8c5",
-    "dateCreationToken": "2021-02-12T22:17:05Z",
-    "initialInfos": {
-      "initialPoolToken": 50000,
-      "initialPriceUSD": 0.0372634,
-      "initialPoolEth": 1,
-      "initialMarketCap": 1845.5203780899
-    },
-    "currentInfos": {
-      "currentPoolToken": 341603.0961430187,
-      "currentPriceUSD": 0.013158906674079053,
-      "currentPoolEth": 2.291991893720955,
-      "currentMarketCap": 4495.123261722437
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 73286,
-    "holderCountOld": 73290,
-    "txCount": 82,
-    "createdAtTimestamp": "1613168225",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.6468677932212559,
     "isRugged": false
   }
 ]
