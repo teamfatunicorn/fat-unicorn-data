@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x69ac58c85c94250655a11828f504e56332201c6d",
+    "tokenName": "MASK",
+    "idPair": "0x0e9bbf5811a75fffa56e883d5bd70e1a0a13f6bb",
+    "idToken": "0x69ac58c85c94250655a11828f504e56332201c6d",
+    "dateCreationToken": "2021-02-22T02:12:33Z",
+    "initialInfos": {
+      "initialPoolToken": 1350000,
+      "initialPriceUSD": 0.4943503703703704,
+      "initialPoolEth": 350,
+      "initialMarketCap": 667373
+    },
+    "currentInfos": {
+      "currentPoolToken": 1350000,
+      "currentPriceUSD": 0.4943503703703704,
+      "currentPoolEth": 350,
+      "currentMarketCap": 667373
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613959953",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xd83dfe003e7c42077186d690dd3d24a0c965ca4e",
     "tokenName": "yamHOUSE",
     "idPair": "0x3fb115823e7dc50d798a7ce4003ab7c9b06954c0",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-22T01:52:47Z",
     "initialInfos": {
       "initialPoolToken": 1,
-      "initialPriceUSD": 191.207,
+      "initialPriceUSD": 190.678,
       "initialPoolEth": 0.1,
       "initialMarketCap": 191.29813774975457
     },
     "currentInfos": {
       "currentPoolToken": 1,
-      "currentPriceUSD": 191.207,
+      "currentPriceUSD": 190.678,
       "currentPoolEth": 0.1,
-      "currentMarketCap": 191.207
+      "currentMarketCap": 190.678
     },
     "trustScore": null,
     "contractId": null,
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.2262968152015355,
-    "isRugged": false
-  },
-  {
-    "_id": "0x4bb58e2cf39a207d55dce2d831894df0ff230a47",
-    "tokenName": "MINT",
-    "idPair": "0x367ea3ed51afb12dba46a85e8cc189876b7d26f0",
-    "idToken": "0x4bb58e2cf39a207d55dce2d831894df0ff230a47",
-    "dateCreationToken": "2021-02-13T06:21:26Z",
-    "initialInfos": {
-      "initialPoolToken": 3688000,
-      "initialPriceUSD": 0.09981182212581345,
-      "initialPoolEth": 200,
-      "initialMarketCap": 368106
-    },
-    "currentInfos": {
-      "currentPoolToken": 3175218.785241076,
-      "currentPriceUSD": 0.1402219702364958,
-      "currentPoolEth": 232.40304730603899,
-      "currentMarketCap": 445235.43399843643
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 29,
-    "holderCountOld": 27,
-    "txCount": 30,
-    "createdAtTimestamp": "1613197286",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.40486334434156596,
     "isRugged": false
   }
 ]
