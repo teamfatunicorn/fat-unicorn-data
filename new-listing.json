@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xbb9831820bc5ff55d32a2f6e1600efc2cc56405e",
+    "tokenName": "MORPH",
+    "idPair": "0x54009aadefbb689cf824734b9cb978150af5f680",
+    "idToken": "0xbb9831820bc5ff55d32a2f6e1600efc2cc56405e",
+    "dateCreationToken": "2021-02-22T19:23:51Z",
+    "initialInfos": {
+      "initialPoolToken": 4372.577710376,
+      "initialPriceUSD": 3.2232844020858553,
+      "initialPoolEth": 8.171939032964326,
+      "initialMarketCap": 14094.061530763243
+    },
+    "currentInfos": {
+      "currentPoolToken": 4372.577710376,
+      "currentPriceUSD": 3.2232844020857265,
+      "currentPoolEth": 8.171939032964326,
+      "currentMarketCap": 14094.061530762681
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614021831",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -3.995485808611183e-14,
+    "isRugged": false
+  },
+  {
     "_id": "0x4e82a7ec00f3bbb1294fc31d3acd7250edf2035c",
     "tokenName": "PNZR",
     "idPair": "0x0ed2484dd400b860cb70ecb43ff8bf20b7dcf0c3",
@@ -44,7 +75,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 1374746.8712142706,
-      "currentPriceUSD": 0.997689696503695,
+      "currentPriceUSD": 1.0661917900558,
       "currentPoolEth": 896.6423870211203,
       "currentMarketCap": 1533258.4818061152
     },
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 65.39352946486866,
+    "priceChange": 69.95215704476172,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.05727469692208448,
-    "isRugged": true
-  },
-  {
-    "_id": "0xce199025322658e2ae08229f3eb0bc6a4771a09d",
-    "tokenName": "AGO",
-    "idPair": "0x4c15d3b8fc66bca6cccdbf249db6a9bcf3dc3b90",
-    "idToken": "0xce199025322658e2ae08229f3eb0bc6a4771a09d",
-    "dateCreationToken": "2021-02-13T21:07:11Z",
-    "initialInfos": {
-      "initialPoolToken": 290000,
-      "initialPriceUSD": 0.09382189655172414,
-      "initialPoolEth": 15,
-      "initialMarketCap": 26940.620064236744
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.11074e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 10,
-    "holderCountOld": 8,
-    "txCount": 9,
-    "createdAtTimestamp": "1613250431",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
