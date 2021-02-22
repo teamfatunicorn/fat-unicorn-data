@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x4b96fa36e05e79c0e02b88619491605e26a95503",
+    "tokenName": "SOTA",
+    "idPair": "0x257a80b8c649d89959b50b542268a4cfa3739a40",
+    "idToken": "0x4b96fa36e05e79c0e02b88619491605e26a95503",
+    "dateCreationToken": "2021-02-22T23:41:07Z",
+    "initialInfos": {
+      "initialPoolToken": 1244103,
+      "initialPriceUSD": 0.04962724147437953,
+      "initialPoolEth": 35,
+      "initialMarketCap": 61741.4
+    },
+    "currentInfos": {
+      "currentPoolToken": 1244103,
+      "currentPriceUSD": 0.04962724147437953,
+      "currentPoolEth": 35,
+      "currentMarketCap": 61741.4
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614037267",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0",
     "tokenName": "TRB",
     "idPair": "0x0928592f80d63d474257a7b797120e301ba2d987",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-22T21:29:17Z",
     "initialInfos": {
       "initialPoolToken": 1584.9762750065654,
-      "initialPriceUSD": 34.34558034616292,
+      "initialPriceUSD": 34.502245151760064,
       "initialPoolEth": 31,
-      "initialMarketCap": 54436.93
+      "initialMarketCap": 54685.24
     },
     "currentInfos": {
       "currentPoolToken": 1584.9762750065654,
-      "currentPriceUSD": 34.34558034616292,
+      "currentPriceUSD": 34.502245151760064,
       "currentPoolEth": 31,
-      "currentMarketCap": 54436.93
+      "currentMarketCap": 54685.24
     },
     "trustScore": null,
     "contractId": null,
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.03552818825719249,
-    "isRugged": true
-  },
-  {
-    "_id": "0xb3bf79ef025bba6f1e413137c7885ee046b30c72",
-    "tokenName": "ALICE",
-    "idPair": "0xe1105d58b1b7400ff607e9709d54750ab5773c30",
-    "idToken": "0xb3bf79ef025bba6f1e413137c7885ee046b30c72",
-    "dateCreationToken": "2021-02-13T23:51:18Z",
-    "initialInfos": {
-      "initialPoolToken": 750000,
-      "initialPriceUSD": 0.12269481742986213,
-      "initialPoolEth": 50.36512526676259,
-      "initialMarketCap": 92021.11307239659
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.598e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3.9e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 317,
-    "holderCountOld": 316,
-    "txCount": 345,
-    "createdAtTimestamp": "1613260278",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
