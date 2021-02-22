@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x19b9ba569c9e027342096d1fb35687650b749f51",
+    "tokenName": "SUPER",
+    "idPair": "0x945ba44deba103708c50e7ca4f32c96f66f869ca",
+    "idToken": "0x19b9ba569c9e027342096d1fb35687650b749f51",
+    "dateCreationToken": "2021-02-22T11:09:55Z",
+    "initialInfos": {
+      "initialPoolToken": 15000000,
+      "initialPriceUSD": 0.024401466666666666,
+      "initialPoolEth": 200,
+      "initialMarketCap": 366022
+    },
+    "currentInfos": {
+      "currentPoolToken": 15000000,
+      "currentPriceUSD": 0.024401466666666666,
+      "currentPoolEth": 200,
+      "currentMarketCap": 366022
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613992195",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x144d150f0af4cf0341bec918fe51a07dad0d9827",
     "tokenName": "SQFT",
     "idPair": "0x6a01d6219970b2894743725ccdbf8cf65f15aee7",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
-    "tokenName": "RAI",
-    "idPair": "0x8ae720a71622e824f576b4a8c03031066548a3b1",
-    "idToken": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
-    "dateCreationToken": "2021-02-13T13:48:18Z",
-    "initialInfos": {
-      "initialPoolToken": 800,
-      "initialPriceUSD": 3.1634736547958147,
-      "initialPoolEth": 1.392726440360485,
-      "initialMarketCap": 2530.7789238366518
-    },
-    "currentInfos": {
-      "currentPoolToken": 20715764.575728018,
-      "currentPriceUSD": 3.1908854452471545,
-      "currentPoolEth": 36404.388064423234,
-      "currentMarketCap": 66101631.67185713
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1852,
-    "holderCountOld": 1844,
-    "txCount": 7720,
-    "createdAtTimestamp": "1613224098",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.00866509206099555,
-    "isRugged": false
   }
 ]
