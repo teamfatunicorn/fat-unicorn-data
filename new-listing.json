@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x13650c72a45ff1f8df340efa4379c19c32f80a32",
+    "tokenName": "SUPER",
+    "idPair": "0x0821cd6d428f49dc854e5d4138c121b53c969f6d",
+    "idToken": "0x13650c72a45ff1f8df340efa4379c19c32f80a32",
+    "dateCreationToken": "2021-02-22T02:48:44Z",
+    "initialInfos": {
+      "initialPoolToken": 3872400,
+      "initialPriceUSD": 0.08888441276727611,
+      "initialPoolEth": 180,
+      "initialMarketCap": 344196
+    },
+    "currentInfos": {
+      "currentPoolToken": 3872400,
+      "currentPriceUSD": 0.08888441276727611,
+      "currentPoolEth": 180,
+      "currentMarketCap": 344196
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613962124",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x69ac58c85c94250655a11828f504e56332201c6d",
     "tokenName": "MASK",
     "idPair": "0x0e9bbf5811a75fffa56e883d5bd70e1a0a13f6bb",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-02-22T02:12:33Z",
     "initialInfos": {
       "initialPoolToken": 1350000,
-      "initialPriceUSD": 0.49677444444444446,
+      "initialPriceUSD": 0.49575555555555556,
       "initialPoolEth": 350,
-      "initialMarketCap": 670645.5
+      "initialMarketCap": 669270
     },
     "currentInfos": {
-      "currentPoolToken": 1248630.685204592,
-      "currentPriceUSD": 0.5808449295383256,
-      "currentPoolEth": 378.50292118335,
-      "currentMarketCap": 725260.8023670524
+      "currentPoolToken": 1179271.0951578987,
+      "currentPriceUSD": 0.6499541100191877,
+      "currentPoolEth": 400.83259864277017,
+      "currentMarketCap": 766472.0951247048
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 10,
     "holderCountOld": 0,
-    "txCount": 11,
+    "txCount": 13,
     "createdAtTimestamp": "1613959953",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.16923270919843567,
+    "priceChange": 0.3110374714627928,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-02-22T01:52:47Z",
     "initialInfos": {
       "initialPoolToken": 1,
-      "initialPriceUSD": 191.613,
+      "initialPriceUSD": 191.22,
       "initialPoolEth": 0.1,
       "initialMarketCap": 191.29813774975457
     },
     "currentInfos": {
       "currentPoolToken": 1,
-      "currentPriceUSD": 191.613,
+      "currentPriceUSD": 191.22,
       "currentPoolEth": 0.1,
-      "currentMarketCap": 191.613
+      "currentMarketCap": 191.22
     },
     "trustScore": null,
     "contractId": null,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x85bc988c425347363986b52c9e9f995190d3ec61",
-    "tokenName": "BURNEFI",
-    "idPair": "0xe5f97272880d63de57cf25d9d4f13524742698e2",
-    "idToken": "0x85bc988c425347363986b52c9e9f995190d3ec61",
-    "dateCreationToken": "2021-02-13T07:24:30Z",
-    "initialInfos": {
-      "initialPoolToken": 970000000000000,
-      "initialPriceUSD": 1.893484536082474e-12,
-      "initialPoolEth": 1,
-      "initialMarketCap": 1836.68
-    },
-    "currentInfos": {
-      "currentPoolToken": 896032364857070.4,
-      "currentPriceUSD": 2.321974056231295e-12,
-      "currentPoolEth": 1.086008333242294,
-      "currentMarketCap": 2080.563904741691
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 3,
-    "txCount": 11,
-    "createdAtTimestamp": "1613201070",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.2262968152015355,
-    "isRugged": false
   }
 ]
