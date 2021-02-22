@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x97d05479846383e34aa60f76586fe50c5869fbf9",
+    "tokenName": "GG",
+    "idPair": "0x4495333c212c7bde554c797d210f7582261e4e87",
+    "idToken": "0x97d05479846383e34aa60f76586fe50c5869fbf9",
+    "dateCreationToken": "2021-02-22T12:07:39Z",
+    "initialInfos": {
+      "initialPoolToken": 1,
+      "initialPriceUSD": 1805.02,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1805.02
+    },
+    "currentInfos": {
+      "currentPoolToken": 1,
+      "currentPriceUSD": 1805.02,
+      "currentPoolEth": 1,
+      "currentMarketCap": 1805.02
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1613995659",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x19b9ba569c9e027342096d1fb35687650b749f51",
     "tokenName": "SUPER",
     "idPair": "0x945ba44deba103708c50e7ca4f32c96f66f869ca",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.8360068665067848,
     "isRugged": false
-  },
-  {
-    "_id": "0x0f7f92c439c5d0ec46f27ebdc3a4ccf73c691f9a",
-    "tokenName": "altNOK",
-    "idPair": "0xe1726410a33a74d8625b25bdf53b5f10d88fca2a",
-    "idToken": "0x0f7f92c439c5d0ec46f27ebdc3a4ccf73c691f9a",
-    "dateCreationToken": "2021-02-13T15:02:16Z",
-    "initialInfos": {
-      "initialPoolToken": 100000,
-      "initialPriceUSD": 0.270873,
-      "initialPoolEth": 15,
-      "initialMarketCap": 27087.3
-    },
-    "currentInfos": {
-      "currentPoolToken": 8.165e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.3e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 4,
-    "createdAtTimestamp": "1613228536",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
