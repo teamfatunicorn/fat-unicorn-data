@@ -31,6 +31,37 @@
     "isRugged": false
   },
   {
+    "_id": "0x6149c26cd2f7b5ccdb32029af817123f6e37df5b",
+    "tokenName": "LPOOL",
+    "idPair": "0x2f85e11f6f12ead6af643f083a34e001030d2a6f",
+    "idToken": "0x6149c26cd2f7b5ccdb32029af817123f6e37df5b",
+    "dateCreationToken": "2021-02-22T11:47:59Z",
+    "initialInfos": {
+      "initialPoolToken": 50000,
+      "initialPriceUSD": 0.98724854,
+      "initialPoolEth": 28.1,
+      "initialMarketCap": 49362.427
+    },
+    "currentInfos": {
+      "currentPoolToken": 5618.180386313758,
+      "currentPriceUSD": 79.6218553432655,
+      "currentPoolEth": 254.6465448897323,
+      "currentMarketCap": 447329.9460114455
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 6,
+    "holderCountOld": 0,
+    "txCount": 144,
+    "createdAtTimestamp": "1613994479",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 79.65026395811687,
+    "isRugged": false
+  },
+  {
     "_id": "0x19b9ba569c9e027342096d1fb35687650b749f51",
     "tokenName": "SUPER",
     "idPair": "0x945ba44deba103708c50e7ca4f32c96f66f869ca",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 1.2513194674714267,
-    "isRugged": false
-  },
-  {
-    "_id": "0xf05731df070ad8e6058d07e620e2f50bfa78e4c2",
-    "tokenName": "SKRG",
-    "idPair": "0xbc365f6c554a8f412acb75aa71265ba9278977fb",
-    "idToken": "0xf05731df070ad8e6058d07e620e2f50bfa78e4c2",
-    "dateCreationToken": "2021-02-13T15:31:08Z",
-    "initialInfos": {
-      "initialPoolToken": 1718.5,
-      "initialPriceUSD": 108.3492,
-      "initialPoolEth": 103.11,
-      "initialMarketCap": 186897.4312888603
-    },
-    "currentInfos": {
-      "currentPoolToken": 4309.533617262802,
-      "currentPriceUSD": 17.76852481948307,
-      "currentPoolEth": 42.42282913138397,
-      "currentMarketCap": 76574.05503873074
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 43,
-    "holderCountOld": 44,
-    "txCount": 650,
-    "createdAtTimestamp": "1613230268",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.8360068665067848,
     "isRugged": false
   }
 ]
