@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x043942281890d4876d26bd98e2bb3f662635dffb",
+    "tokenName": "unknown",
+    "idPair": "0x33844b301b121e0210f2fd2901980b7b79d521d2",
+    "idToken": "0x043942281890d4876d26bd98e2bb3f662635dffb",
+    "dateCreationToken": "2021-02-22T01:12:24Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000000,
+      "initialPriceUSD": 3.675762576e-10,
+      "initialPoolEth": 195.64,
+      "initialMarketCap": 367576.2576
+    },
+    "currentInfos": {
+      "currentPoolToken": 3,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 4.43644e-13,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1613956344",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
     "_id": "0xe60d63ce4283fa9efe31c75af4e7d255578309ce",
     "tokenName": "MASK",
     "idPair": "0x6719a3c91478a3543434472984b5813fea96ed05",
@@ -12,22 +43,22 @@
       "initialMarketCap": 570300.0367576701
     },
     "currentInfos": {
-      "currentPoolToken": 800000,
-      "currentPriceUSD": 0.704565,
-      "currentPoolEth": 300,
-      "currentMarketCap": 563652
+      "currentPoolToken": 794717.7758498513,
+      "currentPriceUSD": 0.713976328758,
+      "currentPoolEth": 302,
+      "currentMarketCap": 567409.68
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 1,
+    "txCount": 2,
     "createdAtTimestamp": "1613956140",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.013357644444444434,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.0330824293009599,
-    "isRugged": true
-  },
-  {
-    "_id": "0x8f82592327d6d0b0a3f85eaf046aaee3e6bc064d",
-    "tokenName": "PAZZY",
-    "idPair": "0xe1a1bda51dc672401c025a9cf247516da9f6737a",
-    "idToken": "0x8f82592327d6d0b0a3f85eaf046aaee3e6bc064d",
-    "dateCreationToken": "2021-02-13T03:38:26Z",
-    "initialInfos": {
-      "initialPoolToken": 4000000,
-      "initialPriceUSD": 0.161233625,
-      "initialPoolEth": 350,
-      "initialMarketCap": 644934.5
-    },
-    "currentInfos": {
-      "currentPoolToken": 9.1967e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.1e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 21,
-    "holderCountOld": 18,
-    "txCount": 22,
-    "createdAtTimestamp": "1613187506",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
