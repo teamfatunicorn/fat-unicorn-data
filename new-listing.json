@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xf25c642e55f58d87af82f9ee0f6d11d387fd56c8",
+    "tokenName": "MINT",
+    "idPair": "0xcddc41d7b6179be3981c7d3a5f505e15aeff6f0a",
+    "idToken": "0xf25c642e55f58d87af82f9ee0f6d11d387fd56c8",
+    "dateCreationToken": "2021-02-23T04:26:43Z",
+    "initialInfos": {
+      "initialPoolToken": 2286640,
+      "initialPriceUSD": 0.05898296190043033,
+      "initialPoolEth": 80,
+      "initialMarketCap": 134315.9016130191
+    },
+    "currentInfos": {
+      "currentPoolToken": 2286640,
+      "currentPriceUSD": 0.05898296190043033,
+      "currentPoolEth": 80,
+      "currentMarketCap": 134872.8
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614054403",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x5dc5eb026a3c252beb33b4e264ac079ef7fde7ee",
     "tokenName": "MASK",
     "idPair": "0x6be9da875b1d76935613b136fe18970448fe59b4",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9686010384415158,
-    "isRugged": true
-  },
-  {
-    "_id": "0xd16ce3e795cf63f161b831799885c111abb1e70c",
-    "tokenName": "CDCH",
-    "idPair": "0x6523cc0487670391866ec649fede879cdf8b081a",
-    "idToken": "0xd16ce3e795cf63f161b831799885c111abb1e70c",
-    "dateCreationToken": "2021-02-14T02:45:36Z",
-    "initialInfos": {
-      "initialPoolToken": 3,
-      "initialPriceUSD": 1825.29,
-      "initialPoolEth": 3,
-      "initialMarketCap": 5508.549452117585
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.73e-16,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2.125e-15,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 4,
-    "txCount": 13,
-    "createdAtTimestamp": "1613270736",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
