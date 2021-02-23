@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x865377367054516e17014ccded1e7d814edc9ce4",
+    "tokenName": "DOLA",
+    "idPair": "0xecfbe9b182f6477a93065c1c11271232147838e5",
+    "idToken": "0x865377367054516e17014ccded1e7d814edc9ce4",
+    "dateCreationToken": "2021-02-23T23:53:37Z",
+    "initialInfos": {
+      "initialPoolToken": 500,
+      "initialPriceUSD": 1.0016384,
+      "initialPoolEth": 0.32,
+      "initialMarketCap": 500.8192
+    },
+    "currentInfos": {
+      "currentPoolToken": 500,
+      "currentPriceUSD": 1.0016384,
+      "currentPoolEth": 0.32,
+      "currentMarketCap": 500.8192
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 5,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614124417",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xe0955f26515d22e347b17669993fcefcc73c3a0a",
     "tokenName": "STACK",
     "idPair": "0xd78e04a200048a438d9d03c9a3d7e5154de643b1",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xc7ff1e126cc81e816915ff48c940ed9d4e6d05d6",
-    "tokenName": "IJC",
-    "idPair": "0x56601760b9ffb2c8546cb0e37870060b0e5b3ad3",
-    "idToken": "0xc7ff1e126cc81e816915ff48c940ed9d4e6d05d6",
-    "dateCreationToken": "2021-02-14T10:08:23Z",
-    "initialInfos": {
-      "initialPoolToken": 222,
-      "initialPriceUSD": 0.004424483092342342,
-      "initialPoolEth": 0.00054643,
-      "initialMarketCap": 1.004349687133064
-    },
-    "currentInfos": {
-      "currentPoolToken": 222,
-      "currentPriceUSD": 0.003741716345945946,
-      "currentPoolEth": 0.00054643,
-      "currentMarketCap": 0.8306610288
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 49,
-    "holderCountOld": 0,
-    "txCount": 1,
-    "createdAtTimestamp": "1613297303",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.15431559622819943,
     "isRugged": true
   }
 ]
