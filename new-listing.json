@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xe0955f26515d22e347b17669993fcefcc73c3a0a",
+    "tokenName": "STACK",
+    "idPair": "0xd78e04a200048a438d9d03c9a3d7e5154de643b1",
+    "idToken": "0xe0955f26515d22e347b17669993fcefcc73c3a0a",
+    "dateCreationToken": "2021-02-23T22:25:52Z",
+    "initialInfos": {
+      "initialPoolToken": 5000,
+      "initialPriceUSD": 31.2824,
+      "initialPoolEth": 100,
+      "initialMarketCap": 155888.36818753157
+    },
+    "currentInfos": {
+      "currentPoolToken": 4950.642098280147,
+      "currentPriceUSD": 31.91022838328,
+      "currentPoolEth": 101,
+      "currentMarketCap": 157976.12
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 15,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614119152",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.020069700000000024,
+    "isRugged": false
+  },
+  {
     "_id": "0xfc8e8eec4423c0260d18f34685acff832dec63f8",
     "tokenName": "BFED",
     "idPair": "0x8e260d964d742c3841e7f58f585bd19a9a89075e",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.15431559622819943,
-    "isRugged": true
-  },
-  {
-    "_id": "0xf28eae18ba5a27c63b5f6b9aaa1ebc0c9affba4f",
-    "tokenName": "DVG",
-    "idPair": "0xfe0ba3c1271778a4f2b65af1f375510834e27b7f",
-    "idToken": "0xf28eae18ba5a27c63b5f6b9aaa1ebc0c9affba4f",
-    "dateCreationToken": "2021-02-14T10:00:27Z",
-    "initialInfos": {
-      "initialPoolToken": 1525000,
-      "initialPriceUSD": 0.11787213114754098,
-      "initialPoolEth": 100,
-      "initialMarketCap": 183867.40542042104
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.9585e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.5e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 38,
-    "holderCountOld": 37,
-    "txCount": 53,
-    "createdAtTimestamp": "1613296827",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
