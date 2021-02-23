@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x2fb35229c1ee32a226e1438728e492a1f33de589",
+    "tokenName": "PUBE",
+    "idPair": "0xbfb27534fa54650b8a7a6b089931016dd7909597",
+    "idToken": "0x2fb35229c1ee32a226e1438728e492a1f33de589",
+    "dateCreationToken": "2021-02-23T19:26:11Z",
+    "initialInfos": {
+      "initialPoolToken": 1,
+      "initialPriceUSD": 0.03734975,
+      "initialPoolEth": 0.000025,
+      "initialMarketCap": 0.03734975
+    },
+    "currentInfos": {
+      "currentPoolToken": 1,
+      "currentPriceUSD": 0.03734975,
+      "currentPoolEth": 0.000025,
+      "currentMarketCap": 0.03734975
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614108371",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x3ee6e46f52c475c52040b934745501f2a0cea252",
     "tokenName": "DSCVR",
     "idPair": "0xdfe56501901e58c175e4ff381b4cf6b39d3bea22",
@@ -12,22 +43,22 @@
       "initialMarketCap": 103533.507
     },
     "currentInfos": {
-      "currentPoolToken": 12018.553833614586,
-      "currentPriceUSD": 5.411119802993045,
-      "currentPoolEth": 43.53030117498141,
-      "currentMarketCap": 65033.83465240987
+      "currentPoolToken": 13069.92604003415,
+      "currentPriceUSD": 4.577001749617915,
+      "currentPoolEth": 40.04114776712909,
+      "currentMarketCap": 59821.07435261305
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 78,
+    "holderCount": 106,
     "holderCountOld": 0,
-    "txCount": 28,
+    "txCount": 32,
     "createdAtTimestamp": "1614107154",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.6063124947439373,
+    "priceChange": -0.666998982472533,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x48e96798cc9dc0db796d7fdda27a112d699b0591",
-    "tokenName": "COMMA",
-    "idPair": "0xccd34000b06ba9351a5897bcecf2c960c0ab4167",
-    "idToken": "0x48e96798cc9dc0db796d7fdda27a112d699b0591",
-    "dateCreationToken": "2021-02-14T06:48:04Z",
-    "initialInfos": {
-      "initialPoolToken": 35000,
-      "initialPriceUSD": 0.021099085714285714,
-      "initialPoolEth": 0.4,
-      "initialMarketCap": 738.468
-    },
-    "currentInfos": {
-      "currentPoolToken": 100012852.27857372,
-      "currentPriceUSD": 2.13089343993769e-9,
-      "currentPoolEth": 0.000140839372687553,
-      "currentMarketCap": 0.21311673082987
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 11,
-    "holderCountOld": 10,
-    "txCount": 20,
-    "createdAtTimestamp": "1613285284",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9999998990054133,
     "isRugged": true
   }
 ]
