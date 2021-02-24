@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xeb58343b36c7528f23caae63a150240241310049",
+    "tokenName": "NBU",
+    "idPair": "0xf1d8258e9ca9437f24b5e46c017a45ed972896ba",
+    "idToken": "0xeb58343b36c7528f23caae63a150240241310049",
+    "dateCreationToken": "2021-02-24T11:58:24Z",
+    "initialInfos": {
+      "initialPoolToken": 33947.50416,
+      "initialPriceUSD": 1.4602776344674642,
+      "initialPoolEth": 29.58579882,
+      "initialMarketCap": 49637.61144618821
+    },
+    "currentInfos": {
+      "currentPoolToken": 34499.240022495964,
+      "currentPriceUSD": 1.4142595560371694,
+      "currentPoolEth": 29.11914815216074,
+      "currentMarketCap": 48790.87987783489
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 17231,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1614167904",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -0.03151323922527701,
+    "isRugged": false
+  },
+  {
     "_id": "0x7777777777697cfeecf846a76326da79cc606517",
     "tokenName": "SIG",
     "idPair": "0x23b7e6932cb873b8696afba077c4a2486b1c862e",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.024288116850205037,
-    "isRugged": true
-  },
-  {
-    "_id": "0x68123b76e410fcdd644e9a2a39356ed000bd4a57",
-    "tokenName": "DVG",
-    "idPair": "0xd758476230528c24ccd45cdc7808f3f07d0c5f77",
-    "idToken": "0x68123b76e410fcdd644e9a2a39356ed000bd4a57",
-    "dateCreationToken": "2021-02-15T05:21:49Z",
-    "initialInfos": {
-      "initialPoolToken": 4000000,
-      "initialPriceUSD": 0.108515,
-      "initialPoolEth": 250,
-      "initialMarketCap": 434060
-    },
-    "currentInfos": {
-      "currentPoolToken": 9.489e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.1e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 36,
-    "holderCountOld": 35,
-    "txCount": 40,
-    "createdAtTimestamp": "1613366509",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
