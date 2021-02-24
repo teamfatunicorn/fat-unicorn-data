@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7777777777697cfeecf846a76326da79cc606517",
+    "tokenName": "SIG",
+    "idPair": "0x23b7e6932cb873b8696afba077c4a2486b1c862e",
+    "idToken": "0x7777777777697cfeecf846a76326da79cc606517",
+    "dateCreationToken": "2021-02-24T11:54:38Z",
+    "initialInfos": {
+      "initialPoolToken": 240,
+      "initialPriceUSD": 1.67438,
+      "initialPoolEth": 0.24,
+      "initialMarketCap": 401.8512
+    },
+    "currentInfos": {
+      "currentPoolToken": 240,
+      "currentPriceUSD": 1.67438,
+      "currentPoolEth": 0.24,
+      "currentMarketCap": 401.8512
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614167678",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x77777777777b3d7f5fd4287061bcb39c3a237366",
     "tokenName": "SIG",
     "idPair": "0xb117fae1a0184b74697a181273233d1934f7b11d",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-24T09:55:52Z",
     "initialInfos": {
       "initialPoolToken": 24,
-      "initialPriceUSD": 16.7648,
+      "initialPriceUSD": 16.7438,
       "initialPoolEth": 0.24,
-      "initialMarketCap": 402.3552
+      "initialMarketCap": 401.8512
     },
     "currentInfos": {
       "currentPoolToken": 0.0988927381713048,
-      "currentPriceUSD": 98.96106325813625,
+      "currentPriceUSD": 98.83710220113463,
       "currentPoolEth": 0.005837546835271642,
-      "currentMarketCap": 9.7865305179408
+      "currentMarketCap": 9.7742716695873
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 4.902907476267909,
+    "priceChange": 4.90290747626791,
     "isRugged": true
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70",
-    "tokenName": "PREMIA",
-    "idPair": "0x755fa735f831878ae47fde6606b28d38aaab20f2",
-    "idToken": "0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70",
-    "dateCreationToken": "2021-02-15T02:12:27Z",
-    "initialInfos": {
-      "initialPoolToken": 26048.60207,
-      "initialPriceUSD": 3.3055708620604682,
-      "initialPoolEth": 50,
-      "initialMarketCap": 86105.5
-    },
-    "currentInfos": {
-      "currentPoolToken": 75886.92258485846,
-      "currentPriceUSD": 2.027422879220156,
-      "currentPoolEth": 90.81967278928893,
-      "currentMarketCap": 153854.8830821508
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1810,
-    "holderCountOld": 1808,
-    "txCount": 3649,
-    "createdAtTimestamp": "1613355147",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.38666482619089937,
-    "isRugged": false
   }
 ]
