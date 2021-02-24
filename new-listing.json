@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7ad8994bea5bb0765323950b63021bb9e233dff3",
+    "tokenName": "DEXX",
+    "idPair": "0xb55f710ef842beb348e2a6d361b2574296e3f79a",
+    "idToken": "0x7ad8994bea5bb0765323950b63021bb9e233dff3",
+    "dateCreationToken": "2021-02-24T01:36:09Z",
+    "initialInfos": {
+      "initialPoolToken": 100.0028336,
+      "initialPriceUSD": 210.36071784514647,
+      "initialPoolEth": 13.321429027232664,
+      "initialMarketCap": 21036.667862644732
+    },
+    "currentInfos": {
+      "currentPoolToken": 100.0028336,
+      "currentPriceUSD": 210.36071784515178,
+      "currentPoolEth": 13.321429027232664,
+      "currentMarketCap": 21036.667862645263
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614130569",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.526545696330051e-14,
+    "isRugged": false
+  },
+  {
     "_id": "0x799dc6b425948e55ae12dae82955666de63a93b3",
     "tokenName": "SOTA",
     "idPair": "0x8474110b3d694f8e849e01f4c5664fbb3a4dc38f",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x2baaa86a7cd6a46e297e75945f53fad2f8626683",
-    "tokenName": "PSET",
-    "idPair": "0xff35957741320adb0ce6d16562903274a918cd62",
-    "idToken": "0x2baaa86a7cd6a46e297e75945f53fad2f8626683",
-    "dateCreationToken": "2021-02-14T16:56:27Z",
-    "initialInfos": {
-      "initialPoolToken": 5396.921734474,
-      "initialPriceUSD": 32.81677977071158,
-      "initialPoolEth": 98.2,
-      "initialMarketCap": 177109.592
-    },
-    "currentInfos": {
-      "currentPoolToken": 3106667.984196231,
-      "currentPriceUSD": 0.000007464920211697222,
-      "currentPoolEth": 0.014849005708511349,
-      "currentMarketCap": 23.19102862625911
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 164,
-    "holderCountOld": 165,
-    "txCount": 408,
-    "createdAtTimestamp": "1613321787",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9999997725273393,
     "isRugged": true
   }
 ]
