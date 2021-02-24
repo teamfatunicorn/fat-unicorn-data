@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xf69f479b1528cf24b3519afb8e9c423afcd2e9c8",
+    "tokenName": "OEN",
+    "idPair": "0x086dce31f0d5bd63859fbbacb1b5e453cd63470a",
+    "idToken": "0xf69f479b1528cf24b3519afb8e9c423afcd2e9c8",
+    "dateCreationToken": "2021-02-24T05:53:10Z",
+    "initialInfos": {
+      "initialPoolToken": 780.36,
+      "initialPriceUSD": 11.50238351530063,
+      "initialPoolEth": 5.5,
+      "initialMarketCap": 8967.994044076007
+    },
+    "currentInfos": {
+      "currentPoolToken": 660.6095120824996,
+      "currentPriceUSD": 16.057897753484404,
+      "currentPoolEth": 6.5,
+      "currentMarketCap": 10608
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614145990",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.39604958677685936,
+    "isRugged": false
+  },
+  {
     "_id": "0x4b0c75c633c403ea431e7566ace5b92f4c45e601",
     "tokenName": "HOPR",
     "idPair": "0xd600117ae5e52a172e4ae816b6c2751e15a69880",
@@ -43,22 +74,22 @@
       "initialMarketCap": 326400
     },
     "currentInfos": {
-      "currentPoolToken": 6373839.031214697,
-      "currentPriceUSD": 0.05222600801847698,
-      "currentPoolEth": 203.9706913925864,
-      "currentMarketCap": 332880.16835270036
+      "currentPoolToken": 6266630.457125729,
+      "currentPriceUSD": 0.05403097736004048,
+      "currentPoolEth": 207.4706913925864,
+      "currentMarketCap": 338592.16835270036
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 5,
     "holderCountOld": 0,
-    "txCount": 4,
+    "txCount": 5,
     "createdAtTimestamp": "1614143314",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.04003998811305268,
+    "priceChange": 0.07598453688806103,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xb3bd49e28f8f832b8d1e246106991e546c323502",
-    "tokenName": "GMT",
-    "idPair": "0x0d09b8bc7c338558e5862bea1cd8bc303ae3d5e1",
-    "idToken": "0xb3bd49e28f8f832b8d1e246106991e546c323502",
-    "dateCreationToken": "2021-02-14T21:15:54Z",
-    "initialInfos": {
-      "initialPoolToken": 210000,
-      "initialPriceUSD": 0.00008707095238095239,
-      "initialPoolEth": 0.01,
-      "initialMarketCap": 18.2849
-    },
-    "currentInfos": {
-      "currentPoolToken": 189933.6410724631,
-      "currentPriceUSD": 0.00009522163327670102,
-      "currentPoolEth": 0.01105975216343947,
-      "currentMarketCap": 18.08579151711064
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2874,
-    "holderCountOld": 2870,
-    "txCount": 3,
-    "createdAtTimestamp": "1613337354",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.09360964446659335,
     "isRugged": true
   }
 ]
