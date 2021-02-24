@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xe95ebf4f50d0084c1ea62fcfa8a2bdd707254d3f",
+    "tokenName": "POLK",
+    "idPair": "0x71f5b1d3e0475c53ac70cfc9f96f263fa7018824",
+    "idToken": "0xe95ebf4f50d0084c1ea62fcfa8a2bdd707254d3f",
+    "dateCreationToken": "2021-02-24T03:54:33Z",
+    "initialInfos": {
+      "initialPoolToken": 24000000,
+      "initialPriceUSD": 0.016940416666666666,
+      "initialPoolEth": 250,
+      "initialMarketCap": 406761.9125866484
+    },
+    "currentInfos": {
+      "currentPoolToken": 24000000,
+      "currentPriceUSD": 0.016940416666666666,
+      "currentPoolEth": 250,
+      "currentMarketCap": 406570
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614138873",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x7c015c3f6363b7d699b7d936a5f915f3f3355b3d",
     "tokenName": "POLK",
     "idPair": "0x9b32a536e9e5ac99b74e75ea2b6212a198d1243b",
@@ -308,6 +339,37 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
+  },
+  {
+    "_id": "0x0dde6f6e345bfd23f3f419f0dfe04e93143b44fb",
+    "tokenName": "SOTA",
+    "idPair": "0x920c42016602799e8448cef7369b364742624480",
+    "idToken": "0x0dde6f6e345bfd23f3f419f0dfe04e93143b44fb",
+    "dateCreationToken": "2021-02-23T07:15:35Z",
+    "initialInfos": {
+      "initialPoolToken": 2500000,
+      "initialPriceUSD": 0.109286016,
+      "initialPoolEth": 168,
+      "initialMarketCap": 273215.04
+    },
+    "currentInfos": {
+      "currentPoolToken": 1245544.3505720955,
+      "currentPriceUSD": 0.4493670792066008,
+      "currentPoolEth": 344.163752145304,
+      "currentMarketCap": 559706.626838865
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2660,
+    "holderCountOld": 0,
+    "txCount": 820,
+    "createdAtTimestamp": "1614064535",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 3.111844274811892,
+    "isRugged": false
   },
   {
     "_id": "0xf25c642e55f58d87af82f9ee0f6d11d387fd56c8",
@@ -6136,67 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x3fe0c6d5fe5cc4eb295ea8de60012154e44e9ce3",
-    "tokenName": "FLAME",
-    "idPair": "0xe18f316a57e111ebe95aaa8a9f6e641bf45b4c40",
-    "idToken": "0x3fe0c6d5fe5cc4eb295ea8de60012154e44e9ce3",
-    "dateCreationToken": "2021-02-14T18:27:17Z",
-    "initialInfos": {
-      "initialPoolToken": 450000,
-      "initialPriceUSD": 0.08020311111111111,
-      "initialPoolEth": 20,
-      "initialMarketCap": 36091.4
-    },
-    "currentInfos": {
-      "currentPoolToken": 900000489056.5164,
-      "currentPriceUSD": 1.77253391694749e-14,
-      "currentPoolEth": 0.000010030818768129,
-      "currentMarketCap": 0.01595281392122
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 3,
-    "createdAtTimestamp": "1613327237",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9999999999997791,
-    "isRugged": true
-  },
-  {
-    "_id": "0x6e765d26388a17a6e86c49a8e41df3f58abcd337",
-    "tokenName": "KANGAL",
-    "idPair": "0x0bc4428491010dfeaa97e48c70bf4940fa783b40",
-    "idToken": "0x6e765d26388a17a6e86c49a8e41df3f58abcd337",
-    "dateCreationToken": "2021-02-14T18:06:51Z",
-    "initialInfos": {
-      "initialPoolToken": 100000000000,
-      "initialPriceUSD": 1.80457e-8,
-      "initialPoolEth": 1,
-      "initialMarketCap": 1804.57
-    },
-    "currentInfos": {
-      "currentPoolToken": 7392854745.181752,
-      "currentPriceUSD": 0.0000030316772211544103,
-      "currentPoolEth": 14.092700694344112,
-      "currentMarketCap": 22412.74933027081
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 125,
-    "holderCountOld": 124,
-    "txCount": 287,
-    "createdAtTimestamp": "1613326011",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 166.99997900632343,
-    "isRugged": false
   }
 ]
