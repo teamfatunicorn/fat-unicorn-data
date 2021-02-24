@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x4c25bdf026ea05f32713f00f73ca55857fbf6342",
+    "tokenName": "FONT",
+    "idPair": "0x1f6a7d520c828b9ff22a267a187dd2f170e44a8f",
+    "idToken": "0x4c25bdf026ea05f32713f00f73ca55857fbf6342",
+    "dateCreationToken": "2021-02-24T15:59:45Z",
+    "initialInfos": {
+      "initialPoolToken": 60200,
+      "initialPriceUSD": 2.3747285714285713,
+      "initialPoolEth": 86,
+      "initialMarketCap": 142958.66
+    },
+    "currentInfos": {
+      "currentPoolToken": 60200,
+      "currentPriceUSD": 2.3747285714285713,
+      "currentPoolEth": 86,
+      "currentMarketCap": 142958.66
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614182385",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
     "tokenName": "MASK",
     "idPair": "0x4d5f135691f13f7f5949ab3343ac7dc6bd7df80b",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-02-24T15:51:56Z",
     "initialInfos": {
       "initialPoolToken": 2509.6612399347596,
-      "initialPriceUSD": 20.287929936441778,
+      "initialPriceUSD": 20.26172380991224,
       "initialPoolEth": 30.59,
-      "initialMarketCap": 50915.8314
+      "initialMarketCap": 50850.0629
     },
     "currentInfos": {
-      "currentPoolToken": 2414.3714175617574,
-      "currentPriceUSD": 21.931089177916693,
-      "currentPoolEth": 31.811996003003586,
-      "currentMarketCap": 52949.79486716004
+      "currentPoolToken": 2354.598276328032,
+      "currentPriceUSD": 23.030625105324248,
+      "currentPoolEth": 32.62199600300359,
+      "currentMarketCap": 54227.87017575358
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 297,
     "holderCountOld": 0,
-    "txCount": 6,
+    "txCount": 7,
     "createdAtTimestamp": "1614181916",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.0809919615565817,
+    "priceChange": 0.13665674852686685,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x075f95eefbe0c5706588142afb3ef0df98b24987",
-    "tokenName": "INFI",
-    "idPair": "0xc853895c1f169ecf7ac844b515ade015bd9ab3e1",
-    "idToken": "0x075f95eefbe0c5706588142afb3ef0df98b24987",
-    "dateCreationToken": "2021-02-15T13:17:21Z",
-    "initialInfos": {
-      "initialPoolToken": 939.522130725,
-      "initialPriceUSD": 10.197986494055717,
-      "initialPoolEth": 5.3,
-      "initialMarketCap": 9581.234
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.05020515,
-      "currentPriceUSD": 0.0003289043462672654,
-      "currentPoolEth": 1.0023464168e-8,
-      "currentMarketCap": 0.00001651269204
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 7,
-    "holderCountOld": 6,
-    "txCount": 11,
-    "createdAtTimestamp": "1613395041",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9999677481092509,
     "isRugged": true
   }
 ]
