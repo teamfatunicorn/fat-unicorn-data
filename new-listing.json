@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x888888435fde8e7d4c54cab67f206e4199454c60",
+    "tokenName": "DFX",
+    "idPair": "0xc3be40243ba58d816769361658d844119756f088",
+    "idToken": "0x888888435fde8e7d4c54cab67f206e4199454c60",
+    "dateCreationToken": "2021-02-24T23:54:10Z",
+    "initialInfos": {
+      "initialPoolToken": 10,
+      "initialPriceUSD": 1.006007416612752,
+      "initialPoolEth": 0.006180469716,
+      "initialMarketCap": 10.06007416612752
+    },
+    "currentInfos": {
+      "currentPoolToken": 10,
+      "currentPriceUSD": 1.006007416612752,
+      "currentPoolEth": 0.006180469716,
+      "currentMarketCap": 10.06007416612752
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 7,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614210850",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x4e9966352ecb7e35aed43900cfcd9c3653eff432",
     "tokenName": "jen",
     "idPair": "0x5cc71ced816f13fcff838cf378aa005b992d9286",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x9f801c1f02af03cc240546dadef8e56cd46ea2e9",
-    "tokenName": "VAI",
-    "idPair": "0x454d7156b0f62f61e7f2ad6a65d29ce681d6d354",
-    "idToken": "0x9f801c1f02af03cc240546dadef8e56cd46ea2e9",
-    "dateCreationToken": "2021-02-15T14:14:25Z",
-    "initialInfos": {
-      "initialPoolToken": 900000,
-      "initialPriceUSD": 0.16776921,
-      "initialPoolEth": 83.7,
-      "initialMarketCap": 150992.289
-    },
-    "currentInfos": {
-      "currentPoolToken": 666286.2853155604,
-      "currentPriceUSD": 0.746874061431235,
-      "currentPoolEth": 314.3640121729668,
-      "currentMarketCap": 497631.9439895633
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 973,
-    "holderCountOld": 975,
-    "txCount": 3868,
-    "createdAtTimestamp": "1613398465",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 3.4517945899085714,
-    "isRugged": false
   }
 ]
