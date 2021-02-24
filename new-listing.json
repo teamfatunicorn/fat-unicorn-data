@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x68191a9593fd499b7a7314b9565583d283d62a79",
+    "tokenName": "POLK",
+    "idPair": "0x5808cdad476270601f3d1f34cec9306c8937c863",
+    "idToken": "0x68191a9593fd499b7a7314b9565583d283d62a79",
+    "dateCreationToken": "2021-02-24T14:28:28Z",
+    "initialInfos": {
+      "initialPoolToken": 3500000,
+      "initialPriceUSD": 0.09402457142857143,
+      "initialPoolEth": 200,
+      "initialMarketCap": 329086
+    },
+    "currentInfos": {
+      "currentPoolToken": 3500000,
+      "currentPriceUSD": 0.09402457142857143,
+      "currentPoolEth": 200,
+      "currentMarketCap": 329086
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614176908",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x82bc1d4663ac125efb4fa32ce6cb23c33b614435",
     "tokenName": "POLK",
     "idPair": "0x3115b46b7a37e72f252fd993da407b37b9444432",
@@ -74,22 +105,22 @@
       "initialMarketCap": 329086
     },
     "currentInfos": {
-      "currentPoolToken": 6226172.325363621,
-      "currentPriceUSD": 0.05604128880640616,
-      "currentPoolEth": 212.0556459066358,
-      "currentMarketCap": 348922.7214441561
+      "currentPoolToken": 6179643.851271836,
+      "currentPriceUSD": 0.05688964987666998,
+      "currentPoolEth": 213.65708359600322,
+      "currentMarketCap": 351557.7750613712
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 6,
     "holderCountOld": 0,
-    "txCount": 7,
+    "txCount": 8,
     "createdAtTimestamp": "1614175444",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.12393874586667515,
+    "priceChange": 0.14095309185447538,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x87add554a22f39d083922701fc2dbf23ce005558",
-    "tokenName": "RBOW",
-    "idPair": "0x9b02b6b38b5730b4b93a05bfd05cfbcb4028c882",
-    "idToken": "0x87add554a22f39d083922701fc2dbf23ce005558",
-    "dateCreationToken": "2021-02-15T07:19:11Z",
-    "initialInfos": {
-      "initialPoolToken": 100000,
-      "initialPriceUSD": 0.010210668,
-      "initialPoolEth": 0.58,
-      "initialMarketCap": 1021.0668
-    },
-    "currentInfos": {
-      "currentPoolToken": 100000,
-      "currentPriceUSD": 0.00954883,
-      "currentPoolEth": 0.58,
-      "currentMarketCap": 954.883
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 1,
-    "createdAtTimestamp": "1613373551",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.06481828612976151,
-    "isRugged": false
   }
 ]
