@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xe5bac5c8b093fda8117a2537f86e066b243cd131",
+    "tokenName": "POLK",
+    "idPair": "0x2d85e3df453fd651f7d07ec60ca1e18e8714a8ab",
+    "idToken": "0xe5bac5c8b093fda8117a2537f86e066b243cd131",
+    "dateCreationToken": "2021-02-24T08:23:32Z",
+    "initialInfos": {
+      "initialPoolToken": 6600000,
+      "initialPriceUSD": 0.05036030303030303,
+      "initialPoolEth": 200,
+      "initialMarketCap": 333242.28091056284
+    },
+    "currentInfos": {
+      "currentPoolToken": 6600000,
+      "currentPriceUSD": 0.05046909090909091,
+      "currentPoolEth": 200,
+      "currentMarketCap": 333096
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614155012",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.0021601911077146325,
+    "isRugged": false
+  },
+  {
     "_id": "0x5613c3ba5b4c691ee525dbb4e612d6036faf4bb6",
     "tokenName": "POLK",
     "idPair": "0x86fb64ef97f35a00d9a84f7815e702ad901fce3e",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.057629084146433314,
     "isRugged": false
-  },
-  {
-    "_id": "0x71ec3b49c4fef75666b4b112068f99f003ef2cec",
-    "tokenName": "GROW",
-    "idPair": "0x1c3f53630663ee8a2881dbca559929ccb03abfea",
-    "idToken": "0x71ec3b49c4fef75666b4b112068f99f003ef2cec",
-    "dateCreationToken": "2021-02-15T00:28:22Z",
-    "initialInfos": {
-      "initialPoolToken": 600000000000,
-      "initialPriceUSD": 2.0551066666666668e-7,
-      "initialPoolEth": 70,
-      "initialMarketCap": 123306.4
-    },
-    "currentInfos": {
-      "currentPoolToken": 9.1401431e-11,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 11,
-    "holderCountOld": 0,
-    "txCount": 9,
-    "createdAtTimestamp": "1613348902",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
