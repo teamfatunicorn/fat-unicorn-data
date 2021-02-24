@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xd0983dd6a0334c71d0478255d1f794508026b888",
+    "tokenName": "EGG",
+    "idPair": "0x67210bf019dda5c3a3c614d36dd9718b67538ec1",
+    "idToken": "0xd0983dd6a0334c71d0478255d1f794508026b888",
+    "dateCreationToken": "2021-02-24T18:10:05Z",
+    "initialInfos": {
+      "initialPoolToken": 5000,
+      "initialPriceUSD": 0.050349518266,
+      "initialPoolEth": 0.151883,
+      "initialMarketCap": 251.00266907504442
+    },
+    "currentInfos": {
+      "currentPoolToken": 5000,
+      "currentPriceUSD": 0.050349518266,
+      "currentPoolEth": 0.151883,
+      "currentMarketCap": 251.74759133
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2221,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614190205",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x1b8568fbb47708e9e9d31ff303254f748805bf21",
     "tokenName": "SCX",
     "idPair": "0x319ead06eb01e808c80c7eb9bd77c5d8d163addb",
@@ -1470,7 +1501,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 68456.64146820102,
-      "currentPriceUSD": 43.7172811069678,
+      "currentPriceUSD": 44.4215892062242,
       "currentPoolEth": 1807.1436051255712,
       "currentMarketCap": 2992738.238704253
     },
@@ -1484,7 +1515,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 42.842682578239035,
+    "priceChange": 43.54901096031354,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.08195040179763367,
     "isRugged": false
-  },
-  {
-    "_id": "0x90320a40eb5e9fa9e51db34f4dbc3eaabb96b6fe",
-    "tokenName": "DVG",
-    "idPair": "0xfa0f2682f0494be6d4cf7d6452b6cee30572b425",
-    "idToken": "0x90320a40eb5e9fa9e51db34f4dbc3eaabb96b6fe",
-    "dateCreationToken": "2021-02-15T13:39:31Z",
-    "initialInfos": {
-      "initialPoolToken": 2169599,
-      "initialPriceUSD": 0.2244985824569425,
-      "initialPoolEth": 270,
-      "initialMarketCap": 487071.9
-    },
-    "currentInfos": {
-      "currentPoolToken": 8.8532e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.2e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 327,
-    "holderCountOld": 326,
-    "txCount": 6,
-    "createdAtTimestamp": "1613396371",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
