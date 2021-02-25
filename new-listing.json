@@ -1085,6 +1085,37 @@
     "isRugged": false
   },
   {
+    "_id": "0xf4d861575ecc9493420a3f5a14f85b13f0b50eb3",
+    "tokenName": "FCL",
+    "idPair": "0xdec87f2f3e7a936b08ebd7b2371ab12cc8b68340",
+    "idToken": "0xf4d861575ecc9493420a3f5a14f85b13f0b50eb3",
+    "dateCreationToken": "2021-02-24T10:41:11Z",
+    "initialInfos": {
+      "initialPoolToken": 3400000,
+      "initialPriceUSD": 0.11622373047876323,
+      "initialPoolEth": 247.2427585,
+      "initialMarketCap": 404858.0356441599
+    },
+    "currentInfos": {
+      "currentPoolToken": 1369906.9408520584,
+      "currentPriceUSD": 1.1034348112158188,
+      "currentPoolEth": 945.7744978397461,
+      "currentMarketCap": 1511603.0066623308
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1727,
+    "holderCountOld": 0,
+    "txCount": 3255,
+    "createdAtTimestamp": "1614163271",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 8.494057768326769,
+    "isRugged": false
+  },
+  {
     "_id": "0x77777777777b3d7f5fd4287061bcb39c3a237366",
     "tokenName": "SIG",
     "idPair": "0xb117fae1a0184b74697a181273233d1934f7b11d",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x0394635c930716a7a5c0da1da5ed8a0b12305cff",
-    "tokenName": "BME",
-    "idPair": "0xeee65150b8ac2cd3bf474e9b79db0c7d6915ff8c",
-    "idToken": "0x0394635c930716a7a5c0da1da5ed8a0b12305cff",
-    "dateCreationToken": "2021-02-16T04:15:48Z",
-    "initialInfos": {
-      "initialPoolToken": 480,
-      "initialPriceUSD": 3.7572916666666667,
-      "initialPoolEth": 1,
-      "initialMarketCap": 1803.5
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.584309289420053,
-      "currentPriceUSD": 2.3172045859647117,
-      "currentPoolEth": 0.009618706141243388,
-      "currentMarketCap": 15.2571916808542
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 597,
-    "holderCountOld": 596,
-    "txCount": 62,
-    "createdAtTimestamp": "1613448948",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.3832779588228103,
     "isRugged": true
   }
 ]
