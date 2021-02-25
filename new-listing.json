@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xd335bc40c87f88df0bdbc71880077fe1306bceb1",
+    "tokenName": "UDO",
+    "idPair": "0xd4d0997856558f85508e3a854e33a9fd04a59797",
+    "idToken": "0xd335bc40c87f88df0bdbc71880077fe1306bceb1",
+    "dateCreationToken": "2021-02-25T17:25:13Z",
+    "initialInfos": {
+      "initialPoolToken": 10000000,
+      "initialPriceUSD": 0.04014425,
+      "initialPoolEth": 250,
+      "initialMarketCap": 401439.13519030873
+    },
+    "currentInfos": {
+      "currentPoolToken": 10000000,
+      "currentPriceUSD": 0.04014425,
+      "currentPoolEth": 250,
+      "currentMarketCap": 401442.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614273913",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x4664d46fed2053d00674ad3c251084d0c0372b47",
     "tokenName": "FCL",
     "idPair": "0xa8f4437917be539903a792d03e6aacf7b2f48af9",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.816760630077185,
     "isRugged": false
-  },
-  {
-    "_id": "0x1536e1f38f1d262137d738bff26ab72a3cf1955d",
-    "tokenName": "RAY",
-    "idPair": "0x25be7a3b5edf239c5e4c601e6b1c829d6fa6476f",
-    "idToken": "0x1536e1f38f1d262137d738bff26ab72a3cf1955d",
-    "dateCreationToken": "2021-02-15T23:40:26Z",
-    "initialInfos": {
-      "initialPoolToken": 45097261.673485294,
-      "initialPriceUSD": 0.0039054610737829375,
-      "initialPoolEth": 98,
-      "initialMarketCap": 176125.6
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.44068e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 5e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 213,
-    "holderCountOld": 212,
-    "txCount": 214,
-    "createdAtTimestamp": "1613432426",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
