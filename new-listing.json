@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x2553e85f9e1dbbcda7382498c8e5ccc937a93542",
+    "tokenName": "EBE",
+    "idPair": "0xae3b6b1189a26c591cb33ae1005e7efdbd7f1fd3",
+    "idToken": "0x2553e85f9e1dbbcda7382498c8e5ccc937a93542",
+    "dateCreationToken": "2021-02-25T20:23:42Z",
+    "initialInfos": {
+      "initialPoolToken": 1,
+      "initialPriceUSD": 1.56532,
+      "initialPoolEth": 0.001,
+      "initialMarketCap": 1.56532
+    },
+    "currentInfos": {
+      "currentPoolToken": 1,
+      "currentPriceUSD": 1.56532,
+      "currentPoolEth": 0.001,
+      "currentMarketCap": 1.56532
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614284622",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x020810d775fc019480cd56ecb960389d3477039d",
     "tokenName": "GIL",
     "idPair": "0x8e5ebc66b2f1bf6de4007f564fb9fd03a48501c2",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.11307120443568189,
-    "isRugged": false
-  },
-  {
-    "_id": "0x82f57cb5899d0b661cc206c568d39868d705acda",
-    "tokenName": "LPOOL",
-    "idPair": "0x6cd2a85481fc4eb38be686740984ca8b4d2d24c0",
-    "idToken": "0x82f57cb5899d0b661cc206c568d39868d705acda",
-    "dateCreationToken": "2021-02-16T12:26:59Z",
-    "initialInfos": {
-      "initialPoolToken": 500000,
-      "initialPriceUSD": 0.717556,
-      "initialPoolEth": 200,
-      "initialMarketCap": 358778
-    },
-    "currentInfos": {
-      "currentPoolToken": 355035.94898338435,
-      "currentPriceUSD": 1.252513738145477,
-      "currentPoolEth": 281.9491650576061,
-      "currentMarketCap": 444687.4036372056
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 54,
-    "holderCountOld": 53,
-    "txCount": 58,
-    "createdAtTimestamp": "1613478419",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.7455275102507358,
     "isRugged": false
   }
 ]
