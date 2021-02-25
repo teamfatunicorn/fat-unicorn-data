@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x3eb1ddcab1bd899cb449f6ef5124aa4d6bcf4c5a",
+    "tokenName": "ENTE",
+    "idPair": "0x62ddc3170dfa6434d9ff5bbb3924bd2f0eb50c99",
+    "idToken": "0x3eb1ddcab1bd899cb449f6ef5124aa4d6bcf4c5a",
+    "dateCreationToken": "2021-02-25T09:17:22Z",
+    "initialInfos": {
+      "initialPoolToken": 1,
+      "initialPriceUSD": 0.12096616,
+      "initialPoolEth": 0.000076,
+      "initialMarketCap": 0.12096616
+    },
+    "currentInfos": {
+      "currentPoolToken": 1,
+      "currentPriceUSD": 0.12096616,
+      "currentPoolEth": 0.000076,
+      "currentMarketCap": 0.12096616
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614244642",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0xce94d5a124c3cdc7a4b651835b3991d5373b9b92",
     "tokenName": "FCL",
     "idPair": "0xe60302cf77c2c9f53c421f9c84faa252c94045a4",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-25T08:27:23Z",
     "initialInfos": {
       "initialPoolToken": 3300000,
-      "initialPriceUSD": 0.09696969696969697,
+      "initialPriceUSD": 0.09646424242424242,
       "initialPoolEth": 200,
       "initialMarketCap": 322761.0843151868
     },
     "currentInfos": {
       "currentPoolToken": 3291664.640684753,
-      "currentPriceUSD": 0.09746274683636973,
+      "currentPriceUSD": 0.09695472226848514,
       "currentPoolEth": 200.50917346580528,
-      "currentMarketCap": 320814.677545288
+      "currentMarketCap": 319142.43103858316
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.005084576750062804,
+    "priceChange": 0.005084576750062746,
     "isRugged": false
   },
   {
@@ -788,7 +819,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 36548.34118402851,
-      "currentPriceUSD": 42.4238155329638,
+      "currentPriceUSD": 40.6787039644631,
       "currentPoolEth": 1247.5363969467744,
       "currentMarketCap": 1999464.0094785031
     },
@@ -802,7 +833,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 24.768406191249614,
+    "priceChange": 23.708417994025023,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.03388501585282817,
-    "isRugged": false
-  },
-  {
-    "_id": "0x29239242a83479a4074cb1c9e2a3e6705a4a4455",
-    "tokenName": "TOZ",
-    "idPair": "0xee5d9a9831d8d92f3354ab67d699ed98a38e070f",
-    "idToken": "0x29239242a83479a4074cb1c9e2a3e6705a4a4455",
-    "dateCreationToken": "2021-02-15T18:09:37Z",
-    "initialInfos": {
-      "initialPoolToken": 6500,
-      "initialPriceUSD": 0.21395403076923078,
-      "initialPoolEth": 0.76,
-      "initialMarketCap": 1390.7012
-    },
-    "currentInfos": {
-      "currentPoolToken": 7343.23136863664,
-      "currentPriceUSD": 0.14760556669878983,
-      "currentPoolEth": 0.6762847314069168,
-      "currentMarketCap": 1083.9018275679412
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3396,
-    "holderCountOld": 3397,
-    "txCount": 5,
-    "createdAtTimestamp": "1613412577",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.3101061654781532,
     "isRugged": false
   }
 ]
