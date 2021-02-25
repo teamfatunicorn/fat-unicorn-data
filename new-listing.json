@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x6ef424cec93d4e79578decdda93066f4947149c3",
+    "tokenName": "FCL",
+    "idPair": "0x6e01dd67615eb1f6d97bd0ef7da1f41b5a195bdc",
+    "idToken": "0x6ef424cec93d4e79578decdda93066f4947149c3",
+    "dateCreationToken": "2021-02-25T12:09:04Z",
+    "initialInfos": {
+      "initialPoolToken": 1300000,
+      "initialPriceUSD": 0.1002123076923077,
+      "initialPoolEth": 80,
+      "initialMarketCap": 130276
+    },
+    "currentInfos": {
+      "currentPoolToken": 1300000,
+      "currentPriceUSD": 0.1002123076923077,
+      "currentPoolEth": 80,
+      "currentMarketCap": 130276
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614254944",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x5f3d5f3cd36592abb51dbfbfdb3e7716eb30610d",
     "tokenName": "KYL",
     "idPair": "0x528e8f345b1d472064eac96c6106713a4953b49f",
@@ -1532,7 +1563,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 1159987.6028987253,
-      "currentPriceUSD": 0.5745729751627082,
+      "currentPriceUSD": 0.572772715739206,
       "currentPoolEth": 409.9227682647737,
       "currentMarketCap": 666497.5281493787
     },
@@ -1546,7 +1577,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 4.257515976817274,
+    "priceChange": 4.241043060250325,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.8899837629837034,
     "isRugged": false
-  },
-  {
-    "_id": "0x3d112f11670148a289ee3129adc8383a3b85abde",
-    "tokenName": "FOMO",
-    "idPair": "0x66b8db41c402dacf86a5fe8299a3787c98da92f2",
-    "idToken": "0x3d112f11670148a289ee3129adc8383a3b85abde",
-    "dateCreationToken": "2021-02-15T21:40:09Z",
-    "initialInfos": {
-      "initialPoolToken": 420,
-      "initialPriceUSD": 0.0178711,
-      "initialPoolEth": 0.0042,
-      "initialMarketCap": 7.505862
-    },
-    "currentInfos": {
-      "currentPoolToken": 357,
-      "currentPriceUSD": 0.022549273462069887,
-      "currentPoolEth": 0.004943406690660216,
-      "currentMarketCap": 8.05009062595895
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1613425209",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.2617731120115654,
-    "isRugged": true
   }
 ]
