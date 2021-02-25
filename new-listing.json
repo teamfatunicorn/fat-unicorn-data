@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xce94d5a124c3cdc7a4b651835b3991d5373b9b92",
+    "tokenName": "FCL",
+    "idPair": "0xe60302cf77c2c9f53c421f9c84faa252c94045a4",
+    "idToken": "0xce94d5a124c3cdc7a4b651835b3991d5373b9b92",
+    "dateCreationToken": "2021-02-25T08:27:23Z",
+    "initialInfos": {
+      "initialPoolToken": 3300000,
+      "initialPriceUSD": 0.09789333333333333,
+      "initialPoolEth": 200,
+      "initialMarketCap": 322761.0843151868
+    },
+    "currentInfos": {
+      "currentPoolToken": 3300000,
+      "currentPriceUSD": 0.09789333333333333,
+      "currentPoolEth": 200,
+      "currentMarketCap": 323048
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614241643",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xfd6b97b91061a66712a380e6dc6c8825177376cd",
     "tokenName": "DWZ",
     "idPair": "0xbdbf1cb3bcbd601a7aa5f77ac8f56639cf44e5ee",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.2945109912287621,
-    "isRugged": false
-  },
-  {
-    "_id": "0x47a4a6176ef6e42b6ab23f9eefba8757b6d67bd5",
-    "tokenName": "KGCC",
-    "idPair": "0x464740712fa8785708bd582044e7f6a66df8beb4",
-    "idToken": "0x47a4a6176ef6e42b6ab23f9eefba8757b6d67bd5",
-    "dateCreationToken": "2021-02-15T17:23:58Z",
-    "initialInfos": {
-      "initialPoolToken": 10000,
-      "initialPriceUSD": 0.0914935,
-      "initialPoolEth": 0.5,
-      "initialMarketCap": 914.935
-    },
-    "currentInfos": {
-      "currentPoolToken": 8671.647191353433,
-      "currentPriceUSD": 0.109028938733137,
-      "currentPoolEth": 0.5768661165255163,
-      "currentMarketCap": 945.460490341453
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 4,
-    "holderCountOld": 3,
-    "txCount": 6,
-    "createdAtTimestamp": "1613409838",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.19165775419168568,
     "isRugged": false
   }
 ]
