@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x5f3d5f3cd36592abb51dbfbfdb3e7716eb30610d",
+    "tokenName": "KYL",
+    "idPair": "0x528e8f345b1d472064eac96c6106713a4953b49f",
+    "idToken": "0x5f3d5f3cd36592abb51dbfbfdb3e7716eb30610d",
+    "dateCreationToken": "2021-02-25T10:54:12Z",
+    "initialInfos": {
+      "initialPoolToken": 3200000,
+      "initialPriceUSD": 0.10057125,
+      "initialPoolEth": 200,
+      "initialMarketCap": 321828
+    },
+    "currentInfos": {
+      "currentPoolToken": 3200000,
+      "currentPriceUSD": 0.10057125,
+      "currentPoolEth": 200,
+      "currentMarketCap": 321828
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614250452",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xd002f53979dd9acb946a82ffe04d0e4383cf5f92",
     "tokenName": "CITY",
     "idPair": "0xd8e5082bb6179fa368d89f5aa468202a11a825ef",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-25T10:33:56Z",
     "initialInfos": {
       "initialPoolToken": 1600,
-      "initialPriceUSD": 0.68156825,
+      "initialPriceUSD": 0.6838845,
       "initialPoolEth": 0.68,
       "initialMarketCap": 1085.982319256446
     },
     "currentInfos": {
       "currentPoolToken": 1600,
-      "currentPriceUSD": 0.68156825,
+      "currentPriceUSD": 0.6838845,
       "currentPoolEth": 0.68,
-      "currentMarketCap": 1090.5092
+      "currentMarketCap": 1094.2152
     },
     "trustScore": null,
     "contractId": null,
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-02-25T09:40:44Z",
     "initialInfos": {
       "initialPoolToken": 3200000,
-      "initialPriceUSD": 0.100230625,
+      "initialPriceUSD": 0.10057125,
       "initialPoolEth": 200,
-      "initialMarketCap": 320738
+      "initialMarketCap": 321828
     },
     "currentInfos": {
       "currentPoolToken": 2823216.032971068,
-      "currentPriceUSD": 0.1288175172447969,
+      "currentPriceUSD": 0.1292552922942043,
       "currentPoolEth": 226.7767960223218,
-      "currentMarketCap": 363679.6800130376
+      "currentMarketCap": 364915.6135513592
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.2852111542235409,
+    "priceChange": 0.28521115422354093,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.2402250692438774,
-    "isRugged": true
-  },
-  {
-    "_id": "0xab9720edc0e81833f8ed398580c9217247b351fe",
-    "tokenName": "TELL",
-    "idPair": "0x8a6577711d65c74e9238a8c14bdc9fdb624716ca",
-    "idToken": "0xab9720edc0e81833f8ed398580c9217247b351fe",
-    "dateCreationToken": "2021-02-15T20:59:17Z",
-    "initialInfos": {
-      "initialPoolToken": 215000,
-      "initialPriceUSD": 0.14961851162790699,
-      "initialPoolEth": 18,
-      "initialMarketCap": 32167.98
-    },
-    "currentInfos": {
-      "currentPoolToken": 7.0592e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.5e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 56,
-    "holderCountOld": 54,
-    "txCount": 20,
-    "createdAtTimestamp": "1613422757",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
