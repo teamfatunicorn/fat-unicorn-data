@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x020810d775fc019480cd56ecb960389d3477039d",
+    "tokenName": "GIL",
+    "idPair": "0x8e5ebc66b2f1bf6de4007f564fb9fd03a48501c2",
+    "idToken": "0x020810d775fc019480cd56ecb960389d3477039d",
+    "dateCreationToken": "2021-02-25T19:19:54Z",
+    "initialInfos": {
+      "initialPoolToken": 1000,
+      "initialPriceUSD": 0.158423,
+      "initialPoolEth": 0.1,
+      "initialMarketCap": 158.423
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000,
+      "currentPriceUSD": 0.158423,
+      "currentPoolEth": 0.1,
+      "currentMarketCap": 158.423
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 107,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614280794",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0xa4d82f81221f4c9c0f9010a25e4e508bcb6adff1",
     "tokenName": "LVGX",
     "idPair": "0xc9e2edfee4d25acb365819e77051c3037a68f364",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-02-25T19:03:00Z",
     "initialInfos": {
       "initialPoolToken": 12450,
-      "initialPriceUSD": 25.470682730923695,
+      "initialPriceUSD": 25.449477911646586,
       "initialPoolEth": 200,
-      "initialMarketCap": 317110
+      "initialMarketCap": 316846
     },
     "currentInfos": {
-      "currentPoolToken": 8102.734362346515,
-      "currentPriceUSD": 60.288657115214065,
-      "currentPoolEth": 308.09685829344494,
-      "currentMarketCap": 488502.9736671717
+      "currentPoolToken": 7942.026054365449,
+      "currentPriceUSD": 62.70502434343975,
+      "currentPoolEth": 314.35141177431154,
+      "currentMarketCap": 498004.9370752183
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 28,
     "holderCountOld": 0,
-    "txCount": 62,
+    "txCount": 68,
     "createdAtTimestamp": "1614279780",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.3669823754672354,
+    "priceChange": 1.4639021893153927,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.7455275102507358,
     "isRugged": false
-  },
-  {
-    "_id": "0x85ce663a8c18331f68f9551becb49f9fff1ab843",
-    "tokenName": "$cYFI",
-    "idPair": "0x423d533495ccf20fd6698b2030c649f92305669c",
-    "idToken": "0x85ce663a8c18331f68f9551becb49f9fff1ab843",
-    "dateCreationToken": "2021-02-16T06:40:43Z",
-    "initialInfos": {
-      "initialPoolToken": 500,
-      "initialPriceUSD": 86.56032,
-      "initialPoolEth": 24,
-      "initialMarketCap": 43280.16
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.509e-15,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2.22e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 3,
-    "createdAtTimestamp": "1613457643",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
