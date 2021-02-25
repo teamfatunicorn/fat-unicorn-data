@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x299e82279a5f30f9d8b747bc41a7eeb405a72dd8",
+    "tokenName": "BZT",
+    "idPair": "0x31c00d34c4041fe957591c0b1f18eb6d992489e3",
+    "idToken": "0x299e82279a5f30f9d8b747bc41a7eeb405a72dd8",
+    "dateCreationToken": "2021-02-25T05:53:43Z",
+    "initialInfos": {
+      "initialPoolToken": 1500,
+      "initialPriceUSD": 1.61896,
+      "initialPoolEth": 1.5,
+      "initialMarketCap": 2428.44
+    },
+    "currentInfos": {
+      "currentPoolToken": 901.08129756,
+      "currentPriceUSD": 4.491714577763164,
+      "currentPoolEth": 2.5,
+      "currentMarketCap": 4047.4
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 5,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614232423",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.7744444444354182,
+    "isRugged": false
+  },
+  {
     "_id": "0xa3547458a3b0022c1fe4454312ed4f44f2f90aba",
     "tokenName": "OXY",
     "idPair": "0x34906814353634e53cad71e75e86dc3c61f48c87",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-02-25T05:23:31Z",
     "initialInfos": {
       "initialPoolToken": 4000000,
-      "initialPriceUSD": 0.080752,
+      "initialPriceUSD": 0.080948,
       "initialPoolEth": 200,
-      "initialMarketCap": 323008
+      "initialMarketCap": 323792
     },
     "currentInfos": {
       "currentPoolToken": 3811957.285757466,
-      "currentPriceUSD": 0.08892824284041673,
+      "currentPriceUSD": 0.0891440880900294,
       "currentPoolEth": 209.8961407798788,
-      "currentMarketCap": 338990.6632051358
+      "currentMarketCap": 339813.4560769929
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 5,
-    "holderCountOld": 0,
+    "holderCount": 6,
+    "holderCountOld": 5,
     "txCount": 6,
     "createdAtTimestamp": "1614230611",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.10125127353398952,
+    "priceChange": 0.1012512735339896,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-02-25T04:47:36Z",
     "initialInfos": {
       "initialPoolToken": 8000000,
-      "initialPriceUSD": 0.060564,
+      "initialPriceUSD": 0.060711,
       "initialPoolEth": 300,
-      "initialMarketCap": 484512
+      "initialMarketCap": 485688
     },
     "currentInfos": {
       "currentPoolToken": 7370616.283786574,
-      "currentPriceUSD": 0.0713662810655295,
+      "currentPriceUSD": 0.07153950019432934,
       "currentPoolEth": 325.6968702539135,
-      "currentMarketCap": 526013.4733348812
+      "currentMarketCap": 527290.2050662766
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.17836142040699926,
+    "priceChange": 0.17836142040699932,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xa36e59c08c9f251a6b7a9eb6be6e32fd6157acd0",
-    "tokenName": "PRVS",
-    "idPair": "0xe43aad43e9b53ff4b0f1f6d214371214c1021514",
-    "idToken": "0xa36e59c08c9f251a6b7a9eb6be6e32fd6157acd0",
-    "dateCreationToken": "2021-02-15T17:04:03Z",
-    "initialInfos": {
-      "initialPoolToken": 95040,
-      "initialPriceUSD": 2.273075,
-      "initialPoolEth": 118.8,
-      "initialMarketCap": 216033.048
-    },
-    "currentInfos": {
-      "currentPoolToken": 78281.09815149184,
-      "currentPriceUSD": 3.4510649160764766,
-      "currentPoolEth": 169.64091141133642,
-      "currentMarketCap": 270153.1514225526
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 327,
-    "holderCountOld": 328,
-    "txCount": 2550,
-    "createdAtTimestamp": "1613408643",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.5182362729238924,
-    "isRugged": false
   }
 ]
