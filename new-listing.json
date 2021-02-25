@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x2dc059881eef90b12e4d770364f4b14af82c5b9c",
+    "tokenName": "MODL",
+    "idPair": "0xe563ef8bf4fc08cca4e10adf8eda50d95b7038bd",
+    "idToken": "0x2dc059881eef90b12e4d770364f4b14af82c5b9c",
+    "dateCreationToken": "2021-02-25T04:08:25Z",
+    "initialInfos": {
+      "initialPoolToken": 30000,
+      "initialPriceUSD": 0.00159962,
+      "initialPoolEth": 0.03,
+      "initialMarketCap": 47.9886
+    },
+    "currentInfos": {
+      "currentPoolToken": 30000,
+      "currentPriceUSD": 0.00159962,
+      "currentPoolEth": 0.03,
+      "currentMarketCap": 47.9886
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3182,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614226105",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x7f3edcdd180dbe4819bd98fee8929b5cedb3adeb",
     "tokenName": "XTK",
     "idPair": "0x2fba756c64d4f9dbb17f1b3a1afb5f05af7f18c0",
@@ -12,22 +43,22 @@
       "initialMarketCap": 322118
     },
     "currentInfos": {
-      "currentPoolToken": 2443988.0788390664,
-      "currentPriceUSD": 0.400792785171058,
-      "currentPoolEth": 608.1825846694521,
-      "currentMarketCap": 979532.7890427727
+      "currentPoolToken": 2439988.180983125,
+      "currentPriceUSD": 0.40210988999440495,
+      "currentPoolEth": 609.1825846694521,
+      "currentMarketCap": 981143.3790427727
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 356,
     "holderCountOld": 0,
-    "txCount": 1288,
+    "txCount": 1289,
     "createdAtTimestamp": "1614213940",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 6.963149606960092,
+    "priceChange": 6.989318498078939,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 25.97461173641123,
     "isRugged": false
-  },
-  {
-    "_id": "0x71ab50190f06f55e2a80f5ef15e92c5b52b01955",
-    "tokenName": "VAI",
-    "idPair": "0x6a5abec3dc07b1d0890186189058c7cb9dccb175",
-    "idToken": "0x71ab50190f06f55e2a80f5ef15e92c5b52b01955",
-    "dateCreationToken": "2021-02-15T14:20:31Z",
-    "initialInfos": {
-      "initialPoolToken": 720000,
-      "initialPriceUSD": 0.12903396527777777,
-      "initialPoolEth": 51.5,
-      "initialMarketCap": 92904.455
-    },
-    "currentInfos": {
-      "currentPoolToken": 6401.476499545299,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 17,
-    "holderCountOld": 18,
-    "txCount": 22,
-    "createdAtTimestamp": "1613398831",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
