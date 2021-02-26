@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xf6ea0e60cee427b90aa36f327ee61d1d4cabc49f",
+    "tokenName": "FOTO",
+    "idPair": "0xd2016d02cce088e6a26ef8a43d57adf865cb9d00",
+    "idToken": "0xf6ea0e60cee427b90aa36f327ee61d1d4cabc49f",
+    "dateCreationToken": "2021-02-26T19:04:01Z",
+    "initialInfos": {
+      "initialPoolToken": 8169.973792292337,
+      "initialPriceUSD": 0.18626008340879013,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1510.192137600333
+    },
+    "currentInfos": {
+      "currentPoolToken": 7429.275068011582,
+      "currentPriceUSD": 0.22531323509711115,
+      "currentPoolEth": 1.1,
+      "currentMarketCap": 1673.914
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 13,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614366241",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.20966999999999997,
+    "isRugged": false
+  },
+  {
     "_id": "0x1fdbbfa429c3adfcc3aadd1e8fa7d5400a968ead",
     "tokenName": "VTX",
     "idPair": "0xec9233d9e63f138a7b333445790f4154a08d6681",
@@ -12,22 +43,22 @@
       "initialMarketCap": 68478.3
     },
     "currentInfos": {
-      "currentPoolToken": 1592341.392679952,
-      "currentPriceUSD": 0.05437295716987114,
-      "currentPoolEth": 56.8956,
-      "currentMarketCap": 86580.310344
+      "currentPoolToken": 1564918.814172476,
+      "currentPriceUSD": 0.05629816035574221,
+      "currentPoolEth": 57.8956,
+      "currentMarketCap": 88102.050344
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 5,
     "holderCountOld": 0,
-    "txCount": 9,
+    "txCount": 10,
     "createdAtTimestamp": "1614365139",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.2605025169604157,
+    "priceChange": 0.30513359071035306,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.06804521563783186,
     "isRugged": false
-  },
-  {
-    "_id": "0xa3b4377fe0fee031535dc13d8d9d7d6e6c6f2016",
-    "tokenName": "DBNKUSD",
-    "idPair": "0xc1bde875d2a3aa05e246f5df16e4b65b51e619f0",
-    "idToken": "0xa3b4377fe0fee031535dc13d8d9d7d6e6c6f2016",
-    "dateCreationToken": "2021-02-16T23:10:45Z",
-    "initialInfos": {
-      "initialPoolToken": 1785,
-      "initialPriceUSD": 0.9956022408963585,
-      "initialPoolEth": 1,
-      "initialMarketCap": 1777.15
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.000001,
-      "currentPriceUSD": 0.01978262,
-      "currentPoolEth": 1.3127952e-11,
-      "currentMarketCap": 1.978262e-8
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 5,
-    "createdAtTimestamp": "1613517045",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9801299965112681,
-    "isRugged": true
   }
 ]
