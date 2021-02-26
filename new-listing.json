@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+    "tokenName": "RAD",
+    "idPair": "0xf2f98cbd5d84640a2c5cfda5c996cd830067bc95",
+    "idToken": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+    "dateCreationToken": "2021-02-26T22:57:11Z",
+    "initialInfos": {
+      "initialPoolToken": 1749.9190705295023,
+      "initialPriceUSD": 12.298511606875573,
+      "initialPoolEth": 15,
+      "initialMarketCap": 21521.4
+    },
+    "currentInfos": {
+      "currentPoolToken": 1630.6956306991615,
+      "currentPriceUSD": 14.165510451570917,
+      "currentPoolEth": 16.1,
+      "currentMarketCap": 23099.636
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1296,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1614380231",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.15180689374245776,
+    "isRugged": false
+  },
+  {
     "_id": "0x3f4e02741b155f5ce8d6190d294d4f916125b896",
     "tokenName": "CX",
     "idPair": "0xb9cb192b42fe777bad5eb8e183daf93591da3c19",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-02-26T21:27:36Z",
     "initialInfos": {
       "initialPoolToken": 15000000,
-      "initialPriceUSD": 0.0287136,
+      "initialPriceUSD": 0.0286952,
       "initialPoolEth": 300,
-      "initialMarketCap": 430704
+      "initialMarketCap": 430428
     },
     "currentInfos": {
-      "currentPoolToken": 12940217.870741813,
-      "currentPriceUSD": 0.0386985156265463,
-      "currentPoolEth": 348.8014205685217,
-      "currentMarketCap": 500767.22348181566
+      "currentPoolToken": 12581844.430622777,
+      "currentPriceUSD": 0.04091697149827253,
+      "currentPoolEth": 358.81329975988365,
+      "currentMarketCap": 514810.9699634912
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 164,
+    "holderCount": 172,
     "holderCountOld": 0,
-    "txCount": 137,
+    "txCount": 146,
     "createdAtTimestamp": "1614374856",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.34774168430800384,
+    "priceChange": 0.42591693029748984,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xce0a4db43fd0930ea3aaa62e2530827938fd055c",
-    "tokenName": "KRATOM",
-    "idPair": "0x42d6d0729ae930d11f9cf7154fc56e1c6627a86f",
-    "idToken": "0xce0a4db43fd0930ea3aaa62e2530827938fd055c",
-    "dateCreationToken": "2021-02-17T06:13:18Z",
-    "initialInfos": {
-      "initialPoolToken": 700000000,
-      "initialPriceUSD": 2.5703e-7,
-      "initialPoolEth": 0.1,
-      "initialMarketCap": 175.16027125572518
-    },
-    "currentInfos": {
-      "currentPoolToken": 363682353.23881257,
-      "currentPriceUSD": 7.800299872371154e-7,
-      "currentPoolEth": 0.19398066324889798,
-      "currentMarketCap": 283.6831413552351
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 5,
-    "holderCountOld": 4,
-    "txCount": 14,
-    "createdAtTimestamp": "1613542398",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 2.034781882414953,
-    "isRugged": false
   }
 ]
