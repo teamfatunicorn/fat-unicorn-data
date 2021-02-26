@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x1c9922314ed1415c95b9fd453c3818fd41867d0b",
+    "tokenName": "TOWER",
+    "idPair": "0x4e9e73c0170f09e709573127c4ab02e57b868178",
+    "idToken": "0x1c9922314ed1415c95b9fd453c3818fd41867d0b",
+    "dateCreationToken": "2021-02-26T08:23:54Z",
+    "initialInfos": {
+      "initialPoolToken": 100000000,
+      "initialPriceUSD": 0.00099752296918,
+      "initialPoolEth": 69.1634,
+      "initialMarketCap": 99752.296918
+    },
+    "currentInfos": {
+      "currentPoolToken": 100000000,
+      "currentPriceUSD": 0.00099752296918,
+      "currentPoolEth": 69.1634,
+      "currentMarketCap": 99752.296918
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 6,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614327834",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xa1454f9c704af96636f3a7532b9a04c411f85680",
     "tokenName": "BSP",
     "idPair": "0x231062c2985966c101222923773e8ea96109a90b",
@@ -6162,37 +6193,6 @@
     "holderCountOld": 23,
     "txCount": 27,
     "createdAtTimestamp": "1613484124",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xbb17df8d6c073524ba91be7f1b850ec3ecb6994f",
-    "tokenName": "MOD",
-    "idPair": "0x2f3b3145ac8412bfc5d748bcb287fbc42205d84b",
-    "idToken": "0xbb17df8d6c073524ba91be7f1b850ec3ecb6994f",
-    "dateCreationToken": "2021-02-16T13:52:11Z",
-    "initialInfos": {
-      "initialPoolToken": 300000,
-      "initialPriceUSD": 0.234896,
-      "initialPoolEth": 40,
-      "initialMarketCap": 70468.8
-    },
-    "currentInfos": {
-      "currentPoolToken": 7.4704e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.4e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 10,
-    "holderCountOld": 0,
-    "txCount": 10,
-    "createdAtTimestamp": "1613483531",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
