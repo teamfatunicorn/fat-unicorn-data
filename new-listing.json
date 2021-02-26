@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0xd188067740e6cd02d47486803c5f7c0c7a7b5f5d",
+    "tokenName": "MONTE",
+    "idPair": "0x5e138e42ea6d2ebb6c4cb8847ba08e2df8b9daf6",
+    "idToken": "0xd188067740e6cd02d47486803c5f7c0c7a7b5f5d",
+    "dateCreationToken": "2021-02-26T18:25:28Z",
+    "initialInfos": {
+      "initialPoolToken": 750,
+      "initialPriceUSD": 178.85237333333333,
+      "initialPoolEth": 88,
+      "initialMarketCap": 133775.04368900743
+    },
+    "currentInfos": {
+      "currentPoolToken": 750,
+      "currentPriceUSD": 178.85237333333333,
+      "currentPoolEth": 88,
+      "currentMarketCap": 134139.28
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614363928",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
+    "_id": "0xdb4a9978c24040ea4af901188fefe4e24354c556",
+    "tokenName": "RALA",
+    "idPair": "0x8b19e5d80a6148cb892875ce995e7c9bd2712a4a",
+    "idToken": "0xdb4a9978c24040ea4af901188fefe4e24354c556",
+    "dateCreationToken": "2021-02-26T18:24:44Z",
+    "initialInfos": {
+      "initialPoolToken": 60000,
+      "initialPriceUSD": 0.2540516666666667,
+      "initialPoolEth": 10,
+      "initialMarketCap": 15180.201041261107
+    },
+    "currentInfos": {
+      "currentPoolToken": 54560.334636719104,
+      "currentPriceUSD": 0.30731867961666665,
+      "currentPoolEth": 11,
+      "currentMarketCap": 16767.41
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614363884",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.20966999999999988,
+    "isRugged": false
+  },
+  {
     "_id": "0xa957089c96362e349e3834117f8b02b2eb75b3c7",
     "tokenName": "Mint",
     "idPair": "0xb63a3d120e418f085269d73aa1b0c6a1712ec0be",
@@ -43,22 +105,22 @@
       "initialMarketCap": 762155
     },
     "currentInfos": {
-      "currentPoolToken": 10672808.542097747,
-      "currentPriceUSD": 0.12212928150645451,
-      "currentPoolEth": 855.1163732458276,
-      "currentMarketCap": 1303462.438902348
+      "currentPoolToken": 10659758.661587993,
+      "currentPriceUSD": 0.12242894101393584,
+      "currentPoolEth": 856.1663732458276,
+      "currentMarketCap": 1305062.964402348
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 30,
     "holderCountOld": 0,
-    "txCount": 34,
+    "txCount": 36,
     "createdAtTimestamp": "1614354255",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.1777790857141141,
+    "priceChange": 0.18066891439723995,
     "isRugged": false
   },
   {
@@ -6136,67 +6198,5 @@
     "officialSite": null,
     "priceChange": 6068.502194752553,
     "isRugged": false
-  },
-  {
-    "_id": "0x33e07f5055173cf8febede8b21b12d1e2b523205",
-    "tokenName": "ELAND",
-    "idPair": "0xc2de17008677606259569e5fc4eba1e60914a6d6",
-    "idToken": "0x33e07f5055173cf8febede8b21b12d1e2b523205",
-    "dateCreationToken": "2021-02-16T21:14:09Z",
-    "initialInfos": {
-      "initialPoolToken": 5000000,
-      "initialPriceUSD": 0.0004261488,
-      "initialPoolEth": 1.2,
-      "initialMarketCap": 2130.744
-    },
-    "currentInfos": {
-      "currentPoolToken": 969937.5165260828,
-      "currentPriceUSD": 0.010264930611818532,
-      "currentPoolEth": 6.5253252752262,
-      "currentMarketCap": 9956.341304939831
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 87,
-    "holderCountOld": 88,
-    "txCount": 217,
-    "createdAtTimestamp": "1613510049",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 23.087667527911687,
-    "isRugged": false
-  },
-  {
-    "_id": "0x117235ae46f539122211f3cd663dde36f803803a",
-    "tokenName": "BEAR",
-    "idPair": "0x1199e60a3c98e2e83d38dddab8a33985ec6dde15",
-    "idToken": "0x117235ae46f539122211f3cd663dde36f803803a",
-    "dateCreationToken": "2021-02-16T20:43:45Z",
-    "initialInfos": {
-      "initialPoolToken": 200000,
-      "initialPriceUSD": 0.21819875,
-      "initialPoolEth": 25,
-      "initialMarketCap": 43639.75
-    },
-    "currentInfos": {
-      "currentPoolToken": 8.9443e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.2e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1613508225",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
