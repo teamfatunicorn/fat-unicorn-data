@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x1fdbbfa429c3adfcc3aadd1e8fa7d5400a968ead",
+    "tokenName": "VTX",
+    "idPair": "0xec9233d9e63f138a7b333445790f4154a08d6681",
+    "idToken": "0x1fdbbfa429c3adfcc3aadd1e8fa7d5400a968ead",
+    "dateCreationToken": "2021-02-26T18:45:39Z",
+    "initialInfos": {
+      "initialPoolToken": 1587500,
+      "initialPriceUSD": 0.043247055118110236,
+      "initialPoolEth": 45,
+      "initialMarketCap": 68654.7
+    },
+    "currentInfos": {
+      "currentPoolToken": 1587500,
+      "currentPriceUSD": 0.043247055118110236,
+      "currentPoolEth": 45,
+      "currentMarketCap": 68654.7
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614365139",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x4daeb4a06f70f4b1a5c329115731fe4b89c0b227",
     "tokenName": "QUA",
     "idPair": "0x4db4b890e472d2b2ce5235ff63c2015862f6a122",
@@ -43,22 +74,22 @@
       "initialMarketCap": 133775.04368900743
     },
     "currentInfos": {
-      "currentPoolToken": 639.7653179240979,
-      "currentPriceUSD": 246.1401812346028,
-      "currentPoolEth": 103.2156255662795,
-      "currentMarketCap": 157471.95130145075
+      "currentPoolToken": 653.4843279240979,
+      "currentPriceUSD": 235.92876909807353,
+      "currentPoolEth": 101.05511916941803,
+      "currentMarketCap": 154175.75311201427
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 12,
     "holderCountOld": 0,
-    "txCount": 14,
+    "txCount": 15,
     "createdAtTimestamp": "1614363928",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.37500205519066043,
+    "priceChange": 0.3179584932508729,
     "isRugged": false
   },
   {
@@ -74,22 +105,22 @@
       "initialMarketCap": 15180.201041261107
     },
     "currentInfos": {
-      "currentPoolToken": 32132.955636536466,
-      "currentPriceUSD": 0.8884552936480042,
-      "currentPoolEth": 18.71235697064721,
-      "currentMarketCap": 28548.6945358373
+      "currentPoolToken": 31057.370710463947,
+      "currentPriceUSD": 0.9511550031466272,
+      "currentPoolEth": 19.36235697064721,
+      "currentMarketCap": 29540.3735358373
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 5,
     "holderCountOld": 0,
-    "txCount": 8,
+    "txCount": 9,
     "createdAtTimestamp": "1614363884",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.494049632216894,
+    "priceChange": 2.7406302969729577,
     "isRugged": false
   },
   {
@@ -4694,7 +4725,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 589615.3509429984,
-      "currentPriceUSD": 0.677391400546479,
+      "currentPriceUSD": 0.617143926590207,
       "currentPoolEth": 220.14291645760576,
       "currentMarketCap": 335894.0619310152
     },
@@ -4708,7 +4739,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.2286789166814192,
+    "priceChange": 1.0304592834216328,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9800769833722534,
-    "isRugged": true
-  },
-  {
-    "_id": "0x09eb73f1589054e2e6ef3f7ffa09ee5dcb4b0551",
-    "tokenName": "VEGA",
-    "idPair": "0xd66ecf28f47395bd86e97ab0988bf1611800b3e7",
-    "idToken": "0x09eb73f1589054e2e6ef3f7ffa09ee5dcb4b0551",
-    "dateCreationToken": "2021-02-16T22:01:47Z",
-    "initialInfos": {
-      "initialPoolToken": 310000,
-      "initialPriceUSD": 0.1546507741935484,
-      "initialPoolEth": 27,
-      "initialMarketCap": 47941.74
-    },
-    "currentInfos": {
-      "currentPoolToken": 8.2498e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.3e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 53,
-    "holderCountOld": 52,
-    "txCount": 18,
-    "createdAtTimestamp": "1613512907",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
