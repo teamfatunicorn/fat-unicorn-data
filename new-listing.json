@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x2c7943738e4ef7e1dbeeb42ea03b9ec5adb04841",
+    "tokenName": "APYS",
+    "idPair": "0xfecf9fba199abaa913fc323013de1281818b6d87",
+    "idToken": "0x2c7943738e4ef7e1dbeeb42ea03b9ec5adb04841",
+    "dateCreationToken": "2021-02-26T12:12:58Z",
+    "initialInfos": {
+      "initialPoolToken": 1400000,
+      "initialPriceUSD": 0.2115442857142857,
+      "initialPoolEth": 200,
+      "initialMarketCap": 296162
+    },
+    "currentInfos": {
+      "currentPoolToken": 1385564.2906037017,
+      "currentPriceUSD": 0.21598196123372326,
+      "currentPoolEth": 202.09,
+      "currentMarketCap": 299256.8929
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614341578",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.020977524892499953,
+    "isRugged": false
+  },
+  {
     "_id": "0xbf992cbb0964ff435dbbca48027b974b3911e74c",
     "tokenName": "UDO",
     "idPair": "0xbac6461471954b79346b8e9815bca025aa08a529",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-26T11:52:24Z",
     "initialInfos": {
       "initialPoolToken": 2637000,
-      "initialPriceUSD": 0.050108191126279865,
+      "initialPriceUSD": 0.05053959044368601,
       "initialPoolEth": 90,
-      "initialMarketCap": 132135.3
+      "initialMarketCap": 133272.9
     },
     "currentInfos": {
       "currentPoolToken": 2634082.022470663,
-      "currentPriceUSD": 0.050219437311190745,
+      "currentPriceUSD": 0.05065179438674293,
       "currentPoolEth": 90.1,
-      "currentMarketCap": 132282.117
+      "currentMarketCap": 133420.981
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.0022201197530863606,
+    "priceChange": 0.0022201197530863697,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.2021430798732008,
     "isRugged": false
-  },
-  {
-    "_id": "0x2fda1a8463f2a5e2b483b0e10baab3a9a6fb76d3",
-    "tokenName": "MARS",
-    "idPair": "0xd45bbc74862268b02405d9f51f39dcb43fcc97b2",
-    "idToken": "0x2fda1a8463f2a5e2b483b0e10baab3a9a6fb76d3",
-    "dateCreationToken": "2021-02-16T16:30:48Z",
-    "initialInfos": {
-      "initialPoolToken": 88000,
-      "initialPriceUSD": 0.7935818181818182,
-      "initialPoolEth": 40,
-      "initialMarketCap": 69835.2
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.6737e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2.2e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6,
-    "holderCountOld": 5,
-    "txCount": 9,
-    "createdAtTimestamp": "1613493048",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
