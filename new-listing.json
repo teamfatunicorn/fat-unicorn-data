@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x4daeb4a06f70f4b1a5c329115731fe4b89c0b227",
+    "tokenName": "QUA",
+    "idPair": "0x4db4b890e472d2b2ce5235ff63c2015862f6a122",
+    "idToken": "0x4daeb4a06f70f4b1a5c329115731fe4b89c0b227",
+    "dateCreationToken": "2021-02-26T18:33:23Z",
+    "initialInfos": {
+      "initialPoolToken": 143387.05358050534,
+      "initialPriceUSD": 0.0010592936824294337,
+      "initialPoolEth": 0.1,
+      "initialMarketCap": 151.889
+    },
+    "currentInfos": {
+      "currentPoolToken": 82343.09997099769,
+      "currentPriceUSD": 0.003216161326486082,
+      "currentPoolEth": 0.17435673,
+      "currentMarketCap": 264.8286936297
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1168,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614364403",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.036137550740402,
+    "isRugged": false
+  },
+  {
     "_id": "0xd188067740e6cd02d47486803c5f7c0c7a7b5f5d",
     "tokenName": "MONTE",
     "idPair": "0x5e138e42ea6d2ebb6c4cb8847ba08e2df8b9daf6",
@@ -43,22 +74,22 @@
       "initialMarketCap": 15180.201041261107
     },
     "currentInfos": {
-      "currentPoolToken": 43517.88988150953,
-      "currentPriceUSD": 0.4816566717060897,
-      "currentPoolEth": 13.8,
-      "currentMarketCap": 20960.682
+      "currentPoolToken": 41466.018387116506,
+      "currentPriceUSD": 0.5305791477270388,
+      "currentPoolEth": 14.484923,
+      "currentMarketCap": 22001.00469547
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 2,
     "holderCountOld": 0,
-    "txCount": 4,
+    "txCount": 5,
     "createdAtTimestamp": "1614363884",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.9026657824046104,
+    "priceChange": 1.0959219471865858,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x2af72850c504ddd3c1876c66a914caee7ff8a46a",
-    "tokenName": "WHL",
-    "idPair": "0x52a500af09450aa8deef61f048313cf57fcb30b6",
-    "idToken": "0x2af72850c504ddd3c1876c66a914caee7ff8a46a",
-    "dateCreationToken": "2021-02-16T21:40:12Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000,
-      "initialPriceUSD": 0.0012251778,
-      "initialPoolEth": 0.69,
-      "initialMarketCap": 1225.1778
-    },
-    "currentInfos": {
-      "currentPoolToken": 70855.23520126354,
-      "currentPriceUSD": 7.436219346062105,
-      "currentPoolEth": 345.32381096697947,
-      "currentMarketCap": 526895.0707734165
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 217,
-    "holderCountOld": 218,
-    "txCount": 930,
-    "createdAtTimestamp": "1613511612",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 6068.502194752553,
-    "isRugged": false
   }
 ]
