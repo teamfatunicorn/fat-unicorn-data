@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x3f4e02741b155f5ce8d6190d294d4f916125b896",
+    "tokenName": "CX",
+    "idPair": "0xb9cb192b42fe777bad5eb8e183daf93591da3c19",
+    "idToken": "0x3f4e02741b155f5ce8d6190d294d4f916125b896",
+    "dateCreationToken": "2021-02-26T21:27:36Z",
+    "initialInfos": {
+      "initialPoolToken": 15000000,
+      "initialPriceUSD": 0.0291448,
+      "initialPoolEth": 300,
+      "initialMarketCap": 437172
+    },
+    "currentInfos": {
+      "currentPoolToken": 14834475.863550246,
+      "currentPriceUSD": 0.029805011006731136,
+      "currentPoolEth": 303.41036232343475,
+      "currentMarketCap": 442141.7163922024
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 96,
+    "holderCountOld": 0,
+    "txCount": 5,
+    "createdAtTimestamp": "1614374856",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.022652789064640598,
+    "isRugged": false
+  },
+  {
     "_id": "0xb6c3dc857845a713d3531cea5ac546f6767992f4",
     "tokenName": "ADCO",
     "idPair": "0x99ab6ccfd5a873422b90faad3e6fdb98c1bb3417",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 2.034781882414953,
-    "isRugged": false
-  },
-  {
-    "_id": "0x476a98fed57fb485b9fab54c66e7e755b965fffd",
-    "tokenName": "MM",
-    "idPair": "0xbe12d7b62432e1eedcf425873886486cf85dc898",
-    "idToken": "0x476a98fed57fb485b9fab54c66e7e755b965fffd",
-    "dateCreationToken": "2021-02-17T03:34:51Z",
-    "initialInfos": {
-      "initialPoolToken": 10,
-      "initialPriceUSD": 0.034859,
-      "initialPoolEth": 0.0002,
-      "initialMarketCap": 0.34859
-    },
-    "currentInfos": {
-      "currentPoolToken": 10010,
-      "currentPriceUSD": 0.0292486,
-      "currentPoolEth": 0.2002,
-      "currentMarketCap": 292.778486
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 5,
-    "holderCountOld": 4,
-    "txCount": 2,
-    "createdAtTimestamp": "1613532891",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.16094552339424542,
     "isRugged": false
   }
 ]
