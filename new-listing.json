@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x685758b55423dc8d32aed84e6d8616167f15192a",
+    "tokenName": "PZR",
+    "idPair": "0x9a6ff5027990f34f054c9d0a0d332e80d85b7aa1",
+    "idToken": "0x685758b55423dc8d32aed84e6d8616167f15192a",
+    "dateCreationToken": "2021-02-27T06:27:33Z",
+    "initialInfos": {
+      "initialPoolToken": 42000,
+      "initialPriceUSD": 0.03578452380952381,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1502.95
+    },
+    "currentInfos": {
+      "currentPoolToken": 21031.54732099,
+      "currentPriceUSD": 0.14292338809518015,
+      "currentPoolEth": 2,
+      "currentMarketCap": 3005.9
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614407253",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.993999999998381,
+    "isRugged": false
+  },
+  {
     "_id": "0xdd03b6699b13f8a4d69494fe8619976b82d0d34c",
     "tokenName": "PAZ",
     "idPair": "0x469fc89f7e6018b3819d6d8e5fb634457bfad988",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-27T05:34:55Z",
     "initialInfos": {
       "initialPoolToken": 10,
-      "initialPriceUSD": 300.978,
+      "initialPriceUSD": 300.59,
       "initialPoolEth": 2,
       "initialMarketCap": 2994.193506521092
     },
     "currentInfos": {
       "currentPoolToken": 6.67334001,
-      "currentPriceUSD": 676.5232991627531,
+      "currentPriceUSD": 675.6511721631879,
       "currentPoolEth": 3,
-      "currentMarketCap": 4514.67
+      "currentMarketCap": 4508.85
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.2477499988794964,
+    "priceChange": 1.2477499988794967,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.6646440655737705,
-    "isRugged": true
-  },
-  {
-    "_id": "0x8978beb4e0c48446ec9422b33885522d3f9c05d2",
-    "tokenName": "DSTAR",
-    "idPair": "0xa7f20f9f4f9ef26d39d609205fe969edbb5fd3a0",
-    "idToken": "0x8978beb4e0c48446ec9422b33885522d3f9c05d2",
-    "dateCreationToken": "2021-02-17T09:52:44Z",
-    "initialInfos": {
-      "initialPoolToken": 6000,
-      "initialPriceUSD": 15.083916666666667,
-      "initialPoolEth": 50,
-      "initialMarketCap": 90503.5
-    },
-    "currentInfos": {
-      "currentPoolToken": 1e-8,
-      "currentPriceUSD": 1.353753,
-      "currentPoolEth": 9.221069e-12,
-      "currentMarketCap": 1.353753e-8
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 5,
-    "createdAtTimestamp": "1613555564",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9102518908108527,
     "isRugged": true
   }
 ]
