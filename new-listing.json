@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x25383fc474c59f8dd12a7fc80c0696cee11b260d",
+    "tokenName": "MONTE",
+    "idPair": "0x7bbca9f1d391189ec9739e71b4b8a9ba1581494b",
+    "idToken": "0x25383fc474c59f8dd12a7fc80c0696cee11b260d",
+    "dateCreationToken": "2021-02-27T19:28:31Z",
+    "initialInfos": {
+      "initialPoolToken": 2041.8755104688776,
+      "initialPriceUSD": 200.381283238,
+      "initialPoolEth": 272.25,
+      "initialMarketCap": 409153.635
+    },
+    "currentInfos": {
+      "currentPoolToken": 2141.8755104688776,
+      "currentPriceUSD": 182.13275506347952,
+      "currentPoolEth": 259.5755344640838,
+      "currentMarketCap": 390105.68772469327
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614454111",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -0.0910690254081568,
+    "isRugged": false
+  },
+  {
     "_id": "0x9af5a20aac8d83230ba68542ba29d132d50cbe08",
     "tokenName": "MRS",
     "idPair": "0x481e881b32f0173cd090fb04266073173964ec70",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-02-27T18:52:26Z",
     "initialInfos": {
       "initialPoolToken": 10000000,
-      "initialPriceUSD": 0.0000753625,
+      "initialPriceUSD": 0.000075143,
       "initialPoolEth": 0.5,
-      "initialMarketCap": 753.625
+      "initialMarketCap": 751.43
     },
     "currentInfos": {
-      "currentPoolToken": 5737015.512828993,
-      "currentPriceUSD": 0.00022932149717952796,
-      "currentPoolEth": 0.8728618256715966,
-      "currentMarketCap": 1315.620986744122
+      "currentPoolToken": 5237015.512828993,
+      "currentPriceUSD": 0.0002744708368904659,
+      "currentPoolEth": 0.9564483921423818,
+      "currentMarketCap": 1437.408030614526
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 6,
     "holderCountOld": 0,
-    "txCount": 7,
+    "txCount": 8,
     "createdAtTimestamp": "1614451946",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.0429125517270257,
+    "priceChange": 2.652646778681526,
     "isRugged": false
   },
   {
@@ -2462,7 +2493,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 86418.19355990711,
-      "currentPriceUSD": 51.93479677374015,
+      "currentPriceUSD": 51.3207667065486,
       "currentPoolEth": 3006.888149005779,
       "currentMarketCap": 4488111.320087516
     },
@@ -2476,7 +2507,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 30.545416693740794,
+    "priceChange": 30.17245221644766,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x5d285f735998f36631f678ff41fb56a10a4d0429",
-    "tokenName": "MIX",
-    "idPair": "0xe7f70c26ac86cc6c512c9d2d84496ecdb8d2b744",
-    "idToken": "0x5d285f735998f36631f678ff41fb56a10a4d0429",
-    "dateCreationToken": "2021-02-18T04:35:57Z",
-    "initialInfos": {
-      "initialPoolToken": 450000,
-      "initialPriceUSD": 0.004224422222222223,
-      "initialPoolEth": 1,
-      "initialMarketCap": 1900.99
-    },
-    "currentInfos": {
-      "currentPoolToken": 4349657.586709656,
-      "currentPriceUSD": 0.0035222126080451817,
-      "currentPoolEth": 10.264387029564672,
-      "currentMarketCap": 15320.418792588127
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 9222,
-    "holderCountOld": 9223,
-    "txCount": 94,
-    "createdAtTimestamp": "1613622957",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.1662261907635855,
-    "isRugged": false
   }
 ]
