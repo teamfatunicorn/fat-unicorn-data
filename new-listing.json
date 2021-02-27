@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xfa6e36155e5610d641c36fa233ba20a1a87766d1",
+    "tokenName": "ETHD",
+    "idPair": "0xa1b6472ca716b54d940f9192b9cc2e8d09fe291f",
+    "idToken": "0xfa6e36155e5610d641c36fa233ba20a1a87766d1",
+    "dateCreationToken": "2021-02-27T21:23:57Z",
+    "initialInfos": {
+      "initialPoolToken": 100,
+      "initialPriceUSD": 1.21368,
+      "initialPoolEth": 0.08,
+      "initialMarketCap": 121.12165646913806
+    },
+    "currentInfos": {
+      "currentPoolToken": 100,
+      "currentPriceUSD": 1.21368,
+      "currentPoolEth": 0.08,
+      "currentMarketCap": 121.368
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614461037",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x25383fc474c59f8dd12a7fc80c0696cee11b260d",
     "tokenName": "MONTE",
     "idPair": "0x7bbca9f1d391189ec9739e71b4b8a9ba1581494b",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-02-27T19:28:31Z",
     "initialInfos": {
       "initialPoolToken": 2041.8755104688776,
-      "initialPriceUSD": 202.442616056,
+      "initialPriceUSD": 202.27994943,
       "initialPoolEth": 272.25,
-      "initialMarketCap": 413362.62
+      "initialMarketCap": 413030.475
     },
     "currentInfos": {
-      "currentPoolToken": 3347.8961994583346,
-      "currentPriceUSD": 75.60528799044245,
-      "currentPoolEth": 166.7096898691677,
-      "currentMarketCap": 253118.65632215515
+      "currentPoolToken": 3326.8041658744355,
+      "currentPriceUSD": 76.50693362315788,
+      "currentPoolEth": 167.76981444585104,
+      "currentMarketCap": 254523.58549580057
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 91,
     "holderCountOld": 0,
-    "txCount": 209,
+    "txCount": 210,
     "createdAtTimestamp": "1614454111",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.6265347214761916,
+    "priceChange": -0.6217769786934148,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-02-27T18:52:26Z",
     "initialInfos": {
       "initialPoolToken": 10000000,
-      "initialPriceUSD": 0.000075916,
+      "initialPriceUSD": 0.000075855,
       "initialPoolEth": 0.5,
-      "initialMarketCap": 759.16
+      "initialMarketCap": 758.55
     },
     "currentInfos": {
       "currentPoolToken": 4157039.3564252737,
-      "currentPriceUSD": 0.001648139228835143,
+      "currentPriceUSD": 0.0016468149165299775,
       "currentPoolEth": 4.512474076042057,
-      "currentMarketCap": 6851.379639136089
+      "currentMarketCap": 6845.874420763318
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 20.710037789598278,
+    "priceChange": 20.71003778959828,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.5236255420850716,
     "isRugged": false
-  },
-  {
-    "_id": "0x80983f263833235fff4df13c1aa244db0d608646",
-    "tokenName": "MASK",
-    "idPair": "0x1c853bd97564d5a8cae6400c39747d317911ffae",
-    "idToken": "0x80983f263833235fff4df13c1aa244db0d608646",
-    "dateCreationToken": "2021-02-18T04:52:41Z",
-    "initialInfos": {
-      "initialPoolToken": 1600000,
-      "initialPriceUSD": 0.2970296875,
-      "initialPoolEth": 250,
-      "initialMarketCap": 475247.5
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.1273e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.7e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 29,
-    "holderCountOld": 28,
-    "txCount": 27,
-    "createdAtTimestamp": "1613623961",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
