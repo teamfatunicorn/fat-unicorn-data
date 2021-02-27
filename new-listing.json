@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x048be72b91c5c5ff4c24fe2a22868086760c692f",
+    "tokenName": "MATTER",
+    "idPair": "0x1e13c32f4f7a800f36469ddaa5b10bcfbf5c095a",
+    "idToken": "0x048be72b91c5c5ff4c24fe2a22868086760c692f",
+    "dateCreationToken": "2021-02-27T12:36:21Z",
+    "initialInfos": {
+      "initialPoolToken": 2637000,
+      "initialPriceUSD": 0.04992116040955631,
+      "initialPoolEth": 90,
+      "initialMarketCap": 131642.1
+    },
+    "currentInfos": {
+      "currentPoolToken": 2637000,
+      "currentPriceUSD": 0.04992116040955631,
+      "currentPoolEth": 90,
+      "currentMarketCap": 131642.1
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614429381",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x57289032e1b22c597440dd1a416504893cfddc2a",
     "tokenName": "BRY",
     "idPair": "0xbb76e7b4ffe4f34f57ad629b957c16f07454a7b6",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xa0ea8d2d23d688eac55f8c977fa778cedad9b077",
-    "tokenName": "XTF.TTTYFI",
-    "idPair": "0xf7bc9207269232ee849d5edddff88e3ef49ac098",
-    "idToken": "0xa0ea8d2d23d688eac55f8c977fa778cedad9b077",
-    "dateCreationToken": "2021-02-17T11:34:15Z",
-    "initialInfos": {
-      "initialPoolToken": 30,
-      "initialPriceUSD": 107.36,
-      "initialPoolEth": 1.76,
-      "initialMarketCap": 3220.8
-    },
-    "currentInfos": {
-      "currentPoolToken": 50,
-      "currentPriceUSD": 86.47818666665684,
-      "currentPoolEth": 2.933333333333333,
-      "currentMarketCap": 4323.909333332842
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 8,
-    "holderCountOld": 7,
-    "txCount": 2,
-    "createdAtTimestamp": "1613561655",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.1945027322405287,
-    "isRugged": false
   }
 ]
