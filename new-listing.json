@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xbd0ecfce1b8ae929dbb4715849caf475494827fa",
+    "tokenName": "YSHIB",
+    "idPair": "0x07c3cef49becadd14917508fa527b240efb960f1",
+    "idToken": "0xbd0ecfce1b8ae929dbb4715849caf475494827fa",
+    "dateCreationToken": "2021-02-27T03:20:34Z",
+    "initialInfos": {
+      "initialPoolToken": 599999999999999,
+      "initialPriceUSD": 1.4973700000000025e-12,
+      "initialPoolEth": 0.6,
+      "initialMarketCap": 898.422
+    },
+    "currentInfos": {
+      "currentPoolToken": 599999999999999,
+      "currentPriceUSD": 1.4973700000000025e-12,
+      "currentPoolEth": 0.6,
+      "currentMarketCap": 898.422
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614396034",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x1d9d6296cb40b3ad2fc169e85427cabe81eec418",
     "tokenName": "ERN",
     "idPair": "0x54b22573aa381f985f86b9ce867960c2c67d3b7b",
@@ -1780,7 +1811,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 66450.8706070718,
-      "currentPriceUSD": 54.97284834473361,
+      "currentPriceUSD": 55.1073031028208,
       "currentPoolEth": 2438.7107671024323,
       "currentMarketCap": 3652993.632258075
     },
@@ -1794,7 +1825,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 32.390742153693694,
+    "priceChange": 32.47241054625128,
     "isRugged": false
   },
   {
@@ -1842,7 +1873,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 1605724.5387864786,
-      "currentPriceUSD": 0.7876597984443816,
+      "currentPriceUSD": 0.740804012710748,
       "currentPoolEth": 844.3472726031805,
       "currentMarketCap": 1264764.6665777555
     },
@@ -1856,7 +1887,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 5.777099609518259,
+    "priceChange": 5.373947985141555,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.16351219795560049,
-    "isRugged": false
-  },
-  {
-    "_id": "0x7c63164d2e50618c5497ef1e1fbd686e06b7cc12",
-    "tokenName": "RUDE20",
-    "idPair": "0xc189ac491c4b69198d39a9b691f65901b747c52e",
-    "idToken": "0x7c63164d2e50618c5497ef1e1fbd686e06b7cc12",
-    "dateCreationToken": "2021-02-17T08:20:52Z",
-    "initialInfos": {
-      "initialPoolToken": 40,
-      "initialPriceUSD": 13.5972,
-      "initialPoolEth": 0.3,
-      "initialMarketCap": 543.888
-    },
-    "currentInfos": {
-      "currentPoolToken": 40,
-      "currentPriceUSD": 11.228025,
-      "currentPoolEth": 0.3,
-      "currentMarketCap": 449.121
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 1,
-    "createdAtTimestamp": "1613550052",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.1742399170417439,
     "isRugged": false
   }
 ]
