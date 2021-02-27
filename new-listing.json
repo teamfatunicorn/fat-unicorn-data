@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x971439d908c9cd06e36ca0d7cd4418ec3cd20dec",
+    "tokenName": "ECH",
+    "idPair": "0x59179bad2924c28e923dabe0b9561a2b25c28fd4",
+    "idToken": "0x971439d908c9cd06e36ca0d7cd4418ec3cd20dec",
+    "dateCreationToken": "2021-02-27T10:03:07Z",
+    "initialInfos": {
+      "initialPoolToken": 10000,
+      "initialPriceUSD": 0.0073174,
+      "initialPoolEth": 0.05,
+      "initialMarketCap": 73.174
+    },
+    "currentInfos": {
+      "currentPoolToken": 10000,
+      "currentPriceUSD": 0.0073174,
+      "currentPoolEth": 0.05,
+      "currentMarketCap": 73.174
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614420187",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0xc648736e06eb06333ba6ee005e50c3ed71b625ab",
     "tokenName": "HOPPER",
     "idPair": "0xecb54f0726b2eb0ad92ea6c421681c4da31472de",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-27T08:01:19Z",
     "initialInfos": {
       "initialPoolToken": 79200,
-      "initialPriceUSD": 0.1591390909090909,
+      "initialPriceUSD": 0.15891323232323232,
       "initialPoolEth": 8.6,
       "initialMarketCap": 12793.333873138721
     },
     "currentInfos": {
       "currentPoolToken": 46781.075110274985,
-      "currentPriceUSD": 0.457170090822592,
+      "currentPriceUSD": 0.4565212509327813,
       "currentPoolEth": 14.592994047969581,
-      "currentMarketCap": 21386.908356942913
+      "currentMarketCap": 21356.554929323134
     },
     "trustScore": null,
     "contractId": null,
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-02-27T07:09:58Z",
     "initialInfos": {
       "initialPoolToken": 11000000,
-      "initialPriceUSD": 0.03996981818181818,
+      "initialPriceUSD": 0.03991309090909091,
       "initialPoolEth": 300,
-      "initialMarketCap": 439668
+      "initialMarketCap": 439044
     },
     "currentInfos": {
       "currentPoolToken": 10305237.76837667,
-      "currentPriceUSD": 0.04554978832788194,
+      "currentPriceUSD": 0.045485141667409495,
       "currentPoolEth": 320.28808033656185,
-      "currentMarketCap": 469401.3990180518
+      "currentMarketCap": 468735.1998109518
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.13960459166166586,
+    "priceChange": 0.13960459166166583,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x1571ed0bed4d987fe2b498ddbae7dfa19519f651",
-    "tokenName": "iFARM",
-    "idPair": "0x91370d9265b37469e8414e002ed3036a52d4f951",
-    "idToken": "0x1571ed0bed4d987fe2b498ddbae7dfa19519f651",
-    "dateCreationToken": "2021-02-17T11:22:31Z",
-    "initialInfos": {
-      "initialPoolToken": 4.879880253508505,
-      "initialPriceUSD": 304.99498403263556,
-      "initialPoolEth": 0.8133,
-      "initialMarketCap": 1488.339
-    },
-    "currentInfos": {
-      "currentPoolToken": 5.08633641243722,
-      "currentPriceUSD": 229.51354914838618,
-      "currentPoolEth": 0.7833051218061345,
-      "currentMarketCap": 1167.383122181136
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 150,
-    "holderCountOld": 145,
-    "txCount": 8,
-    "createdAtTimestamp": "1613560951",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.2474841844486616,
-    "isRugged": false
   }
 ]
