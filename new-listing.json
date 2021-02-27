@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x5611b8e08402e3f0137f43aeb4dc79daf3ee4053",
+    "tokenName": "MATTER",
+    "idPair": "0xac6656d121922df46ff63d12ee3338c6e56f9da2",
+    "idToken": "0x5611b8e08402e3f0137f43aeb4dc79daf3ee4053",
+    "dateCreationToken": "2021-02-27T13:29:20Z",
+    "initialInfos": {
+      "initialPoolToken": 2400000,
+      "initialPriceUSD": 0.12404416666666666,
+      "initialPoolEth": 200,
+      "initialMarketCap": 297706
+    },
+    "currentInfos": {
+      "currentPoolToken": 2400000,
+      "currentPriceUSD": 0.12404416666666666,
+      "currentPoolEth": 200,
+      "currentMarketCap": 297706
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614432560",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
+    "_id": "0x137970b5fb9ddb0908d81b912ef807e0f2b19496",
+    "tokenName": "ECOM",
+    "idPair": "0xa9dee5dc33f9088894730f83f3fcdc89c68bd511",
+    "idToken": "0x137970b5fb9ddb0908d81b912ef807e0f2b19496",
+    "dateCreationToken": "2021-02-27T13:28:28Z",
+    "initialInfos": {
+      "initialPoolToken": 20000,
+      "initialPriceUSD": 0.6698385,
+      "initialPoolEth": 9,
+      "initialMarketCap": 13396.77
+    },
+    "currentInfos": {
+      "currentPoolToken": 20000,
+      "currentPriceUSD": 0.6698385,
+      "currentPoolEth": 9,
+      "currentMarketCap": 13396.77
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614432508",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x4602c0c3081bd09f137953fac2d7b3a3c24a4e7f",
     "tokenName": "MATTER",
     "idPair": "0xc121269c52e7568c0404fb6c3388297b9289a6d5",
@@ -74,22 +136,22 @@
       "initialMarketCap": 743948.3360529174
     },
     "currentInfos": {
-      "currentPoolToken": 3422328.1636348544,
-      "currentPriceUSD": 0.22242396312718166,
-      "currentPoolEth": 511.3822316496366,
-      "currentMarketCap": 761207.7932774342
+      "currentPoolToken": 3358485.517988234,
+      "currentPriceUSD": 0.23097365089428015,
+      "currentPoolEth": 521.1327024415432,
+      "currentMarketCap": 775721.66156531
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 5,
     "holderCountOld": 0,
-    "txCount": 7,
+    "txCount": 11,
     "createdAtTimestamp": "1614431944",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.04597672998882892,
+    "priceChange": 0.08618271466477732,
     "isRugged": false
   },
   {
@@ -6135,68 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.1965399206383813,
-    "isRugged": true
-  },
-  {
-    "_id": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
-    "tokenName": "POOL",
-    "idPair": "0x85cb0bab616fe88a89a35080516a8928f38b518b",
-    "idToken": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
-    "dateCreationToken": "2021-02-17T18:32:47Z",
-    "initialInfos": {
-      "initialPoolToken": 25.851205,
-      "initialPriceUSD": 35.731796641587884,
-      "initialPoolEth": 0.5,
-      "initialMarketCap": 923.71
-    },
-    "currentInfos": {
-      "currentPoolToken": 33824.60456295573,
-      "currentPriceUSD": 20.696062833793594,
-      "currentPoolEth": 474.90342412327436,
-      "currentMarketCap": 700036.1413631532
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6004,
-    "holderCountOld": 5991,
-    "txCount": 12614,
-    "createdAtTimestamp": "1613586767",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.4207942286980988,
-    "isRugged": false
-  },
-  {
-    "_id": "0x6c4bbbcd79af6258bff93442724cdc0f80d533c9",
-    "tokenName": "ASI",
-    "idPair": "0xab005338304863df816b814f01d5dd0356a8442d",
-    "idToken": "0x6c4bbbcd79af6258bff93442724cdc0f80d533c9",
-    "dateCreationToken": "2021-02-17T15:23:05Z",
-    "initialInfos": {
-      "initialPoolToken": 10000000,
-      "initialPriceUSD": 0.0026387535,
-      "initialPoolEth": 14.5,
-      "initialMarketCap": 26387.535
-    },
-    "currentInfos": {
-      "currentPoolToken": 7.2412e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 11,
-    "holderCountOld": 0,
-    "txCount": 16,
-    "createdAtTimestamp": "1613575385",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
