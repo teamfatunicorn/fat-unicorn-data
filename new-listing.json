@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x1d9d6296cb40b3ad2fc169e85427cabe81eec418",
+    "tokenName": "ERN",
+    "idPair": "0x54b22573aa381f985f86b9ce867960c2c67d3b7b",
+    "idToken": "0x1d9d6296cb40b3ad2fc169e85427cabe81eec418",
+    "dateCreationToken": "2021-02-27T02:56:34Z",
+    "initialInfos": {
+      "initialPoolToken": 3600000,
+      "initialPriceUSD": 0.0749725,
+      "initialPoolEth": 180,
+      "initialMarketCap": 269901
+    },
+    "currentInfos": {
+      "currentPoolToken": 3591644.6373586245,
+      "currentPriceUSD": 0.07532225381822695,
+      "currentPoolEth": 180.42,
+      "currentMarketCap": 270530.769
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614394594",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.004665094777777889,
+    "isRugged": false
+  },
+  {
     "_id": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
     "tokenName": "RAD",
     "idPair": "0xf2f98cbd5d84640a2c5cfda5c996cd830067bc95",
@@ -12,22 +43,22 @@
       "initialMarketCap": 22491.75
     },
     "currentInfos": {
-      "currentPoolToken": 2344.221386125405,
-      "currentPriceUSD": 13.583204629076556,
-      "currentPoolEth": 21.23581232025042,
-      "currentMarketCap": 31842.038783598862
+      "currentPoolToken": 2333.2669328791676,
+      "currentPriceUSD": 13.711240378365927,
+      "currentPoolEth": 21.33581232025042,
+      "currentMarketCap": 31991.983783598862
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 1448,
+    "holderCount": 1463,
     "holderCountOld": 0,
-    "txCount": 33,
+    "txCount": 34,
     "createdAtTimestamp": "1614380231",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.05681011123303804,
+    "priceChange": 0.06677163932182632,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.1742399170417439,
     "isRugged": false
-  },
-  {
-    "_id": "0xc2600f260e105988fca1e83f7005e92285aacdb5",
-    "tokenName": "MASK",
-    "idPair": "0xe0a023b5eca0114c5210f667cb316cd6621e8eed",
-    "idToken": "0xc2600f260e105988fca1e83f7005e92285aacdb5",
-    "dateCreationToken": "2021-02-17T06:32:56Z",
-    "initialInfos": {
-      "initialPoolToken": 1320000,
-      "initialPriceUSD": 0.20445568181818183,
-      "initialPoolEth": 150,
-      "initialMarketCap": 263802.0285051235
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.4495e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2.3e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 8,
-    "holderCountOld": 7,
-    "txCount": 12,
-    "createdAtTimestamp": "1613543576",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
