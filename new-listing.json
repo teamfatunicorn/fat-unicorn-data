@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x960fde301066b14650ff3e2b9f7f7c8851a39cc0",
+    "tokenName": "CERE",
+    "idPair": "0x25c2aff6491a0369fe4d755b2e871517e817b333",
+    "idToken": "0x960fde301066b14650ff3e2b9f7f7c8851a39cc0",
+    "dateCreationToken": "2021-02-27T04:33:06Z",
+    "initialInfos": {
+      "initialPoolToken": 150000,
+      "initialPriceUSD": 0.0300444,
+      "initialPoolEth": 3,
+      "initialMarketCap": 4506.66
+    },
+    "currentInfos": {
+      "currentPoolToken": 150000,
+      "currentPriceUSD": 0.0300444,
+      "currentPoolEth": 3,
+      "currentMarketCap": 4506.66
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614400386",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xbd0ecfce1b8ae929dbb4715849caf475494827fa",
     "tokenName": "YSHIB",
     "idPair": "0x07c3cef49becadd14917508fa527b240efb960f1",
@@ -43,22 +74,22 @@
       "initialMarketCap": 270399.6
     },
     "currentInfos": {
-      "currentPoolToken": 2999967.7903527534,
-      "currentPriceUSD": 0.10822088812238385,
-      "currentPoolEth": 216.11959540581302,
-      "currentMarketCap": 324659.1786105204
+      "currentPoolToken": 2972542.009016961,
+      "currentPriceUSD": 0.11023010528247536,
+      "currentPoolEth": 218.11959540581302,
+      "currentMarketCap": 327663.6186105204
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 11,
     "holderCountOld": 0,
-    "txCount": 18,
+    "txCount": 19,
     "createdAtTimestamp": "1614394594",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.44081277206246566,
+    "priceChange": 0.46756274423819894,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.6951801192635118,
-    "isRugged": false
-  },
-  {
-    "_id": "0x9c6bb630cc303627f95072c44378314afd6d9faf",
-    "tokenName": "UDO",
-    "idPair": "0xa3b61993521b7fb0c89246827ec5c13a0c3bf5d6",
-    "idToken": "0x9c6bb630cc303627f95072c44378314afd6d9faf",
-    "dateCreationToken": "2021-02-17T09:13:08Z",
-    "initialInfos": {
-      "initialPoolToken": 5400000,
-      "initialPriceUSD": 0.06033566666666667,
-      "initialPoolEth": 180,
-      "initialMarketCap": 325812.6
-    },
-    "currentInfos": {
-      "currentPoolToken": 4553991.483185201,
-      "currentPriceUSD": 0.0702012841384498,
-      "currentPoolEth": 213.5478301449927,
-      "currentMarketCap": 319696.05007516465
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 29,
-    "holderCountOld": 28,
-    "txCount": 28,
-    "createdAtTimestamp": "1613553188",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.16351219795560049,
     "isRugged": false
   }
 ]
