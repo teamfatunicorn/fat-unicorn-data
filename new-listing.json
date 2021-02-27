@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x57289032e1b22c597440dd1a416504893cfddc2a",
+    "tokenName": "BRY",
+    "idPair": "0xbb76e7b4ffe4f34f57ad629b957c16f07454a7b6",
+    "idToken": "0x57289032e1b22c597440dd1a416504893cfddc2a",
+    "dateCreationToken": "2021-02-27T10:54:07Z",
+    "initialInfos": {
+      "initialPoolToken": 15000,
+      "initialPriceUSD": 0.9815066666666666,
+      "initialPoolEth": 10,
+      "initialMarketCap": 14722.6
+    },
+    "currentInfos": {
+      "currentPoolToken": 15000,
+      "currentPriceUSD": 0.9815066666666666,
+      "currentPoolEth": 10,
+      "currentMarketCap": 14722.6
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614423247",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x971439d908c9cd06e36ca0d7cd4418ec3cd20dec",
     "tokenName": "ECH",
     "idPair": "0x59179bad2924c28e923dabe0b9561a2b25c28fd4",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.185612021858016,
     "isRugged": false
-  },
-  {
-    "_id": "0x8b9f7e5879de0201ebd71397194e7f1abf53a09d",
-    "tokenName": "CNYX",
-    "idPair": "0x7208e90d512ed48d1260a313514d519972d9b53a",
-    "idToken": "0x8b9f7e5879de0201ebd71397194e7f1abf53a09d",
-    "dateCreationToken": "2021-02-17T11:32:07Z",
-    "initialInfos": {
-      "initialPoolToken": 3018333,
-      "initialPriceUSD": 0.060629493167254904,
-      "initialPoolEth": 100,
-      "initialMarketCap": 183000
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.37183e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 8e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 19,
-    "holderCountOld": 0,
-    "txCount": 25,
-    "createdAtTimestamp": "1613561527",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
