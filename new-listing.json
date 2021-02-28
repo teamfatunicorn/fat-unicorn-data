@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc7d93ff6b6d47e9c0d4672ab2acf112f714a021e",
+    "tokenName": "MYLO",
+    "idPair": "0xdc12ae68fa7002eab5658dfe8d20009039c0787a",
+    "idToken": "0xc7d93ff6b6d47e9c0d4672ab2acf112f714a021e",
+    "dateCreationToken": "2021-02-28T19:55:31Z",
+    "initialInfos": {
+      "initialPoolToken": 247108,
+      "initialPriceUSD": 0.0013906874726840085,
+      "initialPoolEth": 0.25,
+      "initialMarketCap": 345.6204959765512
+    },
+    "currentInfos": {
+      "currentPoolToken": 247108,
+      "currentPriceUSD": 0.0013906874726840085,
+      "currentPoolEth": 0.25,
+      "currentMarketCap": 343.65
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614542131",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xd55e594eb8f767097007ad83c25763b216a2e472",
     "tokenName": "TPS",
     "idPair": "0x1351045eeb66547a80c4368359619e3a5a86685c",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe",
-    "tokenName": "erowan",
-    "idPair": "0x659a9a43b32bea6c113c393930a45c7634a242d5",
-    "idToken": "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe",
-    "dateCreationToken": "2021-02-19T05:44:26Z",
-    "initialInfos": {
-      "initialPoolToken": 10,
-      "initialPriceUSD": 0.30394302,
-      "initialPoolEth": 0.00158,
-      "initialMarketCap": 3.0394302
-    },
-    "currentInfos": {
-      "currentPoolToken": 937339.95055053,
-      "currentPriceUSD": 0.5389268171788072,
-      "currentPoolEth": 379.652208935004,
-      "currentMarketCap": 505157.63616473763
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3006,
-    "holderCountOld": 3005,
-    "txCount": 12907,
-    "createdAtTimestamp": "1613713466",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.7731179257836129,
-    "isRugged": false
   }
 ]
