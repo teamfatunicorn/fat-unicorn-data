@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x6c5fbc90e4d78f70cc5025db005b39b03914fc0c",
+    "tokenName": "URUS",
+    "idPair": "0xeb4664d8229dde455dca168a404ed6c03d4bb701",
+    "idToken": "0x6c5fbc90e4d78f70cc5025db005b39b03914fc0c",
+    "dateCreationToken": "2021-02-28T09:47:00Z",
+    "initialInfos": {
+      "initialPoolToken": 450000,
+      "initialPriceUSD": 0.22095315555555556,
+      "initialPoolEth": 73,
+      "initialMarketCap": 99428.92
+    },
+    "currentInfos": {
+      "currentPoolToken": 446947.896895855,
+      "currentPriceUSD": 0.2239857054821918,
+      "currentPoolEth": 73.5,
+      "currentMarketCap": 100109.94
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 6,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614505620",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.013724854569337632,
+    "isRugged": false
+  },
+  {
     "_id": "0xde3e18ecb613498b9a1483af51394ec2259bcd0a",
     "tokenName": "DFTPv2",
     "idPair": "0xb4c36b752b706836ab90ed4e78b058150ae9ed59",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-02-28T09:15:04Z",
     "initialInfos": {
       "initialPoolToken": 30000,
-      "initialPriceUSD": 0.9114266666666667,
+      "initialPriceUSD": 0.9080266666666666,
       "initialPoolEth": 20,
       "initialMarketCap": 27427.413390593763
     },
     "currentInfos": {
       "currentPoolToken": 29669.841898627412,
-      "currentPriceUSD": 0.9336342273498072,
+      "currentPriceUSD": 0.9301513839252245,
       "currentPoolEth": 20.261845836282856,
-      "currentMarketCap": 27700.779916615942
+      "currentMarketCap": 27597.444502850896
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.024365713112563945,
+    "priceChange": 0.024365713112564025,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-02-28T08:18:39Z",
     "initialInfos": {
       "initialPoolToken": 80000,
-      "initialPriceUSD": 0.3076065,
+      "initialPriceUSD": 0.306459,
       "initialPoolEth": 18,
       "initialMarketCap": 24380.535993883208
     },
     "currentInfos": {
       "currentPoolToken": 61447.84080726611,
-      "currentPriceUSD": 0.5227438914407425,
+      "currentPriceUSD": 0.5207938396198991,
       "currentPoolEth": 23.49538703001991,
-      "currentMarketCap": 32121.483424221544
+      "currentMarketCap": 32001.65695036844
     },
     "trustScore": null,
     "contractId": null,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 141975112625976230000,
     "isRugged": true
-  },
-  {
-    "_id": "0xbacdbe7cd52bdf11065210863139e9dad875a896",
-    "tokenName": "FUR",
-    "idPair": "0x838cc44eb793d79dd4d33d8cbe9b58a1556626d4",
-    "idToken": "0xbacdbe7cd52bdf11065210863139e9dad875a896",
-    "dateCreationToken": "2021-02-18T18:06:34Z",
-    "initialInfos": {
-      "initialPoolToken": 4300,
-      "initialPriceUSD": 0.9067023255813953,
-      "initialPoolEth": 2,
-      "initialMarketCap": 3898.82
-    },
-    "currentInfos": {
-      "currentPoolToken": 17430.580543526154,
-      "currentPriceUSD": 0.12278663687180295,
-      "currentPoolEth": 1.5723087280158152,
-      "currentMarketCap": 2140.2423636626595
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 16,
-    "holderCountOld": 17,
-    "txCount": 22,
-    "createdAtTimestamp": "1613671594",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.8645788883434596,
-    "isRugged": false
   }
 ]
