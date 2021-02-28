@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xd552d0868317d91cc76aff307c2c07b238a09f73",
+    "tokenName": "URUS",
+    "idPair": "0x04daa28a29ec6d08bfb5ea4449839a83af367e2f",
+    "idToken": "0xd552d0868317d91cc76aff307c2c07b238a09f73",
+    "dateCreationToken": "2021-02-28T08:10:54Z",
+    "initialInfos": {
+      "initialPoolToken": 450000,
+      "initialPriceUSD": 0.21879073333333332,
+      "initialPoolEth": 73,
+      "initialMarketCap": 98703.1913317492
+    },
+    "currentInfos": {
+      "currentPoolToken": 450000,
+      "currentPriceUSD": 0.21879073333333332,
+      "currentPoolEth": 73,
+      "currentMarketCap": 98455.83
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 6,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614499854",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x4a6b42ea45459e1544bdb6bcaab6515c4f18e7ad",
     "tokenName": "KYL",
     "idPair": "0x3e4ceff80075c9376f4e972845f3490c4a99a073",
@@ -2679,7 +2710,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 107378.46935152772,
-      "currentPriceUSD": 31.546769678851952,
+      "currentPriceUSD": 31.8333334011392,
       "currentPoolEth": 2529.226653152576,
       "currentMarketCap": 3387443.841100308
     },
@@ -2693,7 +2724,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 18.16164222604668,
+    "priceChange": 18.335702251124733,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.13148403907999964,
-    "isRugged": false
-  },
-  {
-    "_id": "0x76905d59ba0463c28f05d278c779a9872729f6e0",
-    "tokenName": "C4 ",
-    "idPair": "0x5a83f8a762641e34d9dfba70a0a711bfad350f58",
-    "idToken": "0x76905d59ba0463c28f05d278c779a9872729f6e0",
-    "dateCreationToken": "2021-02-18T12:26:11Z",
-    "initialInfos": {
-      "initialPoolToken": 100000,
-      "initialPriceUSD": 0.004783,
-      "initialPoolEth": 0.25,
-      "initialMarketCap": 478.3
-    },
-    "currentInfos": {
-      "currentPoolToken": 100000,
-      "currentPriceUSD": 0.0033483,
-      "currentPoolEth": 0.25,
-      "currentMarketCap": 334.83
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 1,
-    "createdAtTimestamp": "1613651171",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.29995818523938955,
     "isRugged": false
   }
 ]
