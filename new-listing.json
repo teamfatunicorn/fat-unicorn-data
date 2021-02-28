@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc03841b5135600312707d39eb2af0d2ad5d51a91",
+    "tokenName": "BSKT",
+    "idPair": "0x1d470e0e3dffbba05e4f56541416a69574675889",
+    "idToken": "0xc03841b5135600312707d39eb2af0d2ad5d51a91",
+    "dateCreationToken": "2021-02-28T22:26:59Z",
+    "initialInfos": {
+      "initialPoolToken": 9000,
+      "initialPriceUSD": 0.15791,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1414.7687793919667
+    },
+    "currentInfos": {
+      "currentPoolToken": 4506.7601402103155,
+      "currentPriceUSD": 0.63069254,
+      "currentPoolEth": 2,
+      "currentMarketCap": 2842.38
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614551219",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.9939999999999998,
+    "isRugged": false
+  },
+  {
     "_id": "0xbf45f45431dd1d16f7924fc9e81280ac25ef0ac9",
     "tokenName": "SID",
     "idPair": "0x1291510b63b2c4c20ba73fd5f511b94b3b95e247",
@@ -20,7 +51,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 11,
+    "holderCount": 12,
     "holderCountOld": 0,
     "txCount": 1,
     "createdAtTimestamp": "1614550457",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9999999999993486,
-    "isRugged": true
-  },
-  {
-    "_id": "0xa840fde9efa92b426e730e3da7e4082ceb87afa1",
-    "tokenName": "eRowan",
-    "idPair": "0x2f139303b6455ca7e36f197a04f71b2b61f40f59",
-    "idToken": "0xa840fde9efa92b426e730e3da7e4082ceb87afa1",
-    "dateCreationToken": "2021-02-19T08:14:54Z",
-    "initialInfos": {
-      "initialPoolToken": 750000,
-      "initialPriceUSD": 0.5164373333333333,
-      "initialPoolEth": 200,
-      "initialMarketCap": 387328
-    },
-    "currentInfos": {
-      "currentPoolToken": 8.2694e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.3e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 40,
-    "holderCountOld": 39,
-    "txCount": 56,
-    "createdAtTimestamp": "1613722494",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
