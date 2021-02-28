@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x1ebfd41463b7d515f3c6d2beba851e23632564e0",
+    "tokenName": "UDO",
+    "idPair": "0x61c8a9f5a0b5f03009e3ef2fc9250f3b58cef1a4",
+    "idToken": "0x1ebfd41463b7d515f3c6d2beba851e23632564e0",
+    "dateCreationToken": "2021-02-28T08:15:04Z",
+    "initialInfos": {
+      "initialPoolToken": 3845714,
+      "initialPriceUSD": 0.03531749890917525,
+      "initialPoolEth": 100,
+      "initialMarketCap": 135821
+    },
+    "currentInfos": {
+      "currentPoolToken": 3845714,
+      "currentPriceUSD": 0.03531749890917525,
+      "currentPoolEth": 100,
+      "currentMarketCap": 135821
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614500104",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xd552d0868317d91cc76aff307c2c07b238a09f73",
     "tokenName": "URUS",
     "idPair": "0x04daa28a29ec6d08bfb5ea4449839a83af367e2f",
@@ -12,22 +43,22 @@
       "initialMarketCap": 98703.1913317492
     },
     "currentInfos": {
-      "currentPoolToken": 395983.80220923974,
-      "currentPriceUSD": 0.28485813080638245,
-      "currentPoolEth": 83.04990077155105,
-      "currentMarketCap": 112799.20572692828
+      "currentPoolToken": 391631.2005675876,
+      "currentPriceUSD": 0.2913951517275106,
+      "currentPoolEth": 84.02193557006561,
+      "currentMarketCap": 114119.43311061934
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 6,
     "holderCountOld": 0,
-    "txCount": 10,
+    "txCount": 14,
     "createdAtTimestamp": "1614499854",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.2928595570224438,
+    "priceChange": 0.32252853627331396,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.30074398934920515,
     "isRugged": true
-  },
-  {
-    "_id": "0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab",
-    "tokenName": "⚗️",
-    "idPair": "0xcd6bcca48069f8588780dfa274960f15685aee0e",
-    "idToken": "0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab",
-    "dateCreationToken": "2021-02-18T12:54:59Z",
-    "initialInfos": {
-      "initialPoolToken": 5002.409712978812,
-      "initialPriceUSD": 1.1473670349528826,
-      "initialPoolEth": 3,
-      "initialMarketCap": 5739.6
-    },
-    "currentInfos": {
-      "currentPoolToken": 65986.0298551884,
-      "currentPriceUSD": 0.9965065828900345,
-      "currentPoolEth": 49.09619294080092,
-      "currentMarketCap": 65755.51312947359
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 95,
-    "holderCountOld": 96,
-    "txCount": 228,
-    "createdAtTimestamp": "1613652899",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.13148403907999964,
-    "isRugged": false
   }
 ]
