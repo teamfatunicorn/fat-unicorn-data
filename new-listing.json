@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x254dad708ddd8d9e70f9c0f03b07c921584d1f24",
+    "tokenName": "HGD",
+    "idPair": "0x22c961a44433be30dc76bcda9cbd1065fda0916c",
+    "idToken": "0x254dad708ddd8d9e70f9c0f03b07c921584d1f24",
+    "dateCreationToken": "2021-02-28T14:36:17Z",
+    "initialInfos": {
+      "initialPoolToken": 100,
+      "initialPriceUSD": 13.3507,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1335.07
+    },
+    "currentInfos": {
+      "currentPoolToken": 51,
+      "currentPriceUSD": 52.35568627450981,
+      "currentPoolEth": 2,
+      "currentMarketCap": 2670.14
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614522977",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.9215686274509802,
+    "isRugged": false
+  },
+  {
     "_id": "0x74f74426f50476ee56265cd3beca8e9eb2f33d38",
     "tokenName": "STRS",
     "idPair": "0x7944591e284e12f204c4ffc86a2f1c755a60b908",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 23.321634561432695,
-    "isRugged": false
-  },
-  {
-    "_id": "0x5881da4527bcdc44a100f8ba2efc4039243d2c07",
-    "tokenName": "LGBTQ",
-    "idPair": "0x12e000961034308a29a5050d317c6d3c270418d0",
-    "idToken": "0x5881da4527bcdc44a100f8ba2efc4039243d2c07",
-    "dateCreationToken": "2021-02-19T01:19:40Z",
-    "initialInfos": {
-      "initialPoolToken": 600000,
-      "initialPriceUSD": 0.00012736066666666667,
-      "initialPoolEth": 0.04,
-      "initialMarketCap": 76.4164
-    },
-    "currentInfos": {
-      "currentPoolToken": 1782650.8,
-      "currentPriceUSD": 0.00012571982690047877,
-      "currentPoolEth": 0.165,
-      "currentMarketCap": 224.11455
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 522,
-    "holderCountOld": 521,
-    "txCount": 4,
-    "createdAtTimestamp": "1613697580",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.01288341062537278,
     "isRugged": false
   }
 ]
