@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x026450c9a8cba84dc7c3826f1d48b0ad914481f5",
+    "tokenName": "VTX",
+    "idPair": "0x549d90955c00aa06dad8aa5b05a8fcc2d8ec9dce",
+    "idToken": "0x026450c9a8cba84dc7c3826f1d48b0ad914481f5",
+    "dateCreationToken": "2021-02-28T11:28:28Z",
+    "initialInfos": {
+      "initialPoolToken": 1137500,
+      "initialPriceUSD": 0.04242676923076923,
+      "initialPoolEth": 35,
+      "initialMarketCap": 48260.45
+    },
+    "currentInfos": {
+      "currentPoolToken": 1105994.944023113,
+      "currentPriceUSD": 0.044882049658775514,
+      "currentPoolEth": 36,
+      "currentMarketCap": 49639.32
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614511708",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.05787102040816328,
+    "isRugged": false
+  },
+  {
     "_id": "0x6c5fbc90e4d78f70cc5025db005b39b03914fc0c",
     "tokenName": "URUS",
     "idPair": "0xeb4664d8229dde455dca168a404ed6c03d4bb701",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-02-28T09:47:00Z",
     "initialInfos": {
       "initialPoolToken": 450000,
-      "initialPriceUSD": 0.22360711111111112,
+      "initialPriceUSD": 0.22368335555555555,
       "initialPoolEth": 73,
-      "initialMarketCap": 100623.2
+      "initialMarketCap": 100657.51
     },
     "currentInfos": {
-      "currentPoolToken": 96631.29671956581,
-      "currentPriceUSD": 7.130572707299967,
-      "currentPoolEth": 499.88137482555186,
-      "currentMarketCap": 689036.4870595409
+      "currentPoolToken": 94855.48009781456,
+      "currentPriceUSD": 7.411805232050502,
+      "currentPoolEth": 509.8742765290741,
+      "currentMarketCap": 703050.3436776443
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 361,
     "holderCountOld": 0,
-    "txCount": 819,
+    "txCount": 825,
     "createdAtTimestamp": "1614505620",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 30.888845895230773,
+    "priceChange": 32.13525592300789,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-02-28T09:15:04Z",
     "initialInfos": {
       "initialPoolToken": 30000,
-      "initialPriceUSD": 0.9189333333333334,
+      "initialPriceUSD": 0.9192466666666667,
       "initialPoolEth": 20,
       "initialMarketCap": 27427.413390593763
     },
     "currentInfos": {
       "currentPoolToken": 27457.8934159569,
-      "currentPriceUSD": 1.099658984880671,
+      "currentPriceUSD": 1.1000339411509075,
       "currentPoolEth": 21.9053389442493,
-      "currentMarketCap": 30194.319200752823
+      "currentMarketCap": 30204.61471005662
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.19666894756312137,
+    "priceChange": 0.19666894756312142,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.5302481975681803,
     "isRugged": false
-  },
-  {
-    "_id": "0x67520897d47dcbfc4da681db17ae1d3b1612751a",
-    "tokenName": "eRowan",
-    "idPair": "0xde9ba99a2be78de37a2eb1e22c9d6bb36ffe5419",
-    "idToken": "0x67520897d47dcbfc4da681db17ae1d3b1612751a",
-    "dateCreationToken": "2021-02-18T18:48:53Z",
-    "initialInfos": {
-      "initialPoolToken": 780000,
-      "initialPriceUSD": 0.49984871794871794,
-      "initialPoolEth": 200,
-      "initialMarketCap": 389882
-    },
-    "currentInfos": {
-      "currentPoolToken": 1e-18,
-      "currentPriceUSD": 71548421009475900000,
-      "currentPoolEth": 0.05213455530505909,
-      "currentMarketCap": 71.5484210094759
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 10,
-    "holderCountOld": 2,
-    "txCount": 11,
-    "createdAtTimestamp": "1613674133",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 143140151090307330000,
-    "isRugged": true
   }
 ]
