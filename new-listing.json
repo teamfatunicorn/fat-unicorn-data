@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xdfcdf2a50f90836ac9ea3dba9d56358ff3726208",
+    "tokenName": "VTX",
+    "idPair": "0x9d4d84609ce3fd0b92ca2337c2a7af19fbdb64e2",
+    "idToken": "0xdfcdf2a50f90836ac9ea3dba9d56358ff3726208",
+    "dateCreationToken": "2021-02-28T03:18:11Z",
+    "initialInfos": {
+      "initialPoolToken": 12000000,
+      "initialPriceUSD": 0.0355645,
+      "initialPoolEth": 300,
+      "initialMarketCap": 426724.395964691
+    },
+    "currentInfos": {
+      "currentPoolToken": 12000000,
+      "currentPriceUSD": 0.0355645,
+      "currentPoolEth": 300,
+      "currentMarketCap": 426774
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614482291",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xbb2130e36bbbb36588c7750219672e23d8fd51c7",
     "tokenName": "BOBO",
     "idPair": "0xdd23fe150cbf9513ee5a790014686175bc2c6914",
@@ -12,22 +43,22 @@
       "initialMarketCap": 241.8386
     },
     "currentInfos": {
-      "currentPoolToken": 166,
-      "currentPriceUSD": 2.2024280722891567,
-      "currentPoolEth": 0.257,
-      "currentMarketCap": 365.60306
+      "currentPoolToken": 144,
+      "currentPriceUSD": 2.93407125,
+      "currentPoolEth": 0.297,
+      "currentMarketCap": 422.50626
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 9,
     "holderCountOld": 0,
-    "txCount": 4,
+    "txCount": 5,
     "createdAtTimestamp": "1614481071",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.2767540751240256,
+    "priceChange": 2.0330882352941178,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.5186186145090962,
-    "isRugged": false
-  },
-  {
-    "_id": "0x8843e20766b3c94e52c48d6b5f70eab51115457f",
-    "tokenName": "9TOP",
-    "idPair": "0x8a8c265d594b1bd47ed77000cb6d0b7c8eedfffb",
-    "idToken": "0x8843e20766b3c94e52c48d6b5f70eab51115457f",
-    "dateCreationToken": "2021-02-18T10:48:30Z",
-    "initialInfos": {
-      "initialPoolToken": 1000,
-      "initialPriceUSD": 0.190196,
-      "initialPoolEth": 0.1,
-      "initialMarketCap": 190.196
-    },
-    "currentInfos": {
-      "currentPoolToken": 891.1160548785433,
-      "currentPriceUSD": 0.18476283694808185,
-      "currentPoolEth": 0.11225625752513163,
-      "currentMarketCap": 164.64513034934225
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 3,
-    "txCount": 3,
-    "createdAtTimestamp": "1613645310",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.028566126795085883,
     "isRugged": false
   }
 ]
