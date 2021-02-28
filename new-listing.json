@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x0aee8703d34dd9ae107386d3eff22ae75dd616d1",
+    "tokenName": "SLICE",
+    "idPair": "0xa21ece44cc5dac03e3805362bd3f68f22a49ea1e",
+    "idToken": "0x0aee8703d34dd9ae107386d3eff22ae75dd616d1",
+    "dateCreationToken": "2021-02-28T18:17:47Z",
+    "initialInfos": {
+      "initialPoolToken": 50000,
+      "initialPriceUSD": 1.33552,
+      "initialPoolEth": 50,
+      "initialMarketCap": 66776
+    },
+    "currentInfos": {
+      "currentPoolToken": 50000,
+      "currentPriceUSD": 1.33552,
+      "currentPoolEth": 50,
+      "currentMarketCap": 66776
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4471,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614536267",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x3156c455e3ba7979fb132ad62886d78850717068",
     "tokenName": "OAC",
     "idPair": "0x742ec4780ef365fdabdd9517c3624018a796c0d9",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x19f3446fda63cbeb02114dcbfb9ba2466dcc82e5",
-    "tokenName": "TLC",
-    "idPair": "0x8bb504b0644dffb5187f3c4294fff922c109f2d8",
-    "idToken": "0x19f3446fda63cbeb02114dcbfb9ba2466dcc82e5",
-    "dateCreationToken": "2021-02-19T03:47:58Z",
-    "initialInfos": {
-      "initialPoolToken": 3333,
-      "initialPriceUSD": 1.3136912691269127,
-      "initialPoolEth": 2.3,
-      "initialMarketCap": 4378.533
-    },
-    "currentInfos": {
-      "currentPoolToken": 2840.4846598488216,
-      "currentPriceUSD": 1.2647721886275585,
-      "currentPoolEth": 2.7,
-      "currentMarketCap": 3592.566
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 2,
-    "txCount": 2,
-    "createdAtTimestamp": "1613706478",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.03723788202677647,
-    "isRugged": false
   }
 ]
