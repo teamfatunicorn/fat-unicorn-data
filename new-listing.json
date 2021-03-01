@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x95efd1fe6099f65a7ed524def487483221094947",
+    "tokenName": "CBM",
+    "idPair": "0x5534ed3dd7650f976d7ab0a325b92b4c6799cc0a",
+    "idToken": "0x95efd1fe6099f65a7ed524def487483221094947",
+    "dateCreationToken": "2021-03-01T10:10:15Z",
+    "initialInfos": {
+      "initialPoolToken": 4250000,
+      "initialPriceUSD": 0.00008814411764705882,
+      "initialPoolEth": 0.25,
+      "initialMarketCap": 374.6125
+    },
+    "currentInfos": {
+      "currentPoolToken": 4250000,
+      "currentPriceUSD": 0.00008814411764705882,
+      "currentPoolEth": 0.25,
+      "currentMarketCap": 374.6125
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3199,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614593415",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x0cb42d5c9c4661fee5d2ecfcbad5bccefa0727a9",
     "tokenName": "EM3",
     "idPair": "0xc1e5ef3ffc470e4004db0a312672c4d98ae9ccc6",
@@ -12,22 +43,22 @@
       "initialMarketCap": 15029.1
     },
     "currentInfos": {
-      "currentPoolToken": 2362.739302319808,
-      "currentPriceUSD": 27.17603790885591,
-      "currentPoolEth": 42.72371123260002,
-      "currentMarketCap": 64209.89284858687
+      "currentPoolToken": 2231.5467936771074,
+      "currentPriceUSD": 30.470410811624657,
+      "currentPoolEth": 45.242993624837794,
+      "currentMarketCap": 67996.14754870528
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 47,
     "holderCountOld": 0,
-    "txCount": 102,
+    "txCount": 103,
     "createdAtTimestamp": "1614586756",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 17.082278984673675,
+    "priceChange": 19.274275114028555,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x0563dce613d559a47877ffd1593549fb9d3510d6",
-    "tokenName": "SUPERBID",
-    "idPair": "0x0d9c6511980f80e477a774156492f5c133d2c0f3",
-    "idToken": "0x0563dce613d559a47877ffd1593549fb9d3510d6",
-    "dateCreationToken": "2021-02-19T20:25:10Z",
-    "initialInfos": {
-      "initialPoolToken": 1961000,
-      "initialPriceUSD": 0.010033962264150943,
-      "initialPoolEth": 10,
-      "initialMarketCap": 19676.6
-    },
-    "currentInfos": {
-      "currentPoolToken": 263105.99098860135,
-      "currentPriceUSD": 0.4665398578854817,
-      "currentPoolEth": 81.1518201526125,
-      "currentMarketCap": 122749.43164464089
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 164,
-    "holderCountOld": 166,
-    "txCount": 911,
-    "createdAtTimestamp": "1613766310",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 45.496074591821234,
-    "isRugged": false
   }
 ]
