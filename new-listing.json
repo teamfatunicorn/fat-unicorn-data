@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x8d717ab5eac1016b64c2a7fd04720fd2d27d1b86",
+    "tokenName": "BCVT",
+    "idPair": "0x8580bed4a165f4bf60ca8070001171242ab94ba4",
+    "idToken": "0x8d717ab5eac1016b64c2a7fd04720fd2d27d1b86",
+    "dateCreationToken": "2021-03-01T15:12:33Z",
+    "initialInfos": {
+      "initialPoolToken": 2500000,
+      "initialPriceUSD": 0.12606762,
+      "initialPoolEth": 205,
+      "initialMarketCap": 315169.05
+    },
+    "currentInfos": {
+      "currentPoolToken": 2498784.7373740673,
+      "currentPriceUSD": 0.12619045821904917,
+      "currentPoolEth": 205.1,
+      "currentMarketCap": 315322.791
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614611553",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.0009743835812017526,
+    "isRugged": false
+  },
+  {
     "_id": "0x7dee45dff03ec7137979586ca20a2f4917bac9fa",
     "tokenName": "DWZ",
     "idPair": "0xaec21057bb0c910c22f6f6db64ae6743e96718b4",
@@ -12,22 +43,22 @@
       "initialMarketCap": 103006.47
     },
     "currentInfos": {
-      "currentPoolToken": 23997.508343426667,
-      "currentPriceUSD": 7.3182633408761495,
-      "currentPoolEth": 114.23113260748184,
-      "currentMarketCap": 175620.0855820689
+      "currentPoolToken": 23415.857358488996,
+      "currentPriceUSD": 7.695333050296469,
+      "currentPoolEth": 117.20544359136967,
+      "currentMarketCap": 180192.82103180815
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 131,
     "holderCountOld": 0,
-    "txCount": 307,
+    "txCount": 324,
     "createdAtTimestamp": "1614608507",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.8418655025751876,
+    "priceChange": 1.988291143380205,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x501262281b2ba043e2fbf14904980689cddb0c78",
-    "tokenName": "MORE",
-    "idPair": "0x060946fa940d225c921c6efd28950986955c9bbc",
-    "idToken": "0x501262281b2ba043e2fbf14904980689cddb0c78",
-    "dateCreationToken": "2021-02-20T03:38:39Z",
-    "initialInfos": {
-      "initialPoolToken": 3000,
-      "initialPriceUSD": 10.1398,
-      "initialPoolEth": 15,
-      "initialMarketCap": 30419.4
-    },
-    "currentInfos": {
-      "currentPoolToken": 3539.68,
-      "currentPriceUSD": 5.501046880388597,
-      "currentPoolEth": 12.730755806772372,
-      "currentMarketCap": 19471.94562157391
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 57,
-    "holderCountOld": 58,
-    "txCount": 18,
-    "createdAtTimestamp": "1613792319",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.4574797451243025,
-    "isRugged": false
   }
 ]
