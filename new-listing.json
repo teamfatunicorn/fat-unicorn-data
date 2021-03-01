@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7825e833d495f3d1c28872415a4aee339d26ac88",
+    "tokenName": "TLOS",
+    "idPair": "0xad1fcadace3aa8dd994d39751235be41691aaed3",
+    "idToken": "0x7825e833d495f3d1c28872415a4aee339d26ac88",
+    "dateCreationToken": "2021-03-01T16:48:49Z",
+    "initialInfos": {
+      "initialPoolToken": 15000,
+      "initialPriceUSD": 0.5136466666666667,
+      "initialPoolEth": 5,
+      "initialMarketCap": 7704.7
+    },
+    "currentInfos": {
+      "currentPoolToken": 15000,
+      "currentPriceUSD": 0.5136466666666667,
+      "currentPoolEth": 5,
+      "currentMarketCap": 7704.7
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614617329",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x884a5b1438588239bc4ec652538b12d620f8f083",
     "tokenName": "DOWS",
     "idPair": "0x3f1d69510fd43b2211899b68bf93b5727378b1bd",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-03-01T16:48:03Z",
     "initialInfos": {
       "initialPoolToken": 10000000,
-      "initialPriceUSD": 0.038594,
+      "initialPriceUSD": 0.0385235,
       "initialPoolEth": 250,
-      "initialMarketCap": 385940
+      "initialMarketCap": 385235
     },
     "currentInfos": {
-      "currentPoolToken": 10000000,
-      "currentPriceUSD": 0.038594,
-      "currentPoolEth": 250,
-      "currentMarketCap": 385940
+      "currentPoolToken": 9980099.681235617,
+      "currentPriceUSD": 0.038677516490718,
+      "currentPoolEth": 250.5,
+      "currentMarketCap": 386005.47
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 1,
+    "txCount": 2,
     "createdAtTimestamp": "1614617283",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.003997988000000022,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-03-01T16:26:33Z",
     "initialInfos": {
       "initialPoolToken": 100000,
-      "initialPriceUSD": 0.0308752,
+      "initialPriceUSD": 0.0308188,
       "initialPoolEth": 2,
-      "initialMarketCap": 3087.52
+      "initialMarketCap": 3081.88
     },
     "currentInfos": {
       "currentPoolToken": 62574.29524292061,
-      "currentPriceUSD": 0.078946666212096,
+      "currentPriceUSD": 0.078802453641024,
       "currentPoolEth": 3.2,
-      "currentMarketCap": 4940.032
+      "currentMarketCap": 4931.008
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.5569604800000003,
+    "priceChange": 1.55696048,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.21995647095234772,
-    "isRugged": false
-  },
-  {
-    "_id": "0xd9e99dd4947e8ac44cb61e409ec3d3c32fe429dc",
-    "tokenName": "DSTAR",
-    "idPair": "0x61ec3d4a0f790818ea089a84bb76640fcbfd7d92",
-    "idToken": "0xd9e99dd4947e8ac44cb61e409ec3d3c32fe429dc",
-    "dateCreationToken": "2021-02-20T06:52:37Z",
-    "initialInfos": {
-      "initialPoolToken": 2153,
-      "initialPriceUSD": 228.45949196470042,
-      "initialPoolEth": 245.458,
-      "initialMarketCap": 497971.4451596285
-    },
-    "currentInfos": {
-      "currentPoolToken": 1882.4538898,
-      "currentPriceUSD": 108.27979556460937,
-      "currentPoolEth": 130.44144957369832,
-      "currentMarketCap": 203831.7223473477
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 119,
-    "holderCountOld": 120,
-    "txCount": 254,
-    "createdAtTimestamp": "1613803957",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.5260437873102694,
     "isRugged": false
   }
 ]
