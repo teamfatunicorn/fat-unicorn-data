@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x41c6aa683d6fbfef503f044d9c296cfb90ae8835",
+    "tokenName": "ALCX",
+    "idPair": "0x679fdf301236a992e3cb291e135781ee98a4ba8e",
+    "idToken": "0x41c6aa683d6fbfef503f044d9c296cfb90ae8835",
+    "dateCreationToken": "2021-03-01T05:10:07Z",
+    "initialInfos": {
+      "initialPoolToken": 552,
+      "initialPriceUSD": 392.4429347826087,
+      "initialPoolEth": 150,
+      "initialMarketCap": 216628.5
+    },
+    "currentInfos": {
+      "currentPoolToken": 552,
+      "currentPriceUSD": 392.4429347826087,
+      "currentPoolEth": 150,
+      "currentMarketCap": 216628.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614575407",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xf4727665f750c2764f16180efdbe85b106d1f0ad",
     "tokenName": "APYS",
     "idPair": "0x515e82820a8c2fb3acd0f581d492c08fe6990230",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xca7ac1dd35876a0dabec1ab1b37129c37b78a20f",
-    "tokenName": "GRN",
-    "idPair": "0x2cb6067bfffe2344d5062090bdd93045398e0f8e",
-    "idToken": "0xca7ac1dd35876a0dabec1ab1b37129c37b78a20f",
-    "dateCreationToken": "2021-02-19T10:27:40Z",
-    "initialInfos": {
-      "initialPoolToken": 1250000,
-      "initialPriceUSD": 0.04032478224,
-      "initialPoolEth": 26.086,
-      "initialMarketCap": 50471.515042101055
-    },
-    "currentInfos": {
-      "currentPoolToken": 1123252.8445138892,
-      "currentPriceUSD": 0.0373670153984579,
-      "currentPoolEth": 29.048394608221965,
-      "currentMarketCap": 41972.60633731213
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 632,
-    "holderCountOld": 631,
-    "txCount": 11,
-    "createdAtTimestamp": "1613730460",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.07334861286884163,
-    "isRugged": false
   }
 ]
