@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x126c121f99e1e211df2e5f8de2d96fa36647c855",
+    "tokenName": "DEGEN",
+    "idPair": "0xfaad1072e259b5ed342d3f16277477b46d379abc",
+    "idToken": "0x126c121f99e1e211df2e5f8de2d96fa36647c855",
+    "dateCreationToken": "2021-03-01T11:34:12Z",
+    "initialInfos": {
+      "initialPoolToken": 4000,
+      "initialPriceUSD": 4.98687525,
+      "initialPoolEth": 13.1,
+      "initialMarketCap": 19947.501
+    },
+    "currentInfos": {
+      "currentPoolToken": 3471.6268999661593,
+      "currentPriceUSD": 6.62309679655499,
+      "currentPoolEth": 15.1,
+      "currentMarketCap": 22992.921
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1614598452",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.3281055700270406,
+    "isRugged": false
+  },
+  {
     "_id": "0x95efd1fe6099f65a7ed524def487483221094947",
     "tokenName": "CBM",
     "idPair": "0x5534ed3dd7650f976d7ab0a325b92b4c6799cc0a",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-01T10:10:15Z",
     "initialInfos": {
       "initialPoolToken": 4250000,
-      "initialPriceUSD": 0.00009029411764705883,
+      "initialPriceUSD": 0.00008957117647058824,
       "initialPoolEth": 0.25,
-      "initialMarketCap": 383.75
+      "initialMarketCap": 380.6775
     },
     "currentInfos": {
       "currentPoolToken": 1934984.520123839,
-      "currentPriceUSD": 0.0004363084,
+      "currentPriceUSD": 0.0004328150904,
       "currentPoolEth": 0.55,
-      "currentMarketCap": 844.25
+      "currentMarketCap": 837.4905
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 3.8320800000000004,
+    "priceChange": 3.83208,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.21541948950442844,
-    "isRugged": true
-  },
-  {
-    "_id": "0x84d86c4a34fdeb681c32687aef8287f42d622e57",
-    "tokenName": "TFG",
-    "idPair": "0xba1a2ed7d634da14a4898164f7f9805604b7c2ab",
-    "idToken": "0x84d86c4a34fdeb681c32687aef8287f42d622e57",
-    "dateCreationToken": "2021-02-19T20:54:49Z",
-    "initialInfos": {
-      "initialPoolToken": 150000,
-      "initialPriceUSD": 0.3738554,
-      "initialPoolEth": 28.5,
-      "initialMarketCap": 56078.31
-    },
-    "currentInfos": {
-      "currentPoolToken": 7.2295e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.4e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 42,
-    "holderCountOld": 0,
-    "txCount": 3,
-    "createdAtTimestamp": "1613768089",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
