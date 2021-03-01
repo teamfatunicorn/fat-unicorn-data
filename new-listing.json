@@ -7,15 +7,15 @@
     "dateCreationToken": "2021-03-01T06:45:36Z",
     "initialInfos": {
       "initialPoolToken": 2500,
-      "initialPriceUSD": 0.0573248,
+      "initialPriceUSD": 0.057134,
       "initialPoolEth": 0.1,
-      "initialMarketCap": 143.312
+      "initialMarketCap": 142.835
     },
     "currentInfos": {
       "currentPoolToken": 2500,
-      "currentPriceUSD": 0.0573248,
+      "currentPriceUSD": 0.057134,
       "currentPoolEth": 0.1,
-      "currentMarketCap": 143.312
+      "currentMarketCap": 142.835
     },
     "trustScore": null,
     "contractId": null,
@@ -31,6 +31,37 @@
     "isRugged": true
   },
   {
+    "_id": "0x603c55c343f9b40eca3bd9f8ba7c8b9280f99aeb",
+    "tokenName": "ODU",
+    "idPair": "0x1d5bc50be2d145d7b82ab4c654e887e379c35ede",
+    "idToken": "0x603c55c343f9b40eca3bd9f8ba7c8b9280f99aeb",
+    "dateCreationToken": "2021-03-01T06:15:48Z",
+    "initialInfos": {
+      "initialPoolToken": 10000,
+      "initialPriceUSD": 0.0142835,
+      "initialPoolEth": 0.1,
+      "initialMarketCap": 142.835
+    },
+    "currentInfos": {
+      "currentPoolToken": 9990,
+      "currentPriceUSD": 0.01431215297323007,
+      "currentPoolEth": 0.10010040130401214,
+      "currentMarketCap": 142.9784082025684
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614579348",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.0020060190590590536,
+    "isRugged": false
+  },
+  {
     "_id": "0x52bab62dc91e37810a483c49876ba411b288d873",
     "tokenName": "ALCX",
     "idPair": "0x80a334b26dc4f10fc167fb00d248b167c15e0fc3",
@@ -38,27 +69,27 @@
     "dateCreationToken": "2021-03-01T05:52:23Z",
     "initialInfos": {
       "initialPoolToken": 7861,
-      "initialPriceUSD": 41.93074672433533,
+      "initialPriceUSD": 41.79118432769368,
       "initialPoolEth": 230,
-      "initialMarketCap": 329617.6
+      "initialMarketCap": 328520.5
     },
     "currentInfos": {
-      "currentPoolToken": 6943.194955881864,
-      "currentPriceUSD": 53.768871877022384,
-      "currentPoolEth": 260.5,
-      "currentMarketCap": 373327.76
+      "currentPoolToken": 6810.265372994851,
+      "currentPriceUSD": 55.705576687853814,
+      "currentPoolEth": 265.6,
+      "currentMarketCap": 379369.76
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 18,
     "holderCountOld": 0,
-    "txCount": 18,
+    "txCount": 19,
     "createdAtTimestamp": "1614577943",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.28232564591597337,
+    "priceChange": 0.33295041966397476,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.2844382692173135,
-    "isRugged": false
-  },
-  {
-    "_id": "0x7025bab2ec90410de37f488d1298204cd4d6b29d",
-    "tokenName": "XRA",
-    "idPair": "0xd2ba2af89026ba8f474da229ea1a3e46f3531217",
-    "idToken": "0x7025bab2ec90410de37f488d1298204cd4d6b29d",
-    "dateCreationToken": "2021-02-19T17:56:20Z",
-    "initialInfos": {
-      "initialPoolToken": 200000,
-      "initialPriceUSD": 0.01950778295,
-      "initialPoolEth": 1.993,
-      "initialMarketCap": 3901.55659
-    },
-    "currentInfos": {
-      "currentPoolToken": 808946.214009336,
-      "currentPriceUSD": 0.019251754579668486,
-      "currentPoolEth": 10.83270196519276,
-      "currentMarketCap": 15573.633980259716
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1685,
-    "holderCountOld": 1684,
-    "txCount": 11,
-    "createdAtTimestamp": "1613757380",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.013124421723767122,
     "isRugged": false
   }
 ]
