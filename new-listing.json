@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7d5d8be7908251465cabf017423b2d266ecc946e",
+    "tokenName": "FUSI",
+    "idPair": "0xd6439ed1f1349d78af72784807bc475f81276df7",
+    "idToken": "0x7d5d8be7908251465cabf017423b2d266ecc946e",
+    "dateCreationToken": "2021-03-01T12:34:18Z",
+    "initialInfos": {
+      "initialPoolToken": 400000,
+      "initialPriceUSD": 0.757065,
+      "initialPoolEth": 200,
+      "initialMarketCap": 302826
+    },
+    "currentInfos": {
+      "currentPoolToken": 397641.13315197255,
+      "currentPriceUSD": 0.7660872814774315,
+      "currentPoolEth": 201.19,
+      "currentMarketCap": 304627.8147
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614602058",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.011917446292500062,
+    "isRugged": false
+  },
+  {
     "_id": "0x34657656e973413e361d5590fc66786a826b24d6",
     "tokenName": "DOWS",
     "idPair": "0x8dbe4dad8a5cb287eed03b74a6e07e2cd2ab38e3",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 2.375705830041056,
-    "isRugged": true
-  },
-  {
-    "_id": "0xa00ff298634f0d2a6e1604b4a3378fd6aa2047e6",
-    "tokenName": "XBOMB2",
-    "idPair": "0x877231ae6f8d6f095ea49385d505af0474363720",
-    "idToken": "0xa00ff298634f0d2a6e1604b4a3378fd6aa2047e6",
-    "dateCreationToken": "2021-02-20T00:42:42Z",
-    "initialInfos": {
-      "initialPoolToken": 10000,
-      "initialPriceUSD": 0.0039897,
-      "initialPoolEth": 0.02,
-      "initialMarketCap": 39.897
-    },
-    "currentInfos": {
-      "currentPoolToken": 6673.34000667334,
-      "currentPriceUSD": 0.006877350765,
-      "currentPoolEth": 0.03,
-      "currentMarketCap": 45.8949
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1613781762",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.7237764155199641,
     "isRugged": true
   }
 ]
