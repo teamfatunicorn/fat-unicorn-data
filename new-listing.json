@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x52bab62dc91e37810a483c49876ba411b288d873",
+    "tokenName": "ALCX",
+    "idPair": "0x80a334b26dc4f10fc167fb00d248b167c15e0fc3",
+    "idToken": "0x52bab62dc91e37810a483c49876ba411b288d873",
+    "dateCreationToken": "2021-03-01T05:52:23Z",
+    "initialInfos": {
+      "initialPoolToken": 7861,
+      "initialPriceUSD": 42.145503116651824,
+      "initialPoolEth": 230,
+      "initialMarketCap": 331305.8
+    },
+    "currentInfos": {
+      "currentPoolToken": 7861,
+      "currentPriceUSD": 42.145503116651824,
+      "currentPoolEth": 230,
+      "currentMarketCap": 331305.8
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614577943",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x8df36b9bb1e0e1ca7bde0423fc2b180e0a1ac232",
     "tokenName": "BLANK",
     "idPair": "0xa919324f0faf0fbb70c94885c2159ddc1659dd20",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-03-01T05:39:00Z",
     "initialInfos": {
       "initialPoolToken": 2260000,
-      "initialPriceUSD": 0.1277212389380531,
+      "initialPriceUSD": 0.12747433628318583,
       "initialPoolEth": 200,
-      "initialMarketCap": 288650
+      "initialMarketCap": 288092
     },
     "currentInfos": {
-      "currentPoolToken": 2119983.331352053,
-      "currentPriceUSD": 0.14517711434255137,
-      "currentPoolEth": 213.25,
-      "currentMarketCap": 307773.0625
+      "currentPoolToken": 2071557.932553556,
+      "currentPriceUSD": 0.15176036839697327,
+      "currentPoolEth": 218.25,
+      "currentMarketCap": 314380.395
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 3,
     "holderCountOld": 0,
-    "txCount": 8,
+    "txCount": 9,
     "createdAtTimestamp": "1614577140",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.1366716730094097,
+    "priceChange": 0.19051703128569905,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-03-01T05:10:07Z",
     "initialInfos": {
       "initialPoolToken": 552,
-      "initialPriceUSD": 392.1875,
+      "initialPriceUSD": 391.42934782608694,
       "initialPoolEth": 150,
-      "initialMarketCap": 216487.5
+      "initialMarketCap": 216069
     },
     "currentInfos": {
       "currentPoolToken": 486.58650931770075,
-      "currentPriceUSD": 504.91125328258806,
+      "currentPriceUSD": 503.93519064849255,
       "currentPoolEth": 170.229,
-      "currentMarketCap": 245683.00425
+      "currentMarketCap": 245208.06534
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.2874231159396668,
+    "priceChange": 0.28742311593966696,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.18742276188905646,
     "isRugged": false
-  },
-  {
-    "_id": "0x97b1571a4ba244f538de29dcbb0f05207dfceed5",
-    "tokenName": "TORK",
-    "idPair": "0x29a763295074a40ee773f8b39a23b8958b8b8f01",
-    "idToken": "0x97b1571a4ba244f538de29dcbb0f05207dfceed5",
-    "dateCreationToken": "2021-02-19T15:59:58Z",
-    "initialInfos": {
-      "initialPoolToken": 80000,
-      "initialPriceUSD": 0.04905075,
-      "initialPoolEth": 2,
-      "initialMarketCap": 3924.06
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.07305e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 5e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 4,
-    "holderCountOld": 5,
-    "txCount": 22,
-    "createdAtTimestamp": "1613750398",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
