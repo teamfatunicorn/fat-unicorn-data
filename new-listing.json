@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x862caa11abe48c945d5361e80eaf19348c479240",
+    "tokenName": "HERO",
+    "idPair": "0x94629eb149915782cf9eb5b9a5ba58cb713fcbd3",
+    "idToken": "0x862caa11abe48c945d5361e80eaf19348c479240",
+    "dateCreationToken": "2021-03-01T22:27:31Z",
+    "initialInfos": {
+      "initialPoolToken": 160000,
+      "initialPriceUSD": 0.04913053125,
+      "initialPoolEth": 5.1,
+      "initialMarketCap": 7860.885
+    },
+    "currentInfos": {
+      "currentPoolToken": 133836.313,
+      "currentPriceUSD": 0.07025174849220481,
+      "currentPoolEth": 6.1,
+      "currentMarketCap": 9402.235
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 15,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614637651",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.4299000378141608,
+    "isRugged": false
+  },
+  {
     "_id": "0xb9a2278d708dfdeac248d34bd87a7c531d303788",
     "tokenName": "DSTAR",
     "idPair": "0xe7e975d7fb13e72c8c7520bbf8626faa4d2b286c",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-01T22:22:42Z",
     "initialInfos": {
       "initialPoolToken": 1882.4538,
-      "initialPriceUSD": 106.68601411731858,
+      "initialPriceUSD": 106.80519856051713,
       "initialPoolEth": 130.4414,
-      "initialMarketCap": 200831.492682
+      "initialMarketCap": 201055.85189
     },
     "currentInfos": {
       "currentPoolToken": 1868.17481884,
-      "currentPriceUSD": 108.32558101155526,
+      "currentPriceUSD": 108.44659709940746,
       "currentPoolEth": 131.4414,
-      "currentMarketCap": 202371.122682
+      "currentMarketCap": 202597.20189
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.015368152121923965,
+    "priceChange": 0.01536815212192403,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-03-01T21:49:41Z",
     "initialInfos": {
       "initialPoolToken": 217,
-      "initialPriceUSD": 7.095069124423963,
+      "initialPriceUSD": 7.102995391705069,
       "initialPoolEth": 1,
       "initialMarketCap": 1527.7271339999065
     },
     "currentInfos": {
       "currentPoolToken": 103.50335237580379,
-      "currentPriceUSD": 31.23785776774355,
+      "currentPriceUSD": 31.272755188137097,
       "currentPoolEth": 2.1,
-      "currentMarketCap": 3233.223
+      "currentMarketCap": 3236.835
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 3.4027559449999996,
+    "priceChange": 3.402755945,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x3df0f320280640155c4ba6e4cdc9bdf3f6631806",
-    "tokenName": "KWON",
-    "idPair": "0x59d5fb9af8de9e05002a2e5a5cb57d69abd07479",
-    "idToken": "0x3df0f320280640155c4ba6e4cdc9bdf3f6631806",
-    "dateCreationToken": "2021-02-20T21:40:03Z",
-    "initialInfos": {
-      "initialPoolToken": 10000,
-      "initialPriceUSD": 0.191196,
-      "initialPoolEth": 1,
-      "initialMarketCap": 1911.96
-    },
-    "currentInfos": {
-      "currentPoolToken": 9500,
-      "currentPriceUSD": 0.17005549812877568,
-      "currentPoolEth": 1.0527899487937498,
-      "currentMarketCap": 1615.5272322233689
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 2,
-    "txCount": 2,
-    "createdAtTimestamp": "1613857203",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.11056979158154104,
-    "isRugged": false
   }
 ]
