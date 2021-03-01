@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x09b3f013564fd8316154b36f1fa90aff20ae20cf",
+    "tokenName": "STMY",
+    "idPair": "0xc7210c751b1925fbddd17d9babafbf23c0afa154",
+    "idToken": "0x09b3f013564fd8316154b36f1fa90aff20ae20cf",
+    "dateCreationToken": "2021-03-01T16:26:33Z",
+    "initialInfos": {
+      "initialPoolToken": 100000,
+      "initialPriceUSD": 0.0309362,
+      "initialPoolEth": 2,
+      "initialMarketCap": 3093.62
+    },
+    "currentInfos": {
+      "currentPoolToken": 66733.4000667334,
+      "currentPriceUSD": 0.06953684355,
+      "currentPoolEth": 3,
+      "currentMarketCap": 4640.43
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614615993",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.2477500000000001,
+    "isRugged": false
+  },
+  {
     "_id": "0x33490ab0464ab2ae206c635b9c646f7031fa6c60",
     "tokenName": "GRD",
     "idPair": "0x1d73ac787e392055349049425bd4bfae2014e395",
@@ -43,22 +74,22 @@
       "initialMarketCap": 316882.85
     },
     "currentInfos": {
-      "currentPoolToken": 1533998.819720954,
-      "currentPriceUSD": 0.3393431576310607,
-      "currentPoolEth": 336.75902837189835,
-      "currentMarketCap": 520552.00328642875
+      "currentPoolToken": 1556240.6916471492,
+      "currentPriceUSD": 0.3297473808385571,
+      "currentPoolEth": 331.9810140092197,
+      "currentMarketCap": 513166.292025032
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 105,
     "holderCountOld": 0,
-    "txCount": 271,
+    "txCount": 275,
     "createdAtTimestamp": "1614611553",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.677197248376338,
+    "priceChange": 1.6014927980368543,
     "isRugged": false
   },
   {
@@ -74,22 +105,22 @@
       "initialMarketCap": 103566.59
     },
     "currentInfos": {
-      "currentPoolToken": 22121.529866517292,
-      "currentPriceUSD": 8.843009506825918,
-      "currentPoolEth": 126.552397132268,
-      "currentMarketCap": 195620.8989151459
+      "currentPoolToken": 22276.779866517292,
+      "currentPriceUSD": 8.720364978105192,
+      "currentPoolEth": 125.67306324546057,
+      "currentMarketCap": 194261.65097293624
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 378,
     "holderCountOld": 0,
-    "txCount": 702,
+    "txCount": 703,
     "createdAtTimestamp": "1614608507",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.41539081544576,
+    "priceChange": 2.3680224397096366,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.6318637983490197,
     "isRugged": false
-  },
-  {
-    "_id": "0x529c6c039eeb86e8ab356ba7b49a70b4459129c5",
-    "tokenName": "HOPR",
-    "idPair": "0xc9a6797cab27b460e5176c86979dac27963bc7cb",
-    "idToken": "0x529c6c039eeb86e8ab356ba7b49a70b4459129c5",
-    "dateCreationToken": "2021-02-20T06:33:10Z",
-    "initialInfos": {
-      "initialPoolToken": 1300000,
-      "initialPriceUSD": 0.2774630769230769,
-      "initialPoolEth": 180,
-      "initialMarketCap": 360702
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.34652e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 5e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 22,
-    "holderCountOld": 19,
-    "txCount": 31,
-    "createdAtTimestamp": "1613802790",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
