@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7dee45dff03ec7137979586ca20a2f4917bac9fa",
+    "tokenName": "DWZ",
+    "idPair": "0xaec21057bb0c910c22f6f6db64ae6743e96718b4",
+    "idToken": "0x7dee45dff03ec7137979586ca20a2f4917bac9fa",
+    "dateCreationToken": "2021-03-01T14:21:47Z",
+    "initialInfos": {
+      "initialPoolToken": 40000,
+      "initialPriceUSD": 2.56008675,
+      "initialPoolEth": 67,
+      "initialMarketCap": 102403.47
+    },
+    "currentInfos": {
+      "currentPoolToken": 12919.087815271672,
+      "currentPriceUSD": 24.607718791430383,
+      "currentPoolEth": 208,
+      "currentMarketCap": 317909.28
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 6,
+    "createdAtTimestamp": "1614608507",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 8.612064431578494,
+    "isRugged": false
+  },
+  {
     "_id": "0xf1738912ae7439475712520797583ac784ea9033",
     "tokenName": "XGT",
     "idPair": "0x6545662aacbd34b36123ff4850905bcaea3635ad",
@@ -12,22 +43,22 @@
       "initialMarketCap": 1006.4275923104071
     },
     "currentInfos": {
-      "currentPoolToken": 1018.344280359453,
-      "currentPriceUSD": 4.294263741909373,
-      "currentPoolEth": 2.8611687439422253,
-      "currentMarketCap": 4373.038919928392
+      "currentPoolToken": 984.0540319451794,
+      "currentPriceUSD": 4.599218917869872,
+      "currentPoolEth": 2.9611687439422254,
+      "currentMarketCap": 4525.879919928392
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 6,
+    "txCount": 7,
     "createdAtTimestamp": "1614607868",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 17.73085425119077,
+    "priceChange": 19.06101730063649,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.4591220046436775,
-    "isRugged": false
-  },
-  {
-    "_id": "0x359b04965a756052b335d962826a6292b40cb343",
-    "tokenName": "LIFT",
-    "idPair": "0x2b2dcb7161e5b0471afa594812798b9501f23792",
-    "idToken": "0x359b04965a756052b335d962826a6292b40cb343",
-    "dateCreationToken": "2021-02-20T03:32:33Z",
-    "initialInfos": {
-      "initialPoolToken": 90,
-      "initialPriceUSD": 405.592,
-      "initialPoolEth": 18,
-      "initialMarketCap": 36503.28
-    },
-    "currentInfos": {
-      "currentPoolToken": 224.13866679828888,
-      "currentPriceUSD": 312.8383001549089,
-      "currentPoolEth": 45.983093547838955,
-      "currentMarketCap": 70119.15952016422
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 116,
-    "holderCountOld": 117,
-    "txCount": 48,
-    "createdAtTimestamp": "1613791953",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.22868720252147748,
     "isRugged": false
   }
 ]
