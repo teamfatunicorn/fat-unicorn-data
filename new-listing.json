@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x6e292fd88d71dfbd0475165cfa7df12c928b7d1c",
+    "tokenName": "HDG",
+    "idPair": "0x3f1f879464044f43733bc4a83de06e94618b5a04",
+    "idToken": "0x6e292fd88d71dfbd0475165cfa7df12c928b7d1c",
+    "dateCreationToken": "2021-03-01T06:45:36Z",
+    "initialInfos": {
+      "initialPoolToken": 2500,
+      "initialPriceUSD": 0.0573248,
+      "initialPoolEth": 0.1,
+      "initialMarketCap": 143.312
+    },
+    "currentInfos": {
+      "currentPoolToken": 2500,
+      "currentPriceUSD": 0.0573248,
+      "currentPoolEth": 0.1,
+      "currentMarketCap": 143.312
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614581136",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x52bab62dc91e37810a483c49876ba411b288d873",
     "tokenName": "ALCX",
     "idPair": "0x80a334b26dc4f10fc167fb00d248b167c15e0fc3",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.013124421723767122,
-    "isRugged": false
-  },
-  {
-    "_id": "0xd4b5b0932cd6af2c925dfd4c721716e564ca2080",
-    "tokenName": "GLTS",
-    "idPair": "0xd15511d3b38c394a64caa7a36df28b5b34445e8c",
-    "idToken": "0xd4b5b0932cd6af2c925dfd4c721716e564ca2080",
-    "dateCreationToken": "2021-02-19T16:58:53Z",
-    "initialInfos": {
-      "initialPoolToken": 100,
-      "initialPriceUSD": 0.98168,
-      "initialPoolEth": 0.05,
-      "initialMarketCap": 97.28234783543006
-    },
-    "currentInfos": {
-      "currentPoolToken": 653.9302777322843,
-      "currentPriceUSD": 0.7936773052087978,
-      "currentPoolEth": 0.3610125,
-      "currentMarketCap": 519.009620625
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6,
-    "holderCountOld": 5,
-    "txCount": 5,
-    "createdAtTimestamp": "1613753933",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.19151117960150174,
     "isRugged": false
   }
 ]
