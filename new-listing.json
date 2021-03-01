@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xb9a2278d708dfdeac248d34bd87a7c531d303788",
+    "tokenName": "DSTAR",
+    "idPair": "0xe7e975d7fb13e72c8c7520bbf8626faa4d2b286c",
+    "idToken": "0xb9a2278d708dfdeac248d34bd87a7c531d303788",
+    "dateCreationToken": "2021-03-01T22:22:42Z",
+    "initialInfos": {
+      "initialPoolToken": 1882.4538,
+      "initialPriceUSD": 106.68601411731858,
+      "initialPoolEth": 130.4414,
+      "initialMarketCap": 200831.492682
+    },
+    "currentInfos": {
+      "currentPoolToken": 1868.17481884,
+      "currentPriceUSD": 108.32558101155526,
+      "currentPoolEth": 131.4414,
+      "currentMarketCap": 202371.122682
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614637362",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.015368152121923965,
+    "isRugged": false
+  },
+  {
     "_id": "0xc7dc5419474a060f4be98817707cb8a125a1e47c",
     "tokenName": "PUBES",
     "idPair": "0xc2bcc0b8bb57b9753a720974eacc6412c1da6eea",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.11056979158154104,
     "isRugged": false
-  },
-  {
-    "_id": "0x2d98c5e92da2204bc2e9142373ed209a7ca9850a",
-    "tokenName": "DARK",
-    "idPair": "0x441c7a1f8bc995296ecb1ecefee8045650f48af4",
-    "idToken": "0x2d98c5e92da2204bc2e9142373ed209a7ca9850a",
-    "dateCreationToken": "2021-02-20T13:50:35Z",
-    "initialInfos": {
-      "initialPoolToken": 20000,
-      "initialPriceUSD": 1.96512,
-      "initialPoolEth": 20,
-      "initialMarketCap": 39302.4
-    },
-    "currentInfos": {
-      "currentPoolToken": 1000000012138.0383,
-      "currentPriceUSD": 6.166284402753e-16,
-      "currentPoolEth": 4.01838361677e-7,
-      "currentMarketCap": 0.00061662844776
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 27,
-    "holderCountOld": 26,
-    "txCount": 34,
-    "createdAtTimestamp": "1613829035",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9999999999999997,
-    "isRugged": true
   }
 ]
