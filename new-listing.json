@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xf1738912ae7439475712520797583ac784ea9033",
+    "tokenName": "XGT",
+    "idPair": "0x6545662aacbd34b36123ff4850905bcaea3635ad",
+    "idToken": "0xf1738912ae7439475712520797583ac784ea9033",
+    "dateCreationToken": "2021-03-01T14:11:08Z",
+    "initialInfos": {
+      "initialPoolToken": 4400,
+      "initialPriceUSD": 0.227751,
+      "initialPoolEth": 0.66,
+      "initialMarketCap": 1006.4275923104071
+    },
+    "currentInfos": {
+      "currentPoolToken": 1752.564876282438,
+      "currentPriceUSD": 1.4381461331955923,
+      "currentPoolEth": 1.66,
+      "currentMarketCap": 2520.4444
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614607868",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 5.314554637281909,
+    "isRugged": false
+  },
+  {
     "_id": "0x7d5d8be7908251465cabf017423b2d266ecc946e",
     "tokenName": "FUSI",
     "idPair": "0xd6439ed1f1349d78af72784807bc475f81276df7",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.22868720252147748,
     "isRugged": false
-  },
-  {
-    "_id": "0x02538f3480770ad7028418852c8f559eac5f1478",
-    "tokenName": "XBOM3",
-    "idPair": "0x3cc80dafad588738decf4fa1462a4698fe338df7",
-    "idToken": "0x02538f3480770ad7028418852c8f559eac5f1478",
-    "dateCreationToken": "2021-02-20T01:10:03Z",
-    "initialInfos": {
-      "initialPoolToken": 50000,
-      "initialPriceUSD": 0.00079794,
-      "initialPoolEth": 0.02,
-      "initialMarketCap": 39.897
-    },
-    "currentInfos": {
-      "currentPoolToken": 23853.80328379089,
-      "currentPriceUSD": 0.00268491272599368,
-      "currentPoolEth": 0.042,
-      "currentMarketCap": 64.04538
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 0,
-    "txCount": 3,
-    "createdAtTimestamp": "1613783403",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 2.364805281090909,
-    "isRugged": true
   }
 ]
