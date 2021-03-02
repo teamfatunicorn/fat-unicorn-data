@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xfbb0f8001f77e53ea1489aa8b9bf6ae2ecce24b9",
+    "tokenName": "APYS",
+    "idPair": "0x9aa6f445e11ec6f32ad78ebcec79c1ec21094c4f",
+    "idToken": "0xfbb0f8001f77e53ea1489aa8b9bf6ae2ecce24b9",
+    "dateCreationToken": "2021-03-02T14:53:21Z",
+    "initialInfos": {
+      "initialPoolToken": 416885,
+      "initialPriceUSD": 0.18960504695539537,
+      "initialPoolEth": 50,
+      "initialMarketCap": 78482.93787788575
+    },
+    "currentInfos": {
+      "currentPoolToken": 416885,
+      "currentPriceUSD": 0.18960504695539537,
+      "currentPoolEth": 50,
+      "currentMarketCap": 79043.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": null,
+    "txCount": 1,
+    "createdAtTimestamp": "1614696801",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x5307a25cd2638db13428b4ee6cf1223dd8b848f8",
     "tokenName": "APYS",
     "idPair": "0x4f892a94f74cf1eccd4e12204ed145ac4a2c4728",
@@ -12,22 +43,22 @@
       "initialMarketCap": 474261
     },
     "currentInfos": {
-      "currentPoolToken": 926527.7806247831,
-      "currentPriceUSD": 0.5525852371971745,
-      "currentPoolEth": 323.8631724470184,
-      "currentMarketCap": 511985.57342631737
+      "currentPoolToken": 913701.574075943,
+      "currentPriceUSD": 0.568231855298483,
+      "currentPoolEth": 328.42317244701843,
+      "currentMarketCap": 519194.34062631737
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 1,
+    "holderCount": 11,
     "holderCountOld": 0,
-    "txCount": 7,
+    "txCount": 10,
     "createdAtTimestamp": "1614696272",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.16515006968140847,
+    "priceChange": 0.19814164626330857,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.19386851600685834,
-    "isRugged": false
-  },
-  {
-    "_id": "0x466060dd07ea7914e1e8d22b9cd0e2f308c18045",
-    "tokenName": "AOX",
-    "idPair": "0x304c3a01926fb82163b12716d149c90ec70c7368",
-    "idToken": "0x466060dd07ea7914e1e8d22b9cd0e2f308c18045",
-    "dateCreationToken": "2021-02-21T14:43:57Z",
-    "initialInfos": {
-      "initialPoolToken": 60,
-      "initialPriceUSD": 16.282083333333333,
-      "initialPoolEth": 0.5,
-      "initialMarketCap": 976.925
-    },
-    "currentInfos": {
-      "currentPoolToken": 300053.58882396016,
-      "currentPriceUSD": 0.044525479724363735,
-      "currentPoolEth": 8.482235588106622,
-      "currentMarketCap": 13360.029985403811
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 389,
-    "holderCountOld": 390,
-    "txCount": 507,
-    "createdAtTimestamp": "1613918637",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9972653696205319,
     "isRugged": false
   }
 ]
