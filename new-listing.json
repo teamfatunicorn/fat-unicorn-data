@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xddceccc8be1ba1eaac529d16cbde8e99e8e7003e",
+    "tokenName": "DOWS",
+    "idPair": "0xd5ffab2decaffeb2530c990d06b6249bffed3535",
+    "idToken": "0xddceccc8be1ba1eaac529d16cbde8e99e8e7003e",
+    "dateCreationToken": "2021-03-02T09:58:47Z",
+    "initialInfos": {
+      "initialPoolToken": 1500000,
+      "initialPriceUSD": 0.1253648,
+      "initialPoolEth": 120,
+      "initialMarketCap": 187779.55318750924
+    },
+    "currentInfos": {
+      "currentPoolToken": 1487640.1894261842,
+      "currentPriceUSD": 0.12745975898455555,
+      "currentPoolEth": 121,
+      "currentMarketCap": 189614.26
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614679127",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.016710902777777783,
+    "isRugged": false
+  },
+  {
     "_id": "0x78edaa576366633d18ecb98ad364f25002293cf4",
     "tokenName": "FOLK",
     "idPair": "0x628901bc92f96410ce0e957199484d68612cc277",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-02T09:13:27Z",
     "initialInfos": {
       "initialPoolToken": 10000,
-      "initialPriceUSD": 0.0156827,
+      "initialPriceUSD": 0.0156706,
       "initialPoolEth": 0.1,
-      "initialMarketCap": 156.827
+      "initialMarketCap": 156.706
     },
     "currentInfos": {
       "currentPoolToken": 104236.94901619345,
-      "currentPriceUSD": 0.00014499814429609072,
+      "currentPriceUSD": 0.00014488627085937494,
       "currentPoolEth": 0.009637475801481143,
-      "currentMarketCap": 15.11416417443427
+      "currentMarketCap": 15.10250282871506
     },
     "trustScore": null,
     "contractId": null,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.20209435443875032,
     "isRugged": false
-  },
-  {
-    "_id": "0x9ad9ce046e970aa258cb81c565c2ee681df0583f",
-    "tokenName": "xCC",
-    "idPair": "0x50de3e45b2d50c1fe2cbc38a619188a3fc3f5f89",
-    "idToken": "0x9ad9ce046e970aa258cb81c565c2ee681df0583f",
-    "dateCreationToken": "2021-02-21T07:10:31Z",
-    "initialInfos": {
-      "initialPoolToken": 0.4325,
-      "initialPriceUSD": 2237.8034682080925,
-      "initialPoolEth": 0.5,
-      "initialMarketCap": 967.85
-    },
-    "currentInfos": {
-      "currentPoolToken": 9.31e-16,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.076e-15,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1613891431",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
