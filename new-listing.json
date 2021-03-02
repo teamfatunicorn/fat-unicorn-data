@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x19093953fd8e4ea72d1a7dd5b7b72804e69923dc",
+    "tokenName": "L2",
+    "idPair": "0x50ddea9694b233afef337adca4e9c3921082eb9e",
+    "idToken": "0x19093953fd8e4ea72d1a7dd5b7b72804e69923dc",
+    "dateCreationToken": "2021-03-02T11:54:26Z",
+    "initialInfos": {
+      "initialPoolToken": 5000,
+      "initialPriceUSD": 0.156902,
+      "initialPoolEth": 0.5,
+      "initialMarketCap": 784.51
+    },
+    "currentInfos": {
+      "currentPoolToken": 5000,
+      "currentPriceUSD": 0.156902,
+      "currentPoolEth": 0.5,
+      "currentMarketCap": 784.51
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614686066",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xd54aab2c1f79442fd789c5db7893892fd87e1573",
     "tokenName": "APYS",
     "idPair": "0x711b32a4e408a9232285b5d781ca828c5b528bd7",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x9f4ac2dae3f0bb18a96bb3ea2fb5ed7b8488f282",
-    "tokenName": "GEN",
-    "idPair": "0x1801ce6a2cb47bea2d991cbbb6747e3fbd0b3faa",
-    "idToken": "0x9f4ac2dae3f0bb18a96bb3ea2fb5ed7b8488f282",
-    "dateCreationToken": "2021-02-21T09:56:27Z",
-    "initialInfos": {
-      "initialPoolToken": 100000,
-      "initialPriceUSD": 0.00196357,
-      "initialPoolEth": 0.1,
-      "initialMarketCap": 196.357
-    },
-    "currentInfos": {
-      "currentPoolToken": 1063955.823579762,
-      "currentPriceUSD": 0.010059130349029648,
-      "currentPoolEth": 6.929452644560823,
-      "currentMarketCap": 10702.47031499802
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 28,
-    "holderCountOld": 29,
-    "txCount": 55,
-    "createdAtTimestamp": "1613901387",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 4.122878404655626,
-    "isRugged": false
   }
 ]
