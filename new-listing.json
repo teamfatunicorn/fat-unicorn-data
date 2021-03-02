@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x367fc7c0735a2dd4fca44cf95984ce8f4bb64354",
+    "tokenName": "PRI",
+    "idPair": "0xd09426ada3d3e6efd886e3ae67f5699bb281e1b6",
+    "idToken": "0x367fc7c0735a2dd4fca44cf95984ce8f4bb64354",
+    "dateCreationToken": "2021-03-02T23:18:41Z",
+    "initialInfos": {
+      "initialPoolToken": 300000000,
+      "initialPriceUSD": 0.00004974,
+      "initialPoolEth": 10,
+      "initialMarketCap": 14922
+    },
+    "currentInfos": {
+      "currentPoolToken": 300000000,
+      "currentPriceUSD": 0.00004974,
+      "currentPoolEth": 10,
+      "currentMarketCap": 14922
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614727121",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x14dfa5cfaafe89d81d7bf3df4e11eaeda0416618",
     "tokenName": "COPS",
     "idPair": "0x324f8017f712077d35396c2d37bc8fded0699314",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-03-02T22:45:52Z",
     "initialInfos": {
       "initialPoolToken": 4860,
-      "initialPriceUSD": 7.701851851851852,
+      "initialPriceUSD": 7.675925925925926,
       "initialPoolEth": 25,
-      "initialMarketCap": 37431
+      "initialMarketCap": 37305
     },
     "currentInfos": {
-      "currentPoolToken": 1541.2356079202418,
-      "currentPriceUSD": 77.00081273962472,
-      "currentPoolEth": 79.263441020216,
-      "currentMarketCap": 118676.3944331082
+      "currentPoolToken": 1330.545072289419,
+      "currentPriceUSD": 103.0325449148275,
+      "currentPoolEth": 91.87069087378539,
+      "currentMarketCap": 137089.44492186198
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 13,
     "holderCountOld": 0,
-    "txCount": 52,
+    "txCount": 57,
     "createdAtTimestamp": "1614725152",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 8.997701101081352,
+    "priceChange": 12.422816466587902,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x4e7b1cb91c0aeac19635c70d088429e58548b6b1",
-    "tokenName": "BSCX",
-    "idPair": "0x3caa3584628c523570f00ba5ea73a90fb72f9f5a",
-    "idToken": "0x4e7b1cb91c0aeac19635c70d088429e58548b6b1",
-    "dateCreationToken": "2021-02-21T23:31:30Z",
-    "initialInfos": {
-      "initialPoolToken": 990,
-      "initialPriceUSD": 375.768,
-      "initialPoolEth": 198,
-      "initialMarketCap": 372010.32
-    },
-    "currentInfos": {
-      "currentPoolToken": 4117.589250806928,
-      "currentPriceUSD": 17.376916479768944,
-      "currentPoolEth": 47.94647526939201,
-      "currentMarketCap": 71551.00450926638
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 36,
-    "holderCountOld": 37,
-    "txCount": 147,
-    "createdAtTimestamp": "1613950290",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9537562632268608,
-    "isRugged": false
   }
 ]
