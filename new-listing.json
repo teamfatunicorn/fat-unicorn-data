@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x0411870e990c5f67b66fb402846348ba62773060",
+    "tokenName": "VPN",
+    "idPair": "0xc8fb2bfd2727ef11ec0669555006408ce5747dd5",
+    "idToken": "0x0411870e990c5f67b66fb402846348ba62773060",
+    "dateCreationToken": "2021-03-02T12:43:39Z",
+    "initialInfos": {
+      "initialPoolToken": 5000,
+      "initialPriceUSD": 0.781315,
+      "initialPoolEth": 2.5,
+      "initialMarketCap": 3906.575
+    },
+    "currentInfos": {
+      "currentPoolToken": 5000,
+      "currentPriceUSD": 0.781315,
+      "currentPoolEth": 2.5,
+      "currentMarketCap": 3906.575
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614689019",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x19093953fd8e4ea72d1a7dd5b7b72804e69923dc",
     "tokenName": "L2",
     "idPair": "0x50ddea9694b233afef337adca4e9c3921082eb9e",
@@ -7,9 +38,9 @@
     "dateCreationToken": "2021-03-02T11:54:26Z",
     "initialInfos": {
       "initialPoolToken": 5000,
-      "initialPriceUSD": 0.156191,
+      "initialPriceUSD": 0.156263,
       "initialPoolEth": 0.5,
-      "initialMarketCap": 780.955
+      "initialMarketCap": 781.315
     },
     "currentInfos": {
       "currentPoolToken": 6.4582e-14,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.11490787752677327,
     "isRugged": false
-  },
-  {
-    "_id": "0xcb9250fa37a324197542d2d087e4fcdd225eb1fb",
-    "tokenName": "MASK",
-    "idPair": "0x02ef553bbb8336be8fe54d61c1954a862e1b0fb8",
-    "idToken": "0xcb9250fa37a324197542d2d087e4fcdd225eb1fb",
-    "dateCreationToken": "2021-02-21T11:05:26Z",
-    "initialInfos": {
-      "initialPoolToken": 900000,
-      "initialPriceUSD": 0.32494833333333334,
-      "initialPoolEth": 150,
-      "initialMarketCap": 295068.9591144412
-    },
-    "currentInfos": {
-      "currentPoolToken": 7.186e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.4e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6,
-    "holderCountOld": 0,
-    "txCount": 8,
-    "createdAtTimestamp": "1613905526",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
