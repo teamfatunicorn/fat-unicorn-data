@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x8f128f0fb62dc90e22260727c483d7ff9afb517b",
+    "tokenName": "DOWS",
+    "idPair": "0xada180a71e43465f84ba69bce48e351e56e71d78",
+    "idToken": "0x8f128f0fb62dc90e22260727c483d7ff9afb517b",
+    "dateCreationToken": "2021-03-02T03:44:35Z",
+    "initialInfos": {
+      "initialPoolToken": 2480000,
+      "initialPriceUSD": 0.12530322580645162,
+      "initialPoolEth": 200,
+      "initialMarketCap": 310752
+    },
+    "currentInfos": {
+      "currentPoolToken": 2444298.8348560906,
+      "currentPriceUSD": 0.12899589538877465,
+      "currentPoolEth": 202.93,
+      "currentMarketCap": 315304.5168
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1614656675",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.029469868461542068,
+    "isRugged": false
+  },
+  {
     "_id": "0x3bb86d867a9f3addf994cdadb210fa82f0d4157a",
     "tokenName": "GHOUL",
     "idPair": "0x0641d94e5392519f10d7545ec8f322b289f11304",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.06501294147376545,
     "isRugged": false
-  },
-  {
-    "_id": "0xc2dcf80d5a173ae857f366703b893d0aa7b58186",
-    "tokenName": "BRG",
-    "idPair": "0xfcca648eb1e4403854237eb56b8cad2ae3ccd44f",
-    "idToken": "0xc2dcf80d5a173ae857f366703b893d0aa7b58186",
-    "dateCreationToken": "2021-02-21T01:47:11Z",
-    "initialInfos": {
-      "initialPoolToken": 5376,
-      "initialPriceUSD": 1.8028831845238096,
-      "initialPoolEth": 5,
-      "initialMarketCap": 9621.78043966101
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.7339e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3.7e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 3,
-    "createdAtTimestamp": "1613872031",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
