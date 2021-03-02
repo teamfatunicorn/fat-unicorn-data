@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x14dfa5cfaafe89d81d7bf3df4e11eaeda0416618",
+    "tokenName": "COPS",
+    "idPair": "0x324f8017f712077d35396c2d37bc8fded0699314",
+    "idToken": "0x14dfa5cfaafe89d81d7bf3df4e11eaeda0416618",
+    "dateCreationToken": "2021-03-02T22:45:52Z",
+    "initialInfos": {
+      "initialPoolToken": 4860,
+      "initialPriceUSD": 7.590277777777778,
+      "initialPoolEth": 25,
+      "initialMarketCap": 36888.75
+    },
+    "currentInfos": {
+      "currentPoolToken": 4673.616186483056,
+      "currentPriceUSD": 8.208697177777777,
+      "currentPoolEth": 26,
+      "currentMarketCap": 38364.3
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614725152",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.08147519999999996,
+    "isRugged": false
+  },
+  {
     "_id": "0x8ec084b21757eecf49a268f11624ebc4db0aa16b",
     "tokenName": "GMON",
     "idPair": "0x7516afeda82129f2c63fe6592c60ad62e99851ec",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-02T21:23:24Z",
     "initialInfos": {
       "initialPoolToken": 100000,
-      "initialPriceUSD": 0.00147846,
+      "initialPriceUSD": 0.00147555,
       "initialPoolEth": 0.1,
-      "initialMarketCap": 147.846
+      "initialMarketCap": 147.555
     },
     "currentInfos": {
       "currentPoolToken": 90000,
-      "currentPriceUSD": 0.0018258084847076967,
+      "currentPriceUSD": 0.001822214811094275,
       "currentPoolEth": 0.11114454474534716,
-      "currentMarketCap": 164.3227636236927
+      "currentMarketCap": 163.99933299848476
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.23493938605555553,
+    "priceChange": 0.23493938605555562,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.9543561913543465,
     "isRugged": false
-  },
-  {
-    "_id": "0xb98d4c97425d9908e66e53a6fdf673acca0be986",
-    "tokenName": "ABT",
-    "idPair": "0xecadc47bc0dbc696eef28e4fe80a4360f9ed39eb",
-    "idToken": "0xb98d4c97425d9908e66e53a6fdf673acca0be986",
-    "dateCreationToken": "2021-02-21T23:23:06Z",
-    "initialInfos": {
-      "initialPoolToken": 5000,
-      "initialPriceUSD": 0.1570146588,
-      "initialPoolEth": 0.41785,
-      "initialMarketCap": 785.073294
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.0939e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 17657,
-    "holderCountOld": 17658,
-    "txCount": 2,
-    "createdAtTimestamp": "1613949786",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
