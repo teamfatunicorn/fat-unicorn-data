@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xedb7b7842f7986a7f211d791e8f306c4ce82ba32",
+    "tokenName": "ZCK",
+    "idPair": "0xd899ea4b64c28fbe7a34dcf604e52cd918b5fd24",
+    "idToken": "0xedb7b7842f7986a7f211d791e8f306c4ce82ba32",
+    "dateCreationToken": "2021-03-03T18:18:14Z",
+    "initialInfos": {
+      "initialPoolToken": 16098154.49898699,
+      "initialPriceUSD": 0.012048654618,
+      "initialPoolEth": 119.24546963579623,
+      "initialMarketCap": 194150.11567518386
+    },
+    "currentInfos": {
+      "currentPoolToken": 16604551.987255448,
+      "currentPriceUSD": 0.011325996513565056,
+      "currentPoolEth": 115.61943102169852,
+      "currentMarketCap": 188063.09791696494
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 25,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1614795494",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -0.05997832350139197,
+    "isRugged": false
+  },
+  {
     "_id": "0xe0e05c43c097b0982db6c9d626c4eb9e95c3b9ce",
     "tokenName": "USF",
     "idPair": "0x1fbf001792e8cc747a5cb4aedf8c26b7421147e7",
@@ -12,22 +43,22 @@
       "initialMarketCap": 1593.1194721207485
     },
     "currentInfos": {
-      "currentPoolToken": 66068.56000406011,
-      "currentPriceUSD": 13.949404233876825,
-      "currentPoolEth": 566.60152999673,
-      "currentMarketCap": 921617.0506467811
+      "currentPoolToken": 66239.33763493074,
+      "currentPriceUSD": 13.877675851475493,
+      "currentPoolEth": 565.1450944711936,
+      "currentMarketCap": 919248.05631401
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 229,
     "holderCountOld": 0,
-    "txCount": 533,
+    "txCount": 534,
     "createdAtTimestamp": "1614786204",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.914240369403857,
+    "priceChange": -0.9146813487800987,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 171212.7582
     },
     "currentInfos": {
-      "currentPoolToken": 1251799.4695661212,
-      "currentPriceUSD": 0.2882498233645502,
-      "currentPoolEth": 221.83550415307843,
-      "currentMarketCap": 360830.97599027207
+      "currentPoolToken": 1228004.9971654513,
+      "currentPriceUSD": 0.29962661368749516,
+      "currentPoolEth": 226.20789691928817,
+      "currentMarketCap": 367942.9788920063
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 500,
     "holderCountOld": 0,
-    "txCount": 1041,
+    "txCount": 1046,
     "createdAtTimestamp": "1614785122",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.7307264001790297,
+    "priceChange": 2.8779726031834056,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0",
-    "tokenName": "TRB",
-    "idPair": "0x0928592f80d63d474257a7b797120e301ba2d987",
-    "idToken": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0",
-    "dateCreationToken": "2021-02-22T21:29:17Z",
-    "initialInfos": {
-      "initialPoolToken": 1584.9762750065654,
-      "initialPriceUSD": 34.502245151760064,
-      "initialPoolEth": 31,
-      "initialMarketCap": 54685.24
-    },
-    "currentInfos": {
-      "currentPoolToken": 2027.9697586820876,
-      "currentPriceUSD": 29.744695480767426,
-      "currentPoolEth": 37.091381559380075,
-      "currentMarketCap": 60321.3429162041
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 349,
-    "holderCountOld": 348,
-    "txCount": 137,
-    "createdAtTimestamp": "1614029357",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.13789101694878952,
-    "isRugged": false
   }
 ]
