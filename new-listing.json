@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x8455150921cf6a20f87ee65621deca6bb0f14e8c",
+    "tokenName": "OB",
+    "idPair": "0x0605538b89c6f51a74969a69110ea60975ea5312",
+    "idToken": "0x8455150921cf6a20f87ee65621deca6bb0f14e8c",
+    "dateCreationToken": "2021-03-03T19:51:39Z",
+    "initialInfos": {
+      "initialPoolToken": 110613.866772795,
+      "initialPriceUSD": 1.0408222222223247,
+      "initialPoolEth": 71.69417290830012,
+      "initialMarketCap": 115129.37062306465
+    },
+    "currentInfos": {
+      "currentPoolToken": 119185.29534422,
+      "currentPriceUSD": 0.8966935797303656,
+      "currentPoolEth": 66.55251403217618,
+      "currentMarketCap": 106872.6891334295
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 5,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614801099",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -0.13847575447055793,
+    "isRugged": false
+  },
+  {
     "_id": "0xedb7b7842f7986a7f211d791e8f306c4ce82ba32",
     "tokenName": "ZCK",
     "idPair": "0xd899ea4b64c28fbe7a34dcf604e52cd918b5fd24",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.06396055458593261,
-    "isRugged": true
-  },
-  {
-    "_id": "0x4b96fa36e05e79c0e02b88619491605e26a95503",
-    "tokenName": "SOTA",
-    "idPair": "0x257a80b8c649d89959b50b542268a4cfa3739a40",
-    "idToken": "0x4b96fa36e05e79c0e02b88619491605e26a95503",
-    "dateCreationToken": "2021-02-22T23:41:07Z",
-    "initialInfos": {
-      "initialPoolToken": 1244103,
-      "initialPriceUSD": 0.04884036932633391,
-      "initialPoolEth": 35,
-      "initialMarketCap": 60762.45
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.87468e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 6e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 5,
-    "holderCountOld": 0,
-    "txCount": 3,
-    "createdAtTimestamp": "1614037267",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
