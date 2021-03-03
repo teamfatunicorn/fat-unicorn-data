@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xbacdcde9aa843e7865239c221ae931ed62f4b4e0",
+    "tokenName": "KYL",
+    "idPair": "0x64e3f6e3bdaea832101fbcbe7f083c0984ca5a69",
+    "idToken": "0xbacdcde9aa843e7865239c221ae931ed62f4b4e0",
+    "dateCreationToken": "2021-03-03T06:18:41Z",
+    "initialInfos": {
+      "initialPoolToken": 500000,
+      "initialPriceUSD": 0.933888,
+      "initialPoolEth": 300,
+      "initialMarketCap": 466944
+    },
+    "currentInfos": {
+      "currentPoolToken": 500000,
+      "currentPriceUSD": 0.933888,
+      "currentPoolEth": 300,
+      "currentMarketCap": 466944
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614752321",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x5b2f79466b8040bfd3aeec6ce36e0cfd15ce86c2",
     "tokenName": "KSU",
     "idPair": "0xb119f52f6e3f766f1664c3485e111daf776f61a2",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.3009649181404529,
     "isRugged": false
-  },
-  {
-    "_id": "0xfc5aba8af2ab1aaa0d3efbe31bb6551bc2fb1f4c",
-    "tokenName": "SUPER",
-    "idPair": "0x79c7e12205015cca46c161e98fa02931e3853536",
-    "idToken": "0xfc5aba8af2ab1aaa0d3efbe31bb6551bc2fb1f4c",
-    "dateCreationToken": "2021-02-22T05:18:36Z",
-    "initialInfos": {
-      "initialPoolToken": 40000000,
-      "initialPriceUSD": 0.0117354375,
-      "initialPoolEth": 250,
-      "initialMarketCap": 467371.97916707594
-    },
-    "currentInfos": {
-      "currentPoolToken": 3.4166e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 24,
-    "holderCountOld": 23,
-    "txCount": 26,
-    "createdAtTimestamp": "1613971116",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
