@@ -1054,6 +1054,37 @@
     "isRugged": false
   },
   {
+    "_id": "0x661ab0ed68000491d98c796146bcf28c20d7c559",
+    "tokenName": "DOWS",
+    "idPair": "0x2999528824a1a839d9af5cfead053236be675984",
+    "idToken": "0x661ab0ed68000491d98c796146bcf28c20d7c559",
+    "dateCreationToken": "2021-03-02T13:50:13Z",
+    "initialInfos": {
+      "initialPoolToken": 800000,
+      "initialPriceUSD": 0.12666827375,
+      "initialPoolEth": 63.65,
+      "initialMarketCap": 101334.619
+    },
+    "currentInfos": {
+      "currentPoolToken": 269195.43766839197,
+      "currentPriceUSD": 3.45552299740485,
+      "currentPoolEth": 580.9518096684882,
+      "currentMarketCap": 924910.138100813
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3376,
+    "holderCountOld": 0,
+    "txCount": 8383,
+    "createdAtTimestamp": "1614693013",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 26.280098600103088,
+    "isRugged": false
+  },
+  {
     "_id": "0x948ca774fe7ed2ba5426d5f1d5940e68bb0b7533",
     "tokenName": "APYS",
     "idPair": "0xcca1f30eb5cac26f2108ee902cc9b22d62194449",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x3b59d2fb8dd13e6975bed7e849e44fd658e4b4eb",
-    "tokenName": "FILS",
-    "idPair": "0xb31aaa8e3fc4987094abf1207a200e3a8cf232d7",
-    "idToken": "0x3b59d2fb8dd13e6975bed7e849e44fd658e4b4eb",
-    "dateCreationToken": "2021-02-23T00:20:17Z",
-    "initialInfos": {
-      "initialPoolToken": 500,
-      "initialPriceUSD": 0.347214,
-      "initialPoolEth": 0.1,
-      "initialMarketCap": 173.607
-    },
-    "currentInfos": {
-      "currentPoolToken": 500,
-      "currentPriceUSD": 0.321638,
-      "currentPoolEth": 0.1,
-      "currentMarketCap": 160.819
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 2,
-    "txCount": 1,
-    "createdAtTimestamp": "1614039617",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.07366062428358315,
     "isRugged": true
   }
 ]
