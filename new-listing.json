@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xe0e05c43c097b0982db6c9d626c4eb9e95c3b9ce",
+    "tokenName": "USF",
+    "idPair": "0x1fbf001792e8cc747a5cb4aedf8c26b7421147e7",
+    "idToken": "0xe0e05c43c097b0982db6c9d626c4eb9e95c3b9ce",
+    "dateCreationToken": "2021-03-03T15:43:24Z",
+    "initialInfos": {
+      "initialPoolToken": 10,
+      "initialPriceUSD": 159.046,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1593.1194721207485
+    },
+    "currentInfos": {
+      "currentPoolToken": 10,
+      "currentPriceUSD": 159.52385370381907,
+      "currentPoolEth": 1.0030044999796892,
+      "currentMarketCap": 1595.2385370381908
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 11,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1614786204",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.0030044999799999947,
+    "isRugged": false
+  },
+  {
     "_id": "0x63726dae7c57d25e90ec829ce9a5c745ffd984d3",
     "tokenName": "DEOR",
     "idPair": "0x856e90282961c0e7f6693fd2f62b35d5df9783cf",
@@ -12,22 +43,22 @@
       "initialMarketCap": 167411.8196
     },
     "currentInfos": {
-      "currentPoolToken": 1649024.1335555352,
-      "currentPriceUSD": 0.13676009342455872,
-      "currentPoolEth": 141.79589210945667,
-      "currentMarketCap": 225520.694564407
+      "currentPoolToken": 1608584.5214665127,
+      "currentPriceUSD": 0.14387030734906267,
+      "currentPoolEth": 145.50982074389273,
+      "currentMarketCap": 231427.54950033207
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 30,
     "holderCountOld": 0,
-    "txCount": 61,
+    "txCount": 75,
     "createdAtTimestamp": "1614785122",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.8102299514746899,
+    "priceChange": 0.9043445567314461,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 874753
     },
     "currentInfos": {
-      "currentPoolToken": 2903782.6383563243,
-      "currentPriceUSD": 0.34248175231270767,
-      "currentPoolEth": 625.286122454819,
-      "currentMarketCap": 994492.5663194915
+      "currentPoolToken": 2898782.6383563243,
+      "currentPriceUSD": 0.343666019362779,
+      "currentPoolEth": 626.3679000552369,
+      "currentMarketCap": 996213.0903218522
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 20,
     "holderCountOld": 0,
-    "txCount": 26,
+    "txCount": 27,
     "createdAtTimestamp": "1614783719",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.29201018188212585,
+    "priceChange": 0.2964778216218415,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.06255214325237876,
-    "isRugged": false
-  },
-  {
-    "_id": "0x5d70e6e2c0c2a728cd187f6b1dce47234b8e22f1",
-    "tokenName": "APU",
-    "idPair": "0x94572b4cecd496d433322d65cfb8a06ee18b9c90",
-    "idToken": "0x5d70e6e2c0c2a728cd187f6b1dce47234b8e22f1",
-    "dateCreationToken": "2021-02-22T20:24:30Z",
-    "initialInfos": {
-      "initialPoolToken": 60000000,
-      "initialPriceUSD": 0.00007512833333333334,
-      "initialPoolEth": 2.5,
-      "initialMarketCap": 4507.7
-    },
-    "currentInfos": {
-      "currentPoolToken": 25095957.784981,
-      "currentPriceUSD": 0.00031501622574676394,
-      "currentPoolEth": 4.918763783209098,
-      "currentMarketCap": 7905.633902924833
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 222,
-    "holderCountOld": 223,
-    "txCount": 116,
-    "createdAtTimestamp": "1614025470",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 3.1930415832477395,
     "isRugged": false
   }
 ]
