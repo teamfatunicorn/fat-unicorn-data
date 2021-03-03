@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc101bcf259e38066c3cd1e4309b3ba5f2e5c1d6b",
+    "tokenName": "2YFI",
+    "idPair": "0x27553647609a2298e0a4dfbf0a13dcfcfeb952c2",
+    "idToken": "0xc101bcf259e38066c3cd1e4309b3ba5f2e5c1d6b",
+    "dateCreationToken": "2021-03-03T13:24:36Z",
+    "initialInfos": {
+      "initialPoolToken": 90,
+      "initialPriceUSD": 5.327333333333334,
+      "initialPoolEth": 0.3,
+      "initialMarketCap": 486.3892927246743
+    },
+    "currentInfos": {
+      "currentPoolToken": 90,
+      "currentPriceUSD": 5.327333333333334,
+      "currentPoolEth": 0.3,
+      "currentMarketCap": 479.46
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614777876",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x392a72485846c9dbaf9dbc3ab9302db4907fd626",
     "tokenName": "DPOOL",
     "idPair": "0x2357cea64c19fedf2ba845a9847e0e2dc4a0ff62",
@@ -12,22 +43,22 @@
       "initialMarketCap": 9589.2
     },
     "currentInfos": {
-      "currentPoolToken": 34649.495018933405,
-      "currentPriceUSD": 0.8158714683035245,
-      "currentPoolEth": 17.68835838885802,
-      "currentMarketCap": 28269.534377072854
+      "currentPoolToken": 34092.230940763664,
+      "currentPriceUSD": 0.842211724588129,
+      "currentPoolEth": 17.978358388858023,
+      "currentMarketCap": 28712.876615677334
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 28,
+    "holderCount": 44,
     "holderCountOld": 0,
-    "txCount": 98,
+    "txCount": 99,
     "createdAtTimestamp": "1614776367",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 7.508232890163147,
+    "priceChange": 7.782919582323124,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x97d05479846383e34aa60f76586fe50c5869fbf9",
-    "tokenName": "GG",
-    "idPair": "0x4495333c212c7bde554c797d210f7582261e4e87",
-    "idToken": "0x97d05479846383e34aa60f76586fe50c5869fbf9",
-    "dateCreationToken": "2021-02-22T12:07:39Z",
-    "initialInfos": {
-      "initialPoolToken": 1,
-      "initialPriceUSD": 1774.27,
-      "initialPoolEth": 1,
-      "initialMarketCap": 1774.27
-    },
-    "currentInfos": {
-      "currentPoolToken": 1,
-      "currentPriceUSD": 1606.41,
-      "currentPoolEth": 1,
-      "currentMarketCap": 1606.41
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 5,
-    "holderCountOld": 0,
-    "txCount": 1,
-    "createdAtTimestamp": "1613995659",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.09460792325857953,
-    "isRugged": false
   }
 ]
