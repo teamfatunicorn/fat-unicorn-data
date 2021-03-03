@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x63726dae7c57d25e90ec829ce9a5c745ffd984d3",
+    "tokenName": "DEOR",
+    "idPair": "0x856e90282961c0e7f6693fd2f62b35d5df9783cf",
+    "idToken": "0x63726dae7c57d25e90ec829ce9a5c745ffd984d3",
+    "dateCreationToken": "2021-03-03T15:25:22Z",
+    "initialInfos": {
+      "initialPoolToken": 2215952.64,
+      "initialPriceUSD": 0.07566389207668264,
+      "initialPoolEth": 105.26,
+      "initialMarketCap": 167667.6014
+    },
+    "currentInfos": {
+      "currentPoolToken": 2189052.735924953,
+      "currentPriceUSD": 0.07753772866144827,
+      "currentPoolEth": 106.557375,
+      "currentMarketCap": 169734.17706375
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1614785122",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.024765268258558022,
+    "isRugged": false
+  },
+  {
     "_id": "0x162dfa2502e67a6b477b91f0583caa47a4ac0662",
     "tokenName": "UDO",
     "idPair": "0xe0ce83741165089d685ffa95eec42e13e9d1ddff",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-03-03T15:01:59Z",
     "initialInfos": {
       "initialPoolToken": 3300000,
-      "initialPriceUSD": 0.265825,
+      "initialPriceUSD": 0.26548166666666667,
       "initialPoolEth": 550,
-      "initialMarketCap": 877222.5
+      "initialMarketCap": 876089.5
     },
     "currentInfos": {
-      "currentPoolToken": 2947836.3897326495,
-      "currentPriceUSD": 0.3332449479582101,
-      "currentPoolEth": 615.9137178505753,
-      "currentMarketCap": 982351.5842857746
+      "currentPoolToken": 2943072.3407454584,
+      "currentPriceUSD": 0.33389450827365597,
+      "currentPoolEth": 616.9137178505753,
+      "currentMarketCap": 982675.6920270025
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 12,
+    "holderCount": 18,
     "holderCountOld": 0,
-    "txCount": 21,
+    "txCount": 22,
     "createdAtTimestamp": "1614783719",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.2536253097271141,
+    "priceChange": 0.25769328054161666,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-03-03T14:47:12Z",
     "initialInfos": {
       "initialPoolToken": 3750000,
-      "initialPriceUSD": 0.010633,
+      "initialPriceUSD": 0.010619266666666667,
       "initialPoolEth": 25,
-      "initialMarketCap": 39873.75
+      "initialMarketCap": 39822.25
     },
     "currentInfos": {
       "currentPoolToken": 3750000,
-      "currentPriceUSD": 0.010633,
+      "currentPriceUSD": 0.010619266666666667,
       "currentPoolEth": 25,
-      "currentMarketCap": 39873.75
+      "currentMarketCap": 39822.25
     },
     "trustScore": null,
     "contractId": null,
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 3.1930415832477395,
-    "isRugged": false
-  },
-  {
-    "_id": "0xbb9831820bc5ff55d32a2f6e1600efc2cc56405e",
-    "tokenName": "MORPH",
-    "idPair": "0x54009aadefbb689cf824734b9cb978150af5f680",
-    "idToken": "0xbb9831820bc5ff55d32a2f6e1600efc2cc56405e",
-    "dateCreationToken": "2021-02-22T19:23:51Z",
-    "initialInfos": {
-      "initialPoolToken": 4372.577710376,
-      "initialPriceUSD": 3.300844023053428,
-      "initialPoolEth": 8.171939032964326,
-      "initialMarketCap": 14433.197000631264
-    },
-    "currentInfos": {
-      "currentPoolToken": 9785.560588349,
-      "currentPriceUSD": 0.6074385392350212,
-      "currentPoolEth": 3.698344136147516,
-      "currentMarketCap": 5944.126629382512
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 24,
-    "holderCountOld": 25,
-    "txCount": 28,
-    "createdAtTimestamp": "1614021831",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.8159747825124092,
     "isRugged": false
   }
 ]
