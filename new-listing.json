@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xecd7a66e01ca783c0491d0bb70dd0d39575fd105",
+    "tokenName": "PZL",
+    "idPair": "0x41e8747d7dd566cd8958ec40ed823dfbe1ef5294",
+    "idToken": "0xecd7a66e01ca783c0491d0bb70dd0d39575fd105",
+    "dateCreationToken": "2021-03-04T02:14:26Z",
+    "initialInfos": {
+      "initialPoolToken": 0,
+      "initialPriceUSD": 0,
+      "initialPoolEth": 0,
+      "initialMarketCap": 0
+    },
+    "currentInfos": {
+      "currentPoolToken": 25001,
+      "currentPriceUSD": 0.4024792592296308,
+      "currentPoolEth": 6.212,
+      "currentMarketCap": 10062.38396
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 27,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614824066",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": null,
+    "isRugged": false
+  },
+  {
     "_id": "0x093d429df84bca94f4a5f60a8b175d99742760fe",
     "tokenName": "EOH",
     "idPair": "0xd98394a1e0b368f4677a277ea5ee95bef390f847",
@@ -12,22 +43,22 @@
       "initialMarketCap": 1133.881
     },
     "currentInfos": {
-      "currentPoolToken": 322301.57514690567,
-      "currentPriceUSD": 0.010942479626397722,
-      "currentPoolEth": 2.177252192884682,
-      "currentMarketCap": 3526.7784196009097
+      "currentPoolToken": 332663.76944576256,
+      "currentPriceUSD": 0.010942479626397673,
+      "currentPoolEth": 2.247252192884682,
+      "currentMarketCap": 3640.1665196009094
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 4,
     "holderCountOld": 0,
-    "txCount": 5,
+    "txCount": 6,
     "createdAtTimestamp": "1614821051",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 8.650465636515403,
+    "priceChange": 8.65046563651536,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.540332068473991,
     "isRugged": false
-  },
-  {
-    "_id": "0xe585b8db8b58873403a14ac9653a11780d45aba3",
-    "tokenName": "MINT",
-    "idPair": "0x8d23d3ad28f3e89f993c33ac850a70b9dbad5895",
-    "idToken": "0xe585b8db8b58873403a14ac9653a11780d45aba3",
-    "dateCreationToken": "2021-02-23T14:18:46Z",
-    "initialInfos": {
-      "initialPoolToken": 537754,
-      "initialPriceUSD": 0.09848676160474865,
-      "initialPoolEth": 35,
-      "initialMarketCap": 54757.449523050636
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.23567e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 9e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 13,
-    "holderCountOld": 0,
-    "txCount": 3,
-    "createdAtTimestamp": "1614089926",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
