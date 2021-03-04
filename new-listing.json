@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x5273063725a43a323300c502478c22fbb4e92c2d",
+    "tokenName": "MYID",
+    "idPair": "0x5908ae92874029f73bcbea5c3a653609696ab023",
+    "idToken": "0x5273063725a43a323300c502478c22fbb4e92c2d",
+    "dateCreationToken": "2021-03-04T05:42:47Z",
+    "initialInfos": {
+      "initialPoolToken": 24750000,
+      "initialPriceUSD": 0.002817381818181818,
+      "initialPoolEth": 45,
+      "initialMarketCap": 69730.2
+    },
+    "currentInfos": {
+      "currentPoolToken": 24750000,
+      "currentPriceUSD": 0.002817381818181818,
+      "currentPoolEth": 45,
+      "currentMarketCap": 69730.2
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614836567",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x59fa9e75ba68afa9dca16da502c42387e1f187a0",
     "tokenName": "ERN",
     "idPair": "0x7d2f5819f79cef14881f12a5e93a244828c06da1",
@@ -1302,37 +1333,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x3b5d785c2f230fb403767ae3c17d982d4b723952",
-    "tokenName": "CGG",
-    "idPair": "0x493ce680436066a4b5f921ca3edf4dc7d1a59545",
-    "idToken": "0x3b5d785c2f230fb403767ae3c17d982d4b723952",
-    "dateCreationToken": "2021-03-02T13:50:13Z",
-    "initialInfos": {
-      "initialPoolToken": 2500000,
-      "initialPriceUSD": 0.1264696,
-      "initialPoolEth": 200,
-      "initialMarketCap": 316174
-    },
-    "currentInfos": {
-      "currentPoolToken": 2171336.5084537105,
-      "currentPriceUSD": 0.16372301935509903,
-      "currentPoolEth": 230.37,
-      "currentMarketCap": 355497.7692
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 20,
-    "holderCountOld": 0,
-    "txCount": 19,
-    "createdAtTimestamp": "1614693013",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.2945642221933101,
-    "isRugged": false
-  },
-  {
     "_id": "0x661ab0ed68000491d98c796146bcf28c20d7c559",
     "tokenName": "DOWS",
     "idPair": "0x2999528824a1a839d9af5cfead053236be675984",
@@ -1361,6 +1361,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 23.695639065006066,
+    "isRugged": false
+  },
+  {
+    "_id": "0x3b5d785c2f230fb403767ae3c17d982d4b723952",
+    "tokenName": "CGG",
+    "idPair": "0x493ce680436066a4b5f921ca3edf4dc7d1a59545",
+    "idToken": "0x3b5d785c2f230fb403767ae3c17d982d4b723952",
+    "dateCreationToken": "2021-03-02T13:50:13Z",
+    "initialInfos": {
+      "initialPoolToken": 2500000,
+      "initialPriceUSD": 0.1264696,
+      "initialPoolEth": 200,
+      "initialMarketCap": 316174
+    },
+    "currentInfos": {
+      "currentPoolToken": 2171336.5084537105,
+      "currentPriceUSD": 0.16372301935509903,
+      "currentPoolEth": 230.37,
+      "currentMarketCap": 355497.7692
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 20,
+    "holderCountOld": 0,
+    "txCount": 19,
+    "createdAtTimestamp": "1614693013",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.2945642221933101,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x865377367054516e17014ccded1e7d814edc9ce4",
-    "tokenName": "DOLA",
-    "idPair": "0xecfbe9b182f6477a93065c1c11271232147838e5",
-    "idToken": "0x865377367054516e17014ccded1e7d814edc9ce4",
-    "dateCreationToken": "2021-02-23T23:53:37Z",
-    "initialInfos": {
-      "initialPoolToken": 500,
-      "initialPriceUSD": 1.0106624,
-      "initialPoolEth": 0.32,
-      "initialMarketCap": 505.3312
-    },
-    "currentInfos": {
-      "currentPoolToken": 239649.7294377131,
-      "currentPriceUSD": 0.9933725276066608,
-      "currentPoolEth": 154.69384858978648,
-      "currentMarketCap": 238061.45747179346
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 35,
-    "holderCountOld": 33,
-    "txCount": 224,
-    "createdAtTimestamp": "1614124417",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.01710746575052077,
-    "isRugged": false
   }
 ]
