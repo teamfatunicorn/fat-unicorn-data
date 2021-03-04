@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x6d52dfefb16bb9cdc78bfca09061e44574886626",
+    "tokenName": "CPU",
+    "idPair": "0x57c1fd86301c80291351b711c09bf6361bdbaca8",
+    "idToken": "0x6d52dfefb16bb9cdc78bfca09061e44574886626",
+    "dateCreationToken": "2021-03-04T21:22:20Z",
+    "initialInfos": {
+      "initialPoolToken": 2000,
+      "initialPriceUSD": 0.07646,
+      "initialPoolEth": 0.1,
+      "initialMarketCap": 152.92
+    },
+    "currentInfos": {
+      "currentPoolToken": 2000,
+      "currentPriceUSD": 0.07646,
+      "currentPoolEth": 0.1,
+      "currentMarketCap": 152.92
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 49,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614892940",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x57fa6ad0c031f2911241047593d2f1c19951a265",
     "tokenName": "DELTA",
     "idPair": "0x74d8ba9e1c3ca8a38052b86ccc54663850855ba1",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 5.258873088218127,
     "isRugged": false
-  },
-  {
-    "_id": "0x77777777777b3d7f5fd4287061bcb39c3a237366",
-    "tokenName": "SIG",
-    "idPair": "0xb117fae1a0184b74697a181273233d1934f7b11d",
-    "idToken": "0x77777777777b3d7f5fd4287061bcb39c3a237366",
-    "dateCreationToken": "2021-02-24T09:55:52Z",
-    "initialInfos": {
-      "initialPoolToken": 24,
-      "initialPriceUSD": 16.7438,
-      "initialPoolEth": 0.24,
-      "initialMarketCap": 401.8512
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.0988927381713048,
-      "currentPriceUSD": 90.349311541009,
-      "currentPoolEth": 0.005837546835271642,
-      "currentMarketCap": 8.93489081018265
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 9,
-    "holderCountOld": 6,
-    "txCount": 6,
-    "createdAtTimestamp": "1614160552",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 4.395986068933516,
-    "isRugged": true
   }
 ]
