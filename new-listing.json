@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x1dc2e2b456cda25bf60011f5662fb34145fa74c0",
+    "tokenName": "BLANK",
+    "idPair": "0xf0227412ed5e36bdc0f18e08bebefded08c809cb",
+    "idToken": "0x1dc2e2b456cda25bf60011f5662fb34145fa74c0",
+    "dateCreationToken": "2021-03-05T14:45:30Z",
+    "initialInfos": {
+      "initialPoolToken": 2300000,
+      "initialPriceUSD": 0.32804782608695654,
+      "initialPoolEth": 500,
+      "initialMarketCap": 754510
+    },
+    "currentInfos": {
+      "currentPoolToken": 2300000,
+      "currentPriceUSD": 0.32804782608695654,
+      "currentPoolEth": 500,
+      "currentMarketCap": 754510
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614955530",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x092eaf45af6b8d90977fe14cb53c9bb25140b467",
     "tokenName": "ERN",
     "idPair": "0x4d84d368d2f787255aa0668a479b5f39f5081904",
@@ -74,22 +105,22 @@
       "initialMarketCap": 123739.64
     },
     "currentInfos": {
-      "currentPoolToken": 372711.9619331335,
-      "currentPriceUSD": 1.6758575928251722,
-      "currentPoolEth": 413.9190808222611,
-      "currentMarketCap": 624612.1713424083
+      "currentPoolToken": 343963.1380048615,
+      "currentPriceUSD": 1.9687514176808065,
+      "currentPoolEth": 448.75343970060715,
+      "currentMarketCap": 677177.91557701
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 30,
     "holderCountOld": 0,
-    "txCount": 22,
+    "txCount": 45,
     "createdAtTimestamp": "1614949468",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 24.39390761559673,
+    "priceChange": 28.832064390614942,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.6181030784550814,
-    "isRugged": false
-  },
-  {
-    "_id": "0xd0983dd6a0334c71d0478255d1f794508026b888",
-    "tokenName": "EGG",
-    "idPair": "0x67210bf019dda5c3a3c614d36dd9718b67538ec1",
-    "idToken": "0xd0983dd6a0334c71d0478255d1f794508026b888",
-    "dateCreationToken": "2021-02-24T18:10:05Z",
-    "initialInfos": {
-      "initialPoolToken": 5000,
-      "initialPriceUSD": 0.048313678534,
-      "initialPoolEth": 0.151883,
-      "initialMarketCap": 251.00266907504442
-    },
-    "currentInfos": {
-      "currentPoolToken": 2708523.4040350574,
-      "currentPriceUSD": 0.04495621737665312,
-      "currentPoolEth": 81.31868124427494,
-      "currentMarketCap": 121764.9669215525
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2286,
-    "holderCountOld": 2285,
-    "txCount": 189,
-    "createdAtTimestamp": "1614190205",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.06949297298867697,
     "isRugged": false
   }
 ]
