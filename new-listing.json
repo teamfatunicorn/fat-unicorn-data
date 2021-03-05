@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xee11a6802ff819c57486acc70e78be526b6bd7cd",
+    "tokenName": "ETHA",
+    "idPair": "0xd08a3ba58a9a63816b5b76cbecdea111f1945202",
+    "idToken": "0xee11a6802ff819c57486acc70e78be526b6bd7cd",
+    "dateCreationToken": "2021-03-05T03:52:50Z",
+    "initialInfos": {
+      "initialPoolToken": 450000,
+      "initialPriceUSD": 0.49428333333333335,
+      "initialPoolEth": 150,
+      "initialMarketCap": 222035.48343255697
+    },
+    "currentInfos": {
+      "currentPoolToken": 450000,
+      "currentPriceUSD": 0.49428333333333335,
+      "currentPoolEth": 150,
+      "currentMarketCap": 222427.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": null,
+    "txCount": 1,
+    "createdAtTimestamp": "1614916370",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x75739d5944534115d7c54ee8c73f186d793bae02",
     "tokenName": "CO2",
     "idPair": "0xd07b5667f6a0034ab5cafc8c9d134fb52da55101",
@@ -5686,7 +5717,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 5422949.665936086,
-      "currentPriceUSD": 0.19031815962852913,
+      "currentPriceUSD": 0.191785942146999,
       "currentPoolEth": 696.8938136768239,
       "currentMarketCap": 1032085.8001791028
     },
@@ -5700,7 +5731,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.7813354783731006,
+    "priceChange": 2.8104981085837912,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x903e0a573865845569d676ed3d6742f6d4ff1b67",
-    "tokenName": "XBOMB5",
-    "idPair": "0xb5fbb518fc569cda81dabe1f9bc9d5b55007571d",
-    "idToken": "0x903e0a573865845569d676ed3d6742f6d4ff1b67",
-    "dateCreationToken": "2021-02-24T14:02:11Z",
-    "initialInfos": {
-      "initialPoolToken": 100000,
-      "initialPriceUSD": 0.00163249,
-      "initialPoolEth": 0.1,
-      "initialMarketCap": 163.249
-    },
-    "currentInfos": {
-      "currentPoolToken": 100000,
-      "currentPriceUSD": 0.00148098,
-      "currentPoolEth": 0.1,
-      "currentMarketCap": 148.098
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 1,
-    "createdAtTimestamp": "1614175331",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.09280914431328822,
     "isRugged": true
   }
 ]
