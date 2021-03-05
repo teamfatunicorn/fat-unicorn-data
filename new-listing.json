@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x9cdf16937c5daa4f4c5de1f394e102f2e1e22413",
+    "tokenName": "ERN",
+    "idPair": "0xa97d4e16bf5e7fb7d7d4c62a9d99d0f2d78fe80e",
+    "idToken": "0x9cdf16937c5daa4f4c5de1f394e102f2e1e22413",
+    "dateCreationToken": "2021-03-05T10:31:34Z",
+    "initialInfos": {
+      "initialPoolToken": 1800000,
+      "initialPriceUSD": 0.0053157,
+      "initialPoolEth": 6.5,
+      "initialMarketCap": 9568.26
+    },
+    "currentInfos": {
+      "currentPoolToken": 1800000,
+      "currentPriceUSD": 0.0053157,
+      "currentPoolEth": 6.5,
+      "currentMarketCap": 9568.26
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614940294",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x257adac71514af47d7e502fa40c7b7f24c13f509",
     "tokenName": "BOSS",
     "idPair": "0x4f8c94dc8c27436ece25bd64d6679fc334446d2d",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 1.0263656974068949,
     "isRugged": false
-  },
-  {
-    "_id": "0x8fd68af8c21d99c442a5d9d2a0dde6b441ea51ee",
-    "tokenName": "POLK",
-    "idPair": "0x322cf9a72e449a31cb0021c599395477a7624da4",
-    "idToken": "0x8fd68af8c21d99c442a5d9d2a0dde6b441ea51ee",
-    "dateCreationToken": "2021-02-24T14:48:11Z",
-    "initialInfos": {
-      "initialPoolToken": 9111200,
-      "initialPriceUSD": 0.05016871542716656,
-      "initialPoolEth": 280,
-      "initialMarketCap": 457097.2
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.73495e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 6e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 332,
-    "holderCountOld": 331,
-    "txCount": 12,
-    "createdAtTimestamp": "1614178091",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
