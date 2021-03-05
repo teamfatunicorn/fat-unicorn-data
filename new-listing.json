@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xf9a2d7e60a3297e513317ad1d7ce101cc4c6c8f6",
+    "tokenName": "rUSD",
+    "idPair": "0x9eb369241e4270796e665ea1afac355cb99f0c32",
+    "idToken": "0xf9a2d7e60a3297e513317ad1d7ce101cc4c6c8f6",
+    "dateCreationToken": "2021-03-05T18:16:18Z",
+    "initialInfos": {
+      "initialPoolToken": 100,
+      "initialPriceUSD": 0.983411,
+      "initialPoolEth": 0.065,
+      "initialMarketCap": 98.31136220559785
+    },
+    "currentInfos": {
+      "currentPoolToken": 100,
+      "currentPriceUSD": 0.983411,
+      "currentPoolEth": 0.065,
+      "currentMarketCap": 98.3411
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 12,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614968178",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x7f0a2fb10d6ba34eb1573a3c86dfe8053ae8c4df",
     "tokenName": "3DS",
     "idPair": "0xce68946b646f3ecc28419bbaf3d1cc2595d99b64",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.1361130270157489,
     "isRugged": false
-  },
-  {
-    "_id": "0xa3547458a3b0022c1fe4454312ed4f44f2f90aba",
-    "tokenName": "OXY",
-    "idPair": "0x34906814353634e53cad71e75e86dc3c61f48c87",
-    "idToken": "0xa3547458a3b0022c1fe4454312ed4f44f2f90aba",
-    "dateCreationToken": "2021-02-25T05:23:31Z",
-    "initialInfos": {
-      "initialPoolToken": 4000000,
-      "initialPriceUSD": 0.0807435,
-      "initialPoolEth": 200,
-      "initialMarketCap": 322974
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.16311e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 18,
-    "holderCountOld": 17,
-    "txCount": 22,
-    "createdAtTimestamp": "1614230611",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
