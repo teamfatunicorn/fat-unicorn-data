@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc50d5d13bcee1b5bd4e21387dec43879a6ea7118",
+    "tokenName": "SUN",
+    "idPair": "0x936c3b8a158966ef5fc9c5c6343e9dc700f598af",
+    "idToken": "0xc50d5d13bcee1b5bd4e21387dec43879a6ea7118",
+    "dateCreationToken": "2021-03-05T16:07:24Z",
+    "initialInfos": {
+      "initialPoolToken": 5000,
+      "initialPriceUSD": 0.148254,
+      "initialPoolEth": 0.5,
+      "initialMarketCap": 736.5153422899847
+    },
+    "currentInfos": {
+      "currentPoolToken": 4546.694553059925,
+      "currentPriceUSD": 0.17933841618,
+      "currentPoolEth": 0.55,
+      "currentMarketCap": 815.397
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1614960444",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.20966999999999994,
+    "isRugged": false
+  },
+  {
     "_id": "0x8a274a0d5e466b2f19959226ab0c6d06a347bd58",
     "tokenName": "LABS",
     "idPair": "0x13cc603e4329006ef564f6a4e5caa35a87769799",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-05T15:42:55Z",
     "initialInfos": {
       "initialPoolToken": 900000,
-      "initialPriceUSD": 0.0148766,
+      "initialPriceUSD": 0.0148254,
       "initialPoolEth": 9,
-      "initialMarketCap": 13388.94
+      "initialMarketCap": 13342.86
     },
     "currentInfos": {
       "currentPoolToken": 880492.5206007379,
-      "currentPriceUSD": 0.015544109324928808,
+      "currentPriceUSD": 0.015490611993721653,
       "currentPoolEth": 9.2,
-      "currentMarketCap": 13686.472
+      "currentMarketCap": 13639.368
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.044869750139736764,
+    "priceChange": 0.044869750139736694,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.07081066563399811,
     "isRugged": true
-  },
-  {
-    "_id": "0x7f3edcdd180dbe4819bd98fee8929b5cedb3adeb",
-    "tokenName": "XTK",
-    "idPair": "0x2fba756c64d4f9dbb17f1b3a1afb5f05af7f18c0",
-    "idToken": "0x7f3edcdd180dbe4819bd98fee8929b5cedb3adeb",
-    "dateCreationToken": "2021-02-25T00:45:40Z",
-    "initialInfos": {
-      "initialPoolToken": 6400000,
-      "initialPriceUSD": 0.0503309375,
-      "initialPoolEth": 200,
-      "initialMarketCap": 322118
-    },
-    "currentInfos": {
-      "currentPoolToken": 5705753.930207727,
-      "currentPriceUSD": 0.17411525808056433,
-      "currentPoolEth": 667.7996438045736,
-      "currentMarketCap": 993458.8181023125
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 539,
-    "holderCountOld": 540,
-    "txCount": 4221,
-    "createdAtTimestamp": "1614213940",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 2.4594082035639477,
-    "isRugged": false
   }
 ]
