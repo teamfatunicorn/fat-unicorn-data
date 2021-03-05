@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x20557ad4df63385d055d0610fd77ac88275cd063",
+    "tokenName": "PASS",
+    "idPair": "0xea635a464c6a85d64d07402dbb7b1e63e1b339b0",
+    "idToken": "0x20557ad4df63385d055d0610fd77ac88275cd063",
+    "dateCreationToken": "2021-03-05T18:38:32Z",
+    "initialInfos": {
+      "initialPoolToken": 1,
+      "initialPriceUSD": 15.2065,
+      "initialPoolEth": 0.01,
+      "initialMarketCap": 15.2065
+    },
+    "currentInfos": {
+      "currentPoolToken": 1,
+      "currentPriceUSD": 15.2065,
+      "currentPoolEth": 0.01,
+      "currentMarketCap": 15.2065
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 38,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614969512",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0xf9a2d7e60a3297e513317ad1d7ce101cc4c6c8f6",
     "tokenName": "rUSD",
     "idPair": "0x9eb369241e4270796e665ea1afac355cb99f0c32",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-05T18:16:18Z",
     "initialInfos": {
       "initialPoolToken": 100,
-      "initialPriceUSD": 0.989586,
+      "initialPriceUSD": 0.9884225,
       "initialPoolEth": 0.065,
       "initialMarketCap": 98.31136220559785
     },
     "currentInfos": {
       "currentPoolToken": 100,
-      "currentPriceUSD": 0.989586,
+      "currentPriceUSD": 0.9884225,
       "currentPoolEth": 0.065,
-      "currentMarketCap": 98.9586
+      "currentMarketCap": 98.84225
     },
     "trustScore": null,
     "contractId": null,
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-03-05T17:40:54Z",
     "initialInfos": {
       "initialPoolToken": 1,
-      "initialPriceUSD": 152.244,
+      "initialPriceUSD": 152.065,
       "initialPoolEth": 0.1,
-      "initialMarketCap": 152.244
+      "initialMarketCap": 152.065
     },
     "currentInfos": {
       "currentPoolToken": 1,
-      "currentPriceUSD": 152.244,
+      "currentPriceUSD": 152.065,
       "currentPoolEth": 0.1,
-      "currentMarketCap": 152.244
+      "currentMarketCap": 152.065
     },
     "trustScore": null,
     "contractId": null,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x299e82279a5f30f9d8b747bc41a7eeb405a72dd8",
-    "tokenName": "BZT",
-    "idPair": "0x31c00d34c4041fe957591c0b1f18eb6d992489e3",
-    "idToken": "0x299e82279a5f30f9d8b747bc41a7eeb405a72dd8",
-    "dateCreationToken": "2021-02-25T05:53:43Z",
-    "initialInfos": {
-      "initialPoolToken": 1500,
-      "initialPriceUSD": 1.62549,
-      "initialPoolEth": 1.5,
-      "initialMarketCap": 2438.235
-    },
-    "currentInfos": {
-      "currentPoolToken": 1355.8675539,
-      "currentPriceUSD": 1.8467403642838298,
-      "currentPoolEth": 1.6639434220774845,
-      "currentMarketCap": 2503.935340409911
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 12,
-    "holderCountOld": 11,
-    "txCount": 11,
-    "createdAtTimestamp": "1614232423",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.1361130270157489,
-    "isRugged": false
   }
 ]
