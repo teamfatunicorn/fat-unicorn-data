@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x257adac71514af47d7e502fa40c7b7f24c13f509",
+    "tokenName": "BOSS",
+    "idPair": "0x4f8c94dc8c27436ece25bd64d6679fc334446d2d",
+    "idToken": "0x257adac71514af47d7e502fa40c7b7f24c13f509",
+    "dateCreationToken": "2021-03-05T10:19:06Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000,
+      "initialPriceUSD": 0.000147729,
+      "initialPoolEth": 0.1,
+      "initialMarketCap": 147.729
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000,
+      "currentPriceUSD": 0.000147729,
+      "currentPoolEth": 0.1,
+      "currentMarketCap": 147.729
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1614939546",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0xa1d6fa9d7268435aa05549a86a817a66b828992b",
     "tokenName": "BLANK",
     "idPair": "0xdfeef859d73f11c10eb301b228204b7d6856b3c4",
@@ -12,22 +43,22 @@
       "initialMarketCap": 295458
     },
     "currentInfos": {
-      "currentPoolToken": 4229000,
-      "currentPriceUSD": 0.06988141282513276,
-      "currentPoolEth": 200.04771902435317,
-      "currentMarketCap": 295528.4948374864
+      "currentPoolToken": 4230000,
+      "currentPriceUSD": 0.0698484254114343,
+      "currentPoolEth": 200.00056826375754,
+      "currentMarketCap": 295458.83949036704
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 2,
     "holderCountOld": 0,
-    "txCount": 3,
+    "txCount": 4,
     "createdAtTimestamp": "1614936090",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.0004751140612592937,
+    "priceChange": 0.0000028413187899859375,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xaa645185f79506175917ae2fdd3128e4711d4065",
-    "tokenName": "MICK",
-    "idPair": "0x05a19340bb0d8ae8ffec6c8c17539208b398b647",
-    "idToken": "0xaa645185f79506175917ae2fdd3128e4711d4065",
-    "dateCreationToken": "2021-02-24T14:41:06Z",
-    "initialInfos": {
-      "initialPoolToken": 20000,
-      "initialPriceUSD": 0.816245,
-      "initialPoolEth": 10,
-      "initialMarketCap": 16324.9
-    },
-    "currentInfos": {
-      "currentPoolToken": 100000014766.33823,
-      "currentPriceUSD": 2.95572962569697e-14,
-      "currentPoolEth": 0.000002008036974478,
-      "currentMarketCap": 0.00295573006215
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 7,
-    "holderCountOld": 8,
-    "txCount": 11,
-    "createdAtTimestamp": "1614177666",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9999999999999638,
     "isRugged": true
   }
 ]
