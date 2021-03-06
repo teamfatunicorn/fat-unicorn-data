@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x74fc4575a47330340e631f7e0ea550be519fcd0a",
+    "tokenName": "MIB",
+    "idPair": "0xbccf4012a8d391e93238941d2296cd54e3dc3732",
+    "idToken": "0x74fc4575a47330340e631f7e0ea550be519fcd0a",
+    "dateCreationToken": "2021-03-06T03:27:06Z",
+    "initialInfos": {
+      "initialPoolToken": 131843.51776813073,
+      "initialPriceUSD": 0.12456029145764833,
+      "initialPoolEth": 10.7,
+      "initialMarketCap": 16422.467
+    },
+    "currentInfos": {
+      "currentPoolToken": 131843.51776813073,
+      "currentPriceUSD": 0.12456029145764833,
+      "currentPoolEth": 10.7,
+      "currentMarketCap": 16422.467
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 381,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615001226",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x57dbf6d9ed29241693ce9ac90816609dbe1832c5",
     "tokenName": "DSBTC",
     "idPair": "0xacadad5c45fb6eb60b74f1f401c745297c3de1c6",
@@ -20,7 +51,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 50,
+    "holderCount": 51,
     "holderCountOld": 0,
     "txCount": 3,
     "createdAtTimestamp": "1615000712",
@@ -43,22 +74,22 @@
       "initialMarketCap": 306962
     },
     "currentInfos": {
-      "currentPoolToken": 2775850.910300932,
-      "currentPriceUSD": 0.11954025368171756,
-      "currentPoolEth": 216.2,
-      "currentMarketCap": 331825.922
+      "currentPoolToken": 2773832.266194504,
+      "currentPriceUSD": 0.11971456873823423,
+      "currentPoolEth": 216.35781204166875,
+      "currentMarketCap": 332068.133499674
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 0,
+    "holderCount": 11,
     "holderCountOld": 0,
-    "txCount": 9,
+    "txCount": 11,
     "createdAtTimestamp": "1615000581",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.16829041068651057,
+    "priceChange": 0.16999402601853872,
     "isRugged": false
   },
   {
@@ -74,22 +105,22 @@
       "initialMarketCap": 211803.78
     },
     "currentInfos": {
-      "currentPoolToken": 3427634.0018815035,
-      "currentPriceUSD": 0.07620209992666432,
-      "currentPoolEth": 170.17931126550306,
-      "currentMarketCap": 261192.90872340667
+      "currentPoolToken": 3411644.23542903,
+      "currentPriceUSD": 0.07691914473327434,
+      "currentPoolEth": 170.97931126550307,
+      "currentMarketCap": 262420.75672340667
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 20,
+    "holderCount": 50,
     "holderCountOld": 0,
-    "txCount": 28,
+    "txCount": 29,
     "createdAtTimestamp": "1614997796",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.5192657447866044,
+    "priceChange": 0.5335616974336854,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.32444519057357585,
-    "isRugged": false
-  },
-  {
-    "_id": "0xd002f53979dd9acb946a82ffe04d0e4383cf5f92",
-    "tokenName": "CITY",
-    "idPair": "0xd8e5082bb6179fa368d89f5aa468202a11a825ef",
-    "idToken": "0xd002f53979dd9acb946a82ffe04d0e4383cf5f92",
-    "dateCreationToken": "2021-02-25T10:33:56Z",
-    "initialInfos": {
-      "initialPoolToken": 1600,
-      "initialPriceUSD": 0.69209125,
-      "initialPoolEth": 0.68,
-      "initialMarketCap": 1085.982319256446
-    },
-    "currentInfos": {
-      "currentPoolToken": 23145.377231990056,
-      "currentPriceUSD": 0.3535448361193592,
-      "currentPoolEth": 5.340465720609998,
-      "currentMarketCap": 8182.928600404673
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 562,
-    "holderCountOld": 564,
-    "txCount": 114,
-    "createdAtTimestamp": "1614249236",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.4891644185367765,
     "isRugged": false
   }
 ]
