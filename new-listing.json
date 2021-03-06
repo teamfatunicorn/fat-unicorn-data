@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x41beb87b9fff0aacc2fa5f12c6c77e0e43ba6c0d",
+    "tokenName": "AMZ",
+    "idPair": "0xe6419b14d11a951c3c417d969e502dd316890f65",
+    "idToken": "0x41beb87b9fff0aacc2fa5f12c6c77e0e43ba6c0d",
+    "dateCreationToken": "2021-03-06T13:43:14Z",
+    "initialInfos": {
+      "initialPoolToken": 0.01,
+      "initialPriceUSD": 152.05,
+      "initialPoolEth": 0.001,
+      "initialMarketCap": 1.5205
+    },
+    "currentInfos": {
+      "currentPoolToken": 0.01,
+      "currentPriceUSD": 152.05,
+      "currentPoolEth": 0.001,
+      "currentMarketCap": 1.5205
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615038194",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0xafbedcf8c530eb588625b0394df659d1a6bef6f8",
     "tokenName": "VINITTOKEN",
     "idPair": "0x6d1dbf9bb1021068f5ff99376f2726fde62b6842",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 2.952413394903173,
     "isRugged": false
-  },
-  {
-    "_id": "0x909e6631b89034099c4f6516956da6d40874d3fd",
-    "tokenName": "TOK",
-    "idPair": "0x4a425325d6d74cc3c0fd8081b4eae943426a87ec",
-    "idToken": "0x909e6631b89034099c4f6516956da6d40874d3fd",
-    "dateCreationToken": "2021-02-26T01:50:15Z",
-    "initialInfos": {
-      "initialPoolToken": 30,
-      "initialPriceUSD": 0.9822866666666666,
-      "initialPoolEth": 0.02,
-      "initialMarketCap": 29.4686
-    },
-    "currentInfos": {
-      "currentPoolToken": 3.873e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2.6e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 4,
-    "holderCountOld": 3,
-    "txCount": 2,
-    "createdAtTimestamp": "1614304215",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
