@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x6824822886c5c7e09451249e700980fb4cac256f",
+    "tokenName": "MASKED",
+    "idPair": "0x2ee222cc272fbafb85ae90902ef34d83280c4345",
+    "idToken": "0x6824822886c5c7e09451249e700980fb4cac256f",
+    "dateCreationToken": "2021-03-06T07:53:42Z",
+    "initialInfos": {
+      "initialPoolToken": 5000,
+      "initialPriceUSD": 0.063296,
+      "initialPoolEth": 0.2,
+      "initialMarketCap": 316.48
+    },
+    "currentInfos": {
+      "currentPoolToken": 5000,
+      "currentPriceUSD": 0.063296,
+      "currentPoolEth": 0.2,
+      "currentMarketCap": 316.48
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615017222",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x5467e9b502bc44d99d84543e288c4e340baf3064",
     "tokenName": "COV19",
     "idPair": "0x21e82d1e78852a7e9e4958eea658230f9f73b5aa",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xa4d82f81221f4c9c0f9010a25e4e508bcb6adff1",
-    "tokenName": "LVGX",
-    "idPair": "0xc9e2edfee4d25acb365819e77051c3037a68f364",
-    "idToken": "0xa4d82f81221f4c9c0f9010a25e4e508bcb6adff1",
-    "dateCreationToken": "2021-02-25T19:03:00Z",
-    "initialInfos": {
-      "initialPoolToken": 12450,
-      "initialPriceUSD": 25.25156626506024,
-      "initialPoolEth": 200,
-      "initialMarketCap": 314382
-    },
-    "currentInfos": {
-      "currentPoolToken": 52611.3649849381,
-      "currentPriceUSD": 1.4470036528924144,
-      "currentPoolEth": 48.245711064337826,
-      "currentMarketCap": 76128.8373168615
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 65,
-    "holderCountOld": 66,
-    "txCount": 603,
-    "createdAtTimestamp": "1614279780",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9426964791924775,
-    "isRugged": false
   }
 ]
