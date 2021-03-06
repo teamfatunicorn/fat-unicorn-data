@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x0f4b7bec854dbdd70fdf6cf5038f2717b3110672",
+    "tokenName": "REFER",
+    "idPair": "0x00b2e067990b34d4194081cececde18cdac1a0eb",
+    "idToken": "0x0f4b7bec854dbdd70fdf6cf5038f2717b3110672",
+    "dateCreationToken": "2021-03-06T15:21:35Z",
+    "initialInfos": {
+      "initialPoolToken": 5075,
+      "initialPriceUSD": 0.4258813793103448,
+      "initialPoolEth": 1.4,
+      "initialMarketCap": 2161.348
+    },
+    "currentInfos": {
+      "currentPoolToken": 4181.62556647637,
+      "currentPriceUSD": 0.6276252998451795,
+      "currentPoolEth": 1.7,
+      "currentMarketCap": 2624.494
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 5,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1615044095",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.4737091836734694,
+    "isRugged": false
+  },
+  {
     "_id": "0xec02f6e35183d46da66c55f2aac1ad6f45474a8c",
     "tokenName": "APING",
     "idPair": "0x5421d5e6128a6be3eecfa06afd05f72cd7ab0284",
@@ -3795,7 +3826,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 24221.359427320156,
-      "currentPriceUSD": 7.950759934213067,
+      "currentPriceUSD": 8.04365855986865,
       "currentPoolEth": 124.64205953652672,
       "currentMarketCap": 192578.21408691103
     },
@@ -3809,7 +3840,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.070781777873759,
+    "priceChange": 2.1066615439858163,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 20.879934592328166,
-    "isRugged": false
-  },
-  {
-    "_id": "0xa1454f9c704af96636f3a7532b9a04c411f85680",
-    "tokenName": "BSP",
-    "idPair": "0x231062c2985966c101222923773e8ea96109a90b",
-    "idToken": "0xa1454f9c704af96636f3a7532b9a04c411f85680",
-    "dateCreationToken": "2021-02-26T06:16:16Z",
-    "initialInfos": {
-      "initialPoolToken": 11000000,
-      "initialPriceUSD": 0.0006555772727272727,
-      "initialPoolEth": 5,
-      "initialMarketCap": 7211.35
-    },
-    "currentInfos": {
-      "currentPoolToken": 18003988.184377138,
-      "currentPriceUSD": 0.0012270844633499596,
-      "currentPoolEth": 14.298834458033621,
-      "currentMarketCap": 22092.414179385432
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 108,
-    "holderCountOld": 109,
-    "txCount": 365,
-    "createdAtTimestamp": "1614320176",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.8717617501368753,
     "isRugged": false
   }
 ]
