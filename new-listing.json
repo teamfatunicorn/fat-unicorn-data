@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x0228e9efa309d6800a0338dd266d4193ed3ab33c",
+    "tokenName": "KAP",
+    "idPair": "0x81a3184855509394741f9ec1e08f697e3f692c55",
+    "idToken": "0x0228e9efa309d6800a0338dd266d4193ed3ab33c",
+    "dateCreationToken": "2021-03-06T04:49:45Z",
+    "initialInfos": {
+      "initialPoolToken": 1,
+      "initialPriceUSD": 1.069271,
+      "initialPoolEth": 0.0007,
+      "initialMarketCap": 1.069271
+    },
+    "currentInfos": {
+      "currentPoolToken": 1,
+      "currentPriceUSD": 1.069271,
+      "currentPoolEth": 0.0007,
+      "currentMarketCap": 1.069271
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 25,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615006185",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x74fc4575a47330340e631f7e0ea550be519fcd0a",
     "tokenName": "MIB",
     "idPair": "0xbccf4012a8d391e93238941d2296cd54e3dc3732",
@@ -6162,37 +6193,6 @@
     "holderCountOld": 12,
     "txCount": 15,
     "createdAtTimestamp": "1614254944",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x5f3d5f3cd36592abb51dbfbfdb3e7716eb30610d",
-    "tokenName": "KYL",
-    "idPair": "0x528e8f345b1d472064eac96c6106713a4953b49f",
-    "idToken": "0x5f3d5f3cd36592abb51dbfbfdb3e7716eb30610d",
-    "dateCreationToken": "2021-02-25T10:54:12Z",
-    "initialInfos": {
-      "initialPoolToken": 3200000,
-      "initialPriceUSD": 0.101778125,
-      "initialPoolEth": 200,
-      "initialMarketCap": 325690
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.06643e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 37,
-    "holderCountOld": 36,
-    "txCount": 40,
-    "createdAtTimestamp": "1614250452",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
