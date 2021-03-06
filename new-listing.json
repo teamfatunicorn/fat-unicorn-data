@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x76176dbc59abeac9875b77441e5d8402f616cb04",
+    "tokenName": "OXY",
+    "idPair": "0x0c36272ea6a158639a103dd1cd937231d4500140",
+    "idToken": "0x76176dbc59abeac9875b77441e5d8402f616cb04",
+    "dateCreationToken": "2021-03-06T03:16:21Z",
+    "initialInfos": {
+      "initialPoolToken": 3000000,
+      "initialPriceUSD": 0.10228733333333333,
+      "initialPoolEth": 200,
+      "initialMarketCap": 306862
+    },
+    "currentInfos": {
+      "currentPoolToken": 3000000,
+      "currentPriceUSD": 0.10228733333333333,
+      "currentPoolEth": 200,
+      "currentMarketCap": 306862
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615000581",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x7437100f52ad58fdd73410320545021daa73b208",
     "tokenName": "ALN",
     "idPair": "0x5cd0daef3e6c9dd5c1901de520892e153ddfa69e",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-06T02:29:56Z",
     "initialInfos": {
       "initialPoolToken": 4222800,
-      "initialPriceUSD": 0.05019607843137255,
+      "initialPriceUSD": 0.05014084967320261,
       "initialPoolEth": 138,
-      "initialMarketCap": 211968
+      "initialMarketCap": 211734.78
     },
     "currentInfos": {
       "currentPoolToken": 3497150.0785111045,
-      "currentPriceUSD": 0.07325352447280083,
+      "currentPriceUSD": 0.07317292651944209,
       "currentPoolEth": 166.7829224357235,
-      "currentMarketCap": 256178.56886127053
+      "currentMarketCap": 255896.70572235415
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.45934755785657905,
+    "priceChange": 0.4593475578565791,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x3eb1ddcab1bd899cb449f6ef5124aa4d6bcf4c5a",
-    "tokenName": "ENTE",
-    "idPair": "0x62ddc3170dfa6434d9ff5bbb3924bd2f0eb50c99",
-    "idToken": "0x3eb1ddcab1bd899cb449f6ef5124aa4d6bcf4c5a",
-    "dateCreationToken": "2021-02-25T09:17:22Z",
-    "initialInfos": {
-      "initialPoolToken": 1,
-      "initialPriceUSD": 0.12171932,
-      "initialPoolEth": 0.000076,
-      "initialMarketCap": 0.12171932
-    },
-    "currentInfos": {
-      "currentPoolToken": 6593.10526315,
-      "currentPriceUSD": 0.11645099999990705,
-      "currentPoolEth": 0.5010759999994,
-      "currentMarketCap": 767.7737009984678
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 5,
-    "holderCountOld": 4,
-    "txCount": 3,
-    "createdAtTimestamp": "1614244642",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.04328252901916442,
-    "isRugged": false
   }
 ]
