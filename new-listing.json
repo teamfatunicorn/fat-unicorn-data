@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x716add379499c85f44427a2735dc85d9fcced090",
+    "tokenName": "TRISM20",
+    "idPair": "0x7bc32d054a9d2d15719211a1794d1a5c860f3bc3",
+    "idToken": "0x716add379499c85f44427a2735dc85d9fcced090",
+    "dateCreationToken": "2021-03-07T10:52:11Z",
+    "initialInfos": {
+      "initialPoolToken": 5130,
+      "initialPriceUSD": 0.32641325536062377,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1674.5
+    },
+    "currentInfos": {
+      "currentPoolToken": 2568.8532799198797,
+      "currentPriceUSD": 1.3036945419103314,
+      "currentPoolEth": 2,
+      "currentMarketCap": 3349
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1615114331",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.994,
+    "isRugged": false
+  },
+  {
     "_id": "0x67f2e80b527fbcf47553d403c550639f51ffabee",
     "tokenName": "SHHH",
     "idPair": "0xd9317865bfbb8ad862edf80174d0a9240342b179",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-07T10:50:21Z",
     "initialInfos": {
       "initialPoolToken": 11,
-      "initialPriceUSD": 38.00204545454545,
+      "initialPriceUSD": 38.05681818181818,
       "initialPoolEth": 0.25,
-      "initialMarketCap": 418.0225
+      "initialMarketCap": 418.625
     },
     "currentInfos": {
       "currentPoolToken": 11,
-      "currentPriceUSD": 38.00204545454545,
+      "currentPriceUSD": 38.05681818181818,
       "currentPoolEth": 0.25,
-      "currentMarketCap": 418.0225
+      "currentMarketCap": 418.625
     },
     "trustScore": null,
     "contractId": null,
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9915594196412926,
-    "isRugged": false
-  },
-  {
-    "_id": "0xdd03b6699b13f8a4d69494fe8619976b82d0d34c",
-    "tokenName": "PAZ",
-    "idPair": "0x469fc89f7e6018b3819d6d8e5fb634457bfad988",
-    "idToken": "0xdd03b6699b13f8a4d69494fe8619976b82d0d34c",
-    "dateCreationToken": "2021-02-27T05:34:55Z",
-    "initialInfos": {
-      "initialPoolToken": 10,
-      "initialPriceUSD": 300.038,
-      "initialPoolEth": 2,
-      "initialMarketCap": 2994.193506521092
-    },
-    "currentInfos": {
-      "currentPoolToken": 506.12273084,
-      "currentPriceUSD": 1.477018276368658,
-      "currentPoolEth": 0.4443105637660483,
-      "currentMarketCap": 747.552523536295
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 7,
-    "holderCountOld": 6,
-    "txCount": 14,
-    "createdAtTimestamp": "1614404095",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9950772292963936,
     "isRugged": false
   }
 ]
