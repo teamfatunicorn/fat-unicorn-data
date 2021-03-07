@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x174e4c837f7e7ab9e02ee6c5231f75f7f74ce058",
+    "tokenName": "PIDR",
+    "idPair": "0xda1247c1c407adda3f4355758260c4dbf3b4f1b2",
+    "idToken": "0x174e4c837f7e7ab9e02ee6c5231f75f7f74ce058",
+    "dateCreationToken": "2021-03-07T05:50:05Z",
+    "initialInfos": {
+      "initialPoolToken": 64964700,
+      "initialPriceUSD": 0.00006916005153568015,
+      "initialPoolEth": 2.7,
+      "initialMarketCap": 4492.962
+    },
+    "currentInfos": {
+      "currentPoolToken": 226503627.28,
+      "currentPriceUSD": 0.000005701512124324457,
+      "currentPoolEth": 0.7760616667305866,
+      "currentMarketCap": 1291.413177140388
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1615096205",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -0.9175606148676306,
+    "isRugged": false
+  },
+  {
     "_id": "0x1b0785866895940e229570c3e04c186e6b7b1024",
     "tokenName": "ERN",
     "idPair": "0x4c0e06e33bfdbbe61e648b3779a0d415a1ec5097",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-07T05:32:13Z",
     "initialInfos": {
       "initialPoolToken": 3600000,
-      "initialPriceUSD": 0.11087666666666667,
+      "initialPriceUSD": 0.11093733333333333,
       "initialPoolEth": 240,
-      "initialMarketCap": 399156
+      "initialMarketCap": 399374.4
     },
     "currentInfos": {
       "currentPoolToken": 3393295.412293948,
-      "currentPriceUSD": 0.12481844265910133,
+      "currentPriceUSD": 0.1248867376311843,
       "currentPoolEth": 254.6648521449075,
-      "currentMarketCap": 423545.84884480375
+      "currentMarketCap": 423777.5938602556
     },
     "trustScore": null,
     "contractId": null,
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 1.717771078655911,
-    "isRugged": false
-  },
-  {
-    "_id": "0xf6ea0e60cee427b90aa36f327ee61d1d4cabc49f",
-    "tokenName": "FOTO",
-    "idPair": "0xd2016d02cce088e6a26ef8a43d57adf865cb9d00",
-    "idToken": "0xf6ea0e60cee427b90aa36f327ee61d1d4cabc49f",
-    "dateCreationToken": "2021-02-26T19:04:01Z",
-    "initialInfos": {
-      "initialPoolToken": 8169.973792292337,
-      "initialPriceUSD": 0.18149140226115223,
-      "initialPoolEth": 1,
-      "initialMarketCap": 1510.192137600333
-    },
-    "currentInfos": {
-      "currentPoolToken": 538232.8379254265,
-      "currentPriceUSD": 0.150187833806256,
-      "currentPoolEth": 48.78574257158531,
-      "currentMarketCap": 80836.02401141348
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 559,
-    "holderCountOld": 558,
-    "txCount": 538,
-    "createdAtTimestamp": "1614366241",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.1724796219815019,
     "isRugged": false
   }
 ]
