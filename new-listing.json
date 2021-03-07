@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xb96be6e359d639d3caf8ec82f1cc98e7f445c810",
+    "tokenName": "DOGS",
+    "idPair": "0x7b409bb3feb3689f8e81d1387b0167131dd16718",
+    "idToken": "0xb96be6e359d639d3caf8ec82f1cc98e7f445c810",
+    "dateCreationToken": "2021-03-07T16:33:16Z",
+    "initialInfos": {
+      "initialPoolToken": 20000000,
+      "initialPriceUSD": 0.000499182,
+      "initialPoolEth": 6,
+      "initialMarketCap": 9983.64
+    },
+    "currentInfos": {
+      "currentPoolToken": 17150207.231670715,
+      "currentPriceUSD": 0.0006791509771666667,
+      "currentPoolEth": 7,
+      "currentMarketCap": 11647.58
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1615134796",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.3605277777777778,
+    "isRugged": false
+  },
+  {
     "_id": "0x8611f8d9849a70c039b91f452c7cd87861e0200a",
     "tokenName": "HAPI",
     "idPair": "0x55a03c59910127db5b7258eda9e3ce5f762236bf",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.12771674107295458,
-    "isRugged": true
-  },
-  {
-    "_id": "0xc648736e06eb06333ba6ee005e50c3ed71b625ab",
-    "tokenName": "HOPPER",
-    "idPair": "0xecb54f0726b2eb0ad92ea6c421681c4da31472de",
-    "idToken": "0xc648736e06eb06333ba6ee005e50c3ed71b625ab",
-    "dateCreationToken": "2021-02-27T08:01:19Z",
-    "initialInfos": {
-      "initialPoolToken": 79200,
-      "initialPriceUSD": 0.15891323232323232,
-      "initialPoolEth": 8.6,
-      "initialMarketCap": 12793.333873138721
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.4515e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.6e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 12,
-    "holderCountOld": 13,
-    "txCount": 33,
-    "createdAtTimestamp": "1614412879",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
