@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x1b0785866895940e229570c3e04c186e6b7b1024",
+    "tokenName": "ERN",
+    "idPair": "0x4c0e06e33bfdbbe61e648b3779a0d415a1ec5097",
+    "idToken": "0x1b0785866895940e229570c3e04c186e6b7b1024",
+    "dateCreationToken": "2021-03-07T05:32:13Z",
+    "initialInfos": {
+      "initialPoolToken": 3600000,
+      "initialPriceUSD": 0.11048866666666667,
+      "initialPoolEth": 240,
+      "initialMarketCap": 397759.2
+    },
+    "currentInfos": {
+      "currentPoolToken": 3557281.092025878,
+      "currentPriceUSD": 0.11316232795501323,
+      "currentPoolEth": 242.8908,
+      "currentMarketCap": 402550.209564
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1615095133",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.024198511657423954,
+    "isRugged": false
+  },
+  {
     "_id": "0x66e81cb3e9fa1ed4c5b16c39163f1be524d39030",
     "tokenName": "INDIA",
     "idPair": "0x1a3da7ce90ea455632a17be802a14dba2ed9aa57",
@@ -44,7 +75,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 2445091.474604157,
-      "currentPriceUSD": 0.1661714345605881,
+      "currentPriceUSD": 0.166465275381226,
       "currentPoolEth": 245.53969685076578,
       "currentMarketCap": 406304.35796683654
     },
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.5063221523676358,
+    "priceChange": 0.5089857806775626,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.1724796219815019,
     "isRugged": false
-  },
-  {
-    "_id": "0x1fdbbfa429c3adfcc3aadd1e8fa7d5400a968ead",
-    "tokenName": "VTX",
-    "idPair": "0xec9233d9e63f138a7b333445790f4154a08d6681",
-    "idToken": "0x1fdbbfa429c3adfcc3aadd1e8fa7d5400a968ead",
-    "dateCreationToken": "2021-02-26T18:45:39Z",
-    "initialInfos": {
-      "initialPoolToken": 1587500,
-      "initialPriceUSD": 0.04203155905511811,
-      "initialPoolEth": 45,
-      "initialMarketCap": 66725.1
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.20361e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 9e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 54,
-    "holderCountOld": 53,
-    "txCount": 34,
-    "createdAtTimestamp": "1614365139",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
