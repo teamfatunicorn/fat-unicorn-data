@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x0c222446ee8a080b3943c7a4cbab46bfbf823547",
+    "tokenName": "ERN",
+    "idPair": "0xe993391e536e7e7c360b42dc38909e40f07a8c34",
+    "idToken": "0x0c222446ee8a080b3943c7a4cbab46bfbf823547",
+    "dateCreationToken": "2021-03-07T08:22:45Z",
+    "initialInfos": {
+      "initialPoolToken": 5000000,
+      "initialPriceUSD": 0.101187,
+      "initialPoolEth": 300,
+      "initialMarketCap": 505935
+    },
+    "currentInfos": {
+      "currentPoolToken": 5000000,
+      "currentPriceUSD": 0.101187,
+      "currentPoolEth": 300,
+      "currentMarketCap": 505935
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615105365",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xfc35fe7a75cf3430b2a70d6b225b0eb64878ae66",
     "tokenName": "BDP",
     "idPair": "0xafdda3cdca54ceba8a38b777df3ff114fd5ed637",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.9200178826024875,
-    "isRugged": false
-  },
-  {
-    "_id": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
-    "tokenName": "RAD",
-    "idPair": "0xf2f98cbd5d84640a2c5cfda5c996cd830067bc95",
-    "idToken": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
-    "dateCreationToken": "2021-02-26T22:57:11Z",
-    "initialInfos": {
-      "initialPoolToken": 1749.9190705295023,
-      "initialPriceUSD": 12.853022964767332,
-      "initialPoolEth": 15,
-      "initialMarketCap": 22491.75
-    },
-    "currentInfos": {
-      "currentPoolToken": 43060.700368630285,
-      "currentPriceUSD": 10.37478266571865,
-      "currentPoolEth": 267.0181566790614,
-      "currentMarketCap": 446745.40775817016
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2217,
-    "holderCountOld": 2221,
-    "txCount": 2372,
-    "createdAtTimestamp": "1614380231",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.19281380775884607,
     "isRugged": false
   }
 ]
