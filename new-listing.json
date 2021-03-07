@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc4c7ea4fab34bd9fb9a5e1b1a98df76e26e6407c",
+    "tokenName": "COCOS",
+    "idPair": "0x2dba0cb1636b37371bb1e2590b822768897b8266",
+    "idToken": "0xc4c7ea4fab34bd9fb9a5e1b1a98df76e26e6407c",
+    "dateCreationToken": "2021-03-07T08:37:21Z",
+    "initialInfos": {
+      "initialPoolToken": 174.65,
+      "initialPriceUSD": 0.9651989693673061,
+      "initialPoolEth": 0.1,
+      "initialMarketCap": 168.14352821017783
+    },
+    "currentInfos": {
+      "currentPoolToken": 174.65,
+      "currentPriceUSD": 0.9651989693673061,
+      "currentPoolEth": 0.1,
+      "currentMarketCap": 168.572
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1597,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615106241",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x0c222446ee8a080b3943c7a4cbab46bfbf823547",
     "tokenName": "ERN",
     "idPair": "0xe993391e536e7e7c360b42dc38909e40f07a8c34",
@@ -12,22 +43,22 @@
       "initialMarketCap": 505716
     },
     "currentInfos": {
-      "currentPoolToken": 4578495.475795784,
-      "currentPriceUSD": 0.1206549383207392,
-      "currentPoolEth": 327.7045352928857,
-      "currentMarketCap": 552418.0892339238
+      "currentPoolToken": 4537084.937984995,
+      "currentPriceUSD": 0.12287079850912139,
+      "currentPoolEth": 330.7045352928857,
+      "currentMarketCap": 557475.2492339237
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 2,
     "holderCountOld": 0,
-    "txCount": 10,
+    "txCount": 11,
     "createdAtTimestamp": "1615105365",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.19291201307393083,
+    "priceChange": 0.21482016101054133,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.4841441202655924,
     "isRugged": true
-  },
-  {
-    "_id": "0x1d9d6296cb40b3ad2fc169e85427cabe81eec418",
-    "tokenName": "ERN",
-    "idPair": "0x54b22573aa381f985f86b9ce867960c2c67d3b7b",
-    "idToken": "0x1d9d6296cb40b3ad2fc169e85427cabe81eec418",
-    "dateCreationToken": "2021-02-27T02:56:34Z",
-    "initialInfos": {
-      "initialPoolToken": 3600000,
-      "initialPriceUSD": 0.075111,
-      "initialPoolEth": 180,
-      "initialMarketCap": 270399.6
-    },
-    "currentInfos": {
-      "currentPoolToken": 2742949.802663756,
-      "currentPriceUSD": 0.14421446318015543,
-      "currentPoolEth": 236.43260871875833,
-      "currentMarketCap": 395573.0333212668
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 27,
-    "holderCountOld": 26,
-    "txCount": 27,
-    "createdAtTimestamp": "1614394594",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.9200178826024875,
-    "isRugged": false
   }
 ]
