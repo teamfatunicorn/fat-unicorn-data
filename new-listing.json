@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x17491ae8b359e73ca06f0abb52223daa878140a9",
+    "tokenName": "CHARGE",
+    "idPair": "0x7d21befa9623c8e2442b4a6d76a155ecf1b189f6",
+    "idToken": "0x17491ae8b359e73ca06f0abb52223daa878140a9",
+    "dateCreationToken": "2021-03-08T07:27:36Z",
+    "initialInfos": {
+      "initialPoolToken": 100,
+      "initialPriceUSD": 8.4563,
+      "initialPoolEth": 0.5,
+      "initialMarketCap": 845.63
+    },
+    "currentInfos": {
+      "currentPoolToken": 100,
+      "currentPriceUSD": 8.4563,
+      "currentPoolEth": 0.5,
+      "currentMarketCap": 845.63
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 595,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615188456",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x8963f627ebe9d0f22c8eb7306239d78d81be10b1",
     "tokenName": "ERN",
     "idPair": "0xd3fbb248bef3da5e9e8330c5fd3a498e09953dbe",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-08T05:20:28Z",
     "initialInfos": {
       "initialPoolToken": 1200000,
-      "initialPriceUSD": 0.2848583333333333,
+      "initialPriceUSD": 0.28187666666666666,
       "initialPoolEth": 200,
-      "initialMarketCap": 341830
+      "initialMarketCap": 338252
     },
     "currentInfos": {
       "currentPoolToken": 1200000,
-      "currentPriceUSD": 0.2848583333333333,
+      "currentPriceUSD": 0.28187666666666666,
       "currentPoolEth": 200,
-      "currentMarketCap": 341830
+      "currentMarketCap": 338252
     },
     "trustScore": null,
     "contractId": null,
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-03-08T05:19:08Z",
     "initialInfos": {
       "initialPoolToken": 1,
-      "initialPriceUSD": 854.575,
+      "initialPriceUSD": 845.63,
       "initialPoolEth": 0.5,
       "initialMarketCap": 870.9863157297107
     },
     "currentInfos": {
       "currentPoolToken": 1,
-      "currentPriceUSD": 854.575,
+      "currentPriceUSD": 845.63,
       "currentPoolEth": 0.5,
-      "currentMarketCap": 854.575
+      "currentMarketCap": 845.63
     },
     "trustScore": null,
     "contractId": null,
@@ -69,15 +100,15 @@
     "dateCreationToken": "2021-03-08T04:30:11Z",
     "initialInfos": {
       "initialPoolToken": 5000000,
-      "initialPriceUSD": 0.068366,
+      "initialPriceUSD": 0.0676504,
       "initialPoolEth": 200,
-      "initialMarketCap": 341830
+      "initialMarketCap": 338252
     },
     "currentInfos": {
       "currentPoolToken": 4291216.604793766,
-      "currentPriceUSD": 0.09285772195112729,
+      "currentPriceUSD": 0.09188576241234739,
       "currentPoolEth": 233.1408,
-      "currentMarketCap": 398472.59832
+      "currentMarketCap": 394301.709408
     },
     "trustScore": null,
     "contractId": null,
@@ -89,7 +120,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.3582441849914767,
+    "priceChange": 0.3582441849914766,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 7263.41867464277,
     "isRugged": true
-  },
-  {
-    "_id": "0xf5581dfefd8fb0e4aec526be659cfab1f8c781da",
-    "tokenName": "HOPR",
-    "idPair": "0x375876d8922bd7edaa249648124c4a34bc528d99",
-    "idToken": "0xf5581dfefd8fb0e4aec526be659cfab1f8c781da",
-    "dateCreationToken": "2021-02-27T14:41:22Z",
-    "initialInfos": {
-      "initialPoolToken": 83913.49647610045,
-      "initialPriceUSD": 0.5780767699724653,
-      "initialPoolEth": 33.3,
-      "initialMarketCap": 48881.5743299255
-    },
-    "currentInfos": {
-      "currentPoolToken": 30076.16655294155,
-      "currentPriceUSD": 0.6903170990758051,
-      "currentPoolEth": 12.05808440165622,
-      "currentMarketCap": 20762.09204614737
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 5111,
-    "holderCountOld": 5109,
-    "txCount": 715,
-    "createdAtTimestamp": "1614436882",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.19416163204185838,
-    "isRugged": false
   }
 ]
