@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x68f3a4e312b427339e49210f27361b9da9cdfced",
+    "tokenName": "DAFI",
+    "idPair": "0x090981f2ab8c9ece2be63c6af332152901d7e844",
+    "idToken": "0x68f3a4e312b427339e49210f27361b9da9cdfced",
+    "dateCreationToken": "2021-03-08T04:30:11Z",
+    "initialInfos": {
+      "initialPoolToken": 5000000,
+      "initialPriceUSD": 0.068728,
+      "initialPoolEth": 200,
+      "initialMarketCap": 343640
+    },
+    "currentInfos": {
+      "currentPoolToken": 4999980.060079521,
+      "currentPriceUSD": 0.06872854900036035,
+      "currentPoolEth": 200.0008,
+      "currentMarketCap": 343641.37456
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1615177811",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.000007988015952058876,
+    "isRugged": false
+  },
+  {
     "_id": "0x76dad3ea467bb05731fd2ca207cf97f449ac8d16",
     "tokenName": "LABS",
     "idPair": "0xc910ad7b4e64cf0faa4a514db9a96bd12449d835",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-08T04:13:29Z",
     "initialInfos": {
       "initialPoolToken": 85000000,
-      "initialPriceUSD": 0.0030296470588235293,
+      "initialPriceUSD": 0.0030321176470588236,
       "initialPoolEth": 150,
-      "initialMarketCap": 257520
+      "initialMarketCap": 257730
     },
     "currentInfos": {
       "currentPoolToken": 76273044.80014811,
-      "currentPriceUSD": 0.003764260002978174,
+      "currentPriceUSD": 0.0037673296465034357,
       "currentPoolEth": 167.23647008769825,
-      "currentMarketCap": 287111.57184655993
+      "currentMarketCap": 287345.7029046827
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.24247476022501085,
+    "priceChange": 0.24247476022501077,
     "isRugged": false
   },
   {
@@ -38,27 +69,27 @@
     "dateCreationToken": "2021-03-08T03:19:53Z",
     "initialInfos": {
       "initialPoolToken": 200000,
-      "initialPriceUSD": 1.957152,
+      "initialPriceUSD": 1.958748,
       "initialPoolEth": 228,
       "initialMarketCap": 392596.8677148251
     },
     "currentInfos": {
-      "currentPoolToken": 196308.15404959532,
-      "currentPriceUSD": 2.0315713087457565,
-      "currentPoolEth": 232.3008,
-      "currentMarketCap": 398814.01344
+      "currentPoolToken": 195980.11837589942,
+      "currentPriceUSD": 2.040050469778502,
+      "currentPoolEth": 232.6908,
+      "currentMarketCap": 399809.33256
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 5,
     "holderCountOld": 0,
-    "txCount": 4,
+    "txCount": 5,
     "createdAtTimestamp": "1615173593",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.03802428669094507,
+    "priceChange": 0.04150736581658379,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x137970b5fb9ddb0908d81b912ef807e0f2b19496",
-    "tokenName": "ECOM",
-    "idPair": "0xa9dee5dc33f9088894730f83f3fcdc89c68bd511",
-    "idToken": "0x137970b5fb9ddb0908d81b912ef807e0f2b19496",
-    "dateCreationToken": "2021-02-27T13:28:28Z",
-    "initialInfos": {
-      "initialPoolToken": 20000,
-      "initialPriceUSD": 0.664677,
-      "initialPoolEth": 9,
-      "initialMarketCap": 13293.54
-    },
-    "currentInfos": {
-      "currentPoolToken": 12648.028064320013,
-      "currentPriceUSD": 1.9417609903382493,
-      "currentPoolEth": 14.25,
-      "currentMarketCap": 24559.4475
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6,
-    "holderCountOld": 0,
-    "txCount": 7,
-    "createdAtTimestamp": "1614432508",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.9213602852787888,
-    "isRugged": false
   }
 ]
