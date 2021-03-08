@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x377d552914e7a104bc22b4f3b6268ddc69615be7",
+    "tokenName": "NEXT",
+    "idPair": "0xba2dda035358e513f2de62f1fe73c20fe3ba316f",
+    "idToken": "0x377d552914e7a104bc22b4f3b6268ddc69615be7",
+    "dateCreationToken": "2021-03-08T12:30:33Z",
+    "initialInfos": {
+      "initialPoolToken": 1109174.924707282,
+      "initialPriceUSD": 0.57416,
+      "initialPoolEth": 369.72497490242733,
+      "initialMarketCap": 636843.874769933
+    },
+    "currentInfos": {
+      "currentPoolToken": 1097338.5960358263,
+      "currentPriceUSD": 0.586631871963169,
+      "currentPoolEth": 373.72497490242733,
+      "currentMarketCap": 643733.7947699325
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 5,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1615206633",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.021721945038262875,
+    "isRugged": false
+  },
+  {
     "_id": "0x59e9261255644c411afdd00bd89162d09d862e38",
     "tokenName": "ETHA",
     "idPair": "0xd006f2de9423090359ab04d5858a981161ce9062",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-08T11:20:29Z",
     "initialInfos": {
       "initialPoolToken": 12690,
-      "initialPriceUSD": 4.072080378250591,
+      "initialPriceUSD": 4.072056737588652,
       "initialPoolEth": 30,
-      "initialMarketCap": 51674.7
+      "initialMarketCap": 51674.4
     },
     "currentInfos": {
       "currentPoolToken": 17315.435753933896,
-      "currentPriceUSD": 2.2077200484870425,
+      "currentPriceUSD": 2.207707231460247,
       "currentPoolEth": 22.19324040328198,
-      "currentMarketCap": 38227.63466224921
+      "currentMarketCap": 38227.41272984518
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.45783976655306047,
+    "priceChange": -0.45783976655306036,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9039668846676185,
-    "isRugged": false
-  },
-  {
-    "_id": "0x9af5a20aac8d83230ba68542ba29d132d50cbe08",
-    "tokenName": "MRS",
-    "idPair": "0x481e881b32f0173cd090fb04266073173964ec70",
-    "idToken": "0x9af5a20aac8d83230ba68542ba29d132d50cbe08",
-    "dateCreationToken": "2021-02-27T18:52:26Z",
-    "initialInfos": {
-      "initialPoolToken": 10000000,
-      "initialPriceUSD": 0.000075855,
-      "initialPoolEth": 0.5,
-      "initialMarketCap": 758.55
-    },
-    "currentInfos": {
-      "currentPoolToken": 1110599.9397193836,
-      "currentPriceUSD": 0.034113364129726716,
-      "currentPoolEth": 21.9541636125052,
-      "currentMarketCap": 37886.30014609988
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 98,
-    "holderCountOld": 99,
-    "txCount": 276,
-    "createdAtTimestamp": "1614451946",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 448.7180690755615,
     "isRugged": false
   }
 ]
