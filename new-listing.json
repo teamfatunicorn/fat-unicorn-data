@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x27cd7375478f189bdcf55616b088be03d9c4339c",
+    "tokenName": "COSMO",
+    "idPair": "0x1954b2e0f96e3cf64f754e7abf2834630385ab5d",
+    "idToken": "0x27cd7375478f189bdcf55616b088be03d9c4339c",
+    "dateCreationToken": "2021-03-13T11:55:39Z",
+    "initialInfos": {
+      "initialPoolToken": 150000,
+      "initialPriceUSD": 0.010012783967333334,
+      "initialPoolEth": 0.79837,
+      "initialMarketCap": 1501.9175951
+    },
+    "currentInfos": {
+      "currentPoolToken": 66702.40674624172,
+      "currentPriceUSD": 0.050720022861703115,
+      "currentPoolEth": 1.79837,
+      "currentMarketCap": 3383.1475951
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1615636539",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 4.065526533597147,
+    "isRugged": false
+  },
+  {
     "_id": "0xb2de3ffdb3409f607c82b1cd777d34f489e9dba4",
     "tokenName": "IFNFT",
     "idPair": "0x6512fa580a36aab4629c326f0afde5677225c3bb",
@@ -12,22 +43,22 @@
       "initialMarketCap": 54555.67
     },
     "currentInfos": {
-      "currentPoolToken": 97240.99270135604,
-      "currentPriceUSD": 0.32553032523517705,
-      "currentPoolEth": 16.826699542461366,
-      "currentMarketCap": 31654.891980263907
+      "currentPoolToken": 120573.99270135604,
+      "currentPriceUSD": 0.21191007029682737,
+      "currentPoolEth": 13.581987991533959,
+      "currentMarketCap": 25550.843269313507
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 653,
     "holderCountOld": 0,
-    "txCount": 240,
+    "txCount": 244,
     "createdAtTimestamp": "1615629016",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.7016530772739322,
+    "priceChange": -0.8057854753714624,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 27.21104342626233,
-    "isRugged": false
-  },
-  {
-    "_id": "0x4ff7c227e1e7bd59351de8635381c379750a8040",
-    "tokenName": "HYPE",
-    "idPair": "0x1712240b227aaff86144a7275f3ec9fd264584ba",
-    "idToken": "0x4ff7c227e1e7bd59351de8635381c379750a8040",
-    "dateCreationToken": "2021-03-03T08:01:36Z",
-    "initialInfos": {
-      "initialPoolToken": 14000,
-      "initialPriceUSD": 5.715035714285714,
-      "initialPoolEth": 50,
-      "initialMarketCap": 80010.5
-    },
-    "currentInfos": {
-      "currentPoolToken": 32874.413585138806,
-      "currentPriceUSD": 5.515636365916825,
-      "currentPoolEth": 98.77665132913579,
-      "currentMarketCap": 181323.31107838167
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 31,
-    "holderCountOld": 32,
-    "txCount": 59,
-    "createdAtTimestamp": "1614758496",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.03489030661181292,
     "isRugged": false
   }
 ]
