@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x202f1877e1db1120ca3e9a98c5d505e7f035c249",
+    "tokenName": "ZUZ",
+    "idPair": "0x48616d7ecbf2a439cadd4801fbd643ad2e9d4ee6",
+    "idToken": "0x202f1877e1db1120ca3e9a98c5d505e7f035c249",
+    "dateCreationToken": "2021-03-13T16:33:28Z",
+    "initialInfos": {
+      "initialPoolToken": 150000,
+      "initialPriceUSD": 2.812035,
+      "initialPoolEth": 225,
+      "initialMarketCap": 421805.25
+    },
+    "currentInfos": {
+      "currentPoolToken": 147680.26532593003,
+      "currentPriceUSD": 2.9012072494829595,
+      "currentPoolEth": 228.54501617288952,
+      "currentMarketCap": 428451.0563691552
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 196,
+    "holderCountOld": 0,
+    "txCount": 7,
+    "createdAtTimestamp": "1615653208",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.0317109315790734,
+    "isRugged": false
+  },
+  {
     "_id": "0xf6e29325fd95ae03f5052ae404f8fcd4b29158c4",
     "tokenName": "KINE",
     "idPair": "0x252430867cc8c342f4c7b03b2c3c0d75d966f83d",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-13T16:27:36Z",
     "initialInfos": {
       "initialPoolToken": 600000,
-      "initialPriceUSD": 0.2500906666666667,
+      "initialPriceUSD": 0.24995866666666666,
       "initialPoolEth": 80,
       "initialMarketCap": 150283.62308482456
     },
     "currentInfos": {
       "currentPoolToken": 600000,
-      "currentPriceUSD": 0.2500906666666667,
+      "currentPriceUSD": 0.24995866666666666,
       "currentPoolEth": 80,
-      "currentMarketCap": 150054.4
+      "currentMarketCap": 149975.2
     },
     "trustScore": null,
     "contractId": null,
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-03-13T16:09:04Z",
     "initialInfos": {
       "initialPoolToken": 0.5,
-      "initialPriceUSD": 17893.9872,
+      "initialPriceUSD": 17884.5426,
       "initialPoolEth": 4.77,
       "initialMarketCap": 8995.906263940004
     },
     "currentInfos": {
       "currentPoolToken": 0.5,
-      "currentPriceUSD": 17893.9872,
+      "currentPriceUSD": 17884.5426,
       "currentPoolEth": 4.77,
-      "currentMarketCap": 8946.9936
+      "currentMarketCap": 8942.2713
     },
     "trustScore": null,
     "contractId": null,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 2.9058479418280116,
     "isRugged": false
-  },
-  {
-    "_id": "0x162dfa2502e67a6b477b91f0583caa47a4ac0662",
-    "tokenName": "UDO",
-    "idPair": "0xe0ce83741165089d685ffa95eec42e13e9d1ddff",
-    "idToken": "0x162dfa2502e67a6b477b91f0583caa47a4ac0662",
-    "dateCreationToken": "2021-03-03T15:01:59Z",
-    "initialInfos": {
-      "initialPoolToken": 3300000,
-      "initialPriceUSD": 0.271095,
-      "initialPoolEth": 550,
-      "initialMarketCap": 894613.5
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.7877e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.5e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 25,
-    "holderCountOld": 0,
-    "txCount": 31,
-    "createdAtTimestamp": "1614783719",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
