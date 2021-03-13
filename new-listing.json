@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xd1d53b74edd8d13d8393c4d3474a5d5befeef9c5",
+    "tokenName": "OST",
+    "idPair": "0x8753617b51b53289803164eca74e50b98fa70bc7",
+    "idToken": "0xd1d53b74edd8d13d8393c4d3474a5d5befeef9c5",
+    "dateCreationToken": "2021-03-13T13:25:12Z",
+    "initialInfos": {
+      "initialPoolToken": 0,
+      "initialPriceUSD": 0,
+      "initialPoolEth": 0,
+      "initialMarketCap": 0
+    },
+    "currentInfos": {
+      "currentPoolToken": 100000000,
+      "currentPriceUSD": 0.00000187541,
+      "currentPoolEth": 0.1,
+      "currentMarketCap": 187.541
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615641912",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": null,
+    "isRugged": true
+  },
+  {
     "_id": "0x27cd7375478f189bdcf55616b088be03d9c4339c",
     "tokenName": "COSMO",
     "idPair": "0x1954b2e0f96e3cf64f754e7abf2834630385ab5d",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-13T11:55:39Z",
     "initialInfos": {
       "initialPoolToken": 150000,
-      "initialPriceUSD": 0.009983244277333334,
+      "initialPriceUSD": 0.009981807211333333,
       "initialPoolEth": 0.79837,
-      "initialMarketCap": 1497.4866416
+      "initialMarketCap": 1497.2710817
     },
     "currentInfos": {
       "currentPoolToken": 109143.10329361558,
-      "currentPriceUSD": 0.018979988769408325,
+      "currentPriceUSD": 0.018977256641877115,
       "currentPoolEth": 1.1044180642598913,
-      "currentMarketCap": 2071.534874771197
+      "currentMarketCap": 2071.2366818938467
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.901184448877189,
+    "priceChange": 0.9011844488771891,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 11.464812614516985,
-    "isRugged": false
-  },
-  {
-    "_id": "0x762712925af9db239f5d4428d295d065dce4f630",
-    "tokenName": "BGS",
-    "idPair": "0x245a148a30e5b0cea1ee465a04d9c998f2591c59",
-    "idToken": "0x762712925af9db239f5d4428d295d065dce4f630",
-    "dateCreationToken": "2021-03-03T08:36:16Z",
-    "initialInfos": {
-      "initialPoolToken": 300000,
-      "initialPriceUSD": 0.0010668066666666668,
-      "initialPoolEth": 0.2,
-      "initialMarketCap": 320.042
-    },
-    "currentInfos": {
-      "currentPoolToken": 15142.016977229436,
-      "currentPriceUSD": 0.030893990919669,
-      "currentPoolEth": 0.24825,
-      "currentMarketCap": 467.797335
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 10,
-    "holderCountOld": 9,
-    "txCount": 3,
-    "createdAtTimestamp": "1614760576",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 27.959315577020202,
     "isRugged": false
   }
 ]
