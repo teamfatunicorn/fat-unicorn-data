@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x5fa739949431b728a2473817287957e49217953d",
+    "tokenName": "BITE",
+    "idPair": "0x45f47373d672bb1297394aae27f00eb3c5c93d92",
+    "idToken": "0x5fa739949431b728a2473817287957e49217953d",
+    "dateCreationToken": "2021-03-13T23:54:59Z",
+    "initialInfos": {
+      "initialPoolToken": 1.04,
+      "initialPriceUSD": 1.8551634615384616,
+      "initialPoolEth": 0.001,
+      "initialMarketCap": 1.92937
+    },
+    "currentInfos": {
+      "currentPoolToken": 1.04,
+      "currentPriceUSD": 1.8551634615384616,
+      "currentPoolEth": 0.001,
+      "currentMarketCap": 1.92937
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615679699",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x6ffb1ca5938bb680ed02ef348d0b8ad406da1435",
     "tokenName": "RARI",
     "idPair": "0x5dcd83646fdbb68d2529e41057574d6faa70582c",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 6.5659512841958145,
-    "isRugged": false
-  },
-  {
-    "_id": "0xe0e05c43c097b0982db6c9d626c4eb9e95c3b9ce",
-    "tokenName": "USF",
-    "idPair": "0x1fbf001792e8cc747a5cb4aedf8c26b7421147e7",
-    "idToken": "0xe0e05c43c097b0982db6c9d626c4eb9e95c3b9ce",
-    "dateCreationToken": "2021-03-03T15:43:24Z",
-    "initialInfos": {
-      "initialPoolToken": 10,
-      "initialPriceUSD": 162.657,
-      "initialPoolEth": 1,
-      "initialMarketCap": 1593.1194721207485
-    },
-    "currentInfos": {
-      "currentPoolToken": 601864.4444363809,
-      "currentPriceUSD": 6.510583722099246,
-      "currentPoolEth": 2040.4438921156466,
-      "currentMarketCap": 3918488.8548578075
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 585,
-    "holderCountOld": 587,
-    "txCount": 3144,
-    "createdAtTimestamp": "1614786204",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9599735411196613,
     "isRugged": false
   }
 ]
