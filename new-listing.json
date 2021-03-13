@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x52d9db35a7b91d4da8be736a34dbf87142892a85",
+    "tokenName": "L3P",
+    "idPair": "0x792dfa80e3e04e53d549f406e8aa3158fd1fa948",
+    "idToken": "0x52d9db35a7b91d4da8be736a34dbf87142892a85",
+    "dateCreationToken": "2021-03-13T08:33:16Z",
+    "initialInfos": {
+      "initialPoolToken": 15000000,
+      "initialPriceUSD": 0.0178766,
+      "initialPoolEth": 150,
+      "initialMarketCap": 268149
+    },
+    "currentInfos": {
+      "currentPoolToken": 15000000,
+      "currentPriceUSD": 0.0178766,
+      "currentPoolEth": 150,
+      "currentMarketCap": 268149
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615624396",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x1e37f3477998c353770e43ca0eb7ac69083b5ec7",
     "tokenName": "PKF",
     "idPair": "0xe2d8d57fba2f07f7d412a423b4bfacb1f02fea1a",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x5b2f79466b8040bfd3aeec6ce36e0cfd15ce86c2",
-    "tokenName": "KSU",
-    "idPair": "0xb119f52f6e3f766f1664c3485e111daf776f61a2",
-    "idToken": "0x5b2f79466b8040bfd3aeec6ce36e0cfd15ce86c2",
-    "dateCreationToken": "2021-03-03T05:39:38Z",
-    "initialInfos": {
-      "initialPoolToken": 1,
-      "initialPriceUSD": 4.065256,
-      "initialPoolEth": 0.0026,
-      "initialMarketCap": 4.065256
-    },
-    "currentInfos": {
-      "currentPoolToken": 1,
-      "currentPriceUSD": 4.615364,
-      "currentPoolEth": 0.0026,
-      "currentMarketCap": 4.615364
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 7,
-    "holderCountOld": 0,
-    "txCount": 1,
-    "createdAtTimestamp": "1614749978",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.13531939931950163,
     "isRugged": true
   }
 ]
