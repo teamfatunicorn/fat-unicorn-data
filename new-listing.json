@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x6ffb1ca5938bb680ed02ef348d0b8ad406da1435",
+    "tokenName": "RARI",
+    "idPair": "0x5dcd83646fdbb68d2529e41057574d6faa70582c",
+    "idToken": "0x6ffb1ca5938bb680ed02ef348d0b8ad406da1435",
+    "dateCreationToken": "2021-03-13T21:13:17Z",
+    "initialInfos": {
+      "initialPoolToken": 3,
+      "initialPriceUSD": 644.4133333333333,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1933.24
+    },
+    "currentInfos": {
+      "currentPoolToken": 1.5172308462694042,
+      "currentPriceUSD": 2523.2977033538386,
+      "currentPoolEth": 1.9803154858423335,
+      "currentMarketCap": 3828.425109849188
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1615669997",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.915650984906952,
+    "isRugged": false
+  },
+  {
     "_id": "0x202f1877e1db1120ca3e9a98c5d505e7f035c249",
     "tokenName": "ZUZ",
     "idPair": "0x48616d7ecbf2a439cadd4801fbd643ad2e9d4ee6",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9584652230473856,
-    "isRugged": false
-  },
-  {
-    "_id": "0x63726dae7c57d25e90ec829ce9a5c745ffd984d3",
-    "tokenName": "DEOR",
-    "idPair": "0x856e90282961c0e7f6693fd2f62b35d5df9783cf",
-    "idToken": "0x63726dae7c57d25e90ec829ce9a5c745ffd984d3",
-    "dateCreationToken": "2021-03-03T15:25:22Z",
-    "initialInfos": {
-      "initialPoolToken": 2215952.64,
-      "initialPriceUSD": 0.07726372626808486,
-      "initialPoolEth": 105.26,
-      "initialMarketCap": 171212.7582
-    },
-    "currentInfos": {
-      "currentPoolToken": 4575468.798784441,
-      "currentPriceUSD": 0.33213836941952607,
-      "currentPoolEth": 790.1629244918433,
-      "currentMarketCap": 1519688.746158182
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1363,
-    "holderCountOld": 1356,
-    "txCount": 7391,
-    "createdAtTimestamp": "1614785122",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 3.298761986538069,
     "isRugged": false
   }
 ]
