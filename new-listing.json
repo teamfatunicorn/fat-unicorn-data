@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xa2054b1cf61b12dd4cc16f6c181b98486ed931aa",
+    "tokenName": "PKF",
+    "idPair": "0x8f887b23f3f1954d7cf0774dd04e056f7a08b107",
+    "idToken": "0xa2054b1cf61b12dd4cc16f6c181b98486ed931aa",
+    "dateCreationToken": "2021-03-14T09:21:16Z",
+    "initialInfos": {
+      "initialPoolToken": 4560000,
+      "initialPriceUSD": 0.10017368421052632,
+      "initialPoolEth": 240,
+      "initialMarketCap": 456792
+    },
+    "currentInfos": {
+      "currentPoolToken": 4479974.587278657,
+      "currentPriceUSD": 0.10378991687148117,
+      "currentPoolEth": 244.3,
+      "currentMarketCap": 464976.19
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1615713676",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.036099627256944405,
+    "isRugged": false
+  },
+  {
     "_id": "0x41d89aca5fed32ef893c031499640741545adc56",
     "tokenName": "Tzu",
     "idPair": "0xa1546c206a537f8d9e0c2a0c348ad4492a167090",
@@ -12,22 +43,22 @@
       "initialMarketCap": 1903.94
     },
     "currentInfos": {
-      "currentPoolToken": 25935774802.75215,
-      "currentPriceUSD": 2.8707588961428244e-7,
-      "currentPoolEth": 3.9105936239245542,
-      "currentMarketCap": 7445.535624335765
+      "currentPoolToken": 22875089033.552593,
+      "currentPriceUSD": 3.6904367352116895e-7,
+      "currentPoolEth": 4.435405290320413,
+      "currentMarketCap": 8441.906889066056
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 24,
     "holderCountOld": 0,
-    "txCount": 49,
+    "txCount": 50,
     "createdAtTimestamp": "1615706826",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 14.077990357589128,
+    "priceChange": 18.383156691973955,
     "isRugged": false
   },
   {
@@ -44,9 +75,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 1.530871163653078,
-      "currentPriceUSD": 1239.588850137118,
+      "currentPriceUSD": 1239.1721684853394,
       "currentPoolEth": 0.9966967580181397,
-      "currentMarketCap": 1897.6508254607909
+      "currentMarketCap": 1897.0129395356594
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.731293919722658,
+    "priceChange": 1.7303758088007688,
     "isRugged": false
   },
   {
@@ -75,9 +106,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 19300,
-      "currentPriceUSD": 0.02491877352505643,
+      "currentPriceUSD": 0.02491039720276894,
       "currentPoolEth": 0.2525984689820758,
-      "currentMarketCap": 480.9323290335891
+      "currentMarketCap": 480.7706660134406
     },
     "trustScore": null,
     "contractId": null,
@@ -89,7 +120,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.020864278787357592,
+    "priceChange": 0.020521120316804864,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xd96b9fd7586d9ea24c950d24399be4fb65372fdd",
-    "tokenName": "BTCS",
-    "idPair": "0xd06a2417a96d9e7d37c537a263ae11fe2e9f95fb",
-    "idToken": "0xd96b9fd7586d9ea24c950d24399be4fb65372fdd",
-    "dateCreationToken": "2021-03-04T04:40:39Z",
-    "initialInfos": {
-      "initialPoolToken": 150,
-      "initialPriceUSD": 1.03304,
-      "initialPoolEth": 0.1,
-      "initialMarketCap": 155.32361829025402
-    },
-    "currentInfos": {
-      "currentPoolToken": 872.3439903,
-      "currentPriceUSD": 0.10367840391814798,
-      "currentPoolEth": 0.04786647856440309,
-      "currentMarketCap": 90.44323258189236
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 969,
-    "holderCountOld": 0,
-    "txCount": 3,
-    "createdAtTimestamp": "1614832839",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.8996375707444553,
     "isRugged": true
   }
 ]
