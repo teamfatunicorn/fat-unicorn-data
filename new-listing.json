@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x41d89aca5fed32ef893c031499640741545adc56",
+    "tokenName": "Tzu",
+    "idPair": "0xa1546c206a537f8d9e0c2a0c348ad4492a167090",
+    "idToken": "0x41d89aca5fed32ef893c031499640741545adc56",
+    "dateCreationToken": "2021-03-14T07:27:06Z",
+    "initialInfos": {
+      "initialPoolToken": 100000000000,
+      "initialPriceUSD": 1.8925e-8,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1892.5
+    },
+    "currentInfos": {
+      "currentPoolToken": 50075112669.0035,
+      "currentPriceUSD": 7.558645e-8,
+      "currentPoolEth": 2,
+      "currentMarketCap": 3785
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1615706826",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.994,
+    "isRugged": false
+  },
+  {
     "_id": "0x8669fa2b06829aa5fabc47b5e5d0e66b85f1522e",
     "tokenName": "🦀",
     "idPair": "0xaf093727cc35f39526e299a171b899a2782a05fb",
@@ -12,22 +43,22 @@
       "initialMarketCap": 1137.7123325
     },
     "currentInfos": {
-      "currentPoolToken": 2.521974043124666,
-      "currentPriceUSD": 451.11976294982054,
-      "currentPoolEth": 0.601169,
-      "currentMarketCap": 1137.7123325
+      "currentPoolToken": 2.1632182526709163,
+      "currentPriceUSD": 613.4204585513298,
+      "currentPoolEth": 0.701169,
+      "currentMarketCap": 1326.9623325
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 7,
     "holderCountOld": 0,
-    "txCount": 1,
+    "txCount": 2,
     "createdAtTimestamp": "1615706283",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.35977296702818695,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.8993438384496122,
-    "isRugged": true
-  },
-  {
-    "_id": "0x2aeccb42482cc64e087b6d2e5da39f5a7a7001f8",
-    "tokenName": "RULER",
-    "idPair": "0xe874dce5411fd70cb9b1deb530c7033ba1ce8609",
-    "idToken": "0x2aeccb42482cc64e087b6d2e5da39f5a7a7001f8",
-    "dateCreationToken": "2021-03-04T02:18:31Z",
-    "initialInfos": {
-      "initialPoolToken": 2,
-      "initialPriceUSD": 389.585,
-      "initialPoolEth": 0.5,
-      "initialMarketCap": 779.17
-    },
-    "currentInfos": {
-      "currentPoolToken": 7.73e-16,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.298e-15,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 761,
-    "holderCountOld": 760,
-    "txCount": 3,
-    "createdAtTimestamp": "1614824311",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
