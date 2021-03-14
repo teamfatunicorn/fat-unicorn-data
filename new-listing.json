@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc116f596fbd63378cd806c901618e61e8308cbd6",
+    "tokenName": "BCUG",
+    "idPair": "0xd080f42623a79712aa4738a746a7dddb36c173a9",
+    "idToken": "0xc116f596fbd63378cd806c901618e61e8308cbd6",
+    "dateCreationToken": "2021-03-14T05:49:08Z",
+    "initialInfos": {
+      "initialPoolToken": 500000,
+      "initialPriceUSD": 0.9852856,
+      "initialPoolEth": 260,
+      "initialMarketCap": 492443.13119079033
+    },
+    "currentInfos": {
+      "currentPoolToken": 500000,
+      "currentPriceUSD": 0.9852856,
+      "currentPoolEth": 260,
+      "currentMarketCap": 492642.8
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615700948",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x35608d223162f99f16c6b40705c0ce25feddfc3e",
     "tokenName": "KONO",
     "idPair": "0xc17e5c9fb11ab3de5bb2b02a5cba8786826ec6f3",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.6973135309487138,
-    "isRugged": true
-  },
-  {
-    "_id": "0xd6aa0e7b77a3dbebb0ccf19b10473f52ba9e895b",
-    "tokenName": "Waifus20",
-    "idPair": "0xdbcd07efd4f8c54023d438fb8a34f5ddadc067c8",
-    "idToken": "0xd6aa0e7b77a3dbebb0ccf19b10473f52ba9e895b",
-    "dateCreationToken": "2021-03-04T00:39:01Z",
-    "initialInfos": {
-      "initialPoolToken": 100,
-      "initialPriceUSD": 8.09915,
-      "initialPoolEth": 0.5,
-      "initialMarketCap": 790.839116739913
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.817e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 5.6e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 7,
-    "holderCountOld": 6,
-    "txCount": 20,
-    "createdAtTimestamp": "1614818341",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
