@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x35608d223162f99f16c6b40705c0ce25feddfc3e",
+    "tokenName": "KONO",
+    "idPair": "0xc17e5c9fb11ab3de5bb2b02a5cba8786826ec6f3",
+    "idToken": "0x35608d223162f99f16c6b40705c0ce25feddfc3e",
+    "dateCreationToken": "2021-03-14T05:25:50Z",
+    "initialInfos": {
+      "initialPoolToken": 2300000,
+      "initialPriceUSD": 0.189739,
+      "initialPoolEth": 230,
+      "initialMarketCap": 436399.7
+    },
+    "currentInfos": {
+      "currentPoolToken": 2300000,
+      "currentPriceUSD": 0.189494,
+      "currentPoolEth": 230,
+      "currentMarketCap": 435836.2
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615699550",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -0.0012912474504450599,
+    "isRugged": false
+  },
+  {
     "_id": "0xb664b1d4c5e1ca4ec4cc9303627b94dc531750a0",
     "tokenName": "INSUR",
     "idPair": "0x635133914fad801b66c92476da4440f11bf8694c",
@@ -230,7 +261,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 6506.730617354447,
-      "currentPriceUSD": 21.59557292892913,
+      "currentPriceUSD": 21.9827573039348,
       "currentPoolEth": 73.7929711038619,
       "currentMarketCap": 140516.575575974
     },
@@ -244,7 +275,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.44772066265023,
+    "priceChange": 0.4736766686240349,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xd0834d08c83dbe216811aaea0eeffb2349e57634",
-    "tokenName": "GreenCap",
-    "idPair": "0x2217b54f2f05cad79ebed177033a939aef844b19",
-    "idToken": "0xd0834d08c83dbe216811aaea0eeffb2349e57634",
-    "dateCreationToken": "2021-03-03T22:08:55Z",
-    "initialInfos": {
-      "initialPoolToken": 10996.942575955152,
-      "initialPriceUSD": 0.028802005449454635,
-      "initialPoolEth": 0.2,
-      "initialMarketCap": 317.83443938156694
-    },
-    "currentInfos": {
-      "currentPoolToken": 45884.76050950268,
-      "currentPriceUSD": 0.004313210194324344,
-      "currentPoolEth": 0.10418157721804791,
-      "currentMarketCap": 197.91061679371805
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3514,
-    "holderCountOld": 0,
-    "txCount": 5,
-    "createdAtTimestamp": "1614809335",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.8502461850479924,
-    "isRugged": false
   }
 ]
