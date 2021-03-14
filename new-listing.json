@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
+    "tokenName": "ETH2x-FLI",
+    "idPair": "0xf91c12dae1313d0be5d7a27aa559b1171cc1eac5",
+    "idToken": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
+    "dateCreationToken": "2021-03-14T20:19:09Z",
+    "initialInfos": {
+      "initialPoolToken": 100,
+      "initialPriceUSD": 104.524,
+      "initialPoolEth": 5.6,
+      "initialMarketCap": 10452.4
+    },
+    "currentInfos": {
+      "currentPoolToken": 98.25078512904187,
+      "currentPriceUSD": 108.28463086607142,
+      "currentPoolEth": 5.7,
+      "currentMarketCap": 10639.05
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1615753149",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.03597863520408158,
+    "isRugged": false
+  },
+  {
     "_id": "0xf8939164a46fbe9fc923f837221eb541e3c7e7b0",
     "tokenName": "PENKY",
     "idPair": "0xb92813b0ce9f96f870b864f3cb7024cd7051f794",
@@ -13,9 +44,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 2000,
-      "currentPriceUSD": 3.7344,
+      "currentPriceUSD": 3.733,
       "currentPoolEth": 4,
-      "currentMarketCap": 7468.8
+      "currentMarketCap": 7466
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": -0.0003748928877463169,
     "isRugged": false
   },
   {
@@ -44,9 +75,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 184239.939614544,
-      "currentPriceUSD": 0.458963899115889,
+      "currentPriceUSD": 0.45879183681437813,
       "currentPoolEth": 45.28678291472143,
-      "currentMarketCap": 84559.48105836705
+      "currentMarketCap": 84527.78031032675
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.14721308289066318,
+    "priceChange": -0.14753278664065053,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 2810579585.105587,
-    "isRugged": false
-  },
-  {
-    "_id": "0xf3dcbc6d72a4e1892f7917b7c43b74131df8480e",
-    "tokenName": "BDP",
-    "idPair": "0x80a0102a1e601c55fd3f136128bb2d222a879ff3",
-    "idToken": "0xf3dcbc6d72a4e1892f7917b7c43b74131df8480e",
-    "dateCreationToken": "2021-03-04T07:46:10Z",
-    "initialInfos": {
-      "initialPoolToken": 3.657337671368814,
-      "initialPriceUSD": 0.00043126452674786223,
-      "initialPoolEth": 0.000001,
-      "initialMarketCap": 0.0015785346703351237
-    },
-    "currentInfos": {
-      "currentPoolToken": 5311552.320834917,
-      "currentPriceUSD": 4.9156490010279255,
-      "currentPoolEth": 13935.29539282878,
-      "currentMarketCap": 26109726.859819718
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6406,
-    "holderCountOld": 6436,
-    "txCount": 39883,
-    "createdAtTimestamp": "1614843970",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 11397.222427651343,
     "isRugged": false
   }
 ]
