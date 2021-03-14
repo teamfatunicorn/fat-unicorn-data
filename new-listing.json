@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x21f9ad8d9ac703aa808cd575aa9f9254adc2ae5a",
+    "tokenName": "BCUG",
+    "idPair": "0x13bd5d5f9149e18312fb5acbb3f066ba27de8173",
+    "idToken": "0x21f9ad8d9ac703aa808cd575aa9f9254adc2ae5a",
+    "dateCreationToken": "2021-03-14T03:49:47Z",
+    "initialInfos": {
+      "initialPoolToken": 200000,
+      "initialPriceUSD": 2.300208,
+      "initialPoolEth": 240,
+      "initialMarketCap": 460041.6
+    },
+    "currentInfos": {
+      "currentPoolToken": 200000,
+      "currentPriceUSD": 2.300208,
+      "currentPoolEth": 240,
+      "currentMarketCap": 460041.6
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615693787",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x5fa739949431b728a2473817287957e49217953d",
     "tokenName": "BITE",
     "idPair": "0x45f47373d672bb1297394aae27f00eb3c5c93d92",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.8214195023164795,
-    "isRugged": false
-  },
-  {
-    "_id": "0xedb7b7842f7986a7f211d791e8f306c4ce82ba32",
-    "tokenName": "ZCK",
-    "idPair": "0xd899ea4b64c28fbe7a34dcf604e52cd918b5fd24",
-    "idToken": "0xedb7b7842f7986a7f211d791e8f306c4ce82ba32",
-    "dateCreationToken": "2021-03-03T18:18:14Z",
-    "initialInfos": {
-      "initialPoolToken": 16098154.49898699,
-      "initialPriceUSD": 0.011828210394,
-      "initialPoolEth": 119.24546963579623,
-      "initialMarketCap": 194150.11567518386
-    },
-    "currentInfos": {
-      "currentPoolToken": 6935113.4509402495,
-      "currentPriceUSD": 0.08200772044401552,
-      "currentPoolEth": 298.66030475152803,
-      "currentMarketCap": 568732.8451322397
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1001,
-    "holderCountOld": 993,
-    "txCount": 2401,
-    "createdAtTimestamp": "1614795494",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 5.933231462099703,
     "isRugged": false
   }
 ]
