@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xbc6819294c554f46bee6f5eb5260089a03e270a2",
+    "tokenName": "DEFLA",
+    "idPair": "0x0fbf9ea7283bebf0d64552f151c311631f484355",
+    "idToken": "0xbc6819294c554f46bee6f5eb5260089a03e270a2",
+    "dateCreationToken": "2021-03-14T18:26:49Z",
+    "initialInfos": {
+      "initialPoolToken": 170000,
+      "initialPriceUSD": 0.5381958235294118,
+      "initialPoolEth": 49,
+      "initialMarketCap": 91493.29
+    },
+    "currentInfos": {
+      "currentPoolToken": 170000,
+      "currentPriceUSD": 0.5381958235294118,
+      "currentPoolEth": 49,
+      "currentMarketCap": 91493.29
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615746409",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x283cd6c17a3f428a2fbaf907408f6c9e4e4c54e1",
     "tokenName": "BCUG",
     "idPair": "0x67974bcffcb429a242fb07c1b0df39b07bf60d50",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-14T17:24:21Z",
     "initialInfos": {
       "initialPoolToken": 480,
-      "initialPriceUSD": 0.778125,
+      "initialPriceUSD": 0.7780041666666667,
       "initialPoolEth": 0.2,
-      "initialMarketCap": 373.5
+      "initialMarketCap": 373.442
     },
     "currentInfos": {
       "currentPoolToken": 9714.93361582748,
-      "currentPriceUSD": 0.8782248072498378,
+      "currentPriceUSD": 0.8780884296358605,
       "currentPoolEth": 4.568618849909047,
-      "currentMarketCap": 8531.895702205058
+      "currentMarketCap": 8530.570802738584
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.1286423225700727,
+    "priceChange": 0.12864232257007255,
     "isRugged": false
   },
   {
@@ -540,7 +571,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 6510.623975055346,
-      "currentPriceUSD": 22.51254230412754,
+      "currentPriceUSD": 23.0285922220286,
       "currentPoolEth": 78.8289981255277,
       "currentMarketCap": 146570.69766470048
     },
@@ -554,7 +585,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.5091923131529071,
+    "priceChange": 0.5437871873691648,
     "isRugged": false
   },
   {
@@ -1811,7 +1842,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 11811.212474164377,
-      "currentPriceUSD": 4.305374856144779,
+      "currentPriceUSD": 4.24629205941605,
       "currentPoolEth": 27.349179663242797,
       "currentMarketCap": 50851.69720685087
     },
@@ -1825,7 +1856,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.09024347848558609,
+    "priceChange": -0.10272809630151353,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.20918913354168792,
     "isRugged": false
-  },
-  {
-    "_id": "0x69fad71310e710ffffa0d00a967923b86bc30731",
-    "tokenName": "LABS",
-    "idPair": "0x8a85c4039b0f634f11d7c35c7f709d6fb3c4f4e8",
-    "idToken": "0x69fad71310e710ffffa0d00a967923b86bc30731",
-    "dateCreationToken": "2021-03-04T06:39:07Z",
-    "initialInfos": {
-      "initialPoolToken": 60000000,
-      "initialPriceUSD": 0.0051425333333333335,
-      "initialPoolEth": 200,
-      "initialMarketCap": 308552
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.9291e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 19,
-    "holderCountOld": 0,
-    "txCount": 19,
-    "createdAtTimestamp": "1614839947",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
