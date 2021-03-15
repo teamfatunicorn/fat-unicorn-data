@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x36c3cd7c014467929d171aa113ad01b30f74cbf0",
+    "tokenName": "BCUG",
+    "idPair": "0x406f77d068022136368c1fe9777ad8a19609002e",
+    "idToken": "0x36c3cd7c014467929d171aa113ad01b30f74cbf0",
+    "dateCreationToken": "2021-03-15T20:52:47Z",
+    "initialInfos": {
+      "initialPoolToken": 48465,
+      "initialPriceUSD": 3.6942535850613845,
+      "initialPoolEth": 100,
+      "initialMarketCap": 179042
+    },
+    "currentInfos": {
+      "currentPoolToken": 48465,
+      "currentPriceUSD": 3.6942535850613845,
+      "currentPoolEth": 100,
+      "currentMarketCap": 179042
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615841567",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x6785b112d7fc6009569a331e8ec000d1354b558b",
     "tokenName": "VENCAP",
     "idPair": "0x390a8f8849673d3906865f8626d968d967788cc0",
@@ -44,7 +75,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 1.3361e-14,
-      "currentPriceUSD": 0,
+      "currentPriceUSD": 10.0491738432547,
       "currentPoolEth": 7.6e-17,
       "currentMarketCap": 0
     },
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -1,
+    "priceChange": 3.5149094049564122,
     "isRugged": true
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x201facbfe9c44aa8fb9e54b91cf0dfff21534a8b",
-    "tokenName": "FCOIN",
-    "idPair": "0x61113fc48980ac735f6bc35a8803744d53948ce1",
-    "idToken": "0x201facbfe9c44aa8fb9e54b91cf0dfff21534a8b",
-    "dateCreationToken": "2021-03-05T06:48:05Z",
-    "initialInfos": {
-      "initialPoolToken": 150,
-      "initialPriceUSD": 0.9823,
-      "initialPoolEth": 0.1,
-      "initialMarketCap": 147.345
-    },
-    "currentInfos": {
-      "currentPoolToken": 136.40083659179777,
-      "currentPriceUSD": 1.4453459738666667,
-      "currentPoolEth": 0.11,
-      "currentMarketCap": 197.1464
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 92,
-    "holderCountOld": 91,
-    "txCount": 2,
-    "createdAtTimestamp": "1614926885",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.4713895692422547,
-    "isRugged": false
   }
 ]
