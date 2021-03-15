@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xd4741f784dc651a5a93a1ea99ca4cb2c6aad1e9d",
+    "tokenName": "NICO",
+    "idPair": "0x01663351a8e9d8faa015456d41dc19db760e2e71",
+    "idToken": "0xd4741f784dc651a5a93a1ea99ca4cb2c6aad1e9d",
+    "dateCreationToken": "2021-03-15T02:51:49Z",
+    "initialInfos": {
+      "initialPoolToken": 2000,
+      "initialPriceUSD": 0.94278,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1883.877129265243
+    },
+    "currentInfos": {
+      "currentPoolToken": 2000,
+      "currentPriceUSD": 0.94278,
+      "currentPoolEth": 1,
+      "currentMarketCap": 1885.56
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": null,
+    "txCount": 1,
+    "createdAtTimestamp": "1615776709",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xf2df8458130f00c94bcde2dd3f288cf608187f87",
     "tokenName": "FEAST",
     "idPair": "0x96977cde397ee7acf7876d6be0f13bbf2bc6bbf5",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-14T22:11:58Z",
     "initialInfos": {
       "initialPoolToken": 490000000000000,
-      "initialPriceUSD": 1.1541551020408163e-11,
+      "initialPriceUSD": 1.1544244897959183e-11,
       "initialPoolEth": 3,
       "initialMarketCap": 5619.676480705699
     },
     "currentInfos": {
       "currentPoolToken": 89903088210989.2,
-      "currentPriceUSD": 3.491154793500568e-10,
+      "currentPriceUSD": 3.491969653089952e-10,
       "currentPoolEth": 16.64963489636201,
-      "currentMarketCap": 31386.559735829935
+      "currentMarketCap": 31393.885575184333
     },
     "trustScore": null,
     "contractId": null,
@@ -38,27 +69,27 @@
     "dateCreationToken": "2021-03-14T21:47:26Z",
     "initialInfos": {
       "initialPoolToken": 1640799,
-      "initialPriceUSD": 0.4795523936813711,
+      "initialPriceUSD": 0.4796643245150686,
       "initialPoolEth": 417.4,
       "initialMarketCap": 778825.7276458348
     },
     "currentInfos": {
-      "currentPoolToken": 1417610.59237754,
-      "currentPriceUSD": 0.7600788028468529,
-      "currentPoolEth": 571.5794018191616,
-      "currentMarketCap": 1077495.7619573388
+      "currentPoolToken": 1419443.6681670996,
+      "currentPriceUSD": 0.7582968197588895,
+      "currentPoolEth": 570.843473237661,
+      "currentMarketCap": 1076359.6193980041
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1322,
     "holderCountOld": 0,
-    "txCount": 1913,
+    "txCount": 1914,
     "createdAtTimestamp": "1615758446",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.5849755164643635,
+    "priceChange": 0.58089059578386,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x661229dae05e769d03cee7ca447d9a7d5619d082",
-    "tokenName": "LSD",
-    "idPair": "0x66c3870cf8328b372e05b557dc2907ff9187f3d0",
-    "idToken": "0x661229dae05e769d03cee7ca447d9a7d5619d082",
-    "dateCreationToken": "2021-03-04T10:56:33Z",
-    "initialInfos": {
-      "initialPoolToken": 100,
-      "initialPriceUSD": 0.154814,
-      "initialPoolEth": 0.01,
-      "initialMarketCap": 15.4814
-    },
-    "currentInfos": {
-      "currentPoolToken": 10012.5,
-      "currentPriceUSD": 0.000018896292901402246,
-      "currentPoolEth": 0.000100172672644471,
-      "currentMarketCap": 0.18919913267529
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 5,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1614855393",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.99987794196325,
     "isRugged": true
   }
 ]
