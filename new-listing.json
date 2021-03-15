@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xadfe63ac927bb0af4be1ff4761edb672cee7d005",
+    "tokenName": "INSUR",
+    "idPair": "0x811f07a2bd1d552b85fefb4b36767fd298f8dfa2",
+    "idToken": "0xadfe63ac927bb0af4be1ff4761edb672cee7d005",
+    "dateCreationToken": "2021-03-15T14:52:28Z",
+    "initialInfos": {
+      "initialPoolToken": 135000,
+      "initialPriceUSD": 3.9885333333333333,
+      "initialPoolEth": 300,
+      "initialMarketCap": 538452
+    },
+    "currentInfos": {
+      "currentPoolToken": 135000,
+      "currentPriceUSD": 3.9885333333333333,
+      "currentPoolEth": 300,
+      "currentMarketCap": 538452
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615819948",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xd609161e0216b0b2da366dfb7ad5b1c5f8867beb",
     "tokenName": "BCUG",
     "idPair": "0x5078ca11d4b61858671f29e7dafb34dbb938d370",
@@ -43,22 +74,22 @@
       "initialMarketCap": 152112.69
     },
     "currentInfos": {
-      "currentPoolToken": 19736513.54924024,
-      "currentPriceUSD": 0.025018387162728414,
-      "currentPoolEth": 275.108498371625,
-      "currentMarketCap": 493775.7372173274
+      "currentPoolToken": 19578994.78103548,
+      "currentPriceUSD": 0.025423178645487248,
+      "currentPoolEth": 277.32849837162496,
+      "currentMarketCap": 497760.28201732744
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 3861,
     "holderCountOld": 0,
-    "txCount": 4556,
+    "txCount": 4558,
     "createdAtTimestamp": "1615802673",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.08386341271828,
+    "priceChange": 2.133759580498418,
     "isRugged": false
   },
   {
@@ -74,22 +105,22 @@
       "initialMarketCap": 8974.2
     },
     "currentInfos": {
-      "currentPoolToken": 145931.6848708358,
-      "currentPriceUSD": 0.8740746250261612,
-      "currentPoolEth": 71.06771786505311,
-      "currentMarketCap": 127555.18273291172
+      "currentPoolToken": 146981.6848708358,
+      "currentPriceUSD": 0.8616493616873621,
+      "currentPoolEth": 70.56154027583976,
+      "currentMarketCap": 126646.67494868867
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1330,
     "holderCountOld": 0,
-    "txCount": 1239,
+    "txCount": 1240,
     "createdAtTimestamp": "1615799811",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.5130069393226353,
+    "priceChange": -0.5199297086718805,
     "isRugged": false
   },
   {
@@ -261,7 +292,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 1644377.4721602828,
-      "currentPriceUSD": 0.587578882822529,
+      "currentPriceUSD": 0.579544655658861,
       "currentPoolEth": 539.6537541850595,
       "currentMarketCap": 966201.4780304732
     },
@@ -275,7 +306,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.22497932990234365,
+    "priceChange": 0.20822964318801396,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.21070375792759344,
-    "isRugged": false
-  },
-  {
-    "_id": "0xc4479182f9f10a1185712293800466792bb471de",
-    "tokenName": "ARTB20",
-    "idPair": "0x7f44c0b2b58e667cff8b92908ed0cd39fa5f2b13",
-    "idToken": "0xc4479182f9f10a1185712293800466792bb471de",
-    "dateCreationToken": "2021-03-04T21:47:02Z",
-    "initialInfos": {
-      "initialPoolToken": 285,
-      "initialPriceUSD": 2.3429052631578946,
-      "initialPoolEth": 0.45,
-      "initialMarketCap": 686.0017618724972
-    },
-    "currentInfos": {
-      "currentPoolToken": 425.7165904722223,
-      "currentPriceUSD": 2.262674341575298,
-      "currentPoolEth": 0.538009732991445,
-      "currentMarketCap": 963.2580060444163
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 8,
-    "holderCountOld": 0,
-    "txCount": 15,
-    "createdAtTimestamp": "1614894422",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.03424420220664711,
     "isRugged": false
   }
 ]
