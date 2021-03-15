@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x6785b112d7fc6009569a331e8ec000d1354b558b",
+    "tokenName": "VENCAP",
+    "idPair": "0x390a8f8849673d3906865f8626d968d967788cc0",
+    "idToken": "0x6785b112d7fc6009569a331e8ec000d1354b558b",
+    "dateCreationToken": "2021-03-15T19:16:11Z",
+    "initialInfos": {
+      "initialPoolToken": 50000,
+      "initialPriceUSD": 0.04290648,
+      "initialPoolEth": 1.2,
+      "initialMarketCap": 2145.324
+    },
+    "currentInfos": {
+      "currentPoolToken": 27309.968138370506,
+      "currentPriceUSD": 0.14401679196666667,
+      "currentPoolEth": 2.2,
+      "currentMarketCap": 3933.094
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1615835771",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.356527777777778,
+    "isRugged": false
+  },
+  {
+    "_id": "0x1572de1304b3534dd2b2ae0e502df295caa8fb67",
+    "tokenName": "BCUG",
+    "idPair": "0x603f37df4a78a14023ad6a9696d7247df7edbaa7",
+    "idToken": "0x1572de1304b3534dd2b2ae0e502df295caa8fb67",
+    "dateCreationToken": "2021-03-15T19:14:14Z",
+    "initialInfos": {
+      "initialPoolToken": 48465,
+      "initialPriceUSD": 2.2132714329928813,
+      "initialPoolEth": 60,
+      "initialMarketCap": 107266.2
+    },
+    "currentInfos": {
+      "currentPoolToken": 48224.60036716966,
+      "currentPriceUSD": 2.2354261140417826,
+      "currentPoolEth": 60.3,
+      "currentMarketCap": 107802.531
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1615835654",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.010009925000000006,
+    "isRugged": false
+  },
+  {
     "_id": "0xd5cd84d6f044abe314ee7e414d37cae8773ef9d3",
     "tokenName": "1ONE",
     "idPair": "0x6db4a71b453880506bc09dc02920d9659aef6184",
@@ -7,15 +69,15 @@
     "dateCreationToken": "2021-03-15T18:26:45Z",
     "initialInfos": {
       "initialPoolToken": 2000,
-      "initialPriceUSD": 0.089409,
+      "initialPriceUSD": 0.0893885,
       "initialPoolEth": 0.1,
       "initialMarketCap": 177.10551537735626
     },
     "currentInfos": {
       "currentPoolToken": 1094.3090475170213,
-      "currentPriceUSD": 0.2991607437399709,
+      "currentPriceUSD": 0.2990921511458622,
       "currentPoolEth": 0.18307682030651354,
-      "currentMarketCap": 327.3743085365713
+      "currentMarketCap": 327.2992470402454
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.345980200426925,
+    "priceChange": 2.3459802004269252,
     "isRugged": false
   },
   {
@@ -6136,67 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.4590666898096305,
     "isRugged": false
-  },
-  {
-    "_id": "0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68",
-    "tokenName": "INV",
-    "idPair": "0x73e02eaab68a41ea63bdae9dbd4b7678827b2352",
-    "idToken": "0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68",
-    "dateCreationToken": "2021-03-05T05:43:36Z",
-    "initialInfos": {
-      "initialPoolToken": 10,
-      "initialPriceUSD": 48.84099,
-      "initialPoolEth": 0.33,
-      "initialMarketCap": 488.4099
-    },
-    "currentInfos": {
-      "currentPoolToken": 488.054900786176,
-      "currentPriceUSD": 1388.3389147347127,
-      "currentPoolEth": 381.25938189679266,
-      "currentMarketCap": 677585.6112884374
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2236,
-    "holderCountOld": 2235,
-    "txCount": 17906,
-    "createdAtTimestamp": "1614923016",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 27.425691509011443,
-    "isRugged": false
-  },
-  {
-    "_id": "0x2ef62a54197e14fbced11e3a5cdfea1cc2dd0da2",
-    "tokenName": "YIELD",
-    "idPair": "0x689538819d3d7c550c6d0607f45be6de6e028300",
-    "idToken": "0x2ef62a54197e14fbced11e3a5cdfea1cc2dd0da2",
-    "dateCreationToken": "2021-03-05T05:14:20Z",
-    "initialInfos": {
-      "initialPoolToken": 13000000,
-      "initialPriceUSD": 0.022769692307692307,
-      "initialPoolEth": 200,
-      "initialMarketCap": 296006
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.2502e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 5e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 23,
-    "holderCountOld": 0,
-    "txCount": 24,
-    "createdAtTimestamp": "1614921260",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
