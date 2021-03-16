@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7a2e3afa1641a4dd9e6b1cbd179b389486c9c465",
+    "tokenName": "HFI",
+    "idPair": "0xc0cebebc6f6b814b76cd7b61a00b098f892614e5",
+    "idToken": "0x7a2e3afa1641a4dd9e6b1cbd179b389486c9c465",
+    "dateCreationToken": "2021-03-16T04:12:15Z",
+    "initialInfos": {
+      "initialPoolToken": 1747,
+      "initialPriceUSD": 1.001705781339439,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1749.98
+    },
+    "currentInfos": {
+      "currentPoolToken": 874.8122183274912,
+      "currentPriceUSD": 4.000812890669719,
+      "currentPoolEth": 2,
+      "currentMarketCap": 3499.96
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1615867935",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.994,
+    "isRugged": false
+  },
+  {
     "_id": "0xf0ef10771bcf1196777e83a4ae984767b6e7a90b",
     "tokenName": "GALA",
     "idPair": "0x830df1e4053180e420cd0975af9fad43c3f471b1",
@@ -43,22 +74,22 @@
       "initialMarketCap": 120981.017344
     },
     "currentInfos": {
-      "currentPoolToken": 8400586.596924366,
-      "currentPriceUSD": 0.020145535030871894,
-      "currentPoolEth": 96.70642611241998,
-      "currentMarketCap": 169234.31156821275
+      "currentPoolToken": 8300586.596924366,
+      "currentPriceUSD": 0.020634598285333934,
+      "currentPoolEth": 97.87498711994519,
+      "currentMarketCap": 171279.26996016136
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 85,
     "holderCountOld": 0,
-    "txCount": 81,
+    "txCount": 82,
     "createdAtTimestamp": "1615865777",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.8886654938927419,
+    "priceChange": 0.9345156980008907,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.3870193900677259,
-    "isRugged": true
-  },
-  {
-    "_id": "0xf849457ec8e4ea96c6eb427a518c5bce3700c0b3",
-    "tokenName": "AXF",
-    "idPair": "0x3acf499cf1ac71a5f77faa5cdf0e6c69e8c21d90",
-    "idToken": "0xf849457ec8e4ea96c6eb427a518c5bce3700c0b3",
-    "dateCreationToken": "2021-03-05T13:10:46Z",
-    "initialInfos": {
-      "initialPoolToken": 5000,
-      "initialPriceUSD": 0.00301804,
-      "initialPoolEth": 0.01,
-      "initialMarketCap": 14.850811578571447
-    },
-    "currentInfos": {
-      "currentPoolToken": 4642.927398516295,
-      "currentPriceUSD": 0.004897563783148825,
-      "currentPoolEth": 0.013036941333936965,
-      "currentMarketCap": 22.7390330747628
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 4,
-    "createdAtTimestamp": "1614949846",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.6227630459333955,
     "isRugged": true
   }
 ]
