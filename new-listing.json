@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xdbc1d04d975ec96d94c34a445920a25a3887b10b",
+    "tokenName": "DORA",
+    "idPair": "0x65f05ac0d0d8e995c40abe0c1221841780ffcdaf",
+    "idToken": "0xdbc1d04d975ec96d94c34a445920a25a3887b10b",
+    "dateCreationToken": "2021-03-16T06:05:34Z",
+    "initialInfos": {
+      "initialPoolToken": 500000,
+      "initialPriceUSD": 0.1400496,
+      "initialPoolEth": 40,
+      "initialMarketCap": 69907.43981513267
+    },
+    "currentInfos": {
+      "currentPoolToken": 484073.49784732517,
+      "currentPriceUSD": 0.1494310651619568,
+      "currentPoolEth": 41.32,
+      "currentMarketCap": 72335.6184
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": null,
+    "txCount": 2,
+    "createdAtTimestamp": "1615874734",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.0669867330000001,
+    "isRugged": false
+  },
+  {
     "_id": "0xe898fea320cd566e4eecb7357760eddb15babf56",
     "tokenName": "DORA",
     "idPair": "0xbc3140eb0bd360d73a40e6094a576b3acf3d3e24",
@@ -105,22 +136,22 @@
       "initialMarketCap": 350124
     },
     "currentInfos": {
-      "currentPoolToken": 2660998.422285239,
-      "currentPriceUSD": 0.14839161267179168,
-      "currentPoolEth": 225.56,
-      "currentMarketCap": 394869.8472
+      "currentPoolToken": 2623999.631943765,
+      "currentPriceUSD": 0.15261218794583356,
+      "currentPoolEth": 228.75,
+      "currentMarketCap": 400454.325
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 17,
     "holderCountOld": 0,
-    "txCount": 18,
+    "txCount": 19,
     "createdAtTimestamp": "1615872286",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.2714776422506741,
+    "priceChange": 0.30764118951428826,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.05430915166323718,
-    "isRugged": true
-  },
-  {
-    "_id": "0x7f0a2fb10d6ba34eb1573a3c86dfe8053ae8c4df",
-    "tokenName": "3DS",
-    "idPair": "0xce68946b646f3ecc28419bbaf3d1cc2595d99b64",
-    "idToken": "0x7f0a2fb10d6ba34eb1573a3c86dfe8053ae8c4df",
-    "dateCreationToken": "2021-03-05T17:40:54Z",
-    "initialInfos": {
-      "initialPoolToken": 1,
-      "initialPriceUSD": 153.441,
-      "initialPoolEth": 0.1,
-      "initialMarketCap": 153.441
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.000001,
-      "currentPriceUSD": 0.51602875,
-      "currentPoolEth": 2.95496199e-10,
-      "currentMarketCap": 5.1602875e-7
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 4,
-    "createdAtTimestamp": "1614966054",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9966369565500746,
     "isRugged": true
   }
 ]
