@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xcf52e78271fbd7598c96e940861a79c2d6823402",
+    "tokenName": "ZRO",
+    "idPair": "0xa4e15e6bcc94d149692257a048faee56bb07a6f0",
+    "idToken": "0xcf52e78271fbd7598c96e940861a79c2d6823402",
+    "dateCreationToken": "2021-03-16T11:47:35Z",
+    "initialInfos": {
+      "initialPoolToken": 100000,
+      "initialPriceUSD": 0.001070436,
+      "initialPoolEth": 0.06,
+      "initialMarketCap": 107.07697021529016
+    },
+    "currentInfos": {
+      "currentPoolToken": 100000,
+      "currentPriceUSD": 0.001070436,
+      "currentPoolEth": 0.06,
+      "currentMarketCap": 107.0436
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 6,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615895255",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x298d492e8c1d909d3f63bc4a36c66c64acb3d695",
     "tokenName": "PBR",
     "idPair": "0xcb37b0027858796ce60ecce4b54c45afdff02aca",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 12.75564602956775,
-    "isRugged": false
-  },
-  {
-    "_id": "0x56779592815d1d9298d5c88fc64413b1eaaf00dc",
-    "tokenName": "DINO",
-    "idPair": "0x7efdfdddaa7fe139c829b6862c6c22a2fcd47b07",
-    "idToken": "0x56779592815d1d9298d5c88fc64413b1eaaf00dc",
-    "dateCreationToken": "2021-03-06T05:11:19Z",
-    "initialInfos": {
-      "initialPoolToken": 999999500000000,
-      "initialPriceUSD": 1.5819807909903956e-12,
-      "initialPoolEth": 1,
-      "initialMarketCap": 1581.98
-    },
-    "currentInfos": {
-      "currentPoolToken": 610697201118559.8,
-      "currentPriceUSD": 4.8486847744105755e-12,
-      "currentPoolEth": 1.646186641188562,
-      "currentMarketCap": 2961.0782208387136
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 9,
-    "holderCountOld": 8,
-    "txCount": 16,
-    "createdAtTimestamp": "1615007479",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 2.0649454165464722,
     "isRugged": false
   }
 ]
