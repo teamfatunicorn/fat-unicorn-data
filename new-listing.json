@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x15523c808502cad025d6932c85877fcca875e86c",
+    "tokenName": "TOOLS",
+    "idPair": "0x173d53e71d8054abc10c404f9ca447b2bbeb5143",
+    "idToken": "0x15523c808502cad025d6932c85877fcca875e86c",
+    "dateCreationToken": "2021-03-16T12:54:30Z",
+    "initialInfos": {
+      "initialPoolToken": 670286,
+      "initialPriceUSD": 0.3651507267047201,
+      "initialPoolEth": 138,
+      "initialMarketCap": 244755.42
+    },
+    "currentInfos": {
+      "currentPoolToken": 670286,
+      "currentPriceUSD": 0.3651507267047201,
+      "currentPoolEth": 138,
+      "currentMarketCap": 244755.42
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615899270",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x141c1a97a47ae020939ab1110a954633a0bc920a",
     "tokenName": "OXY",
     "idPair": "0xbd842ac2b77c91ab7f2369fe9980df91ea393ed7",
@@ -12,22 +43,22 @@
       "initialMarketCap": 425661.6
     },
     "currentInfos": {
-      "currentPoolToken": 2495044.1802699855,
-      "currentPriceUSD": 0.19700929043030316,
-      "currentPoolEth": 277.14797870265767,
-      "currentMarketCap": 491546.8835472472
+      "currentPoolToken": 2475099.6346236942,
+      "currentPriceUSD": 0.20020193054676133,
+      "currentPoolEth": 279.3879787026577,
+      "currentMarketCap": 495519.7251472472
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 14,
     "holderCountOld": 0,
-    "txCount": 17,
+    "txCount": 18,
     "createdAtTimestamp": "1615897587",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.33295264698359694,
+    "priceChange": 0.35455385210851204,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 3.1230320092114425,
-    "isRugged": false
-  },
-  {
-    "_id": "0x5467e9b502bc44d99d84543e288c4e340baf3064",
-    "tokenName": "COV19",
-    "idPair": "0x21e82d1e78852a7e9e4958eea658230f9f73b5aa",
-    "idToken": "0x5467e9b502bc44d99d84543e288c4e340baf3064",
-    "dateCreationToken": "2021-03-06T07:19:39Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000,
-      "initialPriceUSD": 0.00078495,
-      "initialPoolEth": 0.5,
-      "initialMarketCap": 784.95
-    },
-    "currentInfos": {
-      "currentPoolToken": 979253.3651798702,
-      "currentPriceUSD": 0.0009338369683131297,
-      "currentPoolEth": 0.510625,
-      "currentMarketCap": 914.46299375
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 5,
-    "holderCountOld": 0,
-    "txCount": 3,
-    "createdAtTimestamp": "1615015179",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.1896770091255873,
     "isRugged": false
   }
 ]
