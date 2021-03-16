@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc93a8c297cd525038cb8adfc54ee10a097a55193",
+    "tokenName": "DAFI",
+    "idPair": "0xed04c721d26dd9988d286ec18b2606778ce7e8e1",
+    "idToken": "0xc93a8c297cd525038cb8adfc54ee10a097a55193",
+    "dateCreationToken": "2021-03-16T07:20:38Z",
+    "initialInfos": {
+      "initialPoolToken": 50000000,
+      "initialPriceUSD": 0.002160672,
+      "initialPoolEth": 60,
+      "initialMarketCap": 107926.10251844494
+    },
+    "currentInfos": {
+      "currentPoolToken": 50000000,
+      "currentPriceUSD": 0.002160672,
+      "currentPoolEth": 60,
+      "currentMarketCap": 108033.6
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615879238",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x7987573bc45486db9fb65221bf41e3731bdf1cb0",
     "tokenName": "L3P",
     "idPair": "0xef60522fbbf824b8f3796e28b8f6db394857117f",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.24662850516898804,
     "isRugged": false
-  },
-  {
-    "_id": "0x20557ad4df63385d055d0610fd77ac88275cd063",
-    "tokenName": "PASS",
-    "idPair": "0xea635a464c6a85d64d07402dbb7b1e63e1b339b0",
-    "idToken": "0x20557ad4df63385d055d0610fd77ac88275cd063",
-    "dateCreationToken": "2021-03-05T18:38:32Z",
-    "initialInfos": {
-      "initialPoolToken": 1,
-      "initialPriceUSD": 15.3441,
-      "initialPoolEth": 0.01,
-      "initialMarketCap": 15.3441
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.1,
-      "currentPriceUSD": 14.745674439942219,
-      "currentPoolEth": 0.009093389106119851,
-      "currentMarketCap": 16.22024188393644
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 40,
-    "holderCountOld": 39,
-    "txCount": 2,
-    "createdAtTimestamp": "1614969512",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.03900036887518853,
-    "isRugged": true
   }
 ]
