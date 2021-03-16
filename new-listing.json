@@ -7,15 +7,15 @@
     "dateCreationToken": "2021-03-16T14:55:30Z",
     "initialInfos": {
       "initialPoolToken": 452489,
-      "initialPriceUSD": 0.3974173957819969,
+      "initialPriceUSD": 0.39790359544651915,
       "initialPoolEth": 100,
-      "initialMarketCap": 179827
+      "initialMarketCap": 180047
     },
     "currentInfos": {
       "currentPoolToken": 444511.9352280594,
-      "currentPriceUSD": 0.4118312051758026,
+      "currentPriceUSD": 0.4123350386665391,
       "currentPoolEth": 101.8,
-      "currentMarketCap": 183063.886
+      "currentMarketCap": 183287.846
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +27,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.03626869268126436,
+    "priceChange": 0.036268692681264335,
     "isRugged": false
   },
   {
@@ -121,6 +121,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.1162077236523037,
+    "isRugged": false
+  },
+  {
+    "_id": "0x850aab69f0e0171a9a49db8be3e71351c8247df4",
+    "tokenName": "KONO",
+    "idPair": "0x974bfcc7b25f979950b58ce0cf8d9c621a9c771e",
+    "idToken": "0x850aab69f0e0171a9a49db8be3e71351c8247df4",
+    "dateCreationToken": "2021-03-16T13:13:20Z",
+    "initialInfos": {
+      "initialPoolToken": 315000,
+      "initialPriceUSD": 0.39961555555555556,
+      "initialPoolEth": 70,
+      "initialMarketCap": 125878.9
+    },
+    "currentInfos": {
+      "currentPoolToken": 79889.8658279804,
+      "currentPriceUSD": 6.334347387102865,
+      "currentPoolEth": 281.4094451130624,
+      "currentMarketCap": 506050.162863466
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 10,
+    "holderCountOld": 0,
+    "txCount": 239,
+    "createdAtTimestamp": "1615900400",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 14.851103139107527,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x41beb87b9fff0aacc2fa5f12c6c77e0e43ba6c0d",
-    "tokenName": "AMZ",
-    "idPair": "0xe6419b14d11a951c3c417d969e502dd316890f65",
-    "idToken": "0x41beb87b9fff0aacc2fa5f12c6c77e0e43ba6c0d",
-    "dateCreationToken": "2021-03-06T13:43:14Z",
-    "initialInfos": {
-      "initialPoolToken": 0.01,
-      "initialPriceUSD": 154.745,
-      "initialPoolEth": 0.001,
-      "initialMarketCap": 1.54745
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.04,
-      "currentPriceUSD": 179.297,
-      "currentPoolEth": 0.004,
-      "currentMarketCap": 7.17188
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1615038194",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.15866102297327855,
     "isRugged": true
   }
 ]
