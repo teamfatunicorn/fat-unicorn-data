@@ -51,7 +51,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 20,
+    "holderCount": 21,
     "holderCountOld": 0,
     "txCount": 15,
     "createdAtTimestamp": "1615906530",
@@ -155,6 +155,37 @@
     "isRugged": false
   },
   {
+    "_id": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
+    "tokenName": "PKF",
+    "idPair": "0xfe903a12359496b932e24c5e9b78f1b9060a6342",
+    "idToken": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
+    "dateCreationToken": "2021-03-16T13:13:20Z",
+    "initialInfos": {
+      "initialPoolToken": 1600000,
+      "initialPriceUSD": 0.1248958125,
+      "initialPoolEth": 111,
+      "initialMarketCap": 199833.3
+    },
+    "currentInfos": {
+      "currentPoolToken": 581540.5584440734,
+      "currentPriceUSD": 0.9937556684599683,
+      "currentPoolEth": 321.00718013285166,
+      "currentMarketCap": 577909.2263931734
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 850,
+    "holderCountOld": 0,
+    "txCount": 1190,
+    "createdAtTimestamp": "1615900400",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 6.956677238157751,
+    "isRugged": false
+  },
+  {
     "_id": "0x850aab69f0e0171a9a49db8be3e71351c8247df4",
     "tokenName": "KONO",
     "idPair": "0x974bfcc7b25f979950b58ce0cf8d9c621a9c771e",
@@ -168,7 +199,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 107982.29641893115,
-      "currentPriceUSD": 4.528087706494519,
+      "currentPriceUSD": 4.15117122388918,
       "currentPoolEth": 271.1797216585191,
       "currentMarketCap": 488953.3089336093
     },
@@ -182,7 +213,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 10.331109721691035,
+    "priceChange": 9.387911997364862,
     "isRugged": false
   },
   {
@@ -4322,7 +4353,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 27436.340204459175,
-      "currentPriceUSD": 16.51965066874378,
+      "currentPriceUSD": 16.7010206331442,
       "currentPoolEth": 251.37197642145873,
       "currentMarketCap": 453238.7558064759
     },
@@ -4336,7 +4367,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 5.580960366054956,
+    "priceChange": 5.653213016625244,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.1267601027313349,
-    "isRugged": false
-  },
-  {
-    "_id": "0xec02f6e35183d46da66c55f2aac1ad6f45474a8c",
-    "tokenName": "APING",
-    "idPair": "0x5421d5e6128a6be3eecfa06afd05f72cd7ab0284",
-    "idToken": "0xec02f6e35183d46da66c55f2aac1ad6f45474a8c",
-    "dateCreationToken": "2021-03-06T14:20:26Z",
-    "initialInfos": {
-      "initialPoolToken": 3342,
-      "initialPriceUSD": 74.87676226810294,
-      "initialPoolEth": 161.71,
-      "initialMarketCap": 249096.84409954617
-    },
-    "currentInfos": {
-      "currentPoolToken": 3564.7290067484832,
-      "currentPriceUSD": 77.92662520889793,
-      "currentPoolEth": 154.0643690615821,
-      "currentMarketCap": 277787.30128017603
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 172,
-    "holderCountOld": 174,
-    "txCount": 601,
-    "createdAtTimestamp": "1615040426",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.04073176842068422,
     "isRugged": false
   }
 ]
