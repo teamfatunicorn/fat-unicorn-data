@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x5bc0531961ac966486f53e34e6fb3b16eaf3ab4c",
+    "tokenName": "rDAO",
+    "idPair": "0x5d251de31f30fa78afa15417596ba38aa5d6a493",
+    "idToken": "0x5bc0531961ac966486f53e34e6fb3b16eaf3ab4c",
+    "dateCreationToken": "2021-03-16T15:35:49Z",
+    "initialInfos": {
+      "initialPoolToken": 50000,
+      "initialPriceUSD": 0.022230968,
+      "initialPoolEth": 0.62,
+      "initialMarketCap": 1111.5484
+    },
+    "currentInfos": {
+      "currentPoolToken": 34569.13324180362,
+      "currentPriceUSD": 0.046655958489279496,
+      "currentPoolEth": 0.899619619114211,
+      "currentMarketCap": 1612.8560455399615
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 41,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1615908949",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.098692170726866,
+    "isRugged": false
+  },
+  {
     "_id": "0x78425c8a27e98c7bfe520447cb0a1b250af9b1f4",
     "tokenName": "KONO",
     "idPair": "0x511a932541660a91ace1c93fe2c51a136acd981b",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-03-16T14:55:30Z",
     "initialInfos": {
       "initialPoolToken": 452489,
-      "initialPriceUSD": 0.3961355966664383,
+      "initialPriceUSD": 0.39621294661306683,
       "initialPoolEth": 100,
-      "initialMarketCap": 179247
+      "initialMarketCap": 179282
     },
     "currentInfos": {
-      "currentPoolToken": 434787.8411983617,
-      "currentPriceUSD": 0.4290985491163247,
-      "currentPoolEth": 104.08365653630803,
-      "currentMarketCap": 186566.831831636
+      "currentPoolToken": 432921.74284640496,
+      "currentPriceUSD": 0.4328958598365303,
+      "currentPoolEth": 104.53365653630803,
+      "currentMarketCap": 187410.03011142372
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 15,
     "holderCountOld": 0,
-    "txCount": 8,
+    "txCount": 9,
     "createdAtTimestamp": "1615906530",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.08321128605274646,
+    "priceChange": 0.09258383285311272,
     "isRugged": false
   },
   {
@@ -38,9 +69,9 @@
     "dateCreationToken": "2021-03-16T14:04:34Z",
     "initialInfos": {
       "initialPoolToken": 452489,
-      "initialPriceUSD": 0.3961355966664383,
+      "initialPriceUSD": 0.39620189662069133,
       "initialPoolEth": 100,
-      "initialMarketCap": 179247
+      "initialMarketCap": 179277
     },
     "currentInfos": {
       "currentPoolToken": 6.557e-14,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.034907789438639945,
     "isRugged": false
-  },
-  {
-    "_id": "0x2abc5c16dbbdbe66eca29506d3a1477d212eefa3",
-    "tokenName": "INV",
-    "idPair": "0xc517250162bb296068e16c3bb0606cd74b81316d",
-    "idToken": "0x2abc5c16dbbdbe66eca29506d3a1477d212eefa3",
-    "dateCreationToken": "2021-03-06T13:53:26Z",
-    "initialInfos": {
-      "initialPoolToken": 1300,
-      "initialPriceUSD": 416.62115384615385,
-      "initialPoolEth": 350,
-      "initialMarketCap": 541607.5
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.772e-15,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 5.65e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 14,
-    "holderCountOld": 0,
-    "txCount": 15,
-    "createdAtTimestamp": "1615038806",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
