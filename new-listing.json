@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x832f8716009bedea6eacf012e6dc8a7927c1bc9c",
+    "tokenName": "DAFI",
+    "idPair": "0x1748d9178005d3142307c8a2a4e677ea027089e6",
+    "idToken": "0x832f8716009bedea6eacf012e6dc8a7927c1bc9c",
+    "dateCreationToken": "2021-03-16T08:22:06Z",
+    "initialInfos": {
+      "initialPoolToken": 550000000,
+      "initialPriceUSD": 0.0009922854545454545,
+      "initialPoolEth": 300,
+      "initialMarketCap": 545757
+    },
+    "currentInfos": {
+      "currentPoolToken": 550000000,
+      "currentPriceUSD": 0.0009924436363636365,
+      "currentPoolEth": 300,
+      "currentMarketCap": 545844
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615882926",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.00015941160626443263,
+    "isRugged": false
+  },
+  {
     "_id": "0xc93a8c297cd525038cb8adfc54ee10a097a55193",
     "tokenName": "DAFI",
     "idPair": "0xed04c721d26dd9988d286ec18b2606778ce7e8e1",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xd23ac27148af6a2f339bd82d0e3cff380b5093de",
-    "tokenName": "SI",
-    "idPair": "0x5d8a31269a9f3336e3f23de17b2ec7393bdd6916",
-    "idToken": "0xd23ac27148af6a2f339bd82d0e3cff380b5093de",
-    "dateCreationToken": "2021-03-05T22:09:36Z",
-    "initialInfos": {
-      "initialPoolToken": 12600,
-      "initialPriceUSD": 2.1871428571428573,
-      "initialPoolEth": 18,
-      "initialMarketCap": 27720.242704588756
-    },
-    "currentInfos": {
-      "currentPoolToken": 1885025.1790500057,
-      "currentPriceUSD": 2.748359036579292,
-      "currentPoolEth": 2880.5335385128856,
-      "currentMarketCap": 5180725.985021581
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1331,
-    "holderCountOld": 1329,
-    "txCount": 6350,
-    "createdAtTimestamp": "1614982176",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.2565978612707408,
-    "isRugged": false
   }
 ]
