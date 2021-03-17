@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xbb586dda90cbfe82f486e98372ecb558f9a5a4b9",
+    "tokenName": "ARSUv2",
+    "idPair": "0x021ef3620c7cd17fe8a1601e009ffcb49d413d6b",
+    "idToken": "0xbb586dda90cbfe82f486e98372ecb558f9a5a4b9",
+    "dateCreationToken": "2021-03-17T01:33:35Z",
+    "initialInfos": {
+      "initialPoolToken": 15,
+      "initialPriceUSD": 35.6674,
+      "initialPoolEth": 0.3,
+      "initialMarketCap": 535.011
+    },
+    "currentInfos": {
+      "currentPoolToken": 15,
+      "currentPriceUSD": 35.6674,
+      "currentPoolEth": 0.3,
+      "currentMarketCap": 535.011
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 16,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615944815",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x577e7f9fa80ab33e87a01b701114257c8d9455a8",
     "tokenName": "MARKO",
     "idPair": "0x360218f714547961fb37a8f5be86cdc9ab95116f",
@@ -217,37 +248,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x850aab69f0e0171a9a49db8be3e71351c8247df4",
-    "tokenName": "KONO",
-    "idPair": "0x974bfcc7b25f979950b58ce0cf8d9c621a9c771e",
-    "idToken": "0x850aab69f0e0171a9a49db8be3e71351c8247df4",
-    "dateCreationToken": "2021-03-16T13:13:20Z",
-    "initialInfos": {
-      "initialPoolToken": 315000,
-      "initialPriceUSD": 0.39961555555555556,
-      "initialPoolEth": 70,
-      "initialMarketCap": 125878.9
-    },
-    "currentInfos": {
-      "currentPoolToken": 160200.7550960282,
-      "currentPriceUSD": 4.176331553425992,
-      "currentPoolEth": 375.6015159830081,
-      "currentMarketCap": 669051.4683902125
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3316,
-    "holderCountOld": 3252,
-    "txCount": 5409,
-    "createdAtTimestamp": "1615900400",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 9.450873334047149,
-    "isRugged": false
-  },
-  {
     "_id": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
     "tokenName": "PKF",
     "idPair": "0xfe903a12359496b932e24c5e9b78f1b9060a6342",
@@ -276,6 +276,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 8.562888643061777,
+    "isRugged": false
+  },
+  {
+    "_id": "0x850aab69f0e0171a9a49db8be3e71351c8247df4",
+    "tokenName": "KONO",
+    "idPair": "0x974bfcc7b25f979950b58ce0cf8d9c621a9c771e",
+    "idToken": "0x850aab69f0e0171a9a49db8be3e71351c8247df4",
+    "dateCreationToken": "2021-03-16T13:13:20Z",
+    "initialInfos": {
+      "initialPoolToken": 315000,
+      "initialPriceUSD": 0.39961555555555556,
+      "initialPoolEth": 70,
+      "initialMarketCap": 125878.9
+    },
+    "currentInfos": {
+      "currentPoolToken": 160200.7550960282,
+      "currentPriceUSD": 4.176331553425992,
+      "currentPoolEth": 375.6015159830081,
+      "currentMarketCap": 669051.4683902125
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3316,
+    "holderCountOld": 3252,
+    "txCount": 5409,
+    "createdAtTimestamp": "1615900400",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 9.450873334047149,
     "isRugged": false
   },
   {
@@ -6162,37 +6193,6 @@
     "holderCountOld": 1420,
     "txCount": 3,
     "createdAtTimestamp": "1615062237",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x49f53cfacf9b67d6a1e82fdb85d9a1cafc186ffa",
-    "tokenName": "PCNT",
-    "idPair": "0xc8596afc28421f6ba99ca1028026db1c5c0cf162",
-    "idToken": "0x49f53cfacf9b67d6a1e82fdb85d9a1cafc186ffa",
-    "dateCreationToken": "2021-03-06T18:11:49Z",
-    "initialInfos": {
-      "initialPoolToken": 764590,
-      "initialPriceUSD": 0.12814632678952118,
-      "initialPoolEth": 60,
-      "initialMarketCap": 97979.4
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.10106e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 14,
-    "holderCountOld": 0,
-    "txCount": 6,
-    "createdAtTimestamp": "1615054309",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
