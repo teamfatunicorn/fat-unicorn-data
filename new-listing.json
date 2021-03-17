@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xbadbebfafda5ee33c1464c4167aece6fdbee26f9",
+    "tokenName": "ANC",
+    "idPair": "0x6f159bad7e3767c20bd46b207ff79ba8836cb882",
+    "idToken": "0xbadbebfafda5ee33c1464c4167aece6fdbee26f9",
+    "dateCreationToken": "2021-03-17T03:53:09Z",
+    "initialInfos": {
+      "initialPoolToken": 15000000,
+      "initialPriceUSD": 0.0353724,
+      "initialPoolEth": 300,
+      "initialMarketCap": 530586
+    },
+    "currentInfos": {
+      "currentPoolToken": 15000000,
+      "currentPriceUSD": 0.0353724,
+      "currentPoolEth": 300,
+      "currentMarketCap": 530586
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1615953189",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xbb586dda90cbfe82f486e98372ecb558f9a5a4b9",
     "tokenName": "ARSUv2",
     "idPair": "0x021ef3620c7cd17fe8a1601e009ffcb49d413d6b",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-17T01:33:35Z",
     "initialInfos": {
       "initialPoolToken": 15,
-      "initialPriceUSD": 35.326,
+      "initialPriceUSD": 35.3724,
       "initialPoolEth": 0.3,
-      "initialMarketCap": 529.89
+      "initialMarketCap": 530.586
     },
     "currentInfos": {
       "currentPoolToken": 9.056462981,
-      "currentPriceUSD": 97.19260014217099,
+      "currentPriceUSD": 97.32026069379293,
       "currentPoolEth": 0.4983418361633033,
-      "currentMarketCap": 880.2211852147069
+      "currentMarketCap": 881.3773382746051
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.7513049918522048,
+    "priceChange": 1.751304991852205,
     "isRugged": false
   },
   {
@@ -248,37 +279,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
-    "tokenName": "PKF",
-    "idPair": "0xfe903a12359496b932e24c5e9b78f1b9060a6342",
-    "idToken": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
-    "dateCreationToken": "2021-03-16T13:13:20Z",
-    "initialInfos": {
-      "initialPoolToken": 1600000,
-      "initialPriceUSD": 0.1248958125,
-      "initialPoolEth": 111,
-      "initialMarketCap": 199833.3
-    },
-    "currentInfos": {
-      "currentPoolToken": 563439.1287608629,
-      "currentPriceUSD": 1.294715867010126,
-      "currentPoolEth": 410.75551532171,
-      "currentMarketCap": 729493.5801010506
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1471,
-    "holderCountOld": 1443,
-    "txCount": 2675,
-    "createdAtTimestamp": "1615900400",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 9.36636730322825,
-    "isRugged": false
-  },
-  {
     "_id": "0x850aab69f0e0171a9a49db8be3e71351c8247df4",
     "tokenName": "KONO",
     "idPair": "0x974bfcc7b25f979950b58ce0cf8d9c621a9c771e",
@@ -307,6 +307,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 9.688684670327417,
+    "isRugged": false
+  },
+  {
+    "_id": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
+    "tokenName": "PKF",
+    "idPair": "0xfe903a12359496b932e24c5e9b78f1b9060a6342",
+    "idToken": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
+    "dateCreationToken": "2021-03-16T13:13:20Z",
+    "initialInfos": {
+      "initialPoolToken": 1600000,
+      "initialPriceUSD": 0.1248958125,
+      "initialPoolEth": 111,
+      "initialMarketCap": 199833.3
+    },
+    "currentInfos": {
+      "currentPoolToken": 563439.1287608629,
+      "currentPriceUSD": 1.294715867010126,
+      "currentPoolEth": 410.75551532171,
+      "currentMarketCap": 729493.5801010506
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1471,
+    "holderCountOld": 1443,
+    "txCount": 2675,
+    "createdAtTimestamp": "1615900400",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 9.36636730322825,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 1.7903398879595553,
-    "isRugged": true
-  },
-  {
-    "_id": "0xa06bc25b5805d5f8d82847d191cb4af5a3e873e0",
-    "tokenName": "aLINK",
-    "idPair": "0x9f31755b611a26a20d1dd2b59b68419f452cc63e",
-    "idToken": "0xa06bc25b5805d5f8d82847d191cb4af5a3e873e0",
-    "dateCreationToken": "2021-03-06T20:23:57Z",
-    "initialInfos": {
-      "initialPoolToken": 11.906717591986164,
-      "initialPriceUSD": 2.7880563844348694,
-      "initialPoolEth": 0.02,
-      "initialMarketCap": 33.1966
-    },
-    "currentInfos": {
-      "currentPoolToken": 7.569e-15,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.33e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1420,
-    "holderCountOld": 1421,
-    "txCount": 3,
-    "createdAtTimestamp": "1615062237",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
