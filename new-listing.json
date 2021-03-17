@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xdf6c1edfe4a1b41b319cfb3f5fedba11b249ae94",
+    "tokenName": "DPR",
+    "idPair": "0x27a5a034c50db88e723242cfc6a55ba3b1b50702",
+    "idToken": "0xdf6c1edfe4a1b41b319cfb3f5fedba11b249ae94",
+    "dateCreationToken": "2021-03-17T23:34:08Z",
+    "initialInfos": {
+      "initialPoolToken": 5000000,
+      "initialPriceUSD": 0.0181852,
+      "initialPoolEth": 50,
+      "initialMarketCap": 90776.84059276548
+    },
+    "currentInfos": {
+      "currentPoolToken": 5000000,
+      "currentPriceUSD": 0.0181852,
+      "currentPoolEth": 50,
+      "currentMarketCap": 90926
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": null,
+    "txCount": 1,
+    "createdAtTimestamp": "1616024048",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x2aa5ce395b00cc486159adbdd97c55b535cf2cf9",
     "tokenName": "EGT",
     "idPair": "0xc409381817595e7713b56b12796b2b5921671c19",
@@ -7,9 +38,9 @@
     "dateCreationToken": "2021-03-17T18:41:40Z",
     "initialInfos": {
       "initialPoolToken": 12,
-      "initialPriceUSD": 303.50333333333333,
+      "initialPriceUSD": 303.08666666666664,
       "initialPoolEth": 2,
-      "initialMarketCap": 3642.04
+      "initialMarketCap": 3637.04
     },
     "currentInfos": {
       "currentPoolToken": 2.101e-15,
@@ -38,7 +69,7 @@
     "dateCreationToken": "2021-03-17T17:51:49Z",
     "initialInfos": {
       "initialPoolToken": 12962962,
-      "initialPriceUSD": 0.01123829569198768,
+      "initialPriceUSD": 0.011222867119412986,
       "initialPoolEth": 80,
       "initialMarketCap": 143035.74885223605
     },
@@ -69,27 +100,27 @@
     "dateCreationToken": "2021-03-17T17:44:22Z",
     "initialInfos": {
       "initialPoolToken": 4286000,
-      "initialPriceUSD": 0.03560463742417172,
+      "initialPriceUSD": 0.03555575734951003,
       "initialPoolEth": 83.8,
       "initialMarketCap": 149742.02991477304
     },
     "currentInfos": {
-      "currentPoolToken": 3918995.1748302686,
-      "currentPriceUSD": 0.10300183444784163,
-      "currentPoolEth": 221.6690053924489,
-      "currentMarketCap": 403663.6921997575
+      "currentPoolToken": 3943034.5211628536,
+      "currentPriceUSD": 0.1016121541877517,
+      "currentPoolEth": 220.3221475331736,
+      "currentMarketCap": 400660.2317320276
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1638,
     "holderCountOld": 0,
-    "txCount": 2234,
+    "txCount": 2237,
     "createdAtTimestamp": "1616003062",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.8929331092672343,
+    "priceChange": 1.8578256170699154,
     "isRugged": false
   },
   {
@@ -1054,37 +1085,6 @@
     "isRugged": true
   },
   {
-    "_id": "0x850aab69f0e0171a9a49db8be3e71351c8247df4",
-    "tokenName": "KONO",
-    "idPair": "0x974bfcc7b25f979950b58ce0cf8d9c621a9c771e",
-    "idToken": "0x850aab69f0e0171a9a49db8be3e71351c8247df4",
-    "dateCreationToken": "2021-03-16T13:13:20Z",
-    "initialInfos": {
-      "initialPoolToken": 315000,
-      "initialPriceUSD": 0.39961555555555556,
-      "initialPoolEth": 70,
-      "initialMarketCap": 125878.9
-    },
-    "currentInfos": {
-      "currentPoolToken": 167242.19407291565,
-      "currentPriceUSD": 4.46884942113529,
-      "currentPoolEth": 412.6664258803157,
-      "currentMarketCap": 748874.016373527
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3810,
-    "holderCountOld": 3808,
-    "txCount": 7595,
-    "createdAtTimestamp": "1615900400",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 10.182871534924569,
-    "isRugged": false
-  },
-  {
     "_id": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
     "tokenName": "PKF",
     "idPair": "0xfe903a12359496b932e24c5e9b78f1b9060a6342",
@@ -1113,6 +1113,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 13.094054162365213,
+    "isRugged": false
+  },
+  {
+    "_id": "0x850aab69f0e0171a9a49db8be3e71351c8247df4",
+    "tokenName": "KONO",
+    "idPair": "0x974bfcc7b25f979950b58ce0cf8d9c621a9c771e",
+    "idToken": "0x850aab69f0e0171a9a49db8be3e71351c8247df4",
+    "dateCreationToken": "2021-03-16T13:13:20Z",
+    "initialInfos": {
+      "initialPoolToken": 315000,
+      "initialPriceUSD": 0.39961555555555556,
+      "initialPoolEth": 70,
+      "initialMarketCap": 125878.9
+    },
+    "currentInfos": {
+      "currentPoolToken": 167242.19407291565,
+      "currentPriceUSD": 4.46884942113529,
+      "currentPoolEth": 412.6664258803157,
+      "currentMarketCap": 748874.016373527
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3810,
+    "holderCountOld": 3808,
+    "txCount": 7595,
+    "createdAtTimestamp": "1615900400",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 10.182871534924569,
     "isRugged": false
   },
   {
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 21,
     "createdAtTimestamp": "1615177811",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x76dad3ea467bb05731fd2ca207cf97f449ac8d16",
-    "tokenName": "LABS",
-    "idPair": "0xc910ad7b4e64cf0faa4a514db9a96bd12449d835",
-    "idToken": "0x76dad3ea467bb05731fd2ca207cf97f449ac8d16",
-    "dateCreationToken": "2021-03-08T04:13:29Z",
-    "initialInfos": {
-      "initialPoolToken": 85000000,
-      "initialPriceUSD": 0.003065329411764706,
-      "initialPoolEth": 150,
-      "initialMarketCap": 260553
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.19933e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 5e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 49,
-    "holderCountOld": 45,
-    "txCount": 65,
-    "createdAtTimestamp": "1615176809",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
