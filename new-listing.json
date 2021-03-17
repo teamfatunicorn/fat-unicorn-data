@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xdb159fe89a52ac5d301d5296c8ba79888c04837f",
+    "tokenName": "PBR",
+    "idPair": "0xcda7fdf4659310aec78ceee3865c2ff3343375c9",
+    "idToken": "0xdb159fe89a52ac5d301d5296c8ba79888c04837f",
+    "dateCreationToken": "2021-03-17T15:08:24Z",
+    "initialInfos": {
+      "initialPoolToken": 20000000000,
+      "initialPriceUSD": 2.820464e-7,
+      "initialPoolEth": 3.2,
+      "initialMarketCap": 5626.6978607041
+    },
+    "currentInfos": {
+      "currentPoolToken": 14724695238.2,
+      "currentPriceUSD": 5.207670770738057e-7,
+      "currentPoolEth": 4.35,
+      "currentMarketCap": 7668.1365
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": null,
+    "txCount": 4,
+    "createdAtTimestamp": "1615993704",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.8463879598314525,
+    "isRugged": false
+  },
+  {
     "_id": "0x91f5185686e4366a75beaec02d434991c00550e8",
     "tokenName": "BSJ",
     "idPair": "0x073ed674acf040c2e96c1e06b0769228b422c9a5",
@@ -7,9 +38,9 @@
     "dateCreationToken": "2021-03-17T14:30:31Z",
     "initialInfos": {
       "initialPoolToken": 2000000000,
-      "initialPriceUSD": 0.00000264687,
+      "initialPriceUSD": 0.000002644185,
       "initialPoolEth": 3,
-      "initialMarketCap": 5293.74
+      "initialMarketCap": 5288.37
     },
     "currentInfos": {
       "currentPoolToken": 9.0331701e-10,
@@ -38,7 +69,7 @@
     "dateCreationToken": "2021-03-17T13:42:25Z",
     "initialInfos": {
       "initialPoolToken": 400000000,
-      "initialPriceUSD": 0.00002205725,
+      "initialPriceUSD": 0.000022034875,
       "initialPoolEth": 5,
       "initialMarketCap": 8840.944770466462
     },
@@ -69,27 +100,27 @@
     "dateCreationToken": "2021-03-17T13:38:13Z",
     "initialInfos": {
       "initialPoolToken": 2000000,
-      "initialPriceUSD": 0.09969877,
+      "initialPriceUSD": 0.099597635,
       "initialPoolEth": 113,
-      "initialMarketCap": 199397.54
+      "initialMarketCap": 199195.27
     },
     "currentInfos": {
-      "currentPoolToken": 834438.674620695,
-      "currentPriceUSD": 0.5985714559436328,
-      "currentPoolEth": 283.05385551427827,
-      "currentMarketCap": 499471.1723633847
+      "currentPoolToken": 826760.3952788024,
+      "currentPriceUSD": 0.6091479507954719,
+      "currentPoolEth": 285.69449598814185,
+      "currentMarketCap": 503619.4005829368
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 474,
     "holderCountOld": 0,
-    "txCount": 708,
+    "txCount": 711,
     "createdAtTimestamp": "1615988293",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 5.003799805590709,
+    "priceChange": 5.116088507477833,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.02846585146933684,
     "isRugged": true
-  },
-  {
-    "_id": "0x9d7f94e954f888aea235e50323db59ef3693cd42",
-    "tokenName": "matthias",
-    "idPair": "0x62fc80fd906753f8e49e63786275870c61a1c447",
-    "idToken": "0x9d7f94e954f888aea235e50323db59ef3693cd42",
-    "dateCreationToken": "2021-03-07T21:35:50Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000,
-      "initialPriceUSD": 1.71049e-7,
-      "initialPoolEth": 0.0001,
-      "initialMarketCap": 0.171049
-    },
-    "currentInfos": {
-      "currentPoolToken": 334584.70289828174,
-      "currentPriceUSD": 0.0018106789709090465,
-      "currentPoolEth": 0.3433255990243112,
-      "currentMarketCap": 605.8254855257699
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 9,
-    "holderCountOld": 8,
-    "txCount": 13,
-    "createdAtTimestamp": "1615152950",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 10584.73257317521,
-    "isRugged": false
   }
 ]
