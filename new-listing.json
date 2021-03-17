@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x3e10200785c8bc9e095aca1b0c5646cd85fce4cc",
+    "tokenName": "DAFI",
+    "idPair": "0x4dc37ed955063e6512ea2f77113b4f5b3bb289d3",
+    "idToken": "0x3e10200785c8bc9e095aca1b0c5646cd85fce4cc",
+    "dateCreationToken": "2021-03-17T13:11:08Z",
+    "initialInfos": {
+      "initialPoolToken": 100000000,
+      "initialPriceUSD": 0.0035452,
+      "initialPoolEth": 200,
+      "initialMarketCap": 354520
+    },
+    "currentInfos": {
+      "currentPoolToken": 99479302.68546025,
+      "currentPriceUSD": 0.0035824661048020007,
+      "currentPoolEth": 201.05,
+      "currentMarketCap": 356381.23
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1615986668",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.010511707323141323,
+    "isRugged": false
+  },
+  {
     "_id": "0x431e489c7d5dac7887d3d5a3473bcbfc4c7d8cba",
     "tokenName": "KUKI",
     "idPair": "0x8c3e63eeb740a3d79d1747ca5213f5171f42abe8",
@@ -12,22 +43,22 @@
       "initialMarketCap": 354.52
     },
     "currentInfos": {
-      "currentPoolToken": 19749305774.752567,
-      "currentPriceUSD": 9.143232473419997e-8,
-      "currentPoolEth": 1.0186872045985773,
-      "currentMarketCap": 1805.7249388721873
+      "currentPoolToken": 17934128214.28368,
+      "currentPriceUSD": 1.1112590877966725e-7,
+      "currentPoolEth": 1.1243068351475745,
+      "currentMarketCap": 1992.9462959833447
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 3,
     "holderCountOld": 0,
-    "txCount": 16,
+    "txCount": 22,
     "createdAtTimestamp": "1615985857",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 24.79045603469479,
+    "priceChange": 30.34545548337675,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9722993783776206,
-    "isRugged": true
-  },
-  {
-    "_id": "0x8611f8d9849a70c039b91f452c7cd87861e0200a",
-    "tokenName": "HAPI",
-    "idPair": "0x55a03c59910127db5b7258eda9e3ce5f762236bf",
-    "idToken": "0x8611f8d9849a70c039b91f452c7cd87861e0200a",
-    "dateCreationToken": "2021-03-07T12:53:00Z",
-    "initialInfos": {
-      "initialPoolToken": 70000,
-      "initialPriceUSD": 4.751485714285714,
-      "initialPoolEth": 200,
-      "initialMarketCap": 332604
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.5622e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 6.5e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 28,
-    "holderCountOld": 0,
-    "txCount": 30,
-    "createdAtTimestamp": "1615121580",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
