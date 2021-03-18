@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x8f96e2f5990fac9af9e286079ce2ab533a4321fe",
+    "tokenName": "STR",
+    "idPair": "0xae101905d7ad4858be345094fc44b8aa253fe5fa",
+    "idToken": "0x8f96e2f5990fac9af9e286079ce2ab533a4321fe",
+    "dateCreationToken": "2021-03-18T06:07:05Z",
+    "initialInfos": {
+      "initialPoolToken": 8970000,
+      "initialPriceUSD": 0.02820846153846154,
+      "initialPoolEth": 138,
+      "initialMarketCap": 253029.9
+    },
+    "currentInfos": {
+      "currentPoolToken": 8970000,
+      "currentPriceUSD": 0.02820846153846154,
+      "currentPoolEth": 138,
+      "currentMarketCap": 253029.9
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1616047625",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x77c98a72554dab5c8dc8f2d854522366967aadf2",
     "tokenName": "AFRICA",
     "idPair": "0x620f7fdc728ab713f7f63beb31ac7e3d4564e1a3",
@@ -12,22 +43,22 @@
       "initialMarketCap": 1650.195
     },
     "currentInfos": {
-      "currentPoolToken": 168214574.97468722,
-      "currentPriceUSD": 0.00004459480060968848,
-      "currentPoolEth": 4.0912412700174645,
-      "currentMarketCap": 7501.49543063967
+      "currentPoolToken": 170040225.71840554,
+      "currentPriceUSD": 0.00004367186786181727,
+      "currentPoolEth": 4.050052776726971,
+      "currentMarketCap": 7425.974268767791
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 17,
     "holderCountOld": 0,
-    "txCount": 50,
+    "txCount": 54,
     "createdAtTimestamp": "1616046075",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 19.267968608113808,
+    "priceChange": 18.848503295891064,
     "isRugged": false
   },
   {
@@ -69,9 +100,9 @@
     "dateCreationToken": "2021-03-18T05:38:26Z",
     "initialInfos": {
       "initialPoolToken": 1200000,
-      "initialPriceUSD": 0.04272823333333333,
+      "initialPriceUSD": 0.04278283333333333,
       "initialPoolEth": 28,
-      "initialMarketCap": 51273.88
+      "initialMarketCap": 51339.4
     },
     "currentInfos": {
       "currentPoolToken": 1179009.4215485025,
@@ -89,7 +120,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.03730245388483235,
+    "priceChange": 0.03597863520408157,
     "isRugged": false
   },
   {
@@ -1395,37 +1426,6 @@
     "isRugged": true
   },
   {
-    "_id": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
-    "tokenName": "PKF",
-    "idPair": "0xfe903a12359496b932e24c5e9b78f1b9060a6342",
-    "idToken": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
-    "dateCreationToken": "2021-03-16T13:13:20Z",
-    "initialInfos": {
-      "initialPoolToken": 1600000,
-      "initialPriceUSD": 0.1248958125,
-      "initialPoolEth": 111,
-      "initialMarketCap": 199833.3
-    },
-    "currentInfos": {
-      "currentPoolToken": 497911.31946255994,
-      "currentPriceUSD": 2.2380496875300384,
-      "currentPoolEth": 608.2930422782812,
-      "currentMarketCap": 1114350.2729408513
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2408,
-    "holderCountOld": 2351,
-    "txCount": 5658,
-    "createdAtTimestamp": "1615900400",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 16.919333264516283,
-    "isRugged": false
-  },
-  {
     "_id": "0x850aab69f0e0171a9a49db8be3e71351c8247df4",
     "tokenName": "KONO",
     "idPair": "0x974bfcc7b25f979950b58ce0cf8d9c621a9c771e",
@@ -1454,6 +1454,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 9.757291409717988,
+    "isRugged": false
+  },
+  {
+    "_id": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
+    "tokenName": "PKF",
+    "idPair": "0xfe903a12359496b932e24c5e9b78f1b9060a6342",
+    "idToken": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
+    "dateCreationToken": "2021-03-16T13:13:20Z",
+    "initialInfos": {
+      "initialPoolToken": 1600000,
+      "initialPriceUSD": 0.1248958125,
+      "initialPoolEth": 111,
+      "initialMarketCap": 199833.3
+    },
+    "currentInfos": {
+      "currentPoolToken": 497911.31946255994,
+      "currentPriceUSD": 2.2380496875300384,
+      "currentPoolEth": 608.2930422782812,
+      "currentMarketCap": 1114350.2729408513
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2408,
+    "holderCountOld": 2351,
+    "txCount": 5658,
+    "createdAtTimestamp": "1615900400",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 16.919333264516283,
     "isRugged": false
   },
   {
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 24,
     "createdAtTimestamp": "1615213700",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xe49c2b5fc908aa198d098e91ab068781ccde3b3b",
-    "tokenName": "ERN",
-    "idPair": "0x712e14c1c6c1a3c1de19357ce084a7e2ab911757",
-    "idToken": "0xe49c2b5fc908aa198d098e91ab068781ccde3b3b",
-    "dateCreationToken": "2021-03-08T14:18:05Z",
-    "initialInfos": {
-      "initialPoolToken": 301205,
-      "initialPriceUSD": 0.29041018575388855,
-      "initialPoolEth": 50,
-      "initialMarketCap": 86390.59663869762
-    },
-    "currentInfos": {
-      "currentPoolToken": 7.246e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.4e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 11,
-    "holderCountOld": 0,
-    "txCount": 14,
-    "createdAtTimestamp": "1615213085",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
