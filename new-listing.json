@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x797fa28177365a7ffe51b179a5c67efb6f71e7a2",
+    "tokenName": "BYE",
+    "idPair": "0x669e30fb309971d18be481958b9c076bf7c23865",
+    "idToken": "0x797fa28177365a7ffe51b179a5c67efb6f71e7a2",
+    "dateCreationToken": "2021-03-18T02:33:05Z",
+    "initialInfos": {
+      "initialPoolToken": 495,
+      "initialPriceUSD": 1.8544949494949494,
+      "initialPoolEth": 0.5,
+      "initialMarketCap": 917.975
+    },
+    "currentInfos": {
+      "currentPoolToken": 495,
+      "currentPriceUSD": 1.8544949494949494,
+      "currentPoolEth": 0.5,
+      "currentMarketCap": 917.975
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1616034785",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x008f1d94ad209a5cc9439ba515f619f1d015412e",
     "tokenName": "OTD",
     "idPair": "0xfb94a278f6f7f715982667253854cac3f58acd5c",
@@ -43,22 +74,22 @@
       "initialMarketCap": 4919.1473673953315
     },
     "currentInfos": {
-      "currentPoolToken": 1974730564.8495994,
-      "currentPriceUSD": 0.00001431427764247792,
-      "currentPoolEth": 15.39630249971096,
-      "currentMarketCap": 28266.84157434441
+      "currentPoolToken": 1869146767.9826407,
+      "currentPriceUSD": 0.000015979719214259733,
+      "currentPoolEth": 16.2686568384778,
+      "currentMarketCap": 29868.440522603683
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 96,
     "holderCountOld": 0,
-    "txCount": 285,
+    "txCount": 288,
     "createdAtTimestamp": "1616028346",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 26.432692047318373,
+    "priceChange": 29.624438561016948,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.8374193489161817,
     "isRugged": false
-  },
-  {
-    "_id": "0x8963f627ebe9d0f22c8eb7306239d78d81be10b1",
-    "tokenName": "ERN",
-    "idPair": "0xd3fbb248bef3da5e9e8330c5fd3a498e09953dbe",
-    "idToken": "0x8963f627ebe9d0f22c8eb7306239d78d81be10b1",
-    "dateCreationToken": "2021-03-08T05:20:28Z",
-    "initialInfos": {
-      "initialPoolToken": 1200000,
-      "initialPriceUSD": 0.28187666666666666,
-      "initialPoolEth": 200,
-      "initialMarketCap": 338252
-    },
-    "currentInfos": {
-      "currentPoolToken": 56480.99728532648,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 5,
-    "holderCountOld": 0,
-    "txCount": 6,
-    "createdAtTimestamp": "1615180828",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
