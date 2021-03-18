@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xadcc610f96c386d78f68b7f0a04e3a7c8ff94ff8",
+    "tokenName": "SWAN",
+    "idPair": "0xd7a7e2551426b2f95a9a756814a684cf2850ca2f",
+    "idToken": "0xadcc610f96c386d78f68b7f0a04e3a7c8ff94ff8",
+    "dateCreationToken": "2021-03-18T22:30:06Z",
+    "initialInfos": {
+      "initialPoolToken": 10000000,
+      "initialPriceUSD": 0.001430712,
+      "initialPoolEth": 8,
+      "initialMarketCap": 14307.12
+    },
+    "currentInfos": {
+      "currentPoolToken": 8662726.81479095,
+      "currentPriceUSD": 0.001907324774169413,
+      "currentPoolEth": 9.2388312760152,
+      "currentMarketCap": 16522.633465712464
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 248,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1616106606",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.3331297802558537,
+    "isRugged": false
+  },
+  {
     "_id": "0xa3c22370de5f9544f0c4de126b1e46ceadf0a51b",
     "tokenName": "WSTRAX",
     "idPair": "0x385de7c3116cd56745493f49b16e6f1abe13ec4b",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-03-18T21:31:49Z",
     "initialInfos": {
       "initialPoolToken": 93340,
-      "initialPriceUSD": 1.6002392436254553,
+      "initialPriceUSD": 1.607520044996786,
       "initialPoolEth": 83.9,
-      "initialMarketCap": 149366.331
+      "initialMarketCap": 150045.921
     },
     "currentInfos": {
-      "currentPoolToken": 79769.23829645525,
-      "currentPriceUSD": 2.1924966583894285,
-      "currentPoolEth": 98.23893208816972,
-      "currentMarketCap": 174893.78840724818
+      "currentPoolToken": 81877.27233904134,
+      "currentPriceUSD": 2.0906830789118804,
+      "currentPoolEth": 95.71705714452334,
+      "currentMarketCap": 171179.42782669349
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 21,
     "holderCountOld": 0,
-    "txCount": 37,
+    "txCount": 39,
     "createdAtTimestamp": "1616103109",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.370105543357487,
+    "priceChange": 0.3005642358357407,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.13697299570028512,
-    "isRugged": false
-  },
-  {
-    "_id": "0x547dd0dc34f446d91fb5e270cbdf4198cca30bc6",
-    "tokenName": "SNDWCH",
-    "idPair": "0x2c0e51e7f3e040d336594faa51eb21b69270ddba",
-    "idToken": "0x547dd0dc34f446d91fb5e270cbdf4198cca30bc6",
-    "dateCreationToken": "2021-03-09T17:38:07Z",
-    "initialInfos": {
-      "initialPoolToken": 100000,
-      "initialPriceUSD": 0.010269215,
-      "initialPoolEth": 0.55,
-      "initialMarketCap": 1026.9215
-    },
-    "currentInfos": {
-      "currentPoolToken": 84996.412,
-      "currentPriceUSD": 0.013612757227531008,
-      "currentPoolEth": 0.6510330805624176,
-      "currentMarketCap": 1157.0355217672034
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 13,
-    "holderCountOld": 0,
-    "txCount": 12,
-    "createdAtTimestamp": "1615311487",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.325588881675085,
     "isRugged": false
   }
 ]
