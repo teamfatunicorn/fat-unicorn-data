@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xdb0197a476843158e3d73db94f588eecaf65bd5a",
+    "tokenName": "Shepherd",
+    "idPair": "0x08155dd75d2a7d879e246024a92e18a59705626e",
+    "idToken": "0xdb0197a476843158e3d73db94f588eecaf65bd5a",
+    "dateCreationToken": "2021-03-18T00:45:46Z",
+    "initialInfos": {
+      "initialPoolToken": 9500000000,
+      "initialPriceUSD": 5.202161052631579e-7,
+      "initialPoolEth": 2.7,
+      "initialMarketCap": 4919.1473673953315
+    },
+    "currentInfos": {
+      "currentPoolToken": 6963677305.923722,
+      "currentPriceUSD": 9.689710347415832e-7,
+      "currentPoolEth": 3.6864283593811846,
+      "currentMarketCap": 6747.601604727389
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1616028346",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.8626317504172943,
+    "isRugged": false
+  },
+  {
     "_id": "0xdf6c1edfe4a1b41b319cfb3f5fedba11b249ae94",
     "tokenName": "DPR",
     "idPair": "0x27a5a034c50db88e723242cfc6a55ba3b1b50702",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-17T23:34:08Z",
     "initialInfos": {
       "initialPoolToken": 5000000,
-      "initialPriceUSD": 0.0183101,
+      "initialPriceUSD": 0.0183039,
       "initialPoolEth": 50,
       "initialMarketCap": 90776.84059276548
     },
     "currentInfos": {
       "currentPoolToken": 2300824.819825473,
-      "currentPriceUSD": 0.08665662947391448,
+      "currentPriceUSD": 0.08662728659196745,
       "currentPoolEth": 108.89166301440332,
-      "currentMarketCap": 199381.72389600205
+      "currentMarketCap": 199314.2110649331
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 3.7327228946818685,
+    "priceChange": 3.732722894681868,
     "isRugged": false
   },
   {
@@ -1085,37 +1116,6 @@
     "isRugged": true
   },
   {
-    "_id": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
-    "tokenName": "PKF",
-    "idPair": "0xfe903a12359496b932e24c5e9b78f1b9060a6342",
-    "idToken": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
-    "dateCreationToken": "2021-03-16T13:13:20Z",
-    "initialInfos": {
-      "initialPoolToken": 1600000,
-      "initialPriceUSD": 0.1248958125,
-      "initialPoolEth": 111,
-      "initialMarketCap": 199833.3
-    },
-    "currentInfos": {
-      "currentPoolToken": 535486.6221099591,
-      "currentPriceUSD": 1.8016817965776026,
-      "currentPoolEth": 530.7268512995332,
-      "currentMarketCap": 964776.499366343
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2254,
-    "holderCountOld": 2232,
-    "txCount": 5157,
-    "createdAtTimestamp": "1615900400",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 13.42547800854094,
-    "isRugged": false
-  },
-  {
     "_id": "0x850aab69f0e0171a9a49db8be3e71351c8247df4",
     "tokenName": "KONO",
     "idPair": "0x974bfcc7b25f979950b58ce0cf8d9c621a9c771e",
@@ -1144,6 +1144,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 9.654785363046978,
+    "isRugged": false
+  },
+  {
+    "_id": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
+    "tokenName": "PKF",
+    "idPair": "0xfe903a12359496b932e24c5e9b78f1b9060a6342",
+    "idToken": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
+    "dateCreationToken": "2021-03-16T13:13:20Z",
+    "initialInfos": {
+      "initialPoolToken": 1600000,
+      "initialPriceUSD": 0.1248958125,
+      "initialPoolEth": 111,
+      "initialMarketCap": 199833.3
+    },
+    "currentInfos": {
+      "currentPoolToken": 535486.6221099591,
+      "currentPriceUSD": 1.8016817965776026,
+      "currentPoolEth": 530.7268512995332,
+      "currentMarketCap": 964776.499366343
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2254,
+    "holderCountOld": 2232,
+    "txCount": 5157,
+    "createdAtTimestamp": "1615900400",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 13.42547800854094,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.872826086950692,
     "isRugged": false
-  },
-  {
-    "_id": "0x68f3a4e312b427339e49210f27361b9da9cdfced",
-    "tokenName": "DAFI",
-    "idPair": "0x090981f2ab8c9ece2be63c6af332152901d7e844",
-    "idToken": "0x68f3a4e312b427339e49210f27361b9da9cdfced",
-    "dateCreationToken": "2021-03-08T04:30:11Z",
-    "initialInfos": {
-      "initialPoolToken": 5000000,
-      "initialPriceUSD": 0.0676504,
-      "initialPoolEth": 200,
-      "initialMarketCap": 338252
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.20664e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 9e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 20,
-    "holderCountOld": 0,
-    "txCount": 21,
-    "createdAtTimestamp": "1615177811",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
