@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x008f1d94ad209a5cc9439ba515f619f1d015412e",
+    "tokenName": "OTD",
+    "idPair": "0xfb94a278f6f7f715982667253854cac3f58acd5c",
+    "idToken": "0x008f1d94ad209a5cc9439ba515f619f1d015412e",
+    "dateCreationToken": "2021-03-18T01:38:50Z",
+    "initialInfos": {
+      "initialPoolToken": 10000,
+      "initialPriceUSD": 0.0730972,
+      "initialPoolEth": 0.4,
+      "initialMarketCap": 730.972
+    },
+    "currentInfos": {
+      "currentPoolToken": 10000,
+      "currentPriceUSD": 0.0730972,
+      "currentPoolEth": 0.4,
+      "currentMarketCap": 730.972
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1616031530",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xdb0197a476843158e3d73db94f588eecaf65bd5a",
     "tokenName": "Shepherd",
     "idPair": "0x08155dd75d2a7d879e246024a92e18a59705626e",
@@ -12,22 +43,22 @@
       "initialMarketCap": 4919.1473673953315
     },
     "currentInfos": {
-      "currentPoolToken": 2674855553.8312387,
-      "currentPriceUSD": 0.000007605349042431342,
-      "currentPoolEth": 11.132141928813938,
-      "currentMarketCap": 20343.210124972567
+      "currentPoolToken": 2310538953.265469,
+      "currentPriceUSD": 0.000010200838105549031,
+      "currentPoolEth": 12.897585023134424,
+      "currentMarketCap": 23569.433798825765
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 42,
+    "holderCount": 62,
     "holderCountOld": 0,
-    "txCount": 127,
+    "txCount": 137,
     "createdAtTimestamp": "1616028346",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 13.64327577285683,
+    "priceChange": 18.64060882156013,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xdc11c313a28a68c6fc4df718dd93f057849e8208",
-    "tokenName": "ETH2x-FLI",
-    "idPair": "0xbab4816303e0e28f6cfca99d45173d8877d43e94",
-    "idToken": "0xdc11c313a28a68c6fc4df718dd93f057849e8208",
-    "dateCreationToken": "2021-03-08T05:19:08Z",
-    "initialInfos": {
-      "initialPoolToken": 1,
-      "initialPriceUSD": 845.63,
-      "initialPoolEth": 0.5,
-      "initialMarketCap": 870.9863157297107
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.91,
-      "currentPriceUSD": 107.54207609188634,
-      "currentPoolEth": 0.17227571023548835,
-      "currentMarketCap": 312.94744142738926
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 3,
-    "txCount": 7,
-    "createdAtTimestamp": "1615180748",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.872826086950692,
-    "isRugged": false
   }
 ]
