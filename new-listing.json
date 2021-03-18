@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0xa3b570b9da816f3f29fd99de8c6e2720becb0466",
+    "tokenName": "CLA",
+    "idPair": "0x7ddc3c4d235c5221406f2eb82dc67352410dab4f",
+    "idToken": "0xa3b570b9da816f3f29fd99de8c6e2720becb0466",
+    "dateCreationToken": "2021-03-18T23:10:45Z",
+    "initialInfos": {
+      "initialPoolToken": 10000000000,
+      "initialPriceUSD": 1.8656436208001317e-8,
+      "initialPoolEth": 0.10444353993517955,
+      "initialMarketCap": 186.56436208001318
+    },
+    "currentInfos": {
+      "currentPoolToken": 10000000000,
+      "currentPriceUSD": 1.8656436207969245e-8,
+      "currentPoolEth": 0.10444353993517955,
+      "currentMarketCap": 186.56436207969244
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1616109045",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1.719055362575157e-12,
+    "isRugged": false
+  },
+  {
+    "_id": "0xfb22ced41b1267da411f68c879f4defd0bd4796a",
+    "tokenName": "ziot",
+    "idPair": "0x112ac5515bc2efe275e82d5c3a4dec1ba387b858",
+    "idToken": "0xfb22ced41b1267da411f68c879f4defd0bd4796a",
+    "dateCreationToken": "2021-03-18T23:09:08Z",
+    "initialInfos": {
+      "initialPoolToken": 1,
+      "initialPriceUSD": 0.018704390424,
+      "initialPoolEth": 0.0000104712,
+      "initialMarketCap": 0.018679435469263397
+    },
+    "currentInfos": {
+      "currentPoolToken": 1,
+      "currentPriceUSD": 0.018704390424,
+      "currentPoolEth": 0.0000104712,
+      "currentMarketCap": 0.018704390424
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 138,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1616108948",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0xadcc610f96c386d78f68b7f0a04e3a7c8ff94ff8",
     "tokenName": "SWAN",
     "idPair": "0xd7a7e2551426b2f95a9a756814a684cf2850ca2f",
@@ -12,22 +74,22 @@
       "initialMarketCap": 14290.16
     },
     "currentInfos": {
-      "currentPoolToken": 2626706.7795040873,
-      "currentPriceUSD": 0.020928837414233185,
-      "currentPoolEth": 30.77581727460341,
-      "currentMarketCap": 54973.9191231051
+      "currentPoolToken": 2595220.6330308714,
+      "currentPriceUSD": 0.021455089061731464,
+      "currentPoolEth": 31.17148573089247,
+      "currentMarketCap": 55680.689816520455
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 277,
+    "holderCount": 291,
     "holderCountOld": 0,
-    "txCount": 95,
+    "txCount": 105,
     "createdAtTimestamp": "1616106606",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 13.645628470383246,
+    "priceChange": 14.013890020637604,
     "isRugged": false
   },
   {
@@ -6136,67 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xcae4eec78ee0ba2a994ebf55c49cd2b482df71dc",
-    "tokenName": "TARA",
-    "idPair": "0xcbb248337b2bc7116e0486ce3b51ff6d4ed99117",
-    "idToken": "0xcae4eec78ee0ba2a994ebf55c49cd2b482df71dc",
-    "dateCreationToken": "2021-03-10T04:53:13Z",
-    "initialInfos": {
-      "initialPoolToken": 15000000,
-      "initialPriceUSD": 0.0241536,
-      "initialPoolEth": 200,
-      "initialMarketCap": 357050.61767924565
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.37829e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 5e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 27,
-    "holderCountOld": 0,
-    "txCount": 30,
-    "createdAtTimestamp": "1615351993",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xf56b164efd3cfc02ba739b719b6526a6fa1ca32a",
-    "tokenName": "CGT",
-    "idPair": "0x4b50de9cbc5a53f400d774bb53b3068312c8ed26",
-    "idToken": "0xf56b164efd3cfc02ba739b719b6526a6fa1ca32a",
-    "dateCreationToken": "2021-03-09T23:59:33Z",
-    "initialInfos": {
-      "initialPoolToken": 200000,
-      "initialPriceUSD": 0.478495975,
-      "initialPoolEth": 53.5,
-      "initialMarketCap": 99968.00027096359
-    },
-    "currentInfos": {
-      "currentPoolToken": 209783.42965088863,
-      "currentPriceUSD": 0.41447225053551257,
-      "currentPoolEth": 48.74501626477862,
-      "currentMarketCap": 86949.41021246219
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 191,
-    "holderCountOld": 192,
-    "txCount": 136,
-    "createdAtTimestamp": "1615334373",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.13380201257594163,
-    "isRugged": false
   }
 ]
