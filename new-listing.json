@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x42a8abcbb4cd7919e6dae1ca570a0269783151aa",
+    "tokenName": "ODDZ",
+    "idPair": "0xc8d0eb27ecde5d7e805efdb8e7cf92f3239f2039",
+    "idToken": "0x42a8abcbb4cd7919e6dae1ca570a0269783151aa",
+    "dateCreationToken": "2021-03-18T04:31:54Z",
+    "initialInfos": {
+      "initialPoolToken": 2400000,
+      "initialPriceUSD": 0.184261,
+      "initialPoolEth": 240,
+      "initialMarketCap": 442226.4
+    },
+    "currentInfos": {
+      "currentPoolToken": 2359807.560970913,
+      "currentPriceUSD": 0.190600754247496,
+      "currentPoolEth": 244.1,
+      "currentMarketCap": 449781.101
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1616041914",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.03440638142361106,
+    "isRugged": false
+  },
+  {
     "_id": "0x610b8b78da143fc1e38b36c4ea0f68f86cc3b4f4",
     "tokenName": "SLM",
     "idPair": "0x5e0453a08550d10effffabdc370ae9ae3d7edd7e",
@@ -12,22 +43,22 @@
       "initialMarketCap": 9213.05
     },
     "currentInfos": {
-      "currentPoolToken": 67403.64107289804,
-      "currentPriceUSD": 2.034620498684412,
-      "currentPoolEth": 74.42748591014063,
-      "currentMarketCap": 137140.8298128849
+      "currentPoolToken": 66955.64107289804,
+      "currentPriceUSD": 2.061980105106376,
+      "currentPoolEth": 74.92697847996011,
+      "currentMarketCap": 138061.1998169591
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 6,
     "holderCountOld": 0,
-    "txCount": 12,
+    "txCount": 13,
     "createdAtTimestamp": "1616040001",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 219.84114366951354,
+    "priceChange": 222.81080153764236,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.5833457321737754,
-    "isRugged": false
-  },
-  {
-    "_id": "0x481de76d5ab31e28a33b0ea1c1063adcb5b1769a",
-    "tokenName": "B26",
-    "idPair": "0xf2d216351ed9353e59f9f6d9694ea724d8c466f3",
-    "idToken": "0x481de76d5ab31e28a33b0ea1c1063adcb5b1769a",
-    "dateCreationToken": "2021-03-08T09:01:38Z",
-    "initialInfos": {
-      "initialPoolToken": 9000,
-      "initialPriceUSD": 0.5146049111111111,
-      "initialPoolEth": 2.71,
-      "initialMarketCap": 4631.4442
-    },
-    "currentInfos": {
-      "currentPoolToken": 451.1812412785848,
-      "currentPriceUSD": 354.180689635168,
-      "currentPoolEth": 86.83113711332055,
-      "currentMarketCap": 159799.6831865003
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 350,
-    "holderCountOld": 351,
-    "txCount": 2278,
-    "createdAtTimestamp": "1615194098",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 687.2575000507427,
     "isRugged": false
   }
 ]
