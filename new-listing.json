@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xe102700f1d6a95cb562016be59fc43e275d32912",
+    "tokenName": "SIL",
+    "idPair": "0xbbacb8da482cbf0e976717262c7dfdb59003cc25",
+    "idToken": "0xe102700f1d6a95cb562016be59fc43e275d32912",
+    "dateCreationToken": "2021-03-18T21:29:36Z",
+    "initialInfos": {
+      "initialPoolToken": 0.01,
+      "initialPriceUSD": 178693,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1775.8551756276697
+    },
+    "currentInfos": {
+      "currentPoolToken": 0.005007511266900351,
+      "currentPriceUSD": 713699.842,
+      "currentPoolEth": 2,
+      "currentMarketCap": 3573.86
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 31,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1616102976",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.9939999999999998,
+    "isRugged": false
+  },
+  {
     "_id": "0xc31454a575e98f7525372cd7cb425e1ac0bb3f51",
     "tokenName": "NEXTD",
     "idPair": "0xae8f5ff59fa5d35600c25f3539622a6f7d845569",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-18T20:03:43Z",
     "initialInfos": {
       "initialPoolToken": 100000000000000,
-      "initialPriceUSD": 1.77994e-15,
+      "initialPriceUSD": 1.78693e-15,
       "initialPoolEth": 0.0001,
       "initialMarketCap": 0.17667865951724485
     },
     "currentInfos": {
       "currentPoolToken": 560102394104496.3,
-      "currentPriceUSD": 5.90796519625e-17,
+      "currentPriceUSD": 5.9311663585e-17,
       "currentPoolEth": 0.000018590882303749,
-      "currentMarketCap": 0.03309065450708
+      "currentMarketCap": 0.03322060477226
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.9668080654614762,
+    "priceChange": -0.9668080654614339,
     "isRugged": true
   },
   {
@@ -2108,37 +2139,6 @@
     "isRugged": true
   },
   {
-    "_id": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
-    "tokenName": "PKF",
-    "idPair": "0xfe903a12359496b932e24c5e9b78f1b9060a6342",
-    "idToken": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
-    "dateCreationToken": "2021-03-16T13:13:20Z",
-    "initialInfos": {
-      "initialPoolToken": 1600000,
-      "initialPriceUSD": 0.1248958125,
-      "initialPoolEth": 111,
-      "initialMarketCap": 199833.3
-    },
-    "currentInfos": {
-      "currentPoolToken": 501785.7670378998,
-      "currentPriceUSD": 2.2738240205187803,
-      "currentPoolEth": 642.7579714302229,
-      "currentMarketCap": 1140972.5302452175
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2686,
-    "holderCountOld": 2678,
-    "txCount": 6921,
-    "createdAtTimestamp": "1615900400",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 17.205766670670247,
-    "isRugged": false
-  },
-  {
     "_id": "0x850aab69f0e0171a9a49db8be3e71351c8247df4",
     "tokenName": "KONO",
     "idPair": "0x974bfcc7b25f979950b58ce0cf8d9c621a9c771e",
@@ -2167,6 +2167,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 9.538963362299487,
+    "isRugged": false
+  },
+  {
+    "_id": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
+    "tokenName": "PKF",
+    "idPair": "0xfe903a12359496b932e24c5e9b78f1b9060a6342",
+    "idToken": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
+    "dateCreationToken": "2021-03-16T13:13:20Z",
+    "initialInfos": {
+      "initialPoolToken": 1600000,
+      "initialPriceUSD": 0.1248958125,
+      "initialPoolEth": 111,
+      "initialMarketCap": 199833.3
+    },
+    "currentInfos": {
+      "currentPoolToken": 501785.7670378998,
+      "currentPriceUSD": 2.2738240205187803,
+      "currentPoolEth": 642.7579714302229,
+      "currentMarketCap": 1140972.5302452175
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2686,
+    "holderCountOld": 2678,
+    "txCount": 6921,
+    "createdAtTimestamp": "1615900400",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 17.205766670670247,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.5889477119891285,
     "isRugged": false
-  },
-  {
-    "_id": "0x98abaca5be3af84ff56c5385b9e6e884fd442bd0",
-    "tokenName": "CRT",
-    "idPair": "0xbcce11c72b6cb243a32d7388cf7181e8b3c58959",
-    "idToken": "0x98abaca5be3af84ff56c5385b9e6e884fd442bd0",
-    "dateCreationToken": "2021-03-09T15:13:19Z",
-    "initialInfos": {
-      "initialPoolToken": 1,
-      "initialPriceUSD": 1.83578,
-      "initialPoolEth": 0.001,
-      "initialMarketCap": 1.83578
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.999999999997009,
-      "currentPriceUSD": 1.7750300000053092,
-      "currentPoolEth": 0.001000000000003,
-      "currentMarketCap": 1.77503
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 1,
-    "txCount": 4,
-    "createdAtTimestamp": "1615302799",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.033092200587592616,
-    "isRugged": true
   }
 ]
