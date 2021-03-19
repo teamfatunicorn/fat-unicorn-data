@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x89dcff5fd892f2bfc8b75dba12804b651f769579",
+    "tokenName": "STKR",
+    "idPair": "0xb1f4327046a7d5ac1a502a44516f765e9e8845df",
+    "idToken": "0x89dcff5fd892f2bfc8b75dba12804b651f769579",
+    "dateCreationToken": "2021-03-19T21:57:33Z",
+    "initialInfos": {
+      "initialPoolToken": 91750,
+      "initialPriceUSD": 0.19934386920980926,
+      "initialPoolEth": 10,
+      "initialMarketCap": 18289.8
+    },
+    "currentInfos": {
+      "currentPoolToken": 83515.02659816314,
+      "currentPriceUSD": 0.2406609017442627,
+      "currentPoolEth": 10.989076758800062,
+      "currentMarketCap": 20098.801610310024
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 578,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1616191053",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.2072651278327867,
+    "isRugged": false
+  },
+  {
     "_id": "0x5d38e5db94631e54d44c3f52fff4330549dc4daa",
     "tokenName": "BGL",
     "idPair": "0x9842cb3a9e32eb18840edf2e040fd1e02f9cad42",
@@ -7,9 +38,9 @@
     "dateCreationToken": "2021-03-19T21:08:13Z",
     "initialInfos": {
       "initialPoolToken": 50000000000,
-      "initialPriceUSD": 1.46272e-7,
+      "initialPriceUSD": 1.463184e-7,
       "initialPoolEth": 4,
-      "initialMarketCap": 7313.6
+      "initialMarketCap": 7315.92
     },
     "currentInfos": {
       "currentPoolToken": 7.1882121e-11,
@@ -44,9 +75,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 0.9115770282588879,
-      "currentPriceUSD": 22.0633028,
+      "currentPriceUSD": 22.07030166,
       "currentPoolEth": 0.011,
-      "currentMarketCap": 20.1124
+      "currentMarketCap": 20.11878
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 119.67,
+    "priceChange": 119.70827860424414,
     "isRugged": true
   },
   {
@@ -75,9 +106,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 4748789296.37126,
-      "currentPriceUSD": 0.000007298187452213709,
+      "currentPriceUSD": 0.000007300502563087852,
       "currentPoolEth": 18.955127136285356,
-      "currentMarketCap": 34657.554455983496
+      "currentMarketCap": 34668.54842972254
     },
     "trustScore": null,
     "contractId": null,
@@ -89,7 +120,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.10876957573921779,
+    "priceChange": 0.10912129656284972,
     "isRugged": false
   },
   {
@@ -137,9 +168,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 41606528.5060049,
-      "currentPriceUSD": 0.0012683816706225597,
+      "currentPriceUSD": 0.0012687840231542602,
       "currentPoolEth": 28.862917378719608,
-      "currentMarketCap": 52772.95813525165
+      "currentMarketCap": 52789.69862733131
     },
     "trustScore": null,
     "contractId": null,
@@ -151,7 +182,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.3319256221807671,
+    "priceChange": 0.3323481319493434,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.622199117138739,
     "isRugged": false
-  },
-  {
-    "_id": "0x1e350fe734f368de20db997f0b1713d9a29e64c2",
-    "tokenName": "BCUG",
-    "idPair": "0x6655c26ef8b5ccda606f8ad69a5b0b21389a6b69",
-    "idToken": "0x1e350fe734f368de20db997f0b1713d9a29e64c2",
-    "dateCreationToken": "2021-03-13T08:54:29Z",
-    "initialInfos": {
-      "initialPoolToken": 192833,
-      "initialPriceUSD": 1.2682471361229666,
-      "initialPoolEth": 130,
-      "initialMarketCap": 244559.9
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.6131e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3.9e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 26,
-    "holderCountOld": 0,
-    "txCount": 38,
-    "createdAtTimestamp": "1615625669",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
