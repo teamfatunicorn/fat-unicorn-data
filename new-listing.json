@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xb802e5ba80bc4a7286046cd834822236e0f02e41",
+    "tokenName": "GOJI",
+    "idPair": "0xbe6186bc042eb8e7304ffb8bdd893888a993db9a",
+    "idToken": "0xb802e5ba80bc4a7286046cd834822236e0f02e41",
+    "dateCreationToken": "2021-03-19T09:51:16Z",
+    "initialInfos": {
+      "initialPoolToken": 100000,
+      "initialPriceUSD": 0.0180379,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1803.79
+    },
+    "currentInfos": {
+      "currentPoolToken": 50075.1126690035,
+      "currentPriceUSD": 0.0720433726,
+      "currentPoolEth": 2,
+      "currentMarketCap": 3607.58
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1616147476",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.9940000000000007,
+    "isRugged": false
+  },
+  {
     "_id": "0x1ebcb81b02051c914b44a98c0d7ee3bbdba1c465",
     "tokenName": "FISH",
     "idPair": "0xe90cd4d36c8cace0ef35c8637314a59113fcfafc",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-03-19T09:19:00Z",
     "initialInfos": {
       "initialPoolToken": 80000000,
-      "initialPriceUSD": 0.000029321825,
+      "initialPriceUSD": 0.0000293115875,
       "initialPoolEth": 1.3,
-      "initialMarketCap": 2345.746
+      "initialMarketCap": 2344.927
     },
     "currentInfos": {
-      "currentPoolToken": 22882409.1671192,
-      "currentPriceUSD": 0.000366505503424027,
-      "currentPoolEth": 4.647769860314829,
-      "currentMarketCap": 8386.528891349592
+      "currentPoolToken": 18769459.072696898,
+      "currentPriceUSD": 0.0005464560882117151,
+      "currentPoolEth": 5.68618585462595,
+      "currentMarketCap": 10256.685182715833
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 40,
     "holderCountOld": 0,
-    "txCount": 101,
+    "txCount": 113,
     "createdAtTimestamp": "1616145540",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 11.499409686267038,
+    "priceChange": 17.643005542150014,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.34748946656461555,
-    "isRugged": false
-  },
-  {
-    "_id": "0xdd1ad9a21ce722c151a836373babe42c868ce9a4",
-    "tokenName": "UBI",
-    "idPair": "0xe632ded5195e945a31f56d674aab0c0c9e7e812c",
-    "idToken": "0xdd1ad9a21ce722c151a836373babe42c868ce9a4",
-    "dateCreationToken": "2021-03-10T17:30:44Z",
-    "initialInfos": {
-      "initialPoolToken": 4000,
-      "initialPriceUSD": 1.237283935,
-      "initialPoolEth": 2.666,
-      "initialMarketCap": 4960.023632913065
-    },
-    "currentInfos": {
-      "currentPoolToken": 67389.51980822496,
-      "currentPriceUSD": 1.2858499626777098,
-      "currentPoolEth": 48.04622686080863,
-      "currentMarketCap": 86652.81153027486
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 517,
-    "holderCountOld": 518,
-    "txCount": 1445,
-    "createdAtTimestamp": "1615397444",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.03925212823337094,
     "isRugged": false
   }
 ]
