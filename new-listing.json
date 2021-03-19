@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x350876094f2f6745a8be46e479fba609b45ce950",
+    "tokenName": "TIDAL",
+    "idPair": "0x9264517b9450dc9228add458b903c2c68468fc8f",
+    "idToken": "0x350876094f2f6745a8be46e479fba609b45ce950",
+    "dateCreationToken": "2021-03-19T20:09:06Z",
+    "initialInfos": {
+      "initialPoolToken": 48000000,
+      "initialPriceUSD": 0.0009551458333333333,
+      "initialPoolEth": 25,
+      "initialMarketCap": 45847
+    },
+    "currentInfos": {
+      "currentPoolToken": 48000000,
+      "currentPriceUSD": 0.0009551458333333333,
+      "currentPoolEth": 25,
+      "currentMarketCap": 45847
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1616184546",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x052b1b13c2de074b77023f96ca78bedf63c9fc07",
     "tokenName": "KITT",
     "idPair": "0xa1d0bbedabc8bfe70d6007031bbf7fe7fb3941a2",
@@ -7,9 +38,9 @@
     "dateCreationToken": "2021-03-19T19:22:15Z",
     "initialInfos": {
       "initialPoolToken": 50000000000,
-      "initialPriceUSD": 3.65734e-8,
+      "initialPriceUSD": 3.66776e-8,
       "initialPoolEth": 1,
-      "initialMarketCap": 1828.67
+      "initialMarketCap": 1833.88
     },
     "currentInfos": {
       "currentPoolToken": 1.14162945e-10,
@@ -38,9 +69,9 @@
     "dateCreationToken": "2021-03-19T18:45:18Z",
     "initialInfos": {
       "initialPoolToken": 100000,
-      "initialPriceUSD": 0.182867,
+      "initialPriceUSD": 0.183388,
       "initialPoolEth": 10,
-      "initialMarketCap": 18286.7
+      "initialMarketCap": 18338.8
     },
     "currentInfos": {
       "currentPoolToken": 6.2653e-14,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.9600500538899875,
     "isRugged": false
-  },
-  {
-    "_id": "0x1ddb5489f3f1d40b59a3970a1dc1dad341f0a034",
-    "tokenName": "FTFN",
-    "idPair": "0xcab792f816501591e9e0b0b09ab93f257d034f2e",
-    "idToken": "0x1ddb5489f3f1d40b59a3970a1dc1dad341f0a034",
-    "dateCreationToken": "2021-03-12T16:29:16Z",
-    "initialInfos": {
-      "initialPoolToken": 107000,
-      "initialPriceUSD": 0.04975738317757009,
-      "initialPoolEth": 3,
-      "initialMarketCap": 5324.04
-    },
-    "currentInfos": {
-      "currentPoolToken": 5411.195350804385,
-      "currentPriceUSD": 0.002015387655538995,
-      "currentPoolEth": 0.005973869010539684,
-      "currentMarketCap": 10.90565631172116
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 14,
-    "holderCountOld": 0,
-    "txCount": 26,
-    "createdAtTimestamp": "1615566556",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9594957064292017,
-    "isRugged": true
   }
 ]
