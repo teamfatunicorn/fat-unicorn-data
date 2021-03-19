@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xd048589d01fef5dd44b93d4e9721b8c1139297be",
+    "tokenName": "POM",
+    "idPair": "0xb45f65561bdbef60e6f716a755394efee977c4ac",
+    "idToken": "0xd048589d01fef5dd44b93d4e9721b8c1139297be",
+    "dateCreationToken": "2021-03-19T23:26:13Z",
+    "initialInfos": {
+      "initialPoolToken": 50000000,
+      "initialPriceUSD": 0.0000180621,
+      "initialPoolEth": 0.5,
+      "initialMarketCap": 905.2004708466891
+    },
+    "currentInfos": {
+      "currentPoolToken": 45466945.53059925,
+      "currentPriceUSD": 0.000021849180507,
+      "currentPoolEth": 0.55,
+      "currentMarketCap": 993.4155
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1616196373",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.2096699999999999,
+    "isRugged": false
+  },
+  {
     "_id": "0x5dea27d7b472015b6f2a30a1166f5b7f3d246696",
     "tokenName": "TUSK",
     "idPair": "0x31895c87c17926d5ff44ef9ad25f287fbf3adfa8",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-03-19T23:12:53Z",
     "initialInfos": {
       "initialPoolToken": 897458591478.5559,
-      "initialPriceUSD": 2.012961954070464e-9,
+      "initialPriceUSD": 2.0125831065077705e-9,
       "initialPoolEth": 1,
-      "initialMarketCap": 1806.55
+      "initialMarketCap": 1806.21
     },
     "currentInfos": {
-      "currentPoolToken": 86987657717.99274,
-      "currentPriceUSD": 2.2029112137979407e-7,
-      "currentPoolEth": 10.60729493504149,
-      "currentMarketCap": 19162.60866489832
+      "currentPoolToken": 63066820077.98793,
+      "currentPriceUSD": 4.1986677982238485e-7,
+      "currentPoolEth": 14.66034550787704,
+      "currentMarketCap": 26479.662659782516
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 62,
     "holderCountOld": 0,
-    "txCount": 85,
+    "txCount": 98,
     "createdAtTimestamp": "1616195573",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 108.43630650064576,
+    "priceChange": 207.620840781545,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 116.80637934578361,
-    "isRugged": false
-  },
-  {
-    "_id": "0x27cd7375478f189bdcf55616b088be03d9c4339c",
-    "tokenName": "COSMO",
-    "idPair": "0x1954b2e0f96e3cf64f754e7abf2834630385ab5d",
-    "idToken": "0x27cd7375478f189bdcf55616b088be03d9c4339c",
-    "dateCreationToken": "2021-03-13T11:55:39Z",
-    "initialInfos": {
-      "initialPoolToken": 150000,
-      "initialPriceUSD": 0.009981807211333333,
-      "initialPoolEth": 0.79837,
-      "initialMarketCap": 1497.2710817
-    },
-    "currentInfos": {
-      "currentPoolToken": 15544739.33688863,
-      "currentPriceUSD": 0.0006445929671214608,
-      "currentPoolEth": 5.517880552168978,
-      "currentMarketCap": 10020.02965229473
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 98,
-    "holderCountOld": 96,
-    "txCount": 142,
-    "createdAtTimestamp": "1615636539",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9354232201169353,
     "isRugged": false
   }
 ]
