@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x6c085e5e3df7ca76e8591c057f6e20c0ddf6ffa9",
+    "tokenName": "VIRAL",
+    "idPair": "0x34d4659e1e8357032e27e6a1512da75548d93a5d",
+    "idToken": "0x6c085e5e3df7ca76e8591c057f6e20c0ddf6ffa9",
+    "dateCreationToken": "2021-03-19T15:09:55Z",
+    "initialInfos": {
+      "initialPoolToken": 90000000,
+      "initialPriceUSD": 0.00005054361111111111,
+      "initialPoolEth": 2.5,
+      "initialMarketCap": 4548.925
+    },
+    "currentInfos": {
+      "currentPoolToken": 90000000,
+      "currentPriceUSD": 0.00005054361111111111,
+      "currentPoolEth": 2.5,
+      "currentMarketCap": 4548.925
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1616166595",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x22d80eff6fd8dac68c3c84b356b79c0a0882dc03",
     "tokenName": "SPICE",
     "idPair": "0x1ae73c05eeffba195876b374220d6d6b341081d0",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-03-19T15:03:41Z",
     "initialInfos": {
       "initialPoolToken": 500000000,
-      "initialPriceUSD": 0.000001452328,
+      "initialPriceUSD": 0.000001455656,
       "initialPoolEth": 0.4,
-      "initialMarketCap": 726.164
+      "initialMarketCap": 727.828
     },
     "currentInfos": {
-      "currentPoolToken": 168667821.22503874,
-      "currentPriceUSD": 0.00001279872126965863,
-      "currentPoolEth": 1.18911564385997,
-      "currentMarketCap": 2158.732431019883
+      "currentPoolToken": 139443136.39402205,
+      "currentPriceUSD": 0.000018778777642372353,
+      "currentPoolEth": 1.43911564385997,
+      "currentMarketCap": 2618.57165209834
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 1,
+    "holderCount": 9,
     "holderCountOld": 0,
-    "txCount": 6,
+    "txCount": 8,
     "createdAtTimestamp": "1616166221",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 7.8125556139237355,
+    "priceChange": 11.900560051531649,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-03-19T14:24:44Z",
     "initialInfos": {
       "initialPoolToken": 1000000000,
-      "initialPriceUSD": 0.00001452328,
+      "initialPriceUSD": 0.00001455656,
       "initialPoolEth": 8,
-      "initialMarketCap": 14523.28
+      "initialMarketCap": 14556.56
     },
     "currentInfos": {
       "currentPoolToken": 856197677.852856,
-      "currentPriceUSD": 0.00001982066443861524,
+      "currentPriceUSD": 0.000019866083359996436,
       "currentPoolEth": 9.347974763741302,
-      "currentMarketCap": 16970.406865843048
+      "currentMarketCap": 17009.294440860212
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.3647512434253996,
+    "priceChange": 0.3647512434253997,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.038198989565662735,
     "isRugged": true
-  },
-  {
-    "_id": "0x81ba946907038fe51333f929bfda636d56cef267",
-    "tokenName": "PEPEMON",
-    "idPair": "0x1d80196be3d5b2d15664c4283dc3064117fb0b5d",
-    "idToken": "0x81ba946907038fe51333f929bfda636d56cef267",
-    "dateCreationToken": "2021-03-11T12:39:55Z",
-    "initialInfos": {
-      "initialPoolToken": 3,
-      "initialPriceUSD": 181.339,
-      "initialPoolEth": 0.3,
-      "initialMarketCap": 544.017
-    },
-    "currentInfos": {
-      "currentPoolToken": 3,
-      "currentPriceUSD": 181.989,
-      "currentPoolEth": 0.3,
-      "currentMarketCap": 545.967
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1,
-    "holderCountOld": 0,
-    "txCount": 1,
-    "createdAtTimestamp": "1615466395",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.003584446809566644,
-    "isRugged": false
   }
 ]
