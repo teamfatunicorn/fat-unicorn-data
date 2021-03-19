@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x790b464f053edcafbf57b767b7439889ff275184",
+    "tokenName": "CATE",
+    "idPair": "0x46dac14102958e6ac4f0d50f667a5e38e48b682c",
+    "idToken": "0x790b464f053edcafbf57b767b7439889ff275184",
+    "dateCreationToken": "2021-03-19T00:26:09Z",
+    "initialInfos": {
+      "initialPoolToken": 500000,
+      "initialPriceUSD": 0.2785808,
+      "initialPoolEth": 80,
+      "initialMarketCap": 139290.4
+    },
+    "currentInfos": {
+      "currentPoolToken": 496289.0104492141,
+      "currentPriceUSD": 0.28276886057375367,
+      "currentPoolEth": 80.6,
+      "currentMarketCap": 140335.078
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1616113569",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.015033557853784787,
+    "isRugged": false
+  },
+  {
     "_id": "0xa3b570b9da816f3f29fd99de8c6e2720becb0466",
     "tokenName": "CLA",
     "idPair": "0x7ddc3c4d235c5221406f2eb82dc67352410dab4f",
@@ -74,22 +105,22 @@
       "initialMarketCap": 13929.04
     },
     "currentInfos": {
-      "currentPoolToken": 3367520.3231517836,
-      "currentPriceUSD": 0.012618081423245981,
-      "currentPoolEth": 24.404637006980963,
-      "currentMarketCap": 42491.64563196483
+      "currentPoolToken": 3408481.546434816,
+      "currentPriceUSD": 0.012317377895834775,
+      "currentPoolEth": 24.11282055815301,
+      "currentMarketCap": 41983.555258416935
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 326,
     "holderCountOld": 0,
-    "txCount": 231,
+    "txCount": 233,
     "createdAtTimestamp": "1616106606",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 8.058830632438402,
+    "priceChange": 7.842948182957889,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.8417887273177295,
     "isRugged": false
-  },
-  {
-    "_id": "0x6d8bfbcff4cbe38697efff5a1a3541d35eedc599",
-    "tokenName": "ALN",
-    "idPair": "0x134c7f4ae6e68ac078b1432de63c6e89576e4f13",
-    "idToken": "0x6d8bfbcff4cbe38697efff5a1a3541d35eedc599",
-    "dateCreationToken": "2021-03-10T05:11:30Z",
-    "initialInfos": {
-      "initialPoolToken": 3500000,
-      "initialPriceUSD": 0.10351542857142858,
-      "initialPoolEth": 200,
-      "initialMarketCap": 362304
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.1253e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 9e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 25,
-    "holderCountOld": 22,
-    "txCount": 26,
-    "createdAtTimestamp": "1615353090",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
