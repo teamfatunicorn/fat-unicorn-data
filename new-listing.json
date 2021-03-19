@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x8cafac1fb802a1771e9ac264e3b0dc41558bccc1",
+    "tokenName": "GNY",
+    "idPair": "0xf4e52f06d85d2cf87f449de5d8e835867515c0da",
+    "idToken": "0x8cafac1fb802a1771e9ac264e3b0dc41558bccc1",
+    "dateCreationToken": "2021-03-19T03:54:00Z",
+    "initialInfos": {
+      "initialPoolToken": 311326,
+      "initialPriceUSD": 0.8016298028433217,
+      "initialPoolEth": 140,
+      "initialMarketCap": 249568.2
+    },
+    "currentInfos": {
+      "currentPoolToken": 311326,
+      "currentPriceUSD": 0.8016298028433217,
+      "currentPoolEth": 140,
+      "currentMarketCap": 249568.2
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1616126040",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6",
     "tokenName": "QASH",
     "idPair": "0x394481b3d4ec4fa6d22579148a2f609ae8256fde",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-19T02:51:30Z",
     "initialInfos": {
       "initialPoolToken": 210000,
-      "initialPriceUSD": 0.08490904761904762,
+      "initialPriceUSD": 0.08488619047619048,
       "initialPoolEth": 10,
-      "initialMarketCap": 17830.9
+      "initialMarketCap": 17826.1
     },
     "currentInfos": {
       "currentPoolToken": 234501.37354,
-      "currentPriceUSD": 0.06825752620487624,
+      "currentPriceUSD": 0.06823915157848141,
       "currentPoolEth": 8.976823183061791,
-      "currentMarketCap": 16006.483649486021
+      "currentMarketCap": 16002.174774358153
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.19611009522660044,
+    "priceChange": -0.1961100952266005,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 9.688683734199282,
-    "isRugged": false
-  },
-  {
-    "_id": "0x1614f18fc94f47967a3fbe5ffcd46d4e7da3d787",
-    "tokenName": "PAID",
-    "idPair": "0x73a86455888902108bc88f5831919e23098b9b04",
-    "idToken": "0x1614f18fc94f47967a3fbe5ffcd46d4e7da3d787",
-    "dateCreationToken": "2021-03-10T10:17:12Z",
-    "initialInfos": {
-      "initialPoolToken": 222222,
-      "initialPriceUSD": 2.2534897534897533,
-      "initialPoolEth": 275,
-      "initialMarketCap": 500775
-    },
-    "currentInfos": {
-      "currentPoolToken": 746890.3040214917,
-      "currentPriceUSD": 1.9947670314514994,
-      "currentPoolEth": 840.4157055995997,
-      "currentMarketCap": 1489872.154572859
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 14137,
-    "holderCountOld": 14143,
-    "txCount": 9275,
-    "createdAtTimestamp": "1615371432",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.1148098062738453,
     "isRugged": false
   }
 ]
