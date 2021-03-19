@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x5dea27d7b472015b6f2a30a1166f5b7f3d246696",
+    "tokenName": "TUSK",
+    "idPair": "0x31895c87c17926d5ff44ef9ad25f287fbf3adfa8",
+    "idToken": "0x5dea27d7b472015b6f2a30a1166f5b7f3d246696",
+    "dateCreationToken": "2021-03-19T23:12:53Z",
+    "initialInfos": {
+      "initialPoolToken": 897458591478.5559,
+      "initialPriceUSD": 2.01935779233476e-9,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1812.29
+    },
+    "currentInfos": {
+      "currentPoolToken": 692646308587.1381,
+      "currentPriceUSD": 3.401414215006399e-9,
+      "currentPoolEth": 1.3,
+      "currentMarketCap": 2355.977
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1616195573",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.6844039366959929,
+    "isRugged": false
+  },
+  {
     "_id": "0x89dcff5fd892f2bfc8b75dba12804b651f769579",
     "tokenName": "STKR",
     "idPair": "0xb1f4327046a7d5ac1a502a44516f765e9e8845df",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9354232201169353,
-    "isRugged": false
-  },
-  {
-    "_id": "0xb2de3ffdb3409f607c82b1cd777d34f489e9dba4",
-    "tokenName": "IFNFT",
-    "idPair": "0x6512fa580a36aab4629c326f0afde5677225c3bb",
-    "idToken": "0xb2de3ffdb3409f607c82b1cd777d34f489e9dba4",
-    "dateCreationToken": "2021-03-13T09:50:16Z",
-    "initialInfos": {
-      "initialPoolToken": 50000,
-      "initialPriceUSD": 1.0911134,
-      "initialPoolEth": 29,
-      "initialMarketCap": 54555.67
-    },
-    "currentInfos": {
-      "currentPoolToken": 94411.2688030219,
-      "currentPriceUSD": 0.43802065857938943,
-      "currentPoolEth": 22.773077084021352,
-      "currentMarketCap": 41354.08613841541
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 727,
-    "holderCountOld": 728,
-    "txCount": 1137,
-    "createdAtTimestamp": "1615629016",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.5985562466931582,
     "isRugged": false
   }
 ]
