@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xe77a5ad5a6a52bc1a202b3e8acb7e57c9fc457a9",
+    "tokenName": "SEALS",
+    "idPair": "0xbee5c20c83ddac157397193d8c836e0d013d8c67",
+    "idToken": "0xe77a5ad5a6a52bc1a202b3e8acb7e57c9fc457a9",
+    "dateCreationToken": "2021-03-19T04:17:36Z",
+    "initialInfos": {
+      "initialPoolToken": 60000000000000,
+      "initialPriceUSD": 1.4797666666666667e-10,
+      "initialPoolEth": 5,
+      "initialMarketCap": 8896.968229182155
+    },
+    "currentInfos": {
+      "currentPoolToken": 60000000000000,
+      "currentPriceUSD": 1.4797666666666667e-10,
+      "currentPoolEth": 5,
+      "currentMarketCap": 8878.6
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1616127456",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x8cafac1fb802a1771e9ac264e3b0dc41558bccc1",
     "tokenName": "GNY",
     "idPair": "0xf4e52f06d85d2cf87f449de5d8e835867515c0da",
@@ -12,22 +43,22 @@
       "initialMarketCap": 248600.8
     },
     "currentInfos": {
-      "currentPoolToken": 271886.8869671091,
-      "currentPriceUSD": 1.0474103419966898,
-      "currentPoolEth": 160.37277119288817,
-      "currentMarketCap": 284777.1372626351
+      "currentPoolToken": 270207.07280921336,
+      "currentPriceUSD": 1.0604935477205775,
+      "currentPoolEth": 161.37277119288817,
+      "currentMarketCap": 286552.8572626351
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 14,
     "holderCountOld": 0,
-    "txCount": 18,
+    "txCount": 19,
     "createdAtTimestamp": "1616126040",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.31168553010473593,
+    "priceChange": 0.32806979799605024,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.3331867978823773,
-    "isRugged": false
-  },
-  {
-    "_id": "0x0ace32f6e87ac1457a5385f8eb0208f37263b415",
-    "tokenName": "HBT",
-    "idPair": "0xc7a1cb6edc22e94f17c80eb5b959f2ad28511d4e",
-    "idToken": "0x0ace32f6e87ac1457a5385f8eb0208f37263b415",
-    "dateCreationToken": "2021-03-10T10:30:51Z",
-    "initialInfos": {
-      "initialPoolToken": 728.3796568279,
-      "initialPriceUSD": 0.17500488763666602,
-      "initialPoolEth": 0.07,
-      "initialMarketCap": 127.47
-    },
-    "currentInfos": {
-      "currentPoolToken": 32310.5999287661,
-      "currentPriceUSD": 1.8532795040180743,
-      "currentPoolEth": 33.57494160915426,
-      "currentMarketCap": 59880.57261051007
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 160,
-    "holderCountOld": 161,
-    "txCount": 629,
-    "createdAtTimestamp": "1615372251",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 9.589872826099205,
     "isRugged": false
   }
 ]
