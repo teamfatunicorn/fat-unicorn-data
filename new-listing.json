@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xaad6cdb5b9b3da403fcd4c089a803f7b4600c0f8",
+    "tokenName": "UFO1",
+    "idPair": "0xdeaa155fc79349bfe2601491f52c66659f17fdff",
+    "idToken": "0xaad6cdb5b9b3da403fcd4c089a803f7b4600c0f8",
+    "dateCreationToken": "2021-03-19T17:52:05Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 1.81746e-9,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1817.46
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000000,
+      "currentPriceUSD": 1.81746e-9,
+      "currentPoolEth": 1,
+      "currentMarketCap": 1817.46
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1616176325",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x2c54902f1208bfc762a9e549e3d17672ef731107",
     "tokenName": "ARCX",
     "idPair": "0xcd8104a576b2be606c95ea3fec661a7a0cff7060",
@@ -12,22 +43,22 @@
       "initialMarketCap": 145396.8
     },
     "currentInfos": {
-      "currentPoolToken": 16,
-      "currentPriceUSD": 9087.3,
-      "currentPoolEth": 80,
-      "currentMarketCap": 145396.8
+      "currentPoolToken": 15.88635948159924,
+      "currentPriceUSD": 9217.971429514715,
+      "currentPoolEth": 80.57399217610391,
+      "currentMarketCap": 146440.007820382
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 0,
     "holderCountOld": 0,
-    "txCount": 1,
+    "txCount": 3,
     "createdAtTimestamp": "1616176156",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.014379565934294652,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.6824542802085501,
-    "isRugged": true
-  },
-  {
-    "_id": "0xbfb72ec6b880d9b05bc2f80e5dae686d608dce63",
-    "tokenName": "KVI",
-    "idPair": "0x99c965fc872a24a2d12c771bd6d178daef05feed",
-    "idToken": "0xbfb72ec6b880d9b05bc2f80e5dae686d608dce63",
-    "dateCreationToken": "2021-03-12T08:55:47Z",
-    "initialInfos": {
-      "initialPoolToken": 20000,
-      "initialPriceUSD": 0.00068023681,
-      "initialPoolEth": 0.007645,
-      "initialMarketCap": 13.6047362
-    },
-    "currentInfos": {
-      "currentPoolToken": 199716.45984056484,
-      "currentPriceUSD": 0.000007009221372442593,
-      "currentPoolEth": 0.000767663201646032,
-      "currentMarketCap": 1.39985687874306
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 242,
-    "holderCountOld": 243,
-    "txCount": 7,
-    "createdAtTimestamp": "1615539347",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9896959099104875,
     "isRugged": true
   }
 ]
