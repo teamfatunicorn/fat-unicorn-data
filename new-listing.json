@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x4a9a2c8c90037370de18978129eb3b7cc0c6d48a",
+    "tokenName": "CHW",
+    "idPair": "0x4041933e76486dfec825940301342b62d052f429",
+    "idToken": "0x4a9a2c8c90037370de18978129eb3b7cc0c6d48a",
+    "dateCreationToken": "2021-03-19T12:16:09Z",
+    "initialInfos": {
+      "initialPoolToken": 9000555,
+      "initialPriceUSD": 0.00020247751388664367,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1822.41
+    },
+    "currentInfos": {
+      "currentPoolToken": 5527555.197744131,
+      "currentPriceUSD": 0.0005384520851623303,
+      "currentPoolEth": 1.6331800319768206,
+      "currentMarketCap": 2976.3236220752046
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 9,
+    "createdAtTimestamp": "1616156169",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.659317940182636,
+    "isRugged": false
+  },
+  {
     "_id": "0x9ad5b38f50a3b094fe6c0e4ab6a19a728052169e",
     "tokenName": "NFTX",
     "idPair": "0xf73a407f9d56b7896a8169f0c30b1e6841dccd1f",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.01846101563983345,
     "isRugged": false
-  },
-  {
-    "_id": "0x9025f9a59694dd939739e05beb2502a567e8326f",
-    "tokenName": "NAMTT",
-    "idPair": "0x6f84aa2a668ab877f9dc17e4f504aefaae75a359",
-    "idToken": "0x9025f9a59694dd939739e05beb2502a567e8326f",
-    "dateCreationToken": "2021-03-11T04:54:37Z",
-    "initialInfos": {
-      "initialPoolToken": 30000,
-      "initialPriceUSD": 0.005959666666666667,
-      "initialPoolEth": 0.1,
-      "initialMarketCap": 178.79
-    },
-    "currentInfos": {
-      "currentPoolToken": 45000,
-      "currentPriceUSD": 0.00270761233205593,
-      "currentPoolEth": 0.06698584054477345,
-      "currentMarketCap": 121.84255494251686
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3847,
-    "holderCountOld": 3844,
-    "txCount": 7,
-    "createdAtTimestamp": "1615438477",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.5456772192981828,
-    "isRugged": true
   }
 ]
