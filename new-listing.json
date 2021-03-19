@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xb2426a4aa00f4fd9c7ae12dd5393ef1e4106daa3",
+    "tokenName": "BOOT",
+    "idPair": "0x50e5617f63d03875784c158dad05e691f79b1377",
+    "idToken": "0xb2426a4aa00f4fd9c7ae12dd5393ef1e4106daa3",
+    "dateCreationToken": "2021-03-19T05:19:30Z",
+    "initialInfos": {
+      "initialPoolToken": 4500000,
+      "initialPriceUSD": 0.009916944444444445,
+      "initialPoolEth": 25,
+      "initialMarketCap": 44626.25
+    },
+    "currentInfos": {
+      "currentPoolToken": 4214302.794286876,
+      "currentPriceUSD": 0.01130930484269224,
+      "currentPoolEth": 26.7,
+      "currentMarketCap": 47660.835
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 5,
+    "createdAtTimestamp": "1616131170",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.14040215774605921,
+    "isRugged": false
+  },
+  {
     "_id": "0xe77a5ad5a6a52bc1a202b3e8acb7e57c9fc457a9",
     "tokenName": "SEALS",
     "idPair": "0xbee5c20c83ddac157397193d8c836e0d013d8c67",
@@ -7,7 +38,7 @@
     "dateCreationToken": "2021-03-19T04:17:36Z",
     "initialInfos": {
       "initialPoolToken": 60000000000000,
-      "initialPriceUSD": 1.4871583333333334e-10,
+      "initialPriceUSD": 1.4875416666666667e-10,
       "initialPoolEth": 5,
       "initialMarketCap": 8896.968229182155
     },
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-03-19T03:54:00Z",
     "initialInfos": {
       "initialPoolToken": 311326,
-      "initialPriceUSD": 0.8025111940538214,
+      "initialPriceUSD": 0.8027180511746529,
       "initialPoolEth": 140,
-      "initialMarketCap": 249842.6
+      "initialMarketCap": 249907
     },
     "currentInfos": {
       "currentPoolToken": 265935.27952026745,
-      "currentPriceUSD": 1.1003585845059511,
+      "currentPriceUSD": 1.1006422154513633,
       "currentPoolEth": 163.97277119288816,
-      "currentMarketCap": 292624.167743116
+      "currentMarketCap": 292699.5952178647
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.3711442191199569,
+    "priceChange": 0.37114421911995726,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 10.457102454022056,
-    "isRugged": false
-  },
-  {
-    "_id": "0x2313e39841fb3809da0ff6249c2067ca84795846",
-    "tokenName": "DUDES20",
-    "idPair": "0x04914cb01eec94e320e3a88b3c7a7e9b1609d13c",
-    "idToken": "0x2313e39841fb3809da0ff6249c2067ca84795846",
-    "dateCreationToken": "2021-03-10T12:33:08Z",
-    "initialInfos": {
-      "initialPoolToken": 95,
-      "initialPriceUSD": 14.544868421052632,
-      "initialPoolEth": 0.75,
-      "initialMarketCap": 1381.7625
-    },
-    "currentInfos": {
-      "currentPoolToken": 8855.353068923954,
-      "currentPriceUSD": 9.703278249395163,
-      "currentPoolEth": 48.155865128313714,
-      "currentMarketCap": 85925.95482440451
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 17,
-    "holderCountOld": 18,
-    "txCount": 313,
-    "createdAtTimestamp": "1615379588",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.3328727377588113,
     "isRugged": false
   }
 ]
