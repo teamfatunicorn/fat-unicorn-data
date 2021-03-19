@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x052b1b13c2de074b77023f96ca78bedf63c9fc07",
+    "tokenName": "KITT",
+    "idPair": "0xa1d0bbedabc8bfe70d6007031bbf7fe7fb3941a2",
+    "idToken": "0x052b1b13c2de074b77023f96ca78bedf63c9fc07",
+    "dateCreationToken": "2021-03-19T19:22:15Z",
+    "initialInfos": {
+      "initialPoolToken": 50000000000,
+      "initialPriceUSD": 3.65924e-8,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1829.62
+    },
+    "currentInfos": {
+      "currentPoolToken": 34600391958.76935,
+      "currentPriceUSD": 7.649061894516562e-8,
+      "currentPoolEth": 1.4465328301354157,
+      "currentMarketCap": 2646.6053966715986
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1616181735",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.090341681473902,
+    "isRugged": false
+  },
+  {
     "_id": "0x0e795f3ab87981e8f8dedfdc0084681b81584830",
     "tokenName": "aBOT",
     "idPair": "0xbad43d24cd8d2a03c8faace32e21829f9455ead4",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-19T18:45:18Z",
     "initialInfos": {
       "initialPoolToken": 100000,
-      "initialPriceUSD": 0.181997,
+      "initialPriceUSD": 0.182962,
       "initialPoolEth": 10,
-      "initialMarketCap": 18199.7
+      "initialMarketCap": 18296.2
     },
     "currentInfos": {
       "currentPoolToken": 65353.58061790323,
-      "currentPriceUSD": 0.42663572838561314,
+      "currentPriceUSD": 0.42889787269509144,
       "currentPoolEth": 15.320127512830707,
-      "currentMarketCap": 27882.172469527035
+      "currentMarketCap": 28030.011700025854
     },
     "trustScore": null,
     "contractId": null,
@@ -74,22 +105,22 @@
       "initialMarketCap": 181.97081372353057
     },
     "currentInfos": {
-      "currentPoolToken": 2.696016061070503,
-      "currentPriceUSD": 27715.9126066626,
-      "currentPoolEth": 41.05702046450674,
-      "currentMarketCap": 74722.5455347888
+      "currentPoolToken": 2.6894851033495026,
+      "currentPriceUSD": 27850.885822532422,
+      "currentPoolEth": 41.15702046450674,
+      "currentMarketCap": 74904.54253478881
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 192,
     "holderCountOld": 0,
-    "txCount": 119,
+    "txCount": 120,
     "createdAtTimestamp": "1616177569",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.24617566551657513,
+    "priceChange": -0.24250463017777496,
     "isRugged": false
   },
   {
@@ -105,22 +136,22 @@
       "initialMarketCap": 1819.97
     },
     "currentInfos": {
-      "currentPoolToken": 378662104420.07776,
-      "currentPriceUSD": 1.3421670134871741e-8,
-      "currentPoolEth": 2.7925063919202624,
-      "currentMarketCap": 5082.277858102642
+      "currentPoolToken": 437746702797.22003,
+      "currentPriceUSD": 1.0047091874775776e-8,
+      "currentPoolEth": 2.4165680428159826,
+      "currentMarketCap": 4398.081340883836
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 42,
     "holderCountOld": 0,
-    "txCount": 89,
+    "txCount": 90,
     "createdAtTimestamp": "1616176325",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 6.374665590571131,
+    "priceChange": 4.520471147752862,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.959546515404134,
     "isRugged": true
-  },
-  {
-    "_id": "0x059d44edd2c15fd0050feb8cc97b3e93e5837506",
-    "tokenName": "PDC",
-    "idPair": "0x3dd9f24e81ddaaaea8d8298d7313733d7a33e049",
-    "idToken": "0x059d44edd2c15fd0050feb8cc97b3e93e5837506",
-    "dateCreationToken": "2021-03-12T11:34:16Z",
-    "initialInfos": {
-      "initialPoolToken": 22758.64769486,
-      "initialPriceUSD": 0.15597829612471026,
-      "initialPoolEth": 1.9943678379871388,
-      "initialMarketCap": 3549.855089546828
-    },
-    "currentInfos": {
-      "currentPoolToken": 102638.86378619,
-      "currentPriceUSD": 0.15977535645881785,
-      "currentPoolEth": 8.994367837986754,
-      "currentMarketCap": 16399.161047966558
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 67,
-    "holderCountOld": 64,
-    "txCount": 2,
-    "createdAtTimestamp": "1615548856",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.0243435171972369,
-    "isRugged": false
   }
 ]
