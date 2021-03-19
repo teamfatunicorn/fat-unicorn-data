@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x649ecf2e3eeb75db5dc4ec6b72f57d32d76615fc",
+    "tokenName": "CYBG",
+    "idPair": "0xd64b8f98b720693d977d03d8992eb1b6bb2c281e",
+    "idToken": "0x649ecf2e3eeb75db5dc4ec6b72f57d32d76615fc",
+    "dateCreationToken": "2021-03-19T00:31:30Z",
+    "initialInfos": {
+      "initialPoolToken": 10000000000,
+      "initialPriceUSD": 1.74136e-7,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1741.36
+    },
+    "currentInfos": {
+      "currentPoolToken": 6920135072.810593,
+      "currentPriceUSD": 3.639977687044463e-7,
+      "currentPoolEth": 1.4465209523795142,
+      "currentMarketCap": 2518.913725636437
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1616113890",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.0903073959689342,
+    "isRugged": false
+  },
+  {
     "_id": "0x790b464f053edcafbf57b767b7439889ff275184",
     "tokenName": "CATE",
     "idPair": "0x46dac14102958e6ac4f0d50f667a5e38e48b682c",
@@ -12,22 +43,22 @@
       "initialMarketCap": 139308.8
     },
     "currentInfos": {
-      "currentPoolToken": 383587.9859854018,
-      "currentPriceUSD": 0.47373458723500544,
-      "currentPoolEth": 104.35458274515359,
-      "currentMarketCap": 181718.89620910137
+      "currentPoolToken": 378882.2433610959,
+      "currentPriceUSD": 0.48559326131775365,
+      "currentPoolEth": 105.65458274515359,
+      "currentMarketCap": 183982.66420910138
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 0,
     "holderCountOld": 0,
-    "txCount": 13,
+    "txCount": 16,
     "createdAtTimestamp": "1616113569",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.7003038832974134,
+    "priceChange": 0.742866428099853,
     "isRugged": false
   },
   {
@@ -230,7 +261,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 22668019942.728546,
-      "currentPriceUSD": 0.00337460508157065,
+      "currentPriceUSD": 0.00371794633081579,
       "currentPoolEth": 21.818087740611986,
       "currentMarketCap": 38830.74165635421
     },
@@ -244,7 +275,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 851664.534807887,
+    "priceChange": 938315.2395842433,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 14.153492407703988,
-    "isRugged": false
-  },
-  {
-    "_id": "0xd7dcb670d682dffe9a36e0f33f1d3c59b98d3e56",
-    "tokenName": "ROAD",
-    "idPair": "0x37e65331a49f4af88bd6acc324a560d82072bd83",
-    "idToken": "0xd7dcb670d682dffe9a36e0f33f1d3c59b98d3e56",
-    "dateCreationToken": "2021-03-10T05:32:41Z",
-    "initialInfos": {
-      "initialPoolToken": 913207.8110155,
-      "initialPriceUSD": 0.001193102212329898,
-      "initialPoolEth": 0.6014563789743069,
-      "initialMarketCap": 1081.6005572726488
-    },
-    "currentInfos": {
-      "currentPoolToken": 2306245.7823684826,
-      "currentPriceUSD": 0.00018876221945274572,
-      "currentPoolEth": 0.24499249965332082,
-      "currentMarketCap": 435.33207248340875
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 519,
-    "holderCountOld": 518,
-    "txCount": 24,
-    "createdAtTimestamp": "1615354361",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.8417887273177295,
     "isRugged": false
   }
 ]
