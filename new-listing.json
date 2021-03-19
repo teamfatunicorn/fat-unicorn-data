@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7b8d1729ef3e24157523ba11efe6b9c353f55671",
+    "tokenName": "TOT",
+    "idPair": "0x1e4de79c74594a04e6c692d8dcdb424516d91268",
+    "idToken": "0x7b8d1729ef3e24157523ba11efe6b9c353f55671",
+    "dateCreationToken": "2021-03-19T20:09:52Z",
+    "initialInfos": {
+      "initialPoolToken": 5000000000,
+      "initialPriceUSD": 0.00000550164,
+      "initialPoolEth": 15,
+      "initialMarketCap": 27508.2
+    },
+    "currentInfos": {
+      "currentPoolToken": 4659364007.062573,
+      "currentPriceUSD": 0.00000633680218056496,
+      "currentPoolEth": 16.1,
+      "currentMarketCap": 29525.468
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 6,
+    "createdAtTimestamp": "1616184592",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.1518024044766578,
+    "isRugged": false
+  },
+  {
     "_id": "0x350876094f2f6745a8be46e479fba609b45ce950",
     "tokenName": "TIDAL",
     "idPair": "0x9264517b9450dc9228add458b903c2c68468fc8f",
@@ -12,22 +43,22 @@
       "initialMarketCap": 45847
     },
     "currentInfos": {
-      "currentPoolToken": 48000000,
-      "currentPriceUSD": 0.0009551458333333333,
-      "currentPoolEth": 25,
-      "currentMarketCap": 45847
+      "currentPoolToken": 47809336.366570115,
+      "currentPriceUSD": 0.000963651778112,
+      "currentPoolEth": 25.1,
+      "currentMarketCap": 46071.552
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 2,
     "holderCountOld": 0,
-    "txCount": 1,
+    "txCount": 2,
     "createdAtTimestamp": "1616184546",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.008905388561432588,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x9b75848172677042269c63365b57b0a51c21d031",
-    "tokenName": "OSM",
-    "idPair": "0x853d6a51573fb3da673e20852fbfc79ca47ae6f6",
-    "idToken": "0x9b75848172677042269c63365b57b0a51c21d031",
-    "dateCreationToken": "2021-03-12T16:36:07Z",
-    "initialInfos": {
-      "initialPoolToken": 100,
-      "initialPriceUSD": 2.0053884,
-      "initialPoolEth": 0.113,
-      "initialMarketCap": 200.53884
-    },
-    "currentInfos": {
-      "currentPoolToken": 922297.2892008711,
-      "currentPriceUSD": 0.08011515850964405,
-      "currentPoolEth": 40.47524787864717,
-      "currentMarketCap": 73889.99351734282
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 554,
-    "holderCountOld": 553,
-    "txCount": 879,
-    "createdAtTimestamp": "1615566967",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9600500538899875,
-    "isRugged": false
   }
 ]
