@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7a911c71144f4d5a00e4216b1c5b12d9571e9336",
+    "tokenName": "AAH",
+    "idPair": "0x8afda1b3234d4cf15010b2f528e6034dc4526455",
+    "idToken": "0x7a911c71144f4d5a00e4216b1c5b12d9571e9336",
+    "dateCreationToken": "2021-03-20T05:41:57Z",
+    "initialInfos": {
+      "initialPoolToken": 28000000,
+      "initialPriceUSD": 0.000458925,
+      "initialPoolEth": 7,
+      "initialMarketCap": 12849.9
+    },
+    "currentInfos": {
+      "currentPoolToken": 24544099.037138928,
+      "currentPriceUSD": 0.0005974868259611179,
+      "currentPoolEth": 7.988656005760529,
+      "currentMarketCap": 14664.775829775468
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 17,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1616218917",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.30192695094213196,
+    "isRugged": false
+  },
+  {
     "_id": "0xe60017a033229af351827f0c8ff0d5a2e256b9ef",
     "tokenName": "BTA",
     "idPair": "0x613bc6d9073c90092f1911a0a55f8f5ba88eb5e6",
@@ -43,22 +74,22 @@
       "initialMarketCap": 165213
     },
     "currentInfos": {
-      "currentPoolToken": 9786133.002469,
-      "currentPriceUSD": 0.01725242599099353,
-      "currentPoolEth": 91.97283617318506,
-      "currentMarketCap": 168834.5353631157
+      "currentPoolToken": 9733377.332403,
+      "currentPriceUSD": 0.017440234726953385,
+      "currentPoolEth": 92.47283617318506,
+      "currentMarketCap": 169752.3853631157
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 6,
     "holderCountOld": 0,
-    "txCount": 6,
+    "txCount": 7,
     "createdAtTimestamp": "1616218498",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.04425353882524556,
+    "priceChange": 0.05562121182675613,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.4089276648192779,
     "isRugged": false
-  },
-  {
-    "_id": "0xd3749b5fd950f848f3fa89c6efd1ca813bef8a13",
-    "tokenName": "CERE",
-    "idPair": "0x6d2ebc54d04badd3de3f1ea6fdecb779546e0d7b",
-    "idToken": "0xd3749b5fd950f848f3fa89c6efd1ca813bef8a13",
-    "dateCreationToken": "2021-03-14T11:33:51Z",
-    "initialInfos": {
-      "initialPoolToken": 2500000,
-      "initialPriceUSD": 0.0742784,
-      "initialPoolEth": 100,
-      "initialMarketCap": 185965.3425458887
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.19278e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 9e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 24,
-    "holderCountOld": 0,
-    "txCount": 31,
-    "createdAtTimestamp": "1615721631",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
