@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x5c4f5f7b0052b128f337e9686ba9f219576258cc",
+    "tokenName": "SPANDA",
+    "idPair": "0x5090bec91b94124e28f1a1544c732eaa4ea85fae",
+    "idToken": "0x5c4f5f7b0052b128f337e9686ba9f219576258cc",
+    "dateCreationToken": "2021-03-20T13:06:34Z",
+    "initialInfos": {
+      "initialPoolToken": 900000000,
+      "initialPriceUSD": 0.00001028,
+      "initialPoolEth": 5,
+      "initialMarketCap": 9252
+    },
+    "currentInfos": {
+      "currentPoolToken": 900000000,
+      "currentPriceUSD": 0.00001028,
+      "currentPoolEth": 5,
+      "currentMarketCap": 9252
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1616245594",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xc6dfc6a0a8e7b7a5e320abe8122fa90d805eb50d",
     "tokenName": "CHUB",
     "idPair": "0xd514383df10dfda5b7a7dc29add2ec5dd1d01d17",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-20T12:53:47Z",
     "initialInfos": {
       "initialPoolToken": 300000000,
-      "initialPriceUSD": 0.00015412583333333332,
+      "initialPriceUSD": 0.0001542,
       "initialPoolEth": 25,
       "initialMarketCap": 46065.86992178983
     },
     "currentInfos": {
       "currentPoolToken": 280508030.520112,
-      "currentPriceUSD": 0.00017639186258385992,
+      "currentPriceUSD": 0.00017647674385387176,
       "currentPoolEth": 26.75267177423895,
-      "currentMarketCap": 49479.333973172776
+      "currentMarketCap": 49503.14385105185
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.14446656195766402,
+    "priceChange": 0.14446656195766377,
     "isRugged": false
   },
   {
@@ -38,9 +69,9 @@
     "dateCreationToken": "2021-03-20T12:19:50Z",
     "initialInfos": {
       "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 1.294657e-8,
+      "initialPriceUSD": 1.29528e-8,
       "initialPoolEth": 7,
-      "initialMarketCap": 12946.57
+      "initialMarketCap": 12952.8
     },
     "currentInfos": {
       "currentPoolToken": 3.38496238e-10,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.9742355333693521,
     "isRugged": false
-  },
-  {
-    "_id": "0x36c3cd7c014467929d171aa113ad01b30f74cbf0",
-    "tokenName": "BCUG",
-    "idPair": "0x406f77d068022136368c1fe9777ad8a19609002e",
-    "idToken": "0x36c3cd7c014467929d171aa113ad01b30f74cbf0",
-    "dateCreationToken": "2021-03-15T20:52:47Z",
-    "initialInfos": {
-      "initialPoolToken": 48465,
-      "initialPriceUSD": 3.7288765088207985,
-      "initialPoolEth": 100,
-      "initialMarketCap": 180720
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.0716e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 4.9e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 14,
-    "holderCountOld": 11,
-    "txCount": 16,
-    "createdAtTimestamp": "1615841567",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
