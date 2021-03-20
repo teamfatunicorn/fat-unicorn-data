@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x262e3d0e64f9cd0007d6bc4699e6791b21ed334b",
+    "tokenName": "CHB",
+    "idPair": "0x11e488a87625a671d0f34e33017981936ae333a6",
+    "idToken": "0x262e3d0e64f9cd0007d6bc4699e6791b21ed334b",
+    "dateCreationToken": "2021-03-20T02:54:42Z",
+    "initialInfos": {
+      "initialPoolToken": 100,
+      "initialPriceUSD": 549.141,
+      "initialPoolEth": 30,
+      "initialMarketCap": 54914.1
+    },
+    "currentInfos": {
+      "currentPoolToken": 93.76793376101634,
+      "currentPriceUSD": 624.6809292960271,
+      "currentPoolEth": 32,
+      "currentMarketCap": 58575.04
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1616208882",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.1375601699673256,
+    "isRugged": false
+  },
+  {
     "_id": "0x17774ab760c190ea9ec12b164302637c61b3664f",
     "tokenName": "PMON",
     "idPair": "0x18e7ade6b1a434e5b2f8b9af81b81e206778271a",
@@ -12,22 +43,22 @@
       "initialMarketCap": 274570.5
     },
     "currentInfos": {
-      "currentPoolToken": 1315159.7282220963,
-      "currentPriceUSD": 0.21791959176804546,
-      "currentPoolEth": 156.57130195192104,
-      "currentMarketCap": 286599.0710839328
+      "currentPoolToken": 1271981.716732819,
+      "currentPriceUSD": 0.23298852335145862,
+      "currentPoolEth": 161.90221195192103,
+      "currentMarketCap": 296357.14191163285
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 0,
     "holderCountOld": 0,
-    "txCount": 7,
+    "txCount": 9,
     "createdAtTimestamp": "1616208326",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.08939755604050399,
+    "priceChange": 0.16472835629542176,
     "isRugged": false
   },
   {
@@ -51,7 +82,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 0,
+    "holderCount": 3,
     "holderCountOld": 0,
     "txCount": 2,
     "createdAtTimestamp": "1616204833",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.32742510251431145,
     "isRugged": false
-  },
-  {
-    "_id": "0x5fa739949431b728a2473817287957e49217953d",
-    "tokenName": "BITE",
-    "idPair": "0x45f47373d672bb1297394aae27f00eb3c5c93d92",
-    "idToken": "0x5fa739949431b728a2473817287957e49217953d",
-    "dateCreationToken": "2021-03-13T23:54:59Z",
-    "initialInfos": {
-      "initialPoolToken": 1.04,
-      "initialPriceUSD": 1.837125,
-      "initialPoolEth": 0.001,
-      "initialMarketCap": 1.91061
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.04,
-      "currentPriceUSD": 1.7540288461538462,
-      "currentPoolEth": 0.001,
-      "currentMarketCap": 1.82419
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 1,
-    "createdAtTimestamp": "1615679699",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.0452316275953752,
-    "isRugged": true
   }
 ]
