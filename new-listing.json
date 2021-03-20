@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x5b2ca89ff4e1a11127dd24bbafcdc09184105a08",
+    "tokenName": "CAT",
+    "idPair": "0x1d34244ad4376d21400626af1607820969ecf822",
+    "idToken": "0x5b2ca89ff4e1a11127dd24bbafcdc09184105a08",
+    "dateCreationToken": "2021-03-20T01:36:28Z",
+    "initialInfos": {
+      "initialPoolToken": 27670.5,
+      "initialPriceUSD": 0.19735133083970294,
+      "initialPoolEth": 3,
+      "initialMarketCap": 5460.81
+    },
+    "currentInfos": {
+      "currentPoolToken": 27670.5,
+      "currentPriceUSD": 0.19735133083970294,
+      "currentPoolEth": 3,
+      "currentMarketCap": 5460.81
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1616204188",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xc8ce75f643ecad864fc625902a6a07371f38320d",
     "tokenName": "BOOT",
     "idPair": "0x6e5ea2197fe1936d9d3c2d0b4c365e900bf0d49e",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-03-20T01:30:29Z",
     "initialInfos": {
       "initialPoolToken": 1499999.99999995,
-      "initialPriceUSD": 0.03631500000000121,
+      "initialPriceUSD": 0.03640540000000121,
       "initialPoolEth": 30,
       "initialMarketCap": 54451.278505497285
     },
     "currentInfos": {
-      "currentPoolToken": 1147855.2130368913,
-      "currentPriceUSD": 0.062094001851571566,
-      "currentPoolEth": 39.253709884977525,
-      "currentMarketCap": 71274.9237236488
+      "currentPoolToken": 1031021.8017656495,
+      "currentPriceUSD": 0.07718746858384395,
+      "currentPoolEth": 43.719867345527895,
+      "currentMarketCap": 79581.96293304425
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 0,
     "holderCountOld": null,
-    "txCount": 12,
+    "txCount": 19,
     "createdAtTimestamp": "1616203829",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.7098720047244803,
+    "priceChange": 1.1202203130261277,
     "isRugged": false
   },
   {
@@ -44,21 +75,21 @@
     },
     "currentInfos": {
       "currentPoolToken": 275846802831.51447,
-      "currentPriceUSD": 1.2317104479169249e-8,
+      "currentPriceUSD": 1.2347765810435031e-8,
       "currentPoolEth": 1.8712013717306453,
-      "currentMarketCap": 3397.633890720563
+      "currentMarketCap": 3406.0917209207873
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 0,
+    "holderCount": 1,
     "holderCountOld": 0,
     "txCount": 43,
     "createdAtTimestamp": "1616202627",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.3917401842680017,
+    "priceChange": 2.4001833430910176,
     "isRugged": false
   },
   {
@@ -74,22 +105,22 @@
       "initialMarketCap": 145260
     },
     "currentInfos": {
-      "currentPoolToken": 62398.947428611464,
-      "currentPriceUSD": 3.73605816298205,
-      "currentPoolEth": 128.3910763608157,
-      "currentMarketCap": 233126.09690215165
+      "currentPoolToken": 62350.530139566814,
+      "currentPriceUSD": 3.751186253649511,
+      "currentPoolEth": 128.4910763608157,
+      "currentMarketCap": 233888.45156730255
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 51,
-    "holderCountOld": 0,
-    "txCount": 20,
+    "holderCount": 0,
+    "holderCountOld": 51,
+    "txCount": 21,
     "createdAtTimestamp": "1616201994",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.5719800103139545,
+    "priceChange": 1.5823945020305048,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 8.955774660303849,
     "isRugged": false
-  },
-  {
-    "_id": "0xf6e29325fd95ae03f5052ae404f8fcd4b29158c4",
-    "tokenName": "KINE",
-    "idPair": "0x252430867cc8c342f4c7b03b2c3c0d75d966f83d",
-    "idToken": "0xf6e29325fd95ae03f5052ae404f8fcd4b29158c4",
-    "dateCreationToken": "2021-03-13T16:27:36Z",
-    "initialInfos": {
-      "initialPoolToken": 600000,
-      "initialPriceUSD": 0.2579013333333333,
-      "initialPoolEth": 80,
-      "initialMarketCap": 150283.62308482456
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.5908e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.6e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 7,
-    "holderCountOld": 5,
-    "txCount": 8,
-    "createdAtTimestamp": "1615652856",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
