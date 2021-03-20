@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xfe06da37faa1c01d8550471794bbdeb3f0604521",
+    "tokenName": "MADRID",
+    "idPair": "0x41b5a6c8bdb5ea7c98fe1471c1dfaefd74c6eb91",
+    "idToken": "0xfe06da37faa1c01d8550471794bbdeb3f0604521",
+    "dateCreationToken": "2021-03-20T03:12:30Z",
+    "initialInfos": {
+      "initialPoolToken": 48000,
+      "initialPriceUSD": 0.13311885416666666,
+      "initialPoolEth": 3.5,
+      "initialMarketCap": 6392.827338625469
+    },
+    "currentInfos": {
+      "currentPoolToken": 37462.51182793763,
+      "currentPriceUSD": 0.2199759633517652,
+      "currentPoolEth": 4.513977163460465,
+      "currentMarketCap": 8240.85212892748
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 6,
+    "createdAtTimestamp": "1616209950",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.6524778907453052,
+    "isRugged": false
+  },
+  {
     "_id": "0x262e3d0e64f9cd0007d6bc4699e6791b21ed334b",
     "tokenName": "CHB",
     "idPair": "0x11e488a87625a671d0f34e33017981936ae333a6",
@@ -7,9 +38,9 @@
     "dateCreationToken": "2021-03-20T02:54:42Z",
     "initialInfos": {
       "initialPoolToken": 100,
-      "initialPriceUSD": 547.536,
+      "initialPriceUSD": 547.689,
       "initialPoolEth": 30,
-      "initialMarketCap": 54753.6
+      "initialMarketCap": 54768.9
     },
     "currentInfos": {
       "currentPoolToken": 1.682e-15,
@@ -38,27 +69,27 @@
     "dateCreationToken": "2021-03-20T02:45:26Z",
     "initialInfos": {
       "initialPoolToken": 1372600,
-      "initialPriceUSD": 0.19945213463499928,
+      "initialPriceUSD": 0.1995078682791782,
       "initialPoolEth": 150,
-      "initialMarketCap": 273768
+      "initialMarketCap": 273844.5
     },
     "currentInfos": {
-      "currentPoolToken": 1281215.396382504,
-      "currentPriceUSD": 0.22902761550703002,
-      "currentPoolEth": 160.77502146948143,
-      "currentMarketCap": 293433.70718437916
+      "currentPoolToken": 1202891.8296750733,
+      "currentPriceUSD": 0.259944252451853,
+      "currentPoolEth": 171.27502146948143,
+      "currentMarketCap": 312684.8174453286
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 18,
     "holderCountOld": 0,
-    "txCount": 24,
+    "txCount": 25,
     "createdAtTimestamp": "1616208326",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.14828360160774595,
+    "priceChange": 0.3029273215836483,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.4354587280288216,
-    "isRugged": false
-  },
-  {
-    "_id": "0x21f9ad8d9ac703aa808cd575aa9f9254adc2ae5a",
-    "tokenName": "BCUG",
-    "idPair": "0x13bd5d5f9149e18312fb5acbb3f066ba27de8173",
-    "idToken": "0x21f9ad8d9ac703aa808cd575aa9f9254adc2ae5a",
-    "dateCreationToken": "2021-03-14T03:49:47Z",
-    "initialInfos": {
-      "initialPoolToken": 200000,
-      "initialPriceUSD": 2.276868,
-      "initialPoolEth": 240,
-      "initialMarketCap": 455373.6
-    },
-    "currentInfos": {
-      "currentPoolToken": 170249.7210455312,
-      "currentPriceUSD": 3.020748045437707,
-      "currentPoolEth": 282.07475391458064,
-      "currentMarketCap": 514281.51208460325
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 32,
-    "holderCountOld": 31,
-    "txCount": 32,
-    "createdAtTimestamp": "1615693787",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.32671197690762366,
     "isRugged": false
   }
 ]
