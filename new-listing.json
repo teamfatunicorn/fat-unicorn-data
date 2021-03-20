@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc2190408f27d22a2e92de6722c2de0c72245700b",
+    "tokenName": "'USD'",
+    "idPair": "0x0ba0466dcc6e0e8f3635bf946bf904721b9e93b7",
+    "idToken": "0xc2190408f27d22a2e92de6722c2de0c72245700b",
+    "dateCreationToken": "2021-03-20T14:16:19Z",
+    "initialInfos": {
+      "initialPoolToken": 1.251192e-11,
+      "initialPriceUSD": 471458257405737.9,
+      "initialPoolEth": 3.2,
+      "initialMarketCap": 5887.129077733332
+    },
+    "currentInfos": {
+      "currentPoolToken": 1.251192e-11,
+      "currentPriceUSD": 471458257405737.9,
+      "currentPoolEth": 3.2,
+      "currentMarketCap": 5898.848
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": null,
+    "txCount": 1,
+    "createdAtTimestamp": "1616249779",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x29502fe4d233ef0b45c3647101fa1252ce0634bd",
     "tokenName": "FROGE",
     "idPair": "0x30c86753b88d430436b8a6ef23b4c6faa930ad7d",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-03-20T14:14:41Z",
     "initialInfos": {
       "initialPoolToken": 500004995000,
-      "initialPriceUSD": 3.6840631962086698e-9,
+      "initialPriceUSD": 3.6867431694357374e-9,
       "initialPoolEth": 1,
-      "initialMarketCap": 1842.05
+      "initialMarketCap": 1843.39
     },
     "currentInfos": {
-      "currentPoolToken": 385774150055.24536,
-      "currentPriceUSD": 6.207427324140481e-9,
-      "currentPoolEth": 1.3,
-      "currentMarketCap": 2394.665
+      "currentPoolToken": 162484611415.58514,
+      "currentPriceUSD": 3.54003679096885e-8,
+      "currentPoolEth": 3.1203462228691183,
+      "currentMarketCap": 5752.015023774486
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 3,
     "holderCountOld": 0,
-    "txCount": 2,
+    "txCount": 11,
     "createdAtTimestamp": "1616249681",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.6849405109360357,
+    "priceChange": 8.602070522071811,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 35.762483289180004,
-    "isRugged": false
-  },
-  {
-    "_id": "0x2a69655c22eda32ff48d315bb26ed45f150700b4",
-    "tokenName": "wXTZ",
-    "idPair": "0x950182897e43436b37f04d1fe36fc5628d1ee3fb",
-    "idToken": "0x2a69655c22eda32ff48d315bb26ed45f150700b4",
-    "dateCreationToken": "2021-03-15T23:39:17Z",
-    "initialInfos": {
-      "initialPoolToken": 1300,
-      "initialPriceUSD": 3.7001372307692306,
-      "initialPoolEth": 2.78,
-      "initialMarketCap": 4810.1784
-    },
-    "currentInfos": {
-      "currentPoolToken": 5105.345666,
-      "currentPriceUSD": 3.5222909844151,
-      "currentPoolEth": 9.73185031479329,
-      "currentMarketCap": 17982.513011674506
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 13,
-    "holderCountOld": 12,
-    "txCount": 40,
-    "createdAtTimestamp": "1615851557",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.04806477037532949,
     "isRugged": false
   }
 ]
