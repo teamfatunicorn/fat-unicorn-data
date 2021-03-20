@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7a5599b97e8c4abb5dd06eba0e9d1f75af818db9",
+    "tokenName": "RTC",
+    "idPair": "0xd7d40b8377e620827e881bbfd62632f0bbbe7168",
+    "idToken": "0x7a5599b97e8c4abb5dd06eba0e9d1f75af818db9",
+    "dateCreationToken": "2021-03-20T01:47:13Z",
+    "initialInfos": {
+      "initialPoolToken": 0.1,
+      "initialPriceUSD": 181.91,
+      "initialPoolEth": 0.01,
+      "initialMarketCap": 18.191
+    },
+    "currentInfos": {
+      "currentPoolToken": 0.1,
+      "currentPriceUSD": 181.91,
+      "currentPoolEth": 0.01,
+      "currentMarketCap": 18.191
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1616204833",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x5b2ca89ff4e1a11127dd24bbafcdc09184105a08",
     "tokenName": "CAT",
     "idPair": "0x1d34244ad4376d21400626af1607820969ecf822",
@@ -12,22 +43,22 @@
       "initialMarketCap": 5457.3
     },
     "currentInfos": {
-      "currentPoolToken": 20841.698634859356,
-      "currentPriceUSD": 0.34858721085738614,
-      "currentPoolEth": 3.9938154013831135,
-      "currentMarketCap": 7265.149596655815
+      "currentPoolToken": 20254.571027536254,
+      "currentPriceUSD": 0.3692552902755785,
+      "currentPoolEth": 4.111432853708435,
+      "currentMarketCap": 7479.107504180222
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 5,
+    "holderCount": 0,
     "holderCountOld": 0,
-    "txCount": 10,
+    "txCount": 12,
     "createdAtTimestamp": "1616204188",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.7674642072140625,
+    "priceChange": 0.8722589026753881,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 54451.278505497285
     },
     "currentInfos": {
-      "currentPoolToken": 654603.2358174219,
-      "currentPriceUSD": 0.1921361924720437,
-      "currentPoolEth": 69.14021950955865,
-      "currentMarketCap": 125772.97330983878
+      "currentPoolToken": 623465.4504140741,
+      "currentPriceUSD": 0.21206596173043923,
+      "currentPoolEth": 72.68198578844601,
+      "currentMarketCap": 132215.80034776212
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 390,
     "holderCountOld": 0,
-    "txCount": 73,
+    "txCount": 88,
     "createdAtTimestamp": "1616203829",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 4.281078348415075,
+    "priceChange": 4.828870368051018,
     "isRugged": false
   },
   {
@@ -74,22 +105,22 @@
       "initialMarketCap": 1819.1
     },
     "currentInfos": {
-      "currentPoolToken": 221323667175.21198,
-      "currentPriceUSD": 1.920166952570644e-8,
-      "currentPoolEth": 2.3362013717306453,
-      "currentMarketCap": 4249.783915315862
+      "currentPoolToken": 203577520174.04828,
+      "currentPriceUSD": 2.2708961371842033e-8,
+      "currentPoolEth": 2.5413853234057333,
+      "currentMarketCap": 4623.034041807855
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 0,
-    "holderCountOld": 29,
-    "txCount": 46,
+    "holderCount": 29,
+    "holderCountOld": 0,
+    "txCount": 48,
     "createdAtTimestamp": "1616202627",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 4.27779383368326,
+    "priceChange": 5.241812262064217,
     "isRugged": false
   },
   {
@@ -105,22 +136,22 @@
       "initialMarketCap": 145528
     },
     "currentInfos": {
-      "currentPoolToken": 62350.530139566814,
-      "currentPriceUSD": 3.74877513446567,
-      "currentPoolEth": 128.4910763608157,
-      "currentMarketCap": 233738.1170079604
+      "currentPoolToken": 59073.21045101451,
+      "currentPriceUSD": 4.176930289112514,
+      "currentPoolEth": 135.6410763608157,
+      "currentMarketCap": 246744.6820079604
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 51,
     "holderCountOld": 0,
-    "txCount": 21,
+    "txCount": 22,
     "createdAtTimestamp": "1616201994",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.575982034017969,
+    "priceChange": 1.8701901277503394,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.05748836380120609,
-    "isRugged": false
-  },
-  {
-    "_id": "0x202f1877e1db1120ca3e9a98c5d505e7f035c249",
-    "tokenName": "ZUZ",
-    "idPair": "0x48616d7ecbf2a439cadd4801fbd643ad2e9d4ee6",
-    "idToken": "0x202f1877e1db1120ca3e9a98c5d505e7f035c249",
-    "dateCreationToken": "2021-03-13T16:33:28Z",
-    "initialInfos": {
-      "initialPoolToken": 150000,
-      "initialPriceUSD": 2.90139,
-      "initialPoolEth": 225,
-      "initialMarketCap": 435208.5
-    },
-    "currentInfos": {
-      "currentPoolToken": 48107.988284875646,
-      "currentPriceUSD": 28.885585041658985,
-      "currentPoolEth": 766.4879848569261,
-      "currentMarketCap": 1389627.3867859098
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2046,
-    "holderCountOld": 2037,
-    "txCount": 6888,
-    "createdAtTimestamp": "1615653208",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 8.955774660303849,
     "isRugged": false
   }
 ]
