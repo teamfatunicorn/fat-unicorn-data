@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xb145a7075eb5a34d0c77823c6a8b159f432a3ba5",
+    "tokenName": "CLEGG",
+    "idPair": "0x74c5abb2489285c04c0d9035d6b88b2f10ad4f39",
+    "idToken": "0xb145a7075eb5a34d0c77823c6a8b159f432a3ba5",
+    "dateCreationToken": "2021-03-20T08:51:06Z",
+    "initialInfos": {
+      "initialPoolToken": 20000,
+      "initialPriceUSD": 1.8277,
+      "initialPoolEth": 20,
+      "initialMarketCap": 36554
+    },
+    "currentInfos": {
+      "currentPoolToken": 20000,
+      "currentPriceUSD": 1.8277,
+      "currentPoolEth": 20,
+      "currentMarketCap": 36554
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1616230266",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xcbfef8fdd706cde6f208460f2bf39aa9c785f05d",
     "tokenName": "KINE",
     "idPair": "0xb34daaf8832432e5619efcf8262a4f5ecfd1384a",
@@ -43,22 +74,22 @@
       "initialMarketCap": 438648
     },
     "currentInfos": {
-      "currentPoolToken": 41914507.452093616,
-      "currentPriceUSD": 0.01090746153995814,
-      "currentPoolEth": 250.14,
-      "currentMarketCap": 457180.878
+      "currentPoolToken": 40555118.650027126,
+      "currentPriceUSD": 0.011652088582896649,
+      "currentPoolEth": 258.55,
+      "currentMarketCap": 472551.835
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 3,
     "holderCountOld": 0,
-    "txCount": 7,
+    "txCount": 9,
     "createdAtTimestamp": "1616229471",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.08615090018732906,
+    "priceChange": 0.16029989718618487,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x8b0e42f366ba502d787bb134478adfae966c8798",
-    "tokenName": "LABS",
-    "idPair": "0x2d9fd51e896ff0352cb6d697d13d04c2cb85ca83",
-    "idToken": "0x8b0e42f366ba502d787bb134478adfae966c8798",
-    "dateCreationToken": "2021-03-15T10:04:33Z",
-    "initialInfos": {
-      "initialPoolToken": 18750000,
-      "initialPriceUSD": 0.0081126768,
-      "initialPoolEth": 84.75,
-      "initialMarketCap": 152112.69
-    },
-    "currentInfos": {
-      "currentPoolToken": 48962411.901666045,
-      "currentPriceUSD": 0.02807033663555067,
-      "currentPoolEth": 753.7230579983544,
-      "currentMarketCap": 1374391.3845682587
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 5769,
-    "holderCountOld": 5770,
-    "txCount": 13013,
-    "createdAtTimestamp": "1615802673",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 2.460058538946192,
-    "isRugged": false
   }
 ]
