@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xbbda5fc3271db51599969de4c36dafb1322afeb8",
+    "tokenName": "HCASH",
+    "idPair": "0x4fa7077fe8c94da1608df6013c9e34b8f256e3bd",
+    "idToken": "0xbbda5fc3271db51599969de4c36dafb1322afeb8",
+    "dateCreationToken": "2021-03-20T07:15:29Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000,
+      "initialPriceUSD": 0.1728829,
+      "initialPoolEth": 95,
+      "initialMarketCap": 172882.9
+    },
+    "currentInfos": {
+      "currentPoolToken": 989614.258779,
+      "currentPriceUSD": 0.17653617907198577,
+      "currentPoolEth": 96,
+      "currentMarketCap": 174702.72
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1616224529",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.021131523545624004,
+    "isRugged": false
+  },
+  {
     "_id": "0x656f21b42c5385fa855bc846525d189e5a692669",
     "tokenName": "DORA",
     "idPair": "0xe01c1378ccb42d36a7bb5ad07b1d1679e2bc0af4",
@@ -12,22 +43,22 @@
       "initialMarketCap": 545946
     },
     "currentInfos": {
-      "currentPoolToken": 69000,
-      "currentPriceUSD": 7.912260869565217,
-      "currentPoolEth": 300,
-      "currentMarketCap": 545946
+      "currentPoolToken": 68771.44954933105,
+      "currentPriceUSD": 7.965017803021256,
+      "currentPoolEth": 301,
+      "currentMarketCap": 547765.82
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 1,
+    "txCount": 2,
     "createdAtTimestamp": "1616224358",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.006667744444444509,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 40.03604
     },
     "currentInfos": {
-      "currentPoolToken": 35,
-      "currentPriceUSD": 1.3077909776618486,
-      "currentPoolEth": 0.02515231408511248,
-      "currentMarketCap": 45.7726842181647
+      "currentPoolToken": 30,
+      "currentPriceUSD": 1.780814004325408,
+      "currentPoolEth": 0.029356980431670905,
+      "currentMarketCap": 53.42442012976224
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 2,
     "holderCountOld": 0,
-    "txCount": 2,
+    "txCount": 3,
     "createdAtTimestamp": "1616221357",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.30661371870129867,
+    "priceChange": 0.7792109352727271,
     "isRugged": true
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 61.49566257019011,
-    "isRugged": false
-  },
-  {
-    "_id": "0xf938424f7210f31df2aee3011291b658f872e91e",
-    "tokenName": "VISR",
-    "idPair": "0x0c2445bec45c443c58f44f8e0a5796960e052d63",
-    "idToken": "0xf938424f7210f31df2aee3011291b658f872e91e",
-    "dateCreationToken": "2021-03-14T21:47:26Z",
-    "initialInfos": {
-      "initialPoolToken": 1640799,
-      "initialPriceUSD": 0.4796643245150686,
-      "initialPoolEth": 417.4,
-      "initialMarketCap": 778825.7276458348
-    },
-    "currentInfos": {
-      "currentPoolToken": 1244219.257618882,
-      "currentPriceUSD": 1.190367125603706,
-      "currentPoolEth": 812.32391502724,
-      "currentMarketCap": 1481077.7013125657
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1962,
-    "holderCountOld": 1951,
-    "txCount": 6922,
-    "createdAtTimestamp": "1615758446",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.4816670007867363,
     "isRugged": false
   }
 ]
