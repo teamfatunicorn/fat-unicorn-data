@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xbed07756da84aea66e09ef6731d811891e3e83cc",
+    "tokenName": "NCD",
+    "idPair": "0xbb2abe36ad6d630743ee2eb5938defcff0a57fad",
+    "idToken": "0xbed07756da84aea66e09ef6731d811891e3e83cc",
+    "dateCreationToken": "2021-03-20T12:19:50Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 1.288455e-8,
+      "initialPoolEth": 7,
+      "initialMarketCap": 12884.55
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000000,
+      "currentPriceUSD": 1.288455e-8,
+      "currentPoolEth": 7,
+      "currentMarketCap": 12884.55
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1616242790",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x6ade8be7fb1a497f8094470727775962c8198f90",
     "tokenName": "VEN",
     "idPair": "0x42abfe365ff6155fa8f4faf927e55360052c0169",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.6734158423843468,
     "isRugged": false
-  },
-  {
-    "_id": "0x1572de1304b3534dd2b2ae0e502df295caa8fb67",
-    "tokenName": "BCUG",
-    "idPair": "0x603f37df4a78a14023ad6a9696d7247df7edbaa7",
-    "idToken": "0x1572de1304b3534dd2b2ae0e502df295caa8fb67",
-    "dateCreationToken": "2021-03-15T19:14:14Z",
-    "initialInfos": {
-      "initialPoolToken": 48465,
-      "initialPriceUSD": 2.2257753017641595,
-      "initialPoolEth": 60,
-      "initialMarketCap": 107872.2
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.3361e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 7.6e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 48,
-    "holderCountOld": 0,
-    "txCount": 71,
-    "createdAtTimestamp": "1615835654",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
