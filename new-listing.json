@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x0bf9becb8b47b54ffabad5261df177add762acf8",
+    "tokenName": "BTCT",
+    "idPair": "0x55b0fad57eccab12ede296217a6d78c7b9724982",
+    "idToken": "0x0bf9becb8b47b54ffabad5261df177add762acf8",
+    "dateCreationToken": "2021-03-20T00:10:20Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000,
+      "initialPriceUSD": 0.03803373,
+      "initialPoolEth": 21,
+      "initialMarketCap": 38033.73
+    },
+    "currentInfos": {
+      "currentPoolToken": 976812.3357443543,
+      "currentPriceUSD": 0.039863639693214284,
+      "currentPoolEth": 21.5,
+      "currentMarketCap": 38939.295
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1616199020",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.048112811791383124,
+    "isRugged": false
+  },
+  {
     "_id": "0xc29acac647c63dbd8618e817d41ea9de69174ae1",
     "tokenName": "NRGY",
     "idPair": "0xb548609950a9677073cd5b312e61fb912f1fd6c0",
@@ -20,7 +51,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 445,
+    "holderCount": 444,
     "holderCountOld": 0,
     "txCount": 1,
     "createdAtTimestamp": "1616197608",
@@ -38,7 +69,7 @@
     "dateCreationToken": "2021-03-19T23:26:13Z",
     "initialInfos": {
       "initialPoolToken": 50000000,
-      "initialPriceUSD": 0.0000181241,
+      "initialPriceUSD": 0.0000181113,
       "initialPoolEth": 0.5,
       "initialMarketCap": 905.2004708466891
     },
@@ -69,27 +100,27 @@
     "dateCreationToken": "2021-03-19T23:12:53Z",
     "initialInfos": {
       "initialPoolToken": 897458591478.5559,
-      "initialPriceUSD": 2.01949150323924e-9,
+      "initialPriceUSD": 2.0180652535914528e-9,
       "initialPoolEth": 1,
-      "initialMarketCap": 1812.41
+      "initialMarketCap": 1811.13
     },
     "currentInfos": {
-      "currentPoolToken": 61356347700.95035,
-      "currentPriceUSD": 4.606921536336554e-7,
-      "currentPoolEth": 15.607045304007285,
-      "currentMarketCap": 28266.3879614462
+      "currentPoolToken": 63650590985.75589,
+      "currentPriceUSD": 4.287824146656336e-7,
+      "currentPoolEth": 15.06918559008255,
+      "currentMarketCap": 27292.254097767025
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 137,
+    "holderCount": 160,
     "holderCountOld": 0,
-    "txCount": 336,
+    "txCount": 344,
     "createdAtTimestamp": "1616195573",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 227.12284819951492,
+    "priceChange": 211.47202681010953,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 1.2271620698254753,
-    "isRugged": false
-  },
-  {
-    "_id": "0x20bc390ca7f67e26ec8ecd4d83f4f925d580049c",
-    "tokenName": "DEIA",
-    "idPair": "0x79af042bbe767e95c01746cefff1fd572e0016c6",
-    "idToken": "0x20bc390ca7f67e26ec8ecd4d83f4f925d580049c",
-    "dateCreationToken": "2021-03-13T13:35:03Z",
-    "initialInfos": {
-      "initialPoolToken": 200,
-      "initialPriceUSD": 1.88948,
-      "initialPoolEth": 0.2,
-      "initialMarketCap": 377.896
-    },
-    "currentInfos": {
-      "currentPoolToken": 300,
-      "currentPriceUSD": 1.81237,
-      "currentPoolEth": 0.3,
-      "currentMarketCap": 543.711
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1615642503",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.04081016999386075,
     "isRugged": false
   }
 ]
