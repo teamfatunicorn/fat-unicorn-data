@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x29502fe4d233ef0b45c3647101fa1252ce0634bd",
+    "tokenName": "FROGE",
+    "idPair": "0x30c86753b88d430436b8a6ef23b4c6faa930ad7d",
+    "idToken": "0x29502fe4d233ef0b45c3647101fa1252ce0634bd",
+    "dateCreationToken": "2021-03-20T14:14:41Z",
+    "initialInfos": {
+      "initialPoolToken": 500004995000,
+      "initialPriceUSD": 3.6840631962086698e-9,
+      "initialPoolEth": 1,
+      "initialMarketCap": 1842.05
+    },
+    "currentInfos": {
+      "currentPoolToken": 385774150055.24536,
+      "currentPriceUSD": 6.207427324140481e-9,
+      "currentPoolEth": 1.3,
+      "currentMarketCap": 2394.665
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1616249681",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.6849405109360357,
+    "isRugged": false
+  },
+  {
     "_id": "0x5c4f5f7b0052b128f337e9686ba9f219576258cc",
     "tokenName": "SPANDA",
     "idPair": "0x5090bec91b94124e28f1a1544c732eaa4ea85fae",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-03-20T13:06:34Z",
     "initialInfos": {
       "initialPoolToken": 900000000,
-      "initialPriceUSD": 0.000010181666666666666,
+      "initialPriceUSD": 0.000010233111111111111,
       "initialPoolEth": 5,
-      "initialMarketCap": 9163.5
+      "initialMarketCap": 9209.8
     },
     "currentInfos": {
       "currentPoolToken": 318242850.9331701,
-      "currentPriceUSD": 0.00008167783912042465,
+      "currentPriceUSD": 0.00008209052902616761,
       "currentPoolEth": 14.183111463821156,
-      "currentMarketCap": 25993.388379744745
+      "currentMarketCap": 26124.72399189973
     },
     "trustScore": null,
     "contractId": null,
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-03-20T12:53:47Z",
     "initialInfos": {
       "initialPoolToken": 300000000,
-      "initialPriceUSD": 0.000152725,
+      "initialPriceUSD": 0.00015349666666666668,
       "initialPoolEth": 25,
       "initialMarketCap": 46065.86992178983
     },
     "currentInfos": {
       "currentPoolToken": 8137247481.609771,
-      "currentPriceUSD": 2.09003181323633e-7,
+      "currentPriceUSD": 2.100592021994211e-7,
       "currentPoolEth": 0.9279809084273785,
-      "currentMarketCap": 1700.710610874163
+      "currentMarketCap": 1709.303714086197
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.9986315064244647,
+    "priceChange": -0.9986315064244646,
     "isRugged": false
   },
   {
@@ -69,9 +100,9 @@
     "dateCreationToken": "2021-03-20T12:19:50Z",
     "initialInfos": {
       "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 1.28289e-8,
+      "initialPriceUSD": 1.289372e-8,
       "initialPoolEth": 7,
-      "initialMarketCap": 12828.9
+      "initialMarketCap": 12893.72
     },
     "currentInfos": {
       "currentPoolToken": 3.38496238e-10,
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.04806477037532949,
-    "isRugged": false
-  },
-  {
-    "_id": "0x8a8221628361fa25294a83a172dd4f0133207b37",
-    "tokenName": "SHD",
-    "idPair": "0x19185109b695735286d867bcf038df503c78c88d",
-    "idToken": "0x8a8221628361fa25294a83a172dd4f0133207b37",
-    "dateCreationToken": "2021-03-15T21:02:02Z",
-    "initialInfos": {
-      "initialPoolToken": 4859.329178380067,
-      "initialPriceUSD": 57.8304,
-      "initialPoolEth": 155.49853370816214,
-      "initialMarketCap": 281016.9501173906
-    },
-    "currentInfos": {
-      "currentPoolToken": 31256.033139718173,
-      "currentPriceUSD": 1.493226095290744,
-      "currentPoolEth": 25.258320337428184,
-      "currentMarketCap": 46672.32431949946
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 461,
-    "holderCountOld": 464,
-    "txCount": 918,
-    "createdAtTimestamp": "1615842122",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9741792189697678,
     "isRugged": false
   }
 ]
