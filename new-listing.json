@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x1bceb7d9d0608a5a3de61f85268fab40681f0be0",
+    "tokenName": "NUT",
+    "idPair": "0xd75096c6f19ed67386371c19b79d0425054cf8ea",
+    "idToken": "0x1bceb7d9d0608a5a3de61f85268fab40681f0be0",
+    "dateCreationToken": "2021-04-04T19:55:25Z",
+    "initialInfos": {
+      "initialPoolToken": 15,
+      "initialPriceUSD": 6.880533333333333,
+      "initialPoolEth": 0.05,
+      "initialMarketCap": 103.208
+    },
+    "currentInfos": {
+      "currentPoolToken": 5.011,
+      "currentPriceUSD": 61.790277411710875,
+      "currentPoolEth": 0.1500034300198941,
+      "currentMarketCap": 309.6310801100832
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 18,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1617566125",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 7.980448813809619,
+    "isRugged": false
+  },
+  {
     "_id": "0xbd05914af28d91c22c6b5275144a04b60337b184",
     "tokenName": "CSAN",
     "idPair": "0x8b4c8f9b27f115e4af9fcbf9d077bbe0fad1ef6a",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-04T19:51:19Z",
     "initialInfos": {
       "initialPoolToken": 900000000,
-      "initialPriceUSD": 0.0000036686222222222223,
+      "initialPriceUSD": 0.000003669617777777778,
       "initialPoolEth": 1.6,
-      "initialMarketCap": 3301.76
+      "initialMarketCap": 3302.656
     },
     "currentInfos": {
-      "currentPoolToken": 762234989.5711275,
-      "currentPriceUSD": 0.000005117070737194274,
-      "currentPoolEth": 1.8901,
-      "currentMarketCap": 3900.41036
+      "currentPoolToken": 706349520.0591737,
+      "currentPriceUSD": 0.000005961769204072256,
+      "currentPoolEth": 2.0401,
+      "currentMarketCap": 4211.092816
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 5,
     "holderCountOld": 0,
-    "txCount": 5,
+    "txCount": 7,
     "createdAtTimestamp": "1617565879",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.3948208420584315,
+    "priceChange": 0.6246294750846078,
     "isRugged": false
   },
   {
@@ -38,27 +69,27 @@
     "dateCreationToken": "2021-04-04T19:22:56Z",
     "initialInfos": {
       "initialPoolToken": 800,
-      "initialPriceUSD": 25.795,
+      "initialPriceUSD": 25.802,
       "initialPoolEth": 10,
-      "initialMarketCap": 20636
+      "initialMarketCap": 20641.6
     },
     "currentInfos": {
-      "currentPoolToken": 132.0448693103842,
-      "currentPriceUSD": 978.9899661344966,
-      "currentPoolEth": 62.64324584919871,
-      "currentMarketCap": 129270.60213440706
+      "currentPoolToken": 125.33607566723101,
+      "currentPriceUSD": 1089.1599407235774,
+      "currentPoolEth": 66.13393959007425,
+      "currentMarketCap": 136511.03274424715
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 75,
     "holderCountOld": 0,
-    "txCount": 216,
+    "txCount": 238,
     "createdAtTimestamp": "1617564176",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 36.95270269953466,
+    "priceChange": 41.21222931259505,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x3ebb4a4e91ad83be51f8d596533818b246f4bee1",
-    "tokenName": "SATA",
-    "idPair": "0xbc00e708c407d7633f7504434e74c13e171de7f1",
-    "idToken": "0x3ebb4a4e91ad83be51f8d596533818b246f4bee1",
-    "dateCreationToken": "2021-03-31T10:09:10Z",
-    "initialInfos": {
-      "initialPoolToken": 5000000,
-      "initialPriceUSD": 0.00179724,
-      "initialPoolEth": 5,
-      "initialMarketCap": 8986.2
-    },
-    "currentInfos": {
-      "currentPoolToken": 524266.1402447505,
-      "currentPriceUSD": 0.4900952183746878,
-      "currentPoolEth": 124.02869661892927,
-      "currentMarketCap": 256940.3284897057
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 806,
-    "holderCountOld": 805,
-    "txCount": 3064,
-    "createdAtTimestamp": "1617185350",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 271.6932509707595,
-    "isRugged": false
   }
 ]
