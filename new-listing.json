@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x558661622e3aeeda15a0f391ae3974bd4829c1e5",
+    "tokenName": "TOTM",
+    "idPair": "0x5eb9bb0f1cd1a70696d00958884909d7fc040235",
+    "idToken": "0x558661622e3aeeda15a0f391ae3974bd4829c1e5",
+    "dateCreationToken": "2021-04-04T14:09:02Z",
+    "initialInfos": {
+      "initialPoolToken": 5500000,
+      "initialPriceUSD": 0.113724,
+      "initialPoolEth": 300,
+      "initialMarketCap": 625482
+    },
+    "currentInfos": {
+      "currentPoolToken": 5499998.172167274,
+      "currentPriceUSD": 0.1137240757022886,
+      "currentPoolEth": 300.0001,
+      "currentMarketCap": 625482.208494
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1617545342",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 6.656667773781363e-7,
+    "isRugged": false
+  },
+  {
     "_id": "0x69fa8e7f6bf1ca1fb0de61e1366f7412b827cc51",
     "tokenName": "NRCH",
     "idPair": "0x300d97e471989223daa4f1bb8d6e6dc72469a465",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x82365e957e2e6c0e8fe8e2db35af620816d44c1e",
-    "tokenName": "OMI",
-    "idPair": "0x37d86a952f70d16ce1280a78c48c5b3166249710",
-    "idToken": "0x82365e957e2e6c0e8fe8e2db35af620816d44c1e",
-    "dateCreationToken": "2021-03-31T03:59:23Z",
-    "initialInfos": {
-      "initialPoolToken": 50755714,
-      "initialPriceUSD": 0.007020900149291565,
-      "initialPoolEth": 195,
-      "initialMarketCap": 356350.8
-    },
-    "currentInfos": {
-      "currentPoolToken": 1e-18,
-      "currentPriceUSD": 162501300000000000000,
-      "currentPoolEth": 0.078,
-      "currentMarketCap": 162.5013
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 131,
-    "holderCountOld": 130,
-    "txCount": 149,
-    "createdAtTimestamp": "1617163163",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 2.314536548656043e+22,
     "isRugged": true
   }
 ]
