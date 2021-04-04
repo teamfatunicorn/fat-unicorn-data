@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x4f9f3504d6c3670672692fcbcaeb409b0cfb40b2",
+    "tokenName": "TAIYAKI",
+    "idPair": "0x6202c72733adf560b6f052d302f606ba58ef8d78",
+    "idToken": "0x4f9f3504d6c3670672692fcbcaeb409b0cfb40b2",
+    "dateCreationToken": "2021-04-04T19:22:56Z",
+    "initialInfos": {
+      "initialPoolToken": 800,
+      "initialPriceUSD": 25.844125,
+      "initialPoolEth": 10,
+      "initialMarketCap": 20675.3
+    },
+    "currentInfos": {
+      "currentPoolToken": 726.7516200056224,
+      "currentPriceUSD": 31.451291747816306,
+      "currentPoolEth": 11.055354567525034,
+      "currentMarketCap": 22857.277228994964
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 7,
+    "createdAtTimestamp": "1617564176",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.21696098234381347,
+    "isRugged": false
+  },
+  {
     "_id": "0xbc0e669db9c03a253b047eb6fbb8dab7e8419fec",
     "tokenName": "DPR",
     "idPair": "0xfbbdd6ca38d364793e35bf3bb3bd3a8d90e9d5a0",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-04T18:33:55Z",
     "initialInfos": {
       "initialPoolToken": 10000000,
-      "initialPriceUSD": 0.01449812,
+      "initialPriceUSD": 0.01447271,
       "initialPoolEth": 70,
-      "initialMarketCap": 144981.2
+      "initialMarketCap": 144727.1
     },
     "currentInfos": {
-      "currentPoolToken": 7729894.72523105,
-      "currentPriceUSD": 0.02428193549236462,
-      "currentPoolEth": 90.6240005990992,
-      "currentMarketCap": 187696.8050808299
+      "currentPoolToken": 7721400.02650276,
+      "currentPriceUSD": 0.02429282154982624,
+      "currentPoolEth": 90.7240005990992,
+      "currentMarketCap": 187574.59295865515
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 14,
     "holderCountOld": 0,
-    "txCount": 13,
+    "txCount": 14,
     "createdAtTimestamp": "1617561235",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.6748333916648931,
+    "priceChange": 0.6785261053269388,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9999585669097094,
-    "isRugged": true
-  },
-  {
-    "_id": "0x6427953e071540121d0da2102b059c3318a14e90",
-    "tokenName": "MINA",
-    "idPair": "0x2022aa4dcb41d197271771183bfb99b32aa172e6",
-    "idToken": "0x6427953e071540121d0da2102b059c3318a14e90",
-    "dateCreationToken": "2021-03-31T09:54:49Z",
-    "initialInfos": {
-      "initialPoolToken": 7500000,
-      "initialPriceUSD": 0.0479264,
-      "initialPoolEth": 200,
-      "initialMarketCap": 359448
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.12709e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 9e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 71,
-    "holderCountOld": 70,
-    "txCount": 37,
-    "createdAtTimestamp": "1617184489",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
