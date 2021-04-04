@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x5aa4977fbcbdcfdd9906f96cef179b460f30d4c6",
+    "tokenName": "SOS",
+    "idPair": "0x674e6c8a0dcc28d708e3a2043df3e36afd5a5e9b",
+    "idToken": "0x5aa4977fbcbdcfdd9906f96cef179b460f30d4c6",
+    "dateCreationToken": "2021-04-04T17:12:09Z",
+    "initialInfos": {
+      "initialPoolToken": 5000000,
+      "initialPriceUSD": 0.083355504,
+      "initialPoolEth": 201,
+      "initialMarketCap": 416777.52
+    },
+    "currentInfos": {
+      "currentPoolToken": 4999997.519901727,
+      "currentPriceUSD": 0.08335558681640937,
+      "currentPoolEth": 201.0001,
+      "currentMarketCap": 416777.727352
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1617556329",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 9.935325850724298e-7,
+    "isRugged": false
+  },
+  {
     "_id": "0xaeaf3f5eb93044df12cbc892684e2431660d3b00",
     "tokenName": "CHIN",
     "idPair": "0x9acc855a253c4931937427a34eacb88dc84933bb",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-04T17:08:07Z",
     "initialInfos": {
       "initialPoolToken": 74250000000,
-      "initialPriceUSD": 2.7928484848484847e-8,
+      "initialPriceUSD": 2.7926195286195288e-8,
       "initialPoolEth": 1,
-      "initialMarketCap": 2073.69
+      "initialMarketCap": 2073.52
     },
     "currentInfos": {
-      "currentPoolToken": 15715259482.151688,
-      "currentPriceUSD": 6.270727402533846e-7,
-      "currentPoolEth": 4.752210227789596,
-      "currentMarketCap": 9854.610827265846
+      "currentPoolToken": 20732815047.641182,
+      "currentPriceUSD": 3.6222986937635234e-7,
+      "currentPoolEth": 3.6218820587747382,
+      "currentMarketCap": 7510.044886511138
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 7,
     "holderCountOld": 0,
-    "txCount": 20,
+    "txCount": 34,
     "createdAtTimestamp": "1617556087",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 21.452801992493484,
+    "priceChange": 11.97097100640175,
     "isRugged": false
   },
   {
@@ -38,9 +69,9 @@
     "dateCreationToken": "2021-04-04T16:37:17Z",
     "initialInfos": {
       "initialPoolToken": 900000000,
-      "initialPriceUSD": 0.00000207369,
+      "initialPriceUSD": 0.00000207352,
       "initialPoolEth": 0.9,
-      "initialMarketCap": 1866.321
+      "initialMarketCap": 1866.168
     },
     "currentInfos": {
       "currentPoolToken": 1.0382152e-11,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.9999838575635486,
     "isRugged": false
-  },
-  {
-    "_id": "0x75881dd165ddc0d823cd0e12a76417a64373a502",
-    "tokenName": "BSUK",
-    "idPair": "0x25f3039869c55e054dc2e8bda6f4cb89be223239",
-    "idToken": "0x75881dd165ddc0d823cd0e12a76417a64373a502",
-    "dateCreationToken": "2021-03-31T05:53:40Z",
-    "initialInfos": {
-      "initialPoolToken": 9999,
-      "initialPriceUSD": 0.9017401740174017,
-      "initialPoolEth": 5,
-      "initialMarketCap": 9016.5
-    },
-    "currentInfos": {
-      "currentPoolToken": 812503058.7733953,
-      "currentPriceUSD": 1.5767188693803946e-10,
-      "currentPoolEth": 0.000061765121060972,
-      "currentMarketCap": 0.12810889041973
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 0,
-    "txCount": 5,
-    "createdAtTimestamp": "1617170020",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9999999998251471,
-    "isRugged": true
   }
 ]
