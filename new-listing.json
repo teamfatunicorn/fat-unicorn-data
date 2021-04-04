@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x564b9a2626f3850f1ab5558abe5b6bcf06349bf9",
+    "tokenName": "NYAN",
+    "idPair": "0x4f1086ba18e6156ea4081e61d888af5e92b62e5f",
+    "idToken": "0x564b9a2626f3850f1ab5558abe5b6bcf06349bf9",
+    "dateCreationToken": "2021-04-04T20:36:09Z",
+    "initialInfos": {
+      "initialPoolToken": 700000000000,
+      "initialPriceUSD": 8.8281e-9,
+      "initialPoolEth": 3,
+      "initialMarketCap": 6179.67
+    },
+    "currentInfos": {
+      "currentPoolToken": 473925712462.90985,
+      "currentPriceUSD": 1.9382535303137944e-8,
+      "currentPoolEth": 4.459404071517244,
+      "currentMarketCap": 9185.881852877154
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 10,
+    "createdAtTimestamp": "1617568569",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.195550039435206,
+    "isRugged": false
+  },
+  {
     "_id": "0x95e1275382050a89aa67e7af34afe8560a7bd541",
     "tokenName": "BYND",
     "idPair": "0x8f5f9e499bc00d83285628da1a07e3436be6ca71",
@@ -105,22 +136,22 @@
       "initialMarketCap": 20598.9
     },
     "currentInfos": {
-      "currentPoolToken": 121.36639832528279,
-      "currentPriceUSD": 1174.5516951833456,
-      "currentPoolEth": 69.2032627427965,
-      "currentMarketCap": 142551.10889125805
+      "currentPoolToken": 121.65314038844073,
+      "currentPriceUSD": 1169.5461971569273,
+      "currentPoolEth": 69.0711483202983,
+      "currentMarketCap": 142278.96771349866
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 119,
     "holderCountOld": 0,
-    "txCount": 405,
+    "txCount": 411,
     "createdAtTimestamp": "1617564176",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 44.6160938762107,
+    "priceChange": 44.42169522282946,
     "isRugged": false
   },
   {
@@ -6162,37 +6193,6 @@
     "holderCountOld": 25,
     "txCount": 26,
     "createdAtTimestamp": "1617191472",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x7fd3df0fea7a1e2b76cb40d6fcf6e23ed9acbff0",
-    "tokenName": "PMON",
-    "idPair": "0x874399a3948e8bc522a653a3e8396068c2652fed",
-    "idToken": "0x7fd3df0fea7a1e2b76cb40d6fcf6e23ed9acbff0",
-    "dateCreationToken": "2021-03-31T11:35:39Z",
-    "initialInfos": {
-      "initialPoolToken": 900000,
-      "initialPriceUSD": 0.4049088888888889,
-      "initialPoolEth": 200,
-      "initialMarketCap": 364418
-    },
-    "currentInfos": {
-      "currentPoolToken": 8409.177387809166,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 6,
-    "holderCountOld": 4,
-    "txCount": 13,
-    "createdAtTimestamp": "1617190539",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
