@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xaeaf3f5eb93044df12cbc892684e2431660d3b00",
+    "tokenName": "CHIN",
+    "idPair": "0x9acc855a253c4931937427a34eacb88dc84933bb",
+    "idToken": "0xaeaf3f5eb93044df12cbc892684e2431660d3b00",
+    "dateCreationToken": "2021-04-04T17:08:07Z",
+    "initialInfos": {
+      "initialPoolToken": 74250000000,
+      "initialPriceUSD": 2.7972525252525253e-8,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2076.96
+    },
+    "currentInfos": {
+      "currentPoolToken": 61908065252.53177,
+      "currentPriceUSD": 4.025757341570959e-8,
+      "currentPoolEth": 1.1999597883101374,
+      "currentMarketCap": 2492.2684819283377
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1617556087",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.4391826641420331,
+    "isRugged": false
+  },
+  {
     "_id": "0x99eb6c07a227fd17894461dbbd88225d337e201b",
     "tokenName": "GRZS",
     "idPair": "0x9bd51e478b50771d48bc8016966f0d454dcdee0d",
@@ -7,28 +38,28 @@
     "dateCreationToken": "2021-04-04T16:37:17Z",
     "initialInfos": {
       "initialPoolToken": 900000000,
-      "initialPriceUSD": 0.00000207462,
+      "initialPriceUSD": 0.00000207696,
       "initialPoolEth": 0.9,
-      "initialMarketCap": 1867.158
+      "initialMarketCap": 1869.264
     },
     "currentInfos": {
-      "currentPoolToken": 295481214.3259459,
-      "currentPriceUSD": 0.000019308883899828393,
-      "currentPoolEth": 2.7501,
-      "currentMarketCap": 5705.412462
+      "currentPoolToken": 1.0382152e-11,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-18,
+      "currentMarketCap": 0
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 17,
     "holderCountOld": 0,
-    "txCount": 18,
+    "txCount": 19,
     "createdAtTimestamp": "1617554237",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 8.307190666159775,
-    "isRugged": false
+    "priceChange": -1,
+    "isRugged": true
   },
   {
     "_id": "0x2002f1995c915cd5c2daff16e4437d03854fa79a",
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-04T15:38:26Z",
     "initialInfos": {
       "initialPoolToken": 5000000,
-      "initialPriceUSD": 0.0829848,
+      "initialPriceUSD": 0.0830772,
       "initialPoolEth": 200,
-      "initialMarketCap": 414924
+      "initialMarketCap": 415386
     },
     "currentInfos": {
       "currentPoolToken": 3427857.581728745,
-      "currentPriceUSD": 0.1767583560436696,
+      "currentPriceUSD": 0.1769551688587687,
       "currentPoolEth": 292.05467550597297,
-      "currentMarketCap": 605902.4708982017
+      "currentMarketCap": 606577.1171986205
     },
     "trustScore": null,
     "contractId": null,
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9999999998251471,
-    "isRugged": true
-  },
-  {
-    "_id": "0xd34883b13bf4b4cd07fde2fc2b715a2ff64d55f4",
-    "tokenName": "RAGE",
-    "idPair": "0xa39caa05446acf9a275958fd8424d6b00c5aa17c",
-    "idToken": "0xd34883b13bf4b4cd07fde2fc2b715a2ff64d55f4",
-    "dateCreationToken": "2021-03-31T05:31:59Z",
-    "initialInfos": {
-      "initialPoolToken": 13000000,
-      "initialPriceUSD": 0.03467884615384615,
-      "initialPoolEth": 250,
-      "initialMarketCap": 455405.61131694925
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.1647e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 9e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 22,
-    "holderCountOld": 21,
-    "txCount": 28,
-    "createdAtTimestamp": "1617168719",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
