@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xbd05914af28d91c22c6b5275144a04b60337b184",
+    "tokenName": "CSAN",
+    "idPair": "0x8b4c8f9b27f115e4af9fcbf9d077bbe0fad1ef6a",
+    "idToken": "0xbd05914af28d91c22c6b5275144a04b60337b184",
+    "dateCreationToken": "2021-04-04T19:51:19Z",
+    "initialInfos": {
+      "initialPoolToken": 900000000,
+      "initialPriceUSD": 0.0000036686222222222223,
+      "initialPoolEth": 1.6,
+      "initialMarketCap": 3301.76
+    },
+    "currentInfos": {
+      "currentPoolToken": 899943922.2443452,
+      "currentPriceUSD": 0.0000036690801264208973,
+      "currentPoolEth": 1.6001,
+      "currentMarketCap": 3301.96636
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1617565879",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.00012481639453124405,
+    "isRugged": false
+  },
+  {
     "_id": "0x4f9f3504d6c3670672692fcbcaeb409b0cfb40b2",
     "tokenName": "TAIYAKI",
     "idPair": "0x6202c72733adf560b6f052d302f606ba58ef8d78",
@@ -12,22 +43,22 @@
       "initialMarketCap": 20636
     },
     "currentInfos": {
-      "currentPoolToken": 149.66258367097558,
-      "currentPriceUSD": 759.9349920201457,
-      "currentPoolEth": 55.11428296555352,
-      "currentMarketCap": 113733.83432771724
+      "currentPoolToken": 143.56446072773105,
+      "currentPriceUSD": 826.9726987741461,
+      "currentPoolEth": 57.53241400274592,
+      "currentMarketCap": 118723.88953606665
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 36,
     "holderCountOld": 0,
-    "txCount": 185,
+    "txCount": 199,
     "createdAtTimestamp": "1617564176",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 28.460554061645503,
+    "priceChange": 31.05941844443288,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 271.6932509707595,
     "isRugged": false
-  },
-  {
-    "_id": "0xb80efff37825ae07d66fa0f2188afaa57612475e",
-    "tokenName": "BNFT🦋",
-    "idPair": "0x52295ce9578cf311e56a8dada609167971d9722f",
-    "idToken": "0xb80efff37825ae07d66fa0f2188afaa57612475e",
-    "dateCreationToken": "2021-03-31T10:01:26Z",
-    "initialInfos": {
-      "initialPoolToken": 10000.7878,
-      "initialPriceUSD": 0.7188393698344444,
-      "initialPoolEth": 4,
-      "initialMarketCap": 7188.96
-    },
-    "currentInfos": {
-      "currentPoolToken": 1674678.5908889524,
-      "currentPriceUSD": 0.000029783736514742125,
-      "currentPoolEth": 0.02407689918929364,
-      "currentMarketCap": 49.87818589791618
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 13,
-    "holderCountOld": 0,
-    "txCount": 12,
-    "createdAtTimestamp": "1617184886",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9999585669097094,
-    "isRugged": true
   }
 ]
