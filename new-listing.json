@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xb247aa711d77a21b1a71898cf45970feadf6fe7f",
+    "tokenName": "PDEX",
+    "idPair": "0x3acfe7cdce504359d190e754153115ceadfa875a",
+    "idToken": "0xb247aa711d77a21b1a71898cf45970feadf6fe7f",
+    "dateCreationToken": "2021-04-04T15:21:36Z",
+    "initialInfos": {
+      "initialPoolToken": 530000,
+      "initialPriceUSD": 0.9850896226415095,
+      "initialPoolEth": 250,
+      "initialMarketCap": 522097.5
+    },
+    "currentInfos": {
+      "currentPoolToken": 529999.7886360843,
+      "currentPriceUSD": 0.9850904095312571,
+      "currentPoolEth": 250.0001,
+      "currentMarketCap": 522097.708839
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1617549696",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 7.988001595070809e-7,
+    "isRugged": false
+  },
+  {
     "_id": "0x558661622e3aeeda15a0f391ae3974bd4829c1e5",
     "tokenName": "TOTM",
     "idPair": "0x5eb9bb0f1cd1a70696d00958884909d7fc040235",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9999987799763971,
-    "isRugged": true
-  },
-  {
-    "_id": "0x9d6bc46fffe834c26a156b320ecfd09eccc040e5",
-    "tokenName": "STN",
-    "idPair": "0x2b8453a89df03565edd17785bcf454a0dd010f15",
-    "idToken": "0x9d6bc46fffe834c26a156b320ecfd09eccc040e5",
-    "dateCreationToken": "2021-03-31T04:08:17Z",
-    "initialInfos": {
-      "initialPoolToken": 2000000,
-      "initialPriceUSD": 0.18244,
-      "initialPoolEth": 200,
-      "initialMarketCap": 364880
-    },
-    "currentInfos": {
-      "currentPoolToken": 8.1847e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.3e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 22,
-    "holderCountOld": 21,
-    "txCount": 21,
-    "createdAtTimestamp": "1617163697",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
