@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x41933422dc4a1cb8c822e06f12f7b52fa5e7e094",
+    "tokenName": "SOGE",
+    "idPair": "0xce0848e77370687e9cb33b4af15f1861616d46c6",
+    "idToken": "0x41933422dc4a1cb8c822e06f12f7b52fa5e7e094",
+    "dateCreationToken": "2021-04-04T23:33:05Z",
+    "initialInfos": {
+      "initialPoolToken": 40755873340143,
+      "initialPriceUSD": 1.9100069172932332e-10,
+      "initialPoolEth": 3.75,
+      "initialMarketCap": 7784.4
+    },
+    "currentInfos": {
+      "currentPoolToken": 26322646415754.65,
+      "currentPriceUSD": 4.640509331063679e-10,
+      "currentPoolEth": 5.884388310784819,
+      "currentMarketCap": 12215.048631059934
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 15,
+    "holderCountOld": 0,
+    "txCount": 10,
+    "createdAtTimestamp": "1617579185",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.429577238201827,
+    "isRugged": false
+  },
+  {
     "_id": "0xe0424042840b19efa58235d403b2d613250de999",
     "tokenName": "'XIP'",
     "idPair": "0x86dd59cf98a1f6270abea0f4790cb7c207fa9a65",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-04T23:20:36Z",
     "initialInfos": {
       "initialPoolToken": 7.2256,
-      "initialPriceUSD": 28.731593224092116,
+      "initialPriceUSD": 28.728963684676707,
       "initialPoolEth": 0.1,
       "initialMarketCap": 206.9225856278988
     },
     "currentInfos": {
       "currentPoolToken": 7.2256,
-      "currentPriceUSD": 28.731593224092116,
+      "currentPriceUSD": 28.728963684676707,
       "currentPoolEth": 0.1,
-      "currentMarketCap": 207.603
+      "currentMarketCap": 207.584
     },
     "trustScore": null,
     "contractId": null,
@@ -38,27 +69,27 @@
     "dateCreationToken": "2021-04-04T23:13:56Z",
     "initialInfos": {
       "initialPoolToken": 4000,
-      "initialPriceUSD": 5.190075,
+      "initialPriceUSD": 5.1896,
       "initialPoolEth": 10,
-      "initialMarketCap": 20760.3
+      "initialMarketCap": 20758.4
     },
     "currentInfos": {
-      "currentPoolToken": 3253.9514209324375,
-      "currentPriceUSD": 7.847433995398357,
-      "currentPoolEth": 12.3,
-      "currentMarketCap": 25535.169
+      "currentPoolToken": 3032.7114241147037,
+      "currentPriceUSD": 9.035178151841073,
+      "currentPoolEth": 13.2,
+      "currentMarketCap": 27401.088
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 4,
     "holderCountOld": 0,
-    "txCount": 3,
+    "txCount": 4,
     "createdAtTimestamp": "1617578036",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.5120078217363635,
+    "priceChange": 0.7410162925545462,
     "isRugged": false
   },
   {
@@ -217,37 +248,6 @@
     "isRugged": false
   },
   {
-    "_id": "0xde9538d301f4ea8e688bd10e2e2e61fa24e27d52",
-    "tokenName": "BELLE",
-    "idPair": "0x7b8653617d6d713f69658a66343072366a476a40",
-    "idToken": "0xde9538d301f4ea8e688bd10e2e2e61fa24e27d52",
-    "dateCreationToken": "2021-04-04T21:26:23Z",
-    "initialInfos": {
-      "initialPoolToken": 500000000,
-      "initialPriceUSD": 0.00001244694,
-      "initialPoolEth": 3,
-      "initialMarketCap": 6178.109006203989
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.03e-7,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2.496e-15,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 14,
-    "createdAtTimestamp": "1617571583",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0x800964c1eac80de0ed79ea3fa4c63681da5ee5cb",
     "tokenName": "SCP",
     "idPair": "0x46cd4f66974655292a7c29f416cb235ab8d36140",
@@ -271,6 +271,37 @@
     "holderCount": 5,
     "holderCountOld": 0,
     "txCount": 5,
+    "createdAtTimestamp": "1617571583",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0xde9538d301f4ea8e688bd10e2e2e61fa24e27d52",
+    "tokenName": "BELLE",
+    "idPair": "0x7b8653617d6d713f69658a66343072366a476a40",
+    "idToken": "0xde9538d301f4ea8e688bd10e2e2e61fa24e27d52",
+    "dateCreationToken": "2021-04-04T21:26:23Z",
+    "initialInfos": {
+      "initialPoolToken": 500000000,
+      "initialPriceUSD": 0.00001244694,
+      "initialPoolEth": 3,
+      "initialMarketCap": 6178.109006203989
+    },
+    "currentInfos": {
+      "currentPoolToken": 4.03e-7,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 2.496e-15,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 14,
     "createdAtTimestamp": "1617571583",
     "isCodeGenerator": false,
     "linksSocial": [],
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 2.3596214245481466,
     "isRugged": false
-  },
-  {
-    "_id": "0xf2bb8bc4dee85c27854779a38edabb4919818ba8",
-    "tokenName": "$HOPE",
-    "idPair": "0xb3e74d98c09368387db406e8b0d1709250ab13ac",
-    "idToken": "0xf2bb8bc4dee85c27854779a38edabb4919818ba8",
-    "dateCreationToken": "2021-03-31T17:49:02Z",
-    "initialInfos": {
-      "initialPoolToken": 60000000,
-      "initialPriceUSD": 0.012546466666666667,
-      "initialPoolEth": 400,
-      "initialMarketCap": 739772.0473802543
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.73467e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 6e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 172,
-    "holderCountOld": 171,
-    "txCount": 171,
-    "createdAtTimestamp": "1617212942",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
