@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xced26cdac54040422bd828ef8599116d987473fa",
+    "tokenName": "NFTDAO",
+    "idPair": "0x079b5255cc5794845cde52e6417ce1b61fb80534",
+    "idToken": "0xced26cdac54040422bd828ef8599116d987473fa",
+    "dateCreationToken": "2021-04-05T22:23:40Z",
+    "initialInfos": {
+      "initialPoolToken": 9200000,
+      "initialPriceUSD": 0.00018330434782608696,
+      "initialPoolEth": 0.8,
+      "initialMarketCap": 1688.1532466501394
+    },
+    "currentInfos": {
+      "currentPoolToken": 9086756.299616035,
+      "currentPriceUSD": 0.00018790863798913044,
+      "currentPoolEth": 0.81,
+      "currentMarketCap": 1707.48
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1617661420",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.02511828125000001,
+    "isRugged": false
+  },
+  {
     "_id": "0x4a35f16402e241aae74bbabaf64f524f7da6d2e8",
     "tokenName": "SAFESATURN",
     "idPair": "0xca82a2bf40973c734f58d63e584e83a99fa8970b",
@@ -12,22 +43,22 @@
       "initialMarketCap": 4216
     },
     "currentInfos": {
-      "currentPoolToken": 270544411364393.88,
-      "currentPriceUSD": 2.6692790124995125e-11,
-      "currentPoolEth": 3.4257994269644776,
-      "currentMarketCap": 7221.585192040112
+      "currentPoolToken": 149209468205327,
+      "currentPriceUSD": 8.822888267163697e-11,
+      "currentPoolEth": 6.245059138418025,
+      "currentMarketCap": 13164.584663785145
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 2,
+    "holderCount": 16,
     "holderCountOld": 0,
-    "txCount": 12,
+    "txCount": 19,
     "createdAtTimestamp": "1617659930",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.9124011995962424,
+    "priceChange": 8.62649099358468,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.8026792906048095,
     "isRugged": false
-  },
-  {
-    "_id": "0x61a1d6ff646dc7c6ba4af4e1ebc3f5735a39ba15",
-    "tokenName": "IDA✔",
-    "idPair": "0x0d06ebe9e99488e4a98a0ce2f105814469f210e5",
-    "idToken": "0x61a1d6ff646dc7c6ba4af4e1ebc3f5735a39ba15",
-    "dateCreationToken": "2021-04-01T13:27:36Z",
-    "initialInfos": {
-      "initialPoolToken": 352856,
-      "initialPriceUSD": 0.008195765411385949,
-      "initialPoolEth": 1.5,
-      "initialMarketCap": 2891.925
-    },
-    "currentInfos": {
-      "currentPoolToken": 69546678.00717957,
-      "currentPriceUSD": 2.3163697739102068e-7,
-      "currentPoolEth": 0.007636284565196564,
-      "currentMarketCap": 16.10958228116965
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 2,
-    "txCount": 3,
-    "createdAtTimestamp": "1617283656",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9999717369927318,
-    "isRugged": true
   }
 ]
