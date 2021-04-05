@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x6e84dc615892797164840d650b190dd86de09f43",
+    "tokenName": "CERE",
+    "idPair": "0x77b958f53a0a79a979a2073b6967b43dad477025",
+    "idToken": "0x6e84dc615892797164840d650b190dd86de09f43",
+    "dateCreationToken": "2021-04-05T11:37:17Z",
+    "initialInfos": {
+      "initialPoolToken": 7200000,
+      "initialPriceUSD": 0.068208,
+      "initialPoolEth": 240,
+      "initialMarketCap": 491097.6
+    },
+    "currentInfos": {
+      "currentPoolToken": 7115461.7914113905,
+      "currentPriceUSD": 0.06984084251563767,
+      "currentPoolEth": 242.86,
+      "currentMarketCap": 496949.8464
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1617622637",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.023939164256944447,
+    "isRugged": false
+  },
+  {
     "_id": "0x1cd9c4b65c8a0b499750c10e70fe42dc94494679",
     "tokenName": "TOTM",
     "idPair": "0x81da073b9971dbdd90caf8e70d5f936fc117f753",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-05T11:03:35Z",
     "initialInfos": {
       "initialPoolToken": 1000000000,
-      "initialPriceUSD": 0.0000613899,
+      "initialPriceUSD": 0.0000613872,
       "initialPoolEth": 30,
-      "initialMarketCap": 61389.9
+      "initialMarketCap": 61387.2
     },
     "currentInfos": {
       "currentPoolToken": 792199553.672303,
-      "currentPriceUSD": 0.00009791771606721994,
+      "currentPriceUSD": 0.00009791340953091052,
       "currentPoolEth": 37.90706824659855,
-      "currentMarketCap": 77570.37096506293
+      "currentMarketCap": 77566.95932892074
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.5950134479323137,
+    "priceChange": 0.5950134479323136,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x2ce71d686305fec0e667739b52f628be97a1b050",
-    "tokenName": "JOEY",
-    "idPair": "0x252552a5eb3c32440bea55a1a89101e39b3b604c",
-    "idToken": "0x2ce71d686305fec0e667739b52f628be97a1b050",
-    "dateCreationToken": "2021-04-01T03:41:26Z",
-    "initialInfos": {
-      "initialPoolToken": 50000000,
-      "initialPriceUSD": 0.00000383898,
-      "initialPoolEth": 0.1,
-      "initialMarketCap": 191.949
-    },
-    "currentInfos": {
-      "currentPoolToken": 7287712.310246033,
-      "currentPriceUSD": 0.0002934201503487546,
-      "currentPoolEth": 1.0471129161768429,
-      "currentMarketCap": 2138.3616417708604
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 38,
-    "holderCountOld": 37,
-    "txCount": 70,
-    "createdAtTimestamp": "1617248486",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 75.43179968344576,
-    "isRugged": false
   }
 ]
