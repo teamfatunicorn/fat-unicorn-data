@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x4a35f16402e241aae74bbabaf64f524f7da6d2e8",
+    "tokenName": "SAFESATURN",
+    "idPair": "0xca82a2bf40973c734f58d63e584e83a99fa8970b",
+    "idToken": "0x4a35f16402e241aae74bbabaf64f524f7da6d2e8",
+    "dateCreationToken": "2021-04-05T21:58:50Z",
+    "initialInfos": {
+      "initialPoolToken": 460000000000000,
+      "initialPriceUSD": 9.19208695652174e-12,
+      "initialPoolEth": 2,
+      "initialMarketCap": 4228.36
+    },
+    "currentInfos": {
+      "currentPoolToken": 380171945498905.7,
+      "currentPriceUSD": 1.3499172420466706e-11,
+      "currentPoolEth": 2.4274218097385734,
+      "currentMarketCap": 5132.006641713999
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 7,
+    "createdAtTimestamp": "1617659930",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.4685644820721709,
+    "isRugged": false
+  },
+  {
     "_id": "0x443075b42797bf75d7c1164ee4c216525a6147dc",
     "tokenName": "SOLM",
     "idPair": "0x9a5a685c62356cf5d69243967d452722c8ea65da",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-05T20:29:02Z",
     "initialInfos": {
       "initialPoolToken": 50000000,
-      "initialPriceUSD": 0.005962044,
+      "initialPriceUSD": 0.0059619876,
       "initialPoolEth": 141,
-      "initialMarketCap": 298102.2
+      "initialMarketCap": 298099.38
     },
     "currentInfos": {
       "currentPoolToken": 9891885.774778925,
-      "currentPriceUSD": 0.1530844577287878,
+      "currentPriceUSD": 0.15308300957385707,
       "currentPoolEth": 716.2491579543763,
-      "currentMarketCap": 1514293.9697471417
+      "currentMarketCap": 1514279.6447639826
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 24.676505864228407,
+    "priceChange": 24.67650586422841,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-05T19:30:53Z",
     "initialInfos": {
       "initialPoolToken": 80000000000,
-      "initialPriceUSD": 1.9820625e-8,
+      "initialPriceUSD": 1.98204375e-8,
       "initialPoolEth": 0.75,
-      "initialMarketCap": 1585.65
+      "initialMarketCap": 1585.635
     },
     "currentInfos": {
       "currentPoolToken": 48002592025.46708,
-      "currentPriceUSD": 5.831249059525645e-8,
+      "currentPriceUSD": 5.831193896825243e-8,
       "currentPoolEth": 1.3239763012169141,
-      "currentMarketCap": 2799.1506960329816
+      "currentMarketCap": 2799.124216506957
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.9420106881219161,
+    "priceChange": 1.942010688121916,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9999717369927318,
-    "isRugged": true
-  },
-  {
-    "_id": "0xda74d4bb6aece57e7e55d2898f582b5f3698cf0d",
-    "tokenName": "KLS",
-    "idPair": "0xe0ea1542f9c20d11018c4d405e2e3f81d36ce7f3",
-    "idToken": "0xda74d4bb6aece57e7e55d2898f582b5f3698cf0d",
-    "dateCreationToken": "2021-04-01T12:58:36Z",
-    "initialInfos": {
-      "initialPoolToken": 35000000,
-      "initialPriceUSD": 0.00154236,
-      "initialPoolEth": 28,
-      "initialMarketCap": 53778.597829520484
-    },
-    "currentInfos": {
-      "currentPoolToken": 1,
-      "currentPriceUSD": 0.00000198514301,
-      "currentPoolEth": 9.41095586e-10,
-      "currentMarketCap": 0.00000198514301
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 8,
-    "holderCountOld": 0,
-    "txCount": 16,
-    "createdAtTimestamp": "1617281916",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9987129185080007,
     "isRugged": true
   }
 ]
