@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x2bcd14a3317c5e155ed3fda064e3ffd3a28a03da",
+    "tokenName": "WIFI",
+    "idPair": "0xcca30de0bc1e4fd2723a1fd2a41529847e70ac82",
+    "idToken": "0x2bcd14a3317c5e155ed3fda064e3ffd3a28a03da",
+    "dateCreationToken": "2021-04-05T12:28:38Z",
+    "initialInfos": {
+      "initialPoolToken": 30000000,
+      "initialPriceUSD": 0.000206064,
+      "initialPoolEth": 3,
+      "initialMarketCap": 6181.92
+    },
+    "currentInfos": {
+      "currentPoolToken": 27698741.99063412,
+      "currentPriceUSD": 0.00024178726411161372,
+      "currentPoolEth": 3.2500597121519452,
+      "currentMarketCap": 6697.203045248897
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1617625718",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.17336004402328267,
+    "isRugged": false
+  },
+  {
     "_id": "0x61745cedd22e4e71a6f6711c2eacd0a57745686e",
     "tokenName": "NODLE",
     "idPair": "0xe83886c2c7b87258f90b5405d255fe68644442f0",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-05T11:49:20Z",
     "initialInfos": {
       "initialPoolToken": 250000000,
-      "initialPriceUSD": 0.000008252,
+      "initialPriceUSD": 0.00000824256,
       "initialPoolEth": 1,
-      "initialMarketCap": 2063
+      "initialMarketCap": 2060.64
     },
     "currentInfos": {
       "currentPoolToken": 170087140.77013925,
-      "currentPriceUSD": 0.000017846723614229912,
+      "currentPriceUSD": 0.000017826307585277132,
       "currentPoolEth": 1.4713999959568336,
-      "currentMarketCap": 3035.498191659291
+      "currentMarketCap": 3032.0256876688327
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.1627149314384284,
+    "priceChange": 1.1627149314384282,
     "isRugged": false
   },
   {
@@ -38,27 +69,27 @@
     "dateCreationToken": "2021-04-05T11:37:17Z",
     "initialInfos": {
       "initialPoolToken": 7200000,
-      "initialPriceUSD": 0.06876666666666667,
+      "initialPriceUSD": 0.068688,
       "initialPoolEth": 240,
-      "initialMarketCap": 495120
+      "initialMarketCap": 494553.6
     },
     "currentInfos": {
-      "currentPoolToken": 6367966.858691134,
-      "currentPriceUSD": 0.08794293486742379,
-      "currentPoolEth": 271.4579227783748,
-      "currentMarketCap": 560017.6946917876
+      "currentPoolToken": 6330764.64459586,
+      "currentPriceUSD": 0.0888793233648872,
+      "currentPoolEth": 273.0579227783748,
+      "currentMarketCap": 562674.0779940307
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 19,
     "holderCountOld": 0,
-    "txCount": 18,
+    "txCount": 19,
     "createdAtTimestamp": "1617622637",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.27885993505705936,
+    "priceChange": 0.29395707204878874,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9999999999998276,
-    "isRugged": true
-  },
-  {
-    "_id": "0xcdd7332d612d089ca1e9e20e35bf3a7b5e71839d",
-    "tokenName": "JAKE",
-    "idPair": "0x9ae0d653c7a1cda824534b69923d37ff9574a152",
-    "idToken": "0xcdd7332d612d089ca1e9e20e35bf3a7b5e71839d",
-    "dateCreationToken": "2021-04-01T04:14:32Z",
-    "initialInfos": {
-      "initialPoolToken": 200000,
-      "initialPriceUSD": 0.191596,
-      "initialPoolEth": 20,
-      "initialMarketCap": 38377.53701425729
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.432e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.6e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 0,
-    "txCount": 6,
-    "createdAtTimestamp": "1617250472",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
