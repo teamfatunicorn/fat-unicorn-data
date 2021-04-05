@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x807f7fc5c7b1fa2fb6bbd8b9980c4f8dac246bfd",
+    "tokenName": "DPR",
+    "idPair": "0xe8584e8bebd4349530f4b16f63b2d82f27e50f71",
+    "idToken": "0x807f7fc5c7b1fa2fb6bbd8b9980c4f8dac246bfd",
+    "dateCreationToken": "2021-04-05T05:24:34Z",
+    "initialInfos": {
+      "initialPoolToken": 35000000,
+      "initialPriceUSD": 0.01734617142857143,
+      "initialPoolEth": 300,
+      "initialMarketCap": 607116
+    },
+    "currentInfos": {
+      "currentPoolToken": 35000000,
+      "currentPriceUSD": 0.01734617142857143,
+      "currentPoolEth": 300,
+      "currentMarketCap": 607116
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1617600274",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x2f19d0cfe497b5a588f7f25e918ce4df414ecf38",
     "tokenName": "👾🚁DFG🚁👾",
     "idPair": "0x12de9b3702d253772b685db32b29b4d42f998a85",
@@ -51,7 +82,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 332,
+    "holderCount": 333,
     "holderCountOld": 0,
     "txCount": 325,
     "createdAtTimestamp": "1617585445",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x88d50b466be55222019d71f9e8fae17f5f45fca1",
-    "tokenName": "CPT",
-    "idPair": "0xec1265c601104922bab0bc93108f80ad5d7d5509",
-    "idToken": "0x88d50b466be55222019d71f9e8fae17f5f45fca1",
-    "dateCreationToken": "2021-03-31T19:47:58Z",
-    "initialInfos": {
-      "initialPoolToken": 50000,
-      "initialPriceUSD": 0.12383744,
-      "initialPoolEth": 3.2,
-      "initialMarketCap": 6191.872
-    },
-    "currentInfos": {
-      "currentPoolToken": 232104.53241062,
-      "currentPriceUSD": 0.0011488191881612628,
-      "currentPoolEth": 0.13100236337894072,
-      "currentMarketCap": 266.646140492518
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6679,
-    "holderCountOld": 6683,
-    "txCount": 47,
-    "createdAtTimestamp": "1617220078",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9907231674995763,
-    "isRugged": false
   }
 ]
