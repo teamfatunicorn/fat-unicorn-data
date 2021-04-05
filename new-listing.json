@@ -7,15 +7,15 @@
     "dateCreationToken": "2021-04-05T22:23:40Z",
     "initialInfos": {
       "initialPoolToken": 9200000,
-      "initialPriceUSD": 0.00018332695652173913,
+      "initialPriceUSD": 0.00018350869565217392,
       "initialPoolEth": 0.8,
       "initialMarketCap": 1688.1532466501394
     },
     "currentInfos": {
       "currentPoolToken": 9086756.299616035,
-      "currentPriceUSD": 0.0001879318145763587,
+      "currentPriceUSD": 0.00018811811868138588,
       "currentPoolEth": 0.81,
-      "currentMarketCap": 1707.6906
+      "currentMarketCap": 1709.3835
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +27,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.025118281249999954,
+    "priceChange": 0.025118281250000003,
     "isRugged": false
   },
   {
@@ -38,27 +38,27 @@
     "dateCreationToken": "2021-04-05T21:58:50Z",
     "initialInfos": {
       "initialPoolToken": 460000000000000,
-      "initialPriceUSD": 9.166347826086957e-12,
+      "initialPriceUSD": 9.175434782608696e-12,
       "initialPoolEth": 2,
-      "initialMarketCap": 4216.52
+      "initialMarketCap": 4220.7
     },
     "currentInfos": {
-      "currentPoolToken": 101289380252918.52,
-      "currentPriceUSD": 1.9304430104018093e-10,
-      "currentPoolEth": 9.274632926544655,
-      "currentMarketCap": 19553.337613717762
+      "currentPoolToken": 81276596240542.06,
+      "currentPriceUSD": 3.049051791126415e-10,
+      "currentPoolEth": 11.742912376803618,
+      "currentMarketCap": 24781.655134388322
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 16,
     "holderCountOld": 0,
-    "txCount": 30,
+    "txCount": 43,
     "createdAtTimestamp": "1617659930",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 20.060110820886234,
+    "priceChange": 32.23059738711945,
     "isRugged": false
   },
   {
@@ -2974,6 +2974,37 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
+  },
+  {
+    "_id": "0xfeea0bdd3d07eb6fe305938878c0cadbfa169042",
+    "tokenName": "8PAY",
+    "idPair": "0x5b29799a983d67d83d7bf6ec6146851c2a027a3a",
+    "idToken": "0xfeea0bdd3d07eb6fe305938878c0cadbfa169042",
+    "dateCreationToken": "2021-04-03T18:47:53Z",
+    "initialInfos": {
+      "initialPoolToken": 1071428,
+      "initialPriceUSD": 0.07026693776903348,
+      "initialPoolEth": 35.71,
+      "initialMarketCap": 75515.80557354627
+    },
+    "currentInfos": {
+      "currentPoolToken": 250438.1565295306,
+      "currentPriceUSD": 1.3519829708937547,
+      "currentPoolEth": 160.60074321476012,
+      "currentMarketCap": 338588.12288994994
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 333,
+    "holderCountOld": 0,
+    "txCount": 1164,
+    "createdAtTimestamp": "1617475673",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 18.240670133337893,
+    "isRugged": false
   },
   {
     "_id": "0x3409abfa560a9760f695dc69a006e7d4b50f3739",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.2539173077320795,
-    "isRugged": false
-  },
-  {
-    "_id": "0xa053c1b7013e77fe0a873ce0ca2bd5d0b7414c41",
-    "tokenName": "KYTE",
-    "idPair": "0x93488e502f6b3df0c438b5c4705efe54303ff054",
-    "idToken": "0xa053c1b7013e77fe0a873ce0ca2bd5d0b7414c41",
-    "dateCreationToken": "2021-04-01T13:50:54Z",
-    "initialInfos": {
-      "initialPoolToken": 100000,
-      "initialPriceUSD": 1.0665435,
-      "initialPoolEth": 55,
-      "initialMarketCap": 106654.35
-    },
-    "currentInfos": {
-      "currentPoolToken": 161057.05520136157,
-      "currentPriceUSD": 1.9226358799791707,
-      "currentPoolEth": 146.7826152956823,
-      "currentMarketCap": 309654.0730539237
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 121,
-    "holderCountOld": 122,
-    "txCount": 889,
-    "createdAtTimestamp": "1617285054",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.8026792906048095,
     "isRugged": false
   }
 ]
