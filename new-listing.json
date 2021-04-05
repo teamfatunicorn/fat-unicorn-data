@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x61745cedd22e4e71a6f6711c2eacd0a57745686e",
+    "tokenName": "NODLE",
+    "idPair": "0xe83886c2c7b87258f90b5405d255fe68644442f0",
+    "idToken": "0x61745cedd22e4e71a6f6711c2eacd0a57745686e",
+    "dateCreationToken": "2021-04-05T11:49:20Z",
+    "initialInfos": {
+      "initialPoolToken": 250000000,
+      "initialPriceUSD": 0.00000821904,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2054.76
+    },
+    "currentInfos": {
+      "currentPoolToken": 247532104.91400734,
+      "currentPriceUSD": 0.000008383993667088,
+      "currentPoolEth": 1.01,
+      "currentMarketCap": 2075.3076
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1617623360",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.02006969999999998,
+    "isRugged": false
+  },
+  {
     "_id": "0x6e84dc615892797164840d650b190dd86de09f43",
     "tokenName": "CERE",
     "idPair": "0x77b958f53a0a79a979a2073b6967b43dad477025",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-05T11:37:17Z",
     "initialInfos": {
       "initialPoolToken": 7200000,
-      "initialPriceUSD": 0.06849233333333334,
+      "initialPriceUSD": 0.068492,
       "initialPoolEth": 240,
-      "initialMarketCap": 493144.8
+      "initialMarketCap": 493142.4
     },
     "currentInfos": {
-      "currentPoolToken": 6756298.113455049,
-      "currentPriceUSD": 0.0777986265368036,
-      "currentPoolEth": 255.81,
-      "currentMarketCap": 525630.7137
+      "currentPoolToken": 6629742.792613651,
+      "currentPriceUSD": 0.08080135657825532,
+      "currentPoolEth": 260.7079227783748,
+      "currentMarketCap": 535692.2114080938
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 3,
     "holderCountOld": 0,
-    "txCount": 9,
+    "txCount": 12,
     "createdAtTimestamp": "1617622637",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.13587350219445868,
+    "priceChange": 0.17971962533223335,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-05T11:03:35Z",
     "initialInfos": {
       "initialPoolToken": 1000000000,
-      "initialPriceUSD": 0.0000616431,
+      "initialPriceUSD": 0.0000616428,
       "initialPoolEth": 30,
-      "initialMarketCap": 61643.1
+      "initialMarketCap": 61642.8
     },
     "currentInfos": {
       "currentPoolToken": 694540996.86735,
-      "currentPriceUSD": 0.00012796304836728948,
+      "currentPriceUSD": 0.00012796242560635581,
       "currentPoolEth": 43.25329996797785,
-      "currentMarketCap": 88875.58317520216
+      "currentMarketCap": 88875.15064220247
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.0758697788931686,
+    "priceChange": 1.0758697788931684,
     "isRugged": false
   },
   {
@@ -713,37 +744,6 @@
     "isRugged": false
   },
   {
-    "_id": "0xde9538d301f4ea8e688bd10e2e2e61fa24e27d52",
-    "tokenName": "BELLE",
-    "idPair": "0x7b8653617d6d713f69658a66343072366a476a40",
-    "idToken": "0xde9538d301f4ea8e688bd10e2e2e61fa24e27d52",
-    "dateCreationToken": "2021-04-04T21:26:23Z",
-    "initialInfos": {
-      "initialPoolToken": 500000000,
-      "initialPriceUSD": 0.00001244694,
-      "initialPoolEth": 3,
-      "initialMarketCap": 6178.109006203989
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.03e-7,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2.496e-15,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 14,
-    "createdAtTimestamp": "1617571583",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0x800964c1eac80de0ed79ea3fa4c63681da5ee5cb",
     "tokenName": "SCP",
     "idPair": "0x46cd4f66974655292a7c29f416cb235ab8d36140",
@@ -767,6 +767,37 @@
     "holderCount": 5,
     "holderCountOld": 0,
     "txCount": 5,
+    "createdAtTimestamp": "1617571583",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0xde9538d301f4ea8e688bd10e2e2e61fa24e27d52",
+    "tokenName": "BELLE",
+    "idPair": "0x7b8653617d6d713f69658a66343072366a476a40",
+    "idToken": "0xde9538d301f4ea8e688bd10e2e2e61fa24e27d52",
+    "dateCreationToken": "2021-04-04T21:26:23Z",
+    "initialInfos": {
+      "initialPoolToken": 500000000,
+      "initialPriceUSD": 0.00001244694,
+      "initialPoolEth": 3,
+      "initialMarketCap": 6178.109006203989
+    },
+    "currentInfos": {
+      "currentPoolToken": 4.03e-7,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 2.496e-15,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 14,
     "createdAtTimestamp": "1617571583",
     "isCodeGenerator": false,
     "linksSocial": [],
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 6,
     "createdAtTimestamp": "1617250472",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x49adea0385db0291bf6730f832b8a230cf432fa9",
-    "tokenName": "DBC",
-    "idPair": "0xfebe79aa038df12e18871db1bef31737cf946bf9",
-    "idToken": "0x49adea0385db0291bf6730f832b8a230cf432fa9",
-    "dateCreationToken": "2021-04-01T04:06:05Z",
-    "initialInfos": {
-      "initialPoolToken": 100000,
-      "initialPriceUSD": 0.191949,
-      "initialPoolEth": 10,
-      "initialMarketCap": 19194.9
-    },
-    "currentInfos": {
-      "currentPoolToken": 8.5365e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.2e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 5,
-    "holderCountOld": 0,
-    "txCount": 24,
-    "createdAtTimestamp": "1617249965",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
