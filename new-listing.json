@@ -13,9 +13,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 370000,
-      "currentPriceUSD": 0.9851448648648649,
+      "currentPriceUSD": 0.9851643243243243,
       "currentPoolEth": 180,
-      "currentMarketCap": 364503.6
+      "currentMarketCap": 364510.8
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +27,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.000019752891329478968,
     "isRugged": false
   },
   {
@@ -38,15 +38,15 @@
     "dateCreationToken": "2021-04-05T08:33:23Z",
     "initialInfos": {
       "initialPoolToken": 50000000,
-      "initialPriceUSD": 0.0000809288,
+      "initialPriceUSD": 0.0000810008,
       "initialPoolEth": 2,
-      "initialMarketCap": 4046.44
+      "initialMarketCap": 4050.04
     },
     "currentInfos": {
       "currentPoolToken": 42937682.09189213,
-      "currentPriceUSD": 0.00010988708216485096,
+      "currentPriceUSD": 0.00010988925275244348,
       "currentPoolEth": 2.33,
-      "currentMarketCap": 4718.2966
+      "currentMarketCap": 4718.3898
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +58,38 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.35782418823522605,
+    "priceChange": 0.35664404243468545,
+    "isRugged": false
+  },
+  {
+    "_id": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+    "tokenName": "LUSD",
+    "idPair": "0xf20ef17b889b437c151eb5ba15a47bfc62bff469",
+    "idToken": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+    "dateCreationToken": "2021-04-05T08:29:44Z",
+    "initialInfos": {
+      "initialPoolToken": 2021.90109407,
+      "initialPriceUSD": 1.0015425610773678,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2025.02
+    },
+    "currentInfos": {
+      "currentPoolToken": 2021.90109407,
+      "currentPriceUSD": 1.0015623444387387,
+      "currentPoolEth": 1,
+      "currentMarketCap": 2025.06
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1617611384",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.000019752891329542682,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x8870187a4c3e3b748066cd265ef362bb4e20a323",
-    "tokenName": "Chef🍕",
-    "idPair": "0xd9af2c18037197b58180b74b91c6f70dac19903e",
-    "idToken": "0x8870187a4c3e3b748066cd265ef362bb4e20a323",
-    "dateCreationToken": "2021-04-01T03:04:38Z",
-    "initialInfos": {
-      "initialPoolToken": 14000,
-      "initialPriceUSD": 1.09784,
-      "initialPoolEth": 8,
-      "initialMarketCap": 15369.76
-    },
-    "currentInfos": {
-      "currentPoolToken": 100013345.05356902,
-      "currentPriceUSD": 2.283668697213178e-8,
-      "currentPoolEth": 0.001130237904190415,
-      "currentMarketCap": 2.28397345402416
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 9,
-    "holderCountOld": 0,
-    "txCount": 9,
-    "createdAtTimestamp": "1617246278",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9999999791985289,
     "isRugged": true
   }
 ]
