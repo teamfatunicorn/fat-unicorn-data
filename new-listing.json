@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xd3d3c1a4670c04bd48f5f16119cc16e57b03f3ef",
+    "tokenName": "CSPR",
+    "idPair": "0x0d434112f4b50e71bb7cef1a837d6b745bc56024",
+    "idToken": "0xd3d3c1a4670c04bd48f5f16119cc16e57b03f3ef",
+    "dateCreationToken": "2021-04-06T03:15:11Z",
+    "initialInfos": {
+      "initialPoolToken": 55000000,
+      "initialPriceUSD": 0.013573063636363637,
+      "initialPoolEth": 350,
+      "initialMarketCap": 745949.9411131606
+    },
+    "currentInfos": {
+      "currentPoolToken": 55000000,
+      "currentPriceUSD": 0.013573063636363637,
+      "currentPoolEth": 350,
+      "currentMarketCap": 746518.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1617678911",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x5c14584436d3a4533abbf5c2f87622cb009ad67e",
     "tokenName": "GAINS",
     "idPair": "0xc519f1455d88218a6c6932eaba86f92f1b771ae7",
@@ -12,22 +43,22 @@
       "initialMarketCap": 639873
     },
     "currentInfos": {
-      "currentPoolToken": 15039766.952561084,
-      "currentPriceUSD": 0.044989251079304016,
-      "currentPoolEth": 317.23225621474387,
-      "currentMarketCap": 676627.8516029896
+      "currentPoolToken": 15030319.47159431,
+      "currentPriceUSD": 0.045045911025547385,
+      "currentPoolEth": 317.4322562147439,
+      "currentMarketCap": 677054.4336029897
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 11,
     "holderCountOld": 0,
-    "txCount": 15,
+    "txCount": 16,
     "createdAtTimestamp": "1617677487",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.11792354445481185,
+    "priceChange": 0.11933146937939777,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9999984035073639,
-    "isRugged": true
-  },
-  {
-    "_id": "0xefd8d3c0db45e1bf69c941c5ceb6fa93f4c70142",
-    "tokenName": "YAM",
-    "idPair": "0x8ec2719a8348111c0cbbf4861205cc32f52f0222",
-    "idToken": "0xefd8d3c0db45e1bf69c941c5ceb6fa93f4c70142",
-    "dateCreationToken": "2021-04-01T17:51:50Z",
-    "initialInfos": {
-      "initialPoolToken": 5111,
-      "initialPriceUSD": 1.3442711798082567,
-      "initialPoolEth": 3.5,
-      "initialMarketCap": 6846.670574954436
-    },
-    "currentInfos": {
-      "currentPoolToken": 3.09755e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 4e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 0,
-    "txCount": 6,
-    "createdAtTimestamp": "1617299510",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
