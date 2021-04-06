@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x8684dfddd4003fea0e69a05d096b2f643d30521d",
+    "tokenName": "TOTM",
+    "idPair": "0xa87a93fb49abd19bff569259d818c0ea4d49d8e3",
+    "idToken": "0x8684dfddd4003fea0e69a05d096b2f643d30521d",
+    "dateCreationToken": "2021-04-06T02:37:29Z",
+    "initialInfos": {
+      "initialPoolToken": 1600000,
+      "initialPriceUSD": 0.26469375,
+      "initialPoolEth": 200,
+      "initialMarketCap": 423510
+    },
+    "currentInfos": {
+      "currentPoolToken": 1600000,
+      "currentPriceUSD": 0.26469375,
+      "currentPoolEth": 200,
+      "currentMarketCap": 423510
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1617676649",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x0fabaf48bbf864a3947bdd0ba9d764791a60467a",
     "tokenName": "rETH-THETA",
     "idPair": "0x67b2ef6ed08bfcbd998e4c2991379b3f0ebe0a20",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-06T02:12:38Z",
     "initialInfos": {
       "initialPoolToken": 6.955554094807076,
-      "initialPriceUSD": 2130.749009782674,
+      "initialPriceUSD": 2131.0811184786185,
       "initialPoolEth": 7,
-      "initialMarketCap": 14820.54
+      "initialMarketCap": 14822.85
     },
     "currentInfos": {
       "currentPoolToken": 5.41590691654963,
-      "currentPriceUSD": 3543.1608688960164,
+      "currentPriceUSD": 3543.713122835964,
       "currentPoolEth": 9.063502827435103,
-      "currentMarketCap": 19189.429456301932
+      "currentMarketCap": 19192.420412234984
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.6628710620672312,
+    "priceChange": 0.6628710620672316,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-06T02:08:29Z",
     "initialInfos": {
       "initialPoolToken": 100000,
-      "initialPriceUSD": 0.00211722,
+      "initialPriceUSD": 0.00211755,
       "initialPoolEth": 0.1,
       "initialMarketCap": 211.74717205743727
     },
     "currentInfos": {
       "currentPoolToken": 109999.9002450812,
-      "currentPriceUSD": 0.0017617522346927786,
+      "currentPriceUSD": 0.0017620268297926967,
       "currentPoolEth": 0.09153161696553588,
-      "currentMarketCap": 193.79257007275453
+      "currentMarketCap": 193.8227755063533
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.1678936366117935,
+    "priceChange": -0.16789363661179357,
     "isRugged": true
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.9989716881983254,
     "isRugged": true
-  },
-  {
-    "_id": "0x5622fc0bd7ef3f07b2d1b05097dff6f50cc0b2f5",
-    "tokenName": "PKAT",
-    "idPair": "0x788f56d3f2558a884236aa4742b0a7f1c0568365",
-    "idToken": "0x5622fc0bd7ef3f07b2d1b05097dff6f50cc0b2f5",
-    "dateCreationToken": "2021-04-01T16:32:02Z",
-    "initialInfos": {
-      "initialPoolToken": 15999999000,
-      "initialPriceUSD": 6.274823241676453e-8,
-      "initialPoolEth": 0.515058,
-      "initialMarketCap": 1003.97165592
-    },
-    "currentInfos": {
-      "currentPoolToken": 3431962996.653599,
-      "currentPriceUSD": 0.0000015479770180323913,
-      "currentPoolEth": 2.5071140983559546,
-      "currentMarketCap": 5312.599845557347
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 36,
-    "holderCountOld": 37,
-    "txCount": 148,
-    "createdAtTimestamp": "1617294722",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 23.669651373618873,
-    "isRugged": false
   }
 ]
