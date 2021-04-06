@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x6dc02164d75651758ac74435806093e421b64605",
+    "tokenName": "WCHI",
+    "idPair": "0x5f005abb542d08d23b95f239ab367f9ff233d0a8",
+    "idToken": "0x6dc02164d75651758ac74435806093e421b64605",
+    "dateCreationToken": "2021-04-06T11:54:08Z",
+    "initialInfos": {
+      "initialPoolToken": 487000,
+      "initialPriceUSD": 0.30143223819301845,
+      "initialPoolEth": 69,
+      "initialMarketCap": 146797.5
+    },
+    "currentInfos": {
+      "currentPoolToken": 460471.23226277,
+      "currentPriceUSD": 0.3372748611115215,
+      "currentPoolEth": 72.99899925136356,
+      "currentMarketCap": 155305.3709072769
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 11,
+    "holderCountOld": 0,
+    "txCount": 8,
+    "createdAtTimestamp": "1617710048",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.1189077290915103,
+    "isRugged": false
+  },
+  {
     "_id": "0xdfd7178a7fded438e5d65c844819c88608d3119e",
     "tokenName": "LPN",
     "idPair": "0x31fdd29524e4fe888abd7b80e797d61ecc76f2b7",
@@ -7,7 +38,7 @@
     "dateCreationToken": "2021-04-06T11:29:51Z",
     "initialInfos": {
       "initialPoolToken": 20000000,
-      "initialPriceUSD": 0.003936467,
+      "initialPriceUSD": 0.003935875,
       "initialPoolEth": 37,
       "initialMarketCap": 78038.98421571453
     },
@@ -38,9 +69,9 @@
     "dateCreationToken": "2021-04-06T11:23:24Z",
     "initialInfos": {
       "initialPoolToken": 100000,
-      "initialPriceUSD": 0.1702256,
+      "initialPriceUSD": 0.1702,
       "initialPoolEth": 8,
-      "initialMarketCap": 17022.56
+      "initialMarketCap": 17020
     },
     "currentInfos": {
       "currentPoolToken": 86623.3914249871,
@@ -51,14 +82,14 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 3,
+    "holderCount": 5,
     "holderCountOld": 0,
     "txCount": 8,
     "createdAtTimestamp": "1617708204",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.33355391665348527,
+    "priceChange": 0.3337544982061665,
     "isRugged": false
   },
   {
@@ -75,9 +106,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 3000000,
-      "currentPriceUSD": 0.0003545833333333333,
+      "currentPriceUSD": 0.00035463666666666667,
       "currentPoolEth": 0.5,
-      "currentMarketCap": 1063.75
+      "currentMarketCap": 1063.91
     },
     "trustScore": null,
     "contractId": null,
@@ -89,7 +120,7 @@
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.0001504112808460875,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xaac1abdb4fb7a91a0e2e036dfacc45f708ed6a39",
-    "tokenName": "GENI",
-    "idPair": "0xdd2c4c70d7d6d1737035079d19cbcb548f775123",
-    "idToken": "0xaac1abdb4fb7a91a0e2e036dfacc45f708ed6a39",
-    "dateCreationToken": "2021-04-02T00:38:50Z",
-    "initialInfos": {
-      "initialPoolToken": 25000,
-      "initialPriceUSD": 0.0395058,
-      "initialPoolEth": 0.5,
-      "initialMarketCap": 987.645
-    },
-    "currentInfos": {
-      "currentPoolToken": 18861.534598228376,
-      "currentPriceUSD": 0.07485222373153128,
-      "currentPoolEth": 0.6638366196942472,
-      "currentMarketCap": 1411.8278076666084
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 22,
-    "holderCountOld": 21,
-    "txCount": 5,
-    "createdAtTimestamp": "1617323930",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.8947147945752592,
-    "isRugged": false
   }
 ]
