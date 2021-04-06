@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x93c529ba52764407777cebe019249c9c99ffb5bf",
+    "tokenName": "MEME",
+    "idPair": "0xd20818ce4eafac6971c56cc9e16cfb26aeef129f",
+    "idToken": "0x93c529ba52764407777cebe019249c9c99ffb5bf",
+    "dateCreationToken": "2021-04-06T19:52:52Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000000000,
+      "initialPriceUSD": 1.05215e-13,
+      "initialPoolEth": 50,
+      "initialMarketCap": 105215
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000000000000,
+      "currentPriceUSD": 1.05215e-13,
+      "currentPoolEth": 50,
+      "currentMarketCap": 105215
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1617738772",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x35895d0a0551aef923458f2bb119ed811ba4bf8a",
     "tokenName": "DANK",
     "idPair": "0x12a353002a38f5ce7b67aaef51778625e063201d",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-06T19:28:51Z",
     "initialInfos": {
       "initialPoolToken": 5000000000,
-      "initialPriceUSD": 6.33336e-7,
+      "initialPriceUSD": 6.3129e-7,
       "initialPoolEth": 1.5,
-      "initialMarketCap": 3166.68
+      "initialMarketCap": 3156.45
     },
     "currentInfos": {
       "currentPoolToken": 4102337818.244964,
-      "currentPriceUSD": 9.426826100663045e-7,
+      "currentPriceUSD": 9.396372619095667e-7,
       "currentPoolEth": 1.831825060573172,
-      "currentMarketCap": 3867.2025218768717
+      "currentMarketCap": 3854.709474963764
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.48843995930486267,
+    "priceChange": 0.48843995930486245,
     "isRugged": false
   },
   {
@@ -75,9 +106,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 1783134556.281377,
-      "currentPriceUSD": 0.000006641889788002698,
+      "currentPriceUSD": 0.000006620433078600021,
       "currentPoolEth": 5.61,
-      "currentMarketCap": 11843.3832
+      "currentMarketCap": 11805.123
     },
     "trustScore": null,
     "contractId": null,
@@ -89,7 +120,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.25845802948249247,
+    "priceChange": 0.25439256481867856,
     "isRugged": false
   },
   {
@@ -3950,7 +3981,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 347107.1991133776,
-      "currentPriceUSD": 0.7290795898489713,
+      "currentPriceUSD": 0.688632833035555,
       "currentPoolEth": 119.4469994681601,
       "currentMarketCap": 253068.77436320655
     },
@@ -3964,7 +3995,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 9.375855459155577,
+    "priceChange": 8.800239698776718,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.16929200191157495,
     "isRugged": false
-  },
-  {
-    "_id": "0x7b17bbbe8258bc9e7475493dbc88de4aba82dc48",
-    "tokenName": "bbc",
-    "idPair": "0xf3b8f327fd44472d4ecded72a53f49589a49b209",
-    "idToken": "0x7b17bbbe8258bc9e7475493dbc88de4aba82dc48",
-    "dateCreationToken": "2021-04-02T05:17:50Z",
-    "initialInfos": {
-      "initialPoolToken": 100,
-      "initialPriceUSD": 22.00946,
-      "initialPoolEth": 1.1,
-      "initialMarketCap": 2200.946
-    },
-    "currentInfos": {
-      "currentPoolToken": 8.744e-15,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.15e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 7,
-    "createdAtTimestamp": "1617340670",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
