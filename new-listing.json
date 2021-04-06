@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x097b5f715ac1d4a5e73ad04b6a9391fdabdca753",
+    "tokenName": "WOLT",
+    "idPair": "0xc3708dc88da0c2b8bd4ea08fbdc6ab0a7c44e4dc",
+    "idToken": "0x097b5f715ac1d4a5e73ad04b6a9391fdabdca753",
+    "dateCreationToken": "2021-04-06T10:40:33Z",
+    "initialInfos": {
+      "initialPoolToken": 3000000,
+      "initialPriceUSD": 0.00035485666666666666,
+      "initialPoolEth": 0.5,
+      "initialMarketCap": 1064.57
+    },
+    "currentInfos": {
+      "currentPoolToken": 3000000,
+      "currentPriceUSD": 0.00035485666666666666,
+      "currentPoolEth": 0.5,
+      "currentMarketCap": 1064.57
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1617705633",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xb468c60cd5da1c1101252ba18fd9aa3c3f039467",
     "tokenName": "TLM",
     "idPair": "0xe4635111791fc9604c792e2031838c9300d52fe0",
@@ -7,21 +38,21 @@
     "dateCreationToken": "2021-04-06T08:45:46Z",
     "initialInfos": {
       "initialPoolToken": 680000000,
-      "initialPriceUSD": 0.0010331086764705883,
+      "initialPriceUSD": 0.001033259117647059,
       "initialPoolEth": 330,
-      "initialMarketCap": 702513.9
+      "initialMarketCap": 702616.2
     },
     "currentInfos": {
       "currentPoolToken": 593516467.3904322,
-      "currentPriceUSD": 0.001356664511333223,
+      "currentPriceUSD": 0.0013568620686762298,
       "currentPoolEth": 378.23721396281644,
-      "currentMarketCap": 805202.7282004616
+      "currentMarketCap": 805319.98173679
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 10,
-    "holderCountOld": 9,
+    "holderCountOld": 0,
     "txCount": 13,
     "createdAtTimestamp": "1617698746",
     "isCodeGenerator": false,
@@ -38,9 +69,9 @@
     "dateCreationToken": "2021-04-06T07:50:39Z",
     "initialInfos": {
       "initialPoolToken": 3200000,
-      "initialPriceUSD": 0.000665259375,
+      "initialPriceUSD": 0.00066535625,
       "initialPoolEth": 1,
-      "initialMarketCap": 2128.83
+      "initialMarketCap": 2129.14
     },
     "currentInfos": {
       "currentPoolToken": 1.31638e-12,
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9981627959767932,
-    "isRugged": true
-  },
-  {
-    "_id": "0x4631d117e9664820785550e49c6e5568facbf351",
-    "tokenName": "CIOK",
-    "idPair": "0xbd10bfe380c262be4aa57d4e66878835bb2aa030",
-    "idToken": "0x4631d117e9664820785550e49c6e5568facbf351",
-    "dateCreationToken": "2021-04-01T23:56:50Z",
-    "initialInfos": {
-      "initialPoolToken": 1,
-      "initialPriceUSD": 5874.81,
-      "initialPoolEth": 3,
-      "initialMarketCap": 5874.81
-    },
-    "currentInfos": {
-      "currentPoolToken": 1,
-      "currentPriceUSD": 0.000036604008,
-      "currentPoolEth": 1.7200107331e-8,
-      "currentMarketCap": 0.000036604008
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 3,
-    "createdAtTimestamp": "1617321410",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9999999937693291,
     "isRugged": true
   }
 ]
