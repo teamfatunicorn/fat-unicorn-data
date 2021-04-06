@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x84f830a9203223d672d6592481f4a027e9cf934e",
+    "tokenName": "FRAM20",
+    "idPair": "0x85c76f758db7005a350e3c99a68e721304169de8",
+    "idToken": "0x84f830a9203223d672d6592481f4a027e9cf934e",
+    "dateCreationToken": "2021-04-06T03:55:43Z",
+    "initialInfos": {
+      "initialPoolToken": 760,
+      "initialPriceUSD": 4.2597,
+      "initialPoolEth": 1.52,
+      "initialMarketCap": 3237.372
+    },
+    "currentInfos": {
+      "currentPoolToken": 713.2202163168314,
+      "currentPriceUSD": 4.837893951062863,
+      "currentPoolEth": 1.6200595207620188,
+      "currentMarketCap": 3450.4837702949458
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1617681343",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.13573583845408452,
+    "isRugged": false
+  },
+  {
     "_id": "0xf5e4313be1fe70f0d5b02752cb5d7620672996d8",
     "tokenName": "EQUA",
     "idPair": "0x78996dc762ff22f90c760f0f7e580477f3d4f1c1",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-06T03:39:44Z",
     "initialInfos": {
       "initialPoolToken": 1000,
-      "initialPriceUSD": 8.51824,
+      "initialPriceUSD": 8.5194,
       "initialPoolEth": 4,
       "initialMarketCap": 8503.645362905254
     },
     "currentInfos": {
       "currentPoolToken": 975.6815018927517,
-      "currentPriceUSD": 8.948948246679512,
+      "currentPriceUSD": 8.950166899824545,
       "currentPoolEth": 4.100059761491349,
-      "currentMarketCap": 8731.323265680774
+      "currentMarketCap": 8732.512283011607
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.05056305606316699,
+    "priceChange": 0.0505630560631671,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-06T03:15:11Z",
     "initialInfos": {
       "initialPoolToken": 55000000,
-      "initialPriceUSD": 0.013551745454545454,
+      "initialPriceUSD": 0.01355359090909091,
       "initialPoolEth": 350,
       "initialMarketCap": 745949.9411131606
     },
     "currentInfos": {
       "currentPoolToken": 50338198.60485597,
-      "currentPriceUSD": 0.016182296916378652,
+      "currentPriceUSD": 0.0161845005951225,
       "currentPoolEth": 382.51454575565714,
-      "currentMarketCap": 814587.676059417
+      "currentMarketCap": 814698.605277686
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.1941116345976579,
+    "priceChange": 0.19411163459765785,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.08262581612173868,
     "isRugged": false
-  },
-  {
-    "_id": "0xe673fb2b9ac1d915f6bdc61c9d3f8a7b80c89552",
-    "tokenName": "LAZY",
-    "idPair": "0xce35aa29e6d593f8f1be2c069a1fad17293f29fb",
-    "idToken": "0xe673fb2b9ac1d915f6bdc61c9d3f8a7b80c89552",
-    "dateCreationToken": "2021-04-01T20:14:44Z",
-    "initialInfos": {
-      "initialPoolToken": 1100000,
-      "initialPriceUSD": 0.1699765909090909,
-      "initialPoolEth": 95,
-      "initialMarketCap": 187386.71429505505
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.9691e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 5.2e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 331,
-    "holderCountOld": 330,
-    "txCount": 332,
-    "createdAtTimestamp": "1617308084",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
