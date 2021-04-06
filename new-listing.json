@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x1bf4e14bbb74dd4f31e740b521203f1e0eeb21f3",
+    "tokenName": "BXB",
+    "idPair": "0x5956dde35e9a85d15d2cd33fc876b0c1a176be34",
+    "idToken": "0x1bf4e14bbb74dd4f31e740b521203f1e0eeb21f3",
+    "dateCreationToken": "2021-04-06T23:06:21Z",
+    "initialInfos": {
+      "initialPoolToken": 1,
+      "initialPriceUSD": 0.010135728,
+      "initialPoolEth": 0.0000048,
+      "initialMarketCap": 0.010135728
+    },
+    "currentInfos": {
+      "currentPoolToken": 0.00048121265589285,
+      "currentPriceUSD": 43902.078362428,
+      "currentPoolEth": 0.0100048,
+      "currentMarketCap": 21.126235728
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1617750381",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 4331417.361111111,
+    "isRugged": true
+  },
+  {
     "_id": "0x0b1df86ca0f72c16bd4c939fd41dd9793d12d0a6",
     "tokenName": "ZAPD",
     "idPair": "0x4a99ff9d8f0c5ee3b80582b4e4e0f755b12265d0",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-06T22:42:32Z",
     "initialInfos": {
       "initialPoolToken": 5000000,
-      "initialPriceUSD": 0.002331043,
+      "initialPriceUSD": 0.002322771,
       "initialPoolEth": 5.5,
-      "initialMarketCap": 11655.215
+      "initialMarketCap": 11613.855
     },
     "currentInfos": {
       "currentPoolToken": 4756176.997724215,
-      "currentPriceUSD": 0.0025845849868845147,
+      "currentPriceUSD": 0.0025754132611756756,
       "currentPoolEth": 5.800844527369199,
-      "currentMarketCap": 12292.743663283469
+      "currentMarketCap": 12249.121312437654
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.10876761470488298,
+    "priceChange": 0.10876761470488296,
     "isRugged": false
   },
   {
@@ -38,27 +69,27 @@
     "dateCreationToken": "2021-04-06T21:48:43Z",
     "initialInfos": {
       "initialPoolToken": 18500065.6167979,
-      "initialPriceUSD": 0.00008018301289986203,
+      "initialPriceUSD": 0.00007989847336854164,
       "initialPoolEth": 0.7,
-      "initialMarketCap": 1483.391
+      "initialMarketCap": 1478.127
     },
     "currentInfos": {
-      "currentPoolToken": 8510773.37055622,
-      "currentPriceUSD": 0.0003994134962720702,
-      "currentPoolEth": 1.6041100583321506,
-      "currentMarketCap": 3399.3177479130914
+      "currentPoolToken": 8271354.04837097,
+      "currentPriceUSD": 0.00042154402488981285,
+      "currentPoolEth": 1.6512234157060104,
+      "currentMarketCap": 3486.7398768389467
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 39,
     "holderCountOld": 0,
-    "txCount": 88,
+    "txCount": 89,
     "createdAtTimestamp": "1617745723",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 3.9812732376480384,
+    "priceChange": 4.275995987374985,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9938940591657491,
-    "isRugged": true
-  },
-  {
-    "_id": "0x3ee80f2ee456d35766754cab140181ffb44d86ba",
-    "tokenName": "EQZ",
-    "idPair": "0x3dc2845ecd8005a90fbf94a7d99d4fb0456da3da",
-    "idToken": "0x3ee80f2ee456d35766754cab140181ffb44d86ba",
-    "dateCreationToken": "2021-04-02T06:11:47Z",
-    "initialInfos": {
-      "initialPoolToken": 4000000,
-      "initialPriceUSD": 0.100043,
-      "initialPoolEth": 200,
-      "initialMarketCap": 400172
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.19472e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 9e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 16,
-    "holderCountOld": 15,
-    "txCount": 16,
-    "createdAtTimestamp": "1617343907",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
