@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0xd242d2b6cc6d501df0a2ae0d906f26bdfb31ae2d",
+    "tokenName": "SSWAP",
+    "idPair": "0xe61586bfcff3763d761e72d967a972aabc202922",
+    "idToken": "0xd242d2b6cc6d501df0a2ae0d906f26bdfb31ae2d",
+    "dateCreationToken": "2021-04-06T16:59:14Z",
+    "initialInfos": {
+      "initialPoolToken": 200000000000,
+      "initialPriceUSD": 2.10378e-8,
+      "initialPoolEth": 2,
+      "initialMarketCap": 4202.316283602139
+    },
+    "currentInfos": {
+      "currentPoolToken": 200000000000,
+      "currentPriceUSD": 2.10378e-8,
+      "currentPoolEth": 2,
+      "currentMarketCap": 4207.56
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": null,
+    "txCount": 1,
+    "createdAtTimestamp": "1617728354",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
+    "_id": "0xd9b312d77bc7bed9b9cecb56636300bed4fe5ce9",
+    "tokenName": "GAINS",
+    "idPair": "0xa886576fed10723401386697aadf777e1d4bca05",
+    "idToken": "0xd9b312d77bc7bed9b9cecb56636300bed4fe5ce9",
+    "dateCreationToken": "2021-04-06T16:53:29Z",
+    "initialInfos": {
+      "initialPoolToken": 2000000,
+      "initialPriceUSD": 0.05050464,
+      "initialPoolEth": 48,
+      "initialMarketCap": 100764.3397799675
+    },
+    "currentInfos": {
+      "currentPoolToken": 436818.4674743812,
+      "currentPriceUSD": 1.0700222544720972,
+      "currentPoolEth": 222.17412531822907,
+      "currentMarketCap": 467405.4813619838
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 11,
+    "holderCountOld": 0,
+    "txCount": 33,
+    "createdAtTimestamp": "1617728009",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 20.186612843336714,
+    "isRugged": false
+  },
+  {
     "_id": "0xb2dbf14d0b47ed3ba02bdb7c954e05a72deb7544",
     "tokenName": "MoFi",
     "idPair": "0x2cea677e38f16a3016cab43b533efda0458af0e6",
@@ -7,27 +69,27 @@
     "dateCreationToken": "2021-04-06T16:07:31Z",
     "initialInfos": {
       "initialPoolToken": 3539823,
-      "initialPriceUSD": 0.05714154018096385,
+      "initialPriceUSD": 0.05713420957375552,
       "initialPoolEth": 96.1076,
-      "initialMarketCap": 202270.938188
+      "initialMarketCap": 202244.989136
     },
     "currentInfos": {
-      "currentPoolToken": 986813.8888531359,
-      "currentPriceUSD": 0.7698872435213421,
-      "currentPoolEth": 361.02920829027187,
-      "currentMarketCap": 759735.4247577168
+      "currentPoolToken": 1001661.9670946182,
+      "currentPriceUSD": 0.7470877930490126,
+      "currentPoolEth": 355.7070741131922,
+      "currentMarketCap": 748329.428377851
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 416,
     "holderCountOld": 0,
-    "txCount": 819,
+    "txCount": 827,
     "createdAtTimestamp": "1617725251",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 12.473337279379503,
+    "priceChange": 12.07601520389609,
     "isRugged": false
   },
   {
@@ -6136,67 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.3376719832967075,
     "isRugged": false
-  },
-  {
-    "_id": "0x2c536dce29809750c48cda3526acda9f3bbc4b67",
-    "tokenName": "AIOZ",
-    "idPair": "0xe81fa1f94977ea92a2bf9b733353f6f9c79cc791",
-    "idToken": "0x2c536dce29809750c48cda3526acda9f3bbc4b67",
-    "dateCreationToken": "2021-04-02T03:12:36Z",
-    "initialInfos": {
-      "initialPoolToken": 60000000,
-      "initialPriceUSD": 0.011630208333333333,
-      "initialPoolEth": 350,
-      "initialMarketCap": 697812.5
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.259e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2.4e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 157,
-    "holderCountOld": 156,
-    "txCount": 190,
-    "createdAtTimestamp": "1617333156",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xba00a53d23f5188deb0745948da20c5d2d254218",
-    "tokenName": "AIOZ",
-    "idPair": "0xe7b5ec376cf34fda789fa5070735b13de3425c7c",
-    "idToken": "0xba00a53d23f5188deb0745948da20c5d2d254218",
-    "dateCreationToken": "2021-04-02T02:38:06Z",
-    "initialInfos": {
-      "initialPoolToken": 59700000,
-      "initialPriceUSD": 0.010048040201005025,
-      "initialPoolEth": 300,
-      "initialMarketCap": 599868
-    },
-    "currentInfos": {
-      "currentPoolToken": 3.5142e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 35,
-    "holderCountOld": 34,
-    "txCount": 50,
-    "createdAtTimestamp": "1617331086",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
