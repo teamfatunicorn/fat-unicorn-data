@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x83b335db9c858e76c7692ddbbea57058029271c8",
+    "tokenName": "AVENGE",
+    "idPair": "0x7f573231acc14b48b4fb013f0f5a72bb59e22c63",
+    "idToken": "0x83b335db9c858e76c7692ddbbea57058029271c8",
+    "dateCreationToken": "2021-04-06T11:23:24Z",
+    "initialInfos": {
+      "initialPoolToken": 100000,
+      "initialPriceUSD": 0.1702096,
+      "initialPoolEth": 8,
+      "initialMarketCap": 17020.96
+    },
+    "currentInfos": {
+      "currentPoolToken": 100000,
+      "currentPriceUSD": 0.1702096,
+      "currentPoolEth": 8,
+      "currentMarketCap": 17020.96
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1617708204",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x097b5f715ac1d4a5e73ad04b6a9391fdabdca753",
     "tokenName": "WOLT",
     "idPair": "0xc3708dc88da0c2b8bd4ea08fbdc6ab0a7c44e4dc",
@@ -1749,7 +1780,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 2138267438549.2285,
-      "currentPriceUSD": 8.288871808636939e-8,
+      "currentPriceUSD": 0.0000859451020989012,
       "currentPoolEth": 83.2886498623917,
       "currentMarketCap": 177238.24690717016
     },
@@ -1763,7 +1794,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 437.4485321879442,
+    "priceChange": 454614.59466683224,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9999731710893269,
-    "isRugged": true
-  },
-  {
-    "_id": "0xe36cebad4ade7397cbe4a2f8d19f37a3739f7b0d",
-    "tokenName": "ANON",
-    "idPair": "0xd20ab59c01379a6d9e4ce4fc08cd5bace9e12d33",
-    "idToken": "0xe36cebad4ade7397cbe4a2f8d19f37a3739f7b0d",
-    "dateCreationToken": "2021-04-02T00:24:18Z",
-    "initialInfos": {
-      "initialPoolToken": 9500000,
-      "initialPriceUSD": 0.0008317010526315789,
-      "initialPoolEth": 4,
-      "initialMarketCap": 7847.218680074472
-    },
-    "currentInfos": {
-      "currentPoolToken": 1,
-      "currentPriceUSD": 0.00000152702086,
-      "currentPoolEth": 7.18218911e-10,
-      "currentMarketCap": 0.00000152702086
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 5,
-    "createdAtTimestamp": "1617323058",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9981639786854082,
     "isRugged": true
   }
 ]
