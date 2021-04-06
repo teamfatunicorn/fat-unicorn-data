@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xed0e2041bfb5a426e5ed426a73765624e08bbb75",
+    "tokenName": "FX1",
+    "idPair": "0xd70dfcfeb2ef4f63c716acba5bc453f53f847984",
+    "idToken": "0xed0e2041bfb5a426e5ed426a73765624e08bbb75",
+    "dateCreationToken": "2021-04-06T02:08:29Z",
+    "initialInfos": {
+      "initialPoolToken": 100000,
+      "initialPriceUSD": 0.00212086,
+      "initialPoolEth": 0.1,
+      "initialMarketCap": 211.74717205743727
+    },
+    "currentInfos": {
+      "currentPoolToken": 100000,
+      "currentPriceUSD": 0.00212086,
+      "currentPoolEth": 0.1,
+      "currentMarketCap": 212.086
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 109,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1617674909",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x2fc81fd2c4d31f0d17a300c1565ad42213f98c2d",
     "tokenName": "MuTwo",
     "idPair": "0xdf3d5b8727ac4cad9f5f293ca635e2bd195f840b",
@@ -12,22 +43,22 @@
       "initialMarketCap": 3393.376
     },
     "currentInfos": {
-      "currentPoolToken": 5128599066516.942,
-      "currentPriceUSD": 5.0358156213310494e-9,
-      "currentPoolEth": 12.177455982342167,
-      "currentMarketCap": 25826.679294709855
+      "currentPoolToken": 5266590108032.113,
+      "currentPriceUSD": 4.942316449867908e-9,
+      "currentPoolEth": 12.272924627575078,
+      "currentMarketCap": 26029.154925638715
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 103,
     "holderCountOld": 0,
-    "txCount": 190,
+    "txCount": 196,
     "createdAtTimestamp": "1617671376",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 51.76068225928723,
+    "priceChange": 50.78108323342585,
     "isRugged": false
   },
   {
@@ -1426,37 +1457,6 @@
     "isRugged": false
   },
   {
-    "_id": "0xde9538d301f4ea8e688bd10e2e2e61fa24e27d52",
-    "tokenName": "BELLE",
-    "idPair": "0x7b8653617d6d713f69658a66343072366a476a40",
-    "idToken": "0xde9538d301f4ea8e688bd10e2e2e61fa24e27d52",
-    "dateCreationToken": "2021-04-04T21:26:23Z",
-    "initialInfos": {
-      "initialPoolToken": 500000000,
-      "initialPriceUSD": 0.00001244694,
-      "initialPoolEth": 3,
-      "initialMarketCap": 6178.109006203989
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.03e-7,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2.496e-15,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 14,
-    "createdAtTimestamp": "1617571583",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0x800964c1eac80de0ed79ea3fa4c63681da5ee5cb",
     "tokenName": "SCP",
     "idPair": "0x46cd4f66974655292a7c29f416cb235ab8d36140",
@@ -1480,6 +1480,37 @@
     "holderCount": 5,
     "holderCountOld": 0,
     "txCount": 5,
+    "createdAtTimestamp": "1617571583",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0xde9538d301f4ea8e688bd10e2e2e61fa24e27d52",
+    "tokenName": "BELLE",
+    "idPair": "0x7b8653617d6d713f69658a66343072366a476a40",
+    "idToken": "0xde9538d301f4ea8e688bd10e2e2e61fa24e27d52",
+    "dateCreationToken": "2021-04-04T21:26:23Z",
+    "initialInfos": {
+      "initialPoolToken": 500000000,
+      "initialPriceUSD": 0.00001244694,
+      "initialPoolEth": 3,
+      "initialMarketCap": 6178.109006203989
+    },
+    "currentInfos": {
+      "currentPoolToken": 4.03e-7,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 2.496e-15,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 14,
     "createdAtTimestamp": "1617571583",
     "isCodeGenerator": false,
     "linksSocial": [],
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.7325061561542447,
     "isRugged": false
-  },
-  {
-    "_id": "0xd1df4617efe82e8d0a476f8d4505385a612404de",
-    "tokenName": "RAZE",
-    "idPair": "0x5f8ab4293cf9d74985b46b2df27eb5d27f1eb3b5",
-    "idToken": "0xd1df4617efe82e8d0a476f8d4505385a612404de",
-    "dateCreationToken": "2021-04-01T16:00:41Z",
-    "initialInfos": {
-      "initialPoolToken": 60000000,
-      "initialPriceUSD": 0.006529954,
-      "initialPoolEth": 201,
-      "initialMarketCap": 390759.9721474754
-    },
-    "currentInfos": {
-      "currentPoolToken": 7.6811e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.4e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 304,
-    "holderCountOld": 305,
-    "txCount": 309,
-    "createdAtTimestamp": "1617292841",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
