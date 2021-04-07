@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x62c3b24c15986bcff4f01c2f680e9746be63c158",
+    "tokenName": "SGOAT",
+    "idPair": "0x94868d9773a12859ac1e9d84c43ca65b01ca84f0",
+    "idToken": "0x62c3b24c15986bcff4f01c2f680e9746be63c158",
+    "dateCreationToken": "2021-04-07T04:22:30Z",
+    "initialInfos": {
+      "initialPoolToken": 30000000000000,
+      "initialPriceUSD": 1.259658e-10,
+      "initialPoolEth": 1.8,
+      "initialMarketCap": 3778.974
+    },
+    "currentInfos": {
+      "currentPoolToken": 24559518442056.215,
+      "currentPriceUSD": 1.8806337798915333e-10,
+      "currentPoolEth": 2.2,
+      "currentMarketCap": 4618.746
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1617769350",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.49297172716049364,
+    "isRugged": false
+  },
+  {
     "_id": "0xe8f2d9151ddd655392d0559982d49b2603215eeb",
     "tokenName": "LKR",
     "idPair": "0x8c779987902435e527de9e0189d14e333d4e2c89",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-07T04:06:06Z",
     "initialInfos": {
       "initialPoolToken": 19342105,
-      "initialPriceUSD": 0.03802461004115116,
+      "initialPriceUSD": 0.037989686231152196,
       "initialPoolEth": 350,
       "initialMarketCap": 736711.6069562858
     },
     "currentInfos": {
       "currentPoolToken": 17684546.36392441,
-      "currentPriceUSD": 0.04549873521742947,
+      "currentPriceUSD": 0.045456946776148754,
       "currentPoolEth": 382.9065426450261,
-      "currentMarketCap": 804624.4924525518
+      "currentMarketCap": 803885.482825247
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.19656020582958325,
+    "priceChange": 0.1965602058295832,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-07T03:38:24Z",
     "initialInfos": {
       "initialPoolToken": 6500000,
-      "initialPriceUSD": 0.09698584615384616,
+      "initialPriceUSD": 0.09689676923076923,
       "initialPoolEth": 300,
-      "initialMarketCap": 630408
+      "initialMarketCap": 629829
     },
     "currentInfos": {
       "currentPoolToken": 5900192.800968718,
-      "currentPriceUSD": 0.11774111024389892,
+      "currentPriceUSD": 0.11763297059016481,
       "currentPoolEth": 330.5931639695795,
-      "currentMarketCap": 694695.2510391166
+      "currentMarketCap": 694057.2062326553
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.21400302119475478,
+    "priceChange": 0.21400302119475487,
     "isRugged": false
   },
   {
@@ -69,7 +100,7 @@
     "dateCreationToken": "2021-04-07T03:31:04Z",
     "initialInfos": {
       "initialPoolToken": 292500000,
-      "initialPriceUSD": 0.000014368273504273505,
+      "initialPriceUSD": 0.000014355076923076923,
       "initialPoolEth": 2,
       "initialMarketCap": 4222.165501866458
     },
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x56ccea18f8c7c23328cdfd545c50c7c370f8d263",
-    "tokenName": "RSC",
-    "idPair": "0x26f09ef3513d34467fadf1861d05272b11642a38",
-    "idToken": "0x56ccea18f8c7c23328cdfd545c50c7c370f8d263",
-    "dateCreationToken": "2021-04-02T11:51:53Z",
-    "initialInfos": {
-      "initialPoolToken": 1,
-      "initialPriceUSD": 3.9768,
-      "initialPoolEth": 0.002,
-      "initialMarketCap": 3.9768
-    },
-    "currentInfos": {
-      "currentPoolToken": 2,
-      "currentPriceUSD": 4.20654,
-      "currentPoolEth": 0.004,
-      "currentMarketCap": 8.41308
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1617364313",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.05777006638503332,
     "isRugged": true
   }
 ]
