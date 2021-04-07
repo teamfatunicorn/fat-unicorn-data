@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x0447e41fb9d38b14fcd9c39ae89efd11ac4a854b",
+    "tokenName": "ELE",
+    "idPair": "0xb52f15ba82ab59acafcf74619c98eb99158ecc28",
+    "idToken": "0x0447e41fb9d38b14fcd9c39ae89efd11ac4a854b",
+    "dateCreationToken": "2021-04-07T11:45:47Z",
+    "initialInfos": {
+      "initialPoolToken": 20000000,
+      "initialPriceUSD": 0.004529574,
+      "initialPoolEth": 46,
+      "initialMarketCap": 90591.48
+    },
+    "currentInfos": {
+      "currentPoolToken": 19956746,
+      "currentPriceUSD": 0.004549259583701672,
+      "currentPoolEth": 46.1,
+      "currentMarketCap": 90788.418
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1617795947",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.004346012163985455,
+    "isRugged": false
+  },
+  {
     "_id": "0x99c6e435ec259a7e8d65e1955c9423db624ba54c",
     "tokenName": "FMT",
     "idPair": "0xb81be6f200de9cf5bfe5a6361073e6a8bb8d1f0d",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-07T11:25:36Z",
     "initialInfos": {
       "initialPoolToken": 89473.5,
-      "initialPriceUSD": 0.5590992416749093,
+      "initialPriceUSD": 0.558413056379822,
       "initialPoolEth": 25.37,
-      "initialMarketCap": 50024.566
+      "initialMarketCap": 49963.1706
     },
     "currentInfos": {
-      "currentPoolToken": 37494.69040594721,
-      "currentPriceUSD": 3.2139257829168,
-      "currentPoolEth": 61.114287563726855,
-      "currentMarketCap": 120505.1522181569
+      "currentPoolToken": 36310.01772486046,
+      "currentPriceUSD": 3.423187963831553,
+      "currentPoolEth": 63.114287563726855,
+      "currentMarketCap": 124296.01564225268
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 12,
     "holderCountOld": 0,
-    "txCount": 33,
+    "txCount": 35,
     "createdAtTimestamp": "1617794736",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 4.748399467129936,
+    "priceChange": 5.130207602995525,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.4889712020944144,
     "isRugged": false
-  },
-  {
-    "_id": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
-    "tokenName": "ILV",
-    "idPair": "0x8fb8bf2b444e37379e46de8bb77c551bd008f0ad",
-    "idToken": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
-    "dateCreationToken": "2021-04-02T16:08:27Z",
-    "initialInfos": {
-      "initialPoolToken": 390,
-      "initialPriceUSD": 76.4298717948718,
-      "initialPoolEth": 14.5,
-      "initialMarketCap": 29807.65
-    },
-    "currentInfos": {
-      "currentPoolToken": 8.944084288e-9,
-      "currentPriceUSD": 101.33679880633969,
-      "currentPoolEth": 4.48568683e-10,
-      "currentMarketCap": 9.0636487e-7
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3611,
-    "holderCountOld": 3597,
-    "txCount": 75,
-    "createdAtTimestamp": "1617379707",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.32587948175963133,
-    "isRugged": true
   }
 ]
