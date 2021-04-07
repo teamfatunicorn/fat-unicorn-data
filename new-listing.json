@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x1cb3578c2242fb1de7ba4e259fe9c76272b6e779",
+    "tokenName": "GRBIL",
+    "idPair": "0x3a81cb9d4ede95cb67ccd12f68848c14e4f6a17d",
+    "idToken": "0x1cb3578c2242fb1de7ba4e259fe9c76272b6e779",
+    "dateCreationToken": "2021-04-07T15:34:45Z",
+    "initialInfos": {
+      "initialPoolToken": 225000000000000,
+      "initialPriceUSD": 1.7346506666666667e-11,
+      "initialPoolEth": 1.95,
+      "initialMarketCap": 3902.964
+    },
+    "currentInfos": {
+      "currentPoolToken": 139779852447561.86,
+      "currentPriceUSD": 4.5036148495592714e-11,
+      "currentPoolEth": 3.14518275686455,
+      "currentMarketCap": 6295.1461915204345
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 12,
+    "createdAtTimestamp": "1617809685",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.5962661739919612,
+    "isRugged": false
+  },
+  {
     "_id": "0xc502002aeb1b9309fccb016adf50507987fc6c2b",
     "tokenName": "GNFT",
     "idPair": "0xbcad06fdfcea3fd7d082b14f47a6757e11c5846c",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-07T15:17:24Z",
     "initialInfos": {
       "initialPoolToken": 1744.4577884786215,
-      "initialPriceUSD": 3.444176201729648,
+      "initialPriceUSD": 3.442078128606771,
       "initialPoolEth": 3,
       "initialMarketCap": 5996.630135782813
     },
     "currentInfos": {
       "currentPoolToken": 796.7340242328654,
-      "currentPriceUSD": 16.634629490769694,
+      "currentPriceUSD": 16.62449624932111,
       "currentPoolEth": 6.617621506438326,
-      "currentMarketCap": 13253.37529580364
+      "currentMarketCap": 13245.301797565786
     },
     "trustScore": null,
     "contractId": null,
@@ -38,9 +69,9 @@
     "dateCreationToken": "2021-04-07T15:09:52Z",
     "initialInfos": {
       "initialPoolToken": 31000000000000,
-      "initialPriceUSD": 1.0659745161290323e-10,
+      "initialPriceUSD": 1.0653251612903226e-10,
       "initialPoolEth": 1.65,
-      "initialMarketCap": 3304.521
+      "initialMarketCap": 3302.508
     },
     "currentInfos": {
       "currentPoolToken": 2.606800981e-9,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x2f34ae8f81c31cf43d8fdd626db17f540a522bfb",
-    "tokenName": "XAU",
-    "idPair": "0x96a070d0d818c7b21cdce40f67bf13642fb22b9b",
-    "idToken": "0x2f34ae8f81c31cf43d8fdd626db17f540a522bfb",
-    "dateCreationToken": "2021-04-03T06:22:13Z",
-    "initialInfos": {
-      "initialPoolToken": 1,
-      "initialPriceUSD": 10607.95,
-      "initialPoolEth": 5,
-      "initialMarketCap": 10607.95
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.966632359963313,
-      "currentPriceUSD": 10704.410974006143,
-      "currentPoolEth": 5.173149437460782,
-      "currentMarketCap": 10347.230041820743
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 7,
-    "holderCountOld": 6,
-    "txCount": 4,
-    "createdAtTimestamp": "1617430933",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.009093271933421854,
-    "isRugged": false
   }
 ]
