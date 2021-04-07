@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x6586b276a2f9200163b9ffdcd43553c62d295309",
+    "tokenName": "LKR",
+    "idPair": "0xbec52611f7ecbe5b84ca5e322bf97887c6267ac2",
+    "idToken": "0x6586b276a2f9200163b9ffdcd43553c62d295309",
+    "dateCreationToken": "2021-04-07T12:47:47Z",
+    "initialInfos": {
+      "initialPoolToken": 500000000,
+      "initialPriceUSD": 0.000590781,
+      "initialPoolEth": 150,
+      "initialMarketCap": 295390.5
+    },
+    "currentInfos": {
+      "currentPoolToken": 500000000,
+      "currentPriceUSD": 0.000590781,
+      "currentPoolEth": 150,
+      "currentMarketCap": 295390.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1617799667",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xed0d5747a9ab03a75fbfec3228cd55848245b75d",
     "tokenName": "NGM",
     "idPair": "0x633dcd0024036f917ffd3554dc68174cd4a9b9fa",
@@ -74,22 +105,22 @@
       "initialMarketCap": 49960.3799
     },
     "currentInfos": {
-      "currentPoolToken": 35372.77344186775,
-      "currentPriceUSD": 3.621300854532149,
-      "currentPoolEth": 65.04717722415333,
-      "currentMarketCap": 128095.45469220777
+      "currentPoolToken": 34628.28934883797,
+      "currentPriceUSD": 3.7789624805644015,
+      "currentPoolEth": 66.45051527489163,
+      "currentMarketCap": 130859.00621538657
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 21,
     "holderCountOld": 0,
-    "txCount": 56,
+    "txCount": 58,
     "createdAtTimestamp": "1617794736",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 5.485348243078155,
+    "priceChange": 5.767702731275247,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 3.5333214596687976,
-    "isRugged": false
-  },
-  {
-    "_id": "0x77ab4ee2182d067e0bd1ecf368c4f2f662f05082",
-    "tokenName": "PUSH",
-    "idPair": "0x4df301b1a267a8076ec2b9582bca3d83917edeeb",
-    "idToken": "0x77ab4ee2182d067e0bd1ecf368c4f2f662f05082",
-    "dateCreationToken": "2021-04-02T17:12:21Z",
-    "initialInfos": {
-      "initialPoolToken": 5000000,
-      "initialPriceUSD": 0.002465376,
-      "initialPoolEth": 6,
-      "initialMarketCap": 12326.88
-    },
-    "currentInfos": {
-      "currentPoolToken": 6648587.749812392,
-      "currentPriceUSD": 0.0032616077609341483,
-      "currentPoolEth": 10.97878947946046,
-      "currentMarketCap": 21685.085404039804
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 10,
-    "holderCountOld": 9,
-    "txCount": 16,
-    "createdAtTimestamp": "1617383541",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.3229656494320332,
     "isRugged": false
   }
 ]
