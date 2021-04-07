@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x49d09cda1deb8a1680f1270c5ed15218fc4b18f0",
+    "tokenName": "OVC",
+    "idPair": "0xc4f042ab7049d8ccf2531599dac77accf31cd21e",
+    "idToken": "0x49d09cda1deb8a1680f1270c5ed15218fc4b18f0",
+    "dateCreationToken": "2021-04-07T09:25:27Z",
+    "initialInfos": {
+      "initialPoolToken": 41666,
+      "initialPriceUSD": 0.04895046320741132,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2039.57
+    },
+    "currentInfos": {
+      "currentPoolToken": 41666,
+      "currentPriceUSD": 0.04895046320741132,
+      "currentPoolEth": 1,
+      "currentMarketCap": 2039.57
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 5003,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1617787527",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xe63d6b308bce0f6193aec6b7e6eba005f41e36ab",
     "tokenName": "STN",
     "idPair": "0x00d76633a1071e9aed6158ae1a5e1c4c5dc75e54",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-07T09:19:12Z",
     "initialInfos": {
       "initialPoolToken": 519.9983605648576,
-      "initialPriceUSD": 3.9512816882116484,
+      "initialPriceUSD": 3.9222623659514624,
       "initialPoolEth": 1,
       "initialMarketCap": 2035.645753295627
     },
     "currentInfos": {
-      "currentPoolToken": 296.86252980729546,
-      "currentPriceUSD": 12.300512569512575,
-      "currentPoolEth": 1.777209503914238,
-      "currentMarketCap": 3651.5612793119394
+      "currentPoolToken": 330.4623171863729,
+      "currentPriceUSD": 9.881848966561835,
+      "currentPoolEth": 1.6011113654233762,
+      "currentMarketCap": 3265.578707575788
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 1090,
+    "holderCount": 1096,
     "holderCountOld": 0,
-    "txCount": 18,
+    "txCount": 23,
     "createdAtTimestamp": "1617787152",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.11304370078454,
+    "priceChange": 1.5194257916922127,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 117.36526593441583,
     "isRugged": false
-  },
-  {
-    "_id": "0xe84bd37cf7b371276f0ce463c74edc7de541eddf",
-    "tokenName": "AIOZ",
-    "idPair": "0xe2ce433a6bc699f5d37ebcfeb38b26ae5a21bf0d",
-    "idToken": "0xe84bd37cf7b371276f0ce463c74edc7de541eddf",
-    "dateCreationToken": "2021-04-02T14:36:20Z",
-    "initialInfos": {
-      "initialPoolToken": 9000000,
-      "initialPriceUSD": 0.022929777777777778,
-      "initialPoolEth": 100,
-      "initialMarketCap": 203305.3122798369
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.92429e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 6e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 51,
-    "holderCountOld": 50,
-    "txCount": 49,
-    "createdAtTimestamp": "1617374180",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
