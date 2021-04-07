@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x1f12152d645c794b929c9e156609a25f4f771bae",
+    "tokenName": "DEFIT",
+    "idPair": "0x7681e0066832925cc3f1f725d5bd3e3bba873a25",
+    "idToken": "0x1f12152d645c794b929c9e156609a25f4f771bae",
+    "dateCreationToken": "2021-04-07T16:56:41Z",
+    "initialInfos": {
+      "initialPoolToken": 2000000,
+      "initialPriceUSD": 0.099935,
+      "initialPoolEth": 100,
+      "initialMarketCap": 199870
+    },
+    "currentInfos": {
+      "currentPoolToken": 2000000,
+      "currentPriceUSD": 0.099935,
+      "currentPoolEth": 100,
+      "currentMarketCap": 199870
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1617814601",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xdcd48d12b73c43249ac2cea37eed1c544eec8268",
     "tokenName": "Blast",
     "idPair": "0x716cb02637f316bf9c206e6ba3ed447afbd94f6f",
@@ -12,22 +43,22 @@
       "initialMarketCap": 7784.233892288987
     },
     "currentInfos": {
-      "currentPoolToken": 1073018401.1799093,
-      "currentPriceUSD": 0.000026503875330012886,
-      "currentPoolEth": 14.228821699945895,
-      "currentMarketCap": 28439.14593168207
+      "currentPoolToken": 952071714.4576725,
+      "currentPriceUSD": 0.000033722204309978495,
+      "currentPoolEth": 16.063419659125177,
+      "currentMarketCap": 32105.95687269314
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 34,
     "holderCountOld": 0,
-    "txCount": 31,
+    "txCount": 41,
     "createdAtTimestamp": "1617814285",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 12.042371114517056,
+    "priceChange": 15.594460166067053,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 30283.919803349974
     },
     "currentInfos": {
-      "currentPoolToken": 187854810217.6651,
-      "currentPriceUSD": 4.161876281880776e-7,
-      "currentPoolEth": 39.11684990654532,
-      "currentMarketCap": 78182.8479082115
+      "currentPoolToken": 173084071363.23157,
+      "currentPriceUSD": 4.903722025770956e-7,
+      "currentPoolEth": 42.46541116995999,
+      "currentMarketCap": 84875.61730539905
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 124,
     "holderCountOld": 0,
-    "txCount": 138,
+    "txCount": 147,
     "createdAtTimestamp": "1617813173",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 5.510904026348379,
+    "priceChange": 6.6714590533808575,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.46459430525360873,
     "isRugged": false
-  },
-  {
-    "_id": "0x1d0806c2c8e69c7c10357ee1f010d1584e0213c2",
-    "tokenName": "YAT",
-    "idPair": "0x4f20ec508d2bb4547ad58df26aa0d8172ad80cf4",
-    "idToken": "0x1d0806c2c8e69c7c10357ee1f010d1584e0213c2",
-    "dateCreationToken": "2021-04-03T08:29:32Z",
-    "initialInfos": {
-      "initialPoolToken": 700000,
-      "initialPriceUSD": 0.9588251428571428,
-      "initialPoolEth": 320,
-      "initialMarketCap": 671177.6
-    },
-    "currentInfos": {
-      "currentPoolToken": 3.8024e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2.7e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 23,
-    "holderCountOld": 21,
-    "txCount": 25,
-    "createdAtTimestamp": "1617438572",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
