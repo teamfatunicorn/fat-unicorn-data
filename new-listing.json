@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xa57c604781985d7d27c93f567c4792b9f4a0b45d",
+    "tokenName": "CHIMP",
+    "idPair": "0x8e95f8bc6979fe71aff3a4ca1d9a01060690c62b",
+    "idToken": "0xa57c604781985d7d27c93f567c4792b9f4a0b45d",
+    "dateCreationToken": "2021-04-07T19:54:05Z",
+    "initialInfos": {
+      "initialPoolToken": 41200000000,
+      "initialPriceUSD": 7.510201699029126e-8,
+      "initialPoolEth": 1.57,
+      "initialMarketCap": 3094.2031
+    },
+    "currentInfos": {
+      "currentPoolToken": 22377488728.77445,
+      "currentPriceUSD": 2.55240584674886e-7,
+      "currentPoolEth": 2.8980903003746836,
+      "currentMarketCap": 5711.643306688061
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 11,
+    "createdAtTimestamp": "1617825245",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.3985849502268626,
+    "isRugged": false
+  },
+  {
     "_id": "0x897abf83f0c44b86cb67ec56c006c00d56659517",
     "tokenName": "ARTEON",
     "idPair": "0x922543b050cc937b7beb62c2bd22c7916cb4e4c5",
@@ -20,7 +51,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 138,
+    "holderCount": 141,
     "holderCountOld": 0,
     "txCount": 155,
     "createdAtTimestamp": "1617822824",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.9991966504997168,
     "isRugged": true
-  },
-  {
-    "_id": "0xf4f3d6a60765bf705b27716f50fccba5f0ea0ca1",
-    "tokenName": "MGB",
-    "idPair": "0xbf6cfa79c525e6ffd0a051b477c9617727f94090",
-    "idToken": "0xf4f3d6a60765bf705b27716f50fccba5f0ea0ca1",
-    "dateCreationToken": "2021-04-03T10:33:00Z",
-    "initialInfos": {
-      "initialPoolToken": 6387.484160488,
-      "initialPriceUSD": 0.8311567630143787,
-      "initialPoolEth": 2.5287819354,
-      "initialMarketCap": 5332.310220312206
-    },
-    "currentInfos": {
-      "currentPoolToken": 33324.436480228964,
-      "currentPriceUSD": 0.04366614808644991,
-      "currentPoolEth": 0.7390185920190065,
-      "currentMarketCap": 1455.1497782431716
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 199,
-    "holderCountOld": 200,
-    "txCount": 113,
-    "createdAtTimestamp": "1617445980",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9474634027784546,
-    "isRugged": false
   }
 ]
