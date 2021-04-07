@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x492da56b1840add55677010a93098ca704c462e0",
+    "tokenName": "GOOSE",
+    "idPair": "0xcbbec6a9d5cb345ba1e47cb806da96a419ba04b6",
+    "idToken": "0x492da56b1840add55677010a93098ca704c462e0",
+    "dateCreationToken": "2021-04-07T15:09:52Z",
+    "initialInfos": {
+      "initialPoolToken": 31000000000000,
+      "initialPriceUSD": 1.0660277419354838e-10,
+      "initialPoolEth": 1.65,
+      "initialMarketCap": 3304.686
+    },
+    "currentInfos": {
+      "currentPoolToken": 17971561294829.3,
+      "currentPriceUSD": 3.176181471579939e-10,
+      "currentPoolEth": 2.85,
+      "currentMarketCap": 5708.094
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1617808192",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.9794547990029345,
+    "isRugged": false
+  },
+  {
     "_id": "0x6cb8b3ecb53bf1307273de6d34a03448d20e32e1",
     "tokenName": "LKR",
     "idPair": "0x1c6ab1e857a7f53c95cec1245061c8fcd79a5939",
@@ -7,9 +38,9 @@
     "dateCreationToken": "2021-04-07T14:09:31Z",
     "initialInfos": {
       "initialPoolToken": 2000000,
-      "initialPriceUSD": 0.100054,
+      "initialPriceUSD": 0.100142,
       "initialPoolEth": 100,
-      "initialMarketCap": 200108
+      "initialMarketCap": 200284
     },
     "currentInfos": {
       "currentPoolToken": 1.23865e-13,
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-07T13:49:52Z",
     "initialInfos": {
       "initialPoolToken": 12000000,
-      "initialPriceUSD": 0.050027,
+      "initialPriceUSD": 0.050071,
       "initialPoolEth": 300,
-      "initialMarketCap": 600324
+      "initialMarketCap": 600852
     },
     "currentInfos": {
       "currentPoolToken": 10980204.708719,
-      "currentPriceUSD": 0.05976702651808407,
+      "currentPriceUSD": 0.0598195931154574,
       "currentPoolEth": 327.95,
-      "currentMarketCap": 656254.186
+      "currentMarketCap": 656831.378
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.19469539484846318,
+    "priceChange": 0.1946953948484632,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 2.0258709058241195,
     "isRugged": false
-  },
-  {
-    "_id": "0x1e3686b8c41a37041036379cd068984f840e27d7",
-    "tokenName": "ARTX",
-    "idPair": "0xbc75dd5d2e939c1bd1f8368f0c3cb130dc6bbd37",
-    "idToken": "0x1e3686b8c41a37041036379cd068984f840e27d7",
-    "dateCreationToken": "2021-04-03T01:39:00Z",
-    "initialInfos": {
-      "initialPoolToken": 1890000,
-      "initialPriceUSD": 0.3002885714285714,
-      "initialPoolEth": 270,
-      "initialMarketCap": 567545.4
-    },
-    "currentInfos": {
-      "currentPoolToken": 5.6598e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.8e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 58,
-    "holderCountOld": 56,
-    "txCount": 81,
-    "createdAtTimestamp": "1617413940",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
