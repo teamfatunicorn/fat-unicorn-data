@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x2d490d5f87fe23de38ebfb2379c9c1a2f9ad4864",
+    "tokenName": "GMEE",
+    "idPair": "0x2f64a8fb681575b32c51ec037a9c0e6ab8fc9b7e",
+    "idToken": "0x2d490d5f87fe23de38ebfb2379c9c1a2f9ad4864",
+    "dateCreationToken": "2021-04-07T01:55:49Z",
+    "initialInfos": {
+      "initialPoolToken": 7200000,
+      "initialPriceUSD": 0.069859,
+      "initialPoolEth": 240,
+      "initialMarketCap": 502984.8
+    },
+    "currentInfos": {
+      "currentPoolToken": 7036313.642928327,
+      "currentPriceUSD": 0.07315209897121452,
+      "currentPoolEth": 245.6,
+      "currentMarketCap": 514721.112
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1617760549",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.047139222880581165,
+    "isRugged": false
+  },
+  {
+    "_id": "0x7633da43dfd4ee5a5da99740f077ca9d97aa0d0e",
+    "tokenName": "EDP",
+    "idPair": "0x8017740a72f84e0b43079db459617bda0abde87c",
+    "idToken": "0x7633da43dfd4ee5a5da99740f077ca9d97aa0d0e",
+    "dateCreationToken": "2021-04-07T01:55:42Z",
+    "initialInfos": {
+      "initialPoolToken": 1995,
+      "initialPriceUSD": 0.0010505112781954886,
+      "initialPoolEth": 0.001,
+      "initialMarketCap": 2.09577
+    },
+    "currentInfos": {
+      "currentPoolToken": 1995,
+      "currentPriceUSD": 0.0010625665432782406,
+      "currentPoolEth": 0.001011475616555507,
+      "currentMarketCap": 2.11982025384009
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 5,
+    "createdAtTimestamp": "1617760542",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.011475617000000056,
+    "isRugged": true
+  },
+  {
     "_id": "0x0c4cf2fd6cf4b5a1d785cd2ac61535730e5dbe41",
     "tokenName": "TKO",
     "idPair": "0xae1b6e91250a03a335e625a8576a15982c3f18df",
@@ -7,27 +69,27 @@
     "dateCreationToken": "2021-04-07T01:49:49Z",
     "initialInfos": {
       "initialPoolToken": 11666666,
-      "initialPriceUSD": 0.08981271941786968,
+      "initialPriceUSD": 0.08981871941821254,
       "initialPoolEth": 500,
-      "initialMarketCap": 1047815
+      "initialMarketCap": 1047885
     },
     "currentInfos": {
-      "currentPoolToken": 11619324.147300566,
-      "currentPriceUSD": 0.09054718316361075,
-      "currentPoolEth": 502.04333389147354,
-      "currentMarketCap": 1052097.0718029896
+      "currentPoolToken": 11370930.586207211,
+      "currentPriceUSD": 0.09455873639523955,
+      "currentPoolEth": 513.0433338914735,
+      "currentMarketCap": 1075220.8278697345
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 4,
     "holderCountOld": 0,
-    "txCount": 3,
+    "txCount": 5,
     "createdAtTimestamp": "1617760189",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.008177725276570763,
+    "priceChange": 0.05277315249793999,
     "isRugged": false
   },
   {
@@ -6131,68 +6193,6 @@
     "holderCountOld": 15,
     "txCount": 16,
     "createdAtTimestamp": "1617356501",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xe8728f9f52b22f784b655c6b50d7976342eb531e",
-    "tokenName": "RED",
-    "idPair": "0x0661d2c534d0f94a6786dd1f41e4e8c848260f97",
-    "idToken": "0xe8728f9f52b22f784b655c6b50d7976342eb531e",
-    "dateCreationToken": "2021-04-02T09:28:47Z",
-    "initialInfos": {
-      "initialPoolToken": 10000,
-      "initialPriceUSD": 0.4599218,
-      "initialPoolEth": 2.3,
-      "initialMarketCap": 4578.470451665336
-    },
-    "currentInfos": {
-      "currentPoolToken": 643131.49315644,
-      "currentPriceUSD": 0.00011736045074576869,
-      "currentPoolEth": 0.03594747862807236,
-      "currentMarketCap": 75.47820192563904
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 5,
-    "holderCountOld": 3,
-    "txCount": 7,
-    "createdAtTimestamp": "1617355727",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9997448252056202,
-    "isRugged": true
-  },
-  {
-    "_id": "0xab56115b7916c72f25b3ae3452a6a7c382b0b14c",
-    "tokenName": "ACER FINANCE",
-    "idPair": "0x315061dc459f294c52a0d65519050dad113af845",
-    "idToken": "0xab56115b7916c72f25b3ae3452a6a7c382b0b14c",
-    "dateCreationToken": "2021-04-02T09:04:08Z",
-    "initialInfos": {
-      "initialPoolToken": 100000,
-      "initialPriceUSD": 0.0399932,
-      "initialPoolEth": 2,
-      "initialMarketCap": 3999.32
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.39775e-12,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 4,
-    "createdAtTimestamp": "1617354248",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
