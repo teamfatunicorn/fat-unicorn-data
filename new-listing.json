@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x24e18a456fcf26cf81c87cb7397393b461ee2244",
+    "tokenName": "GXFC",
+    "idPair": "0xf023431338aef6b9fedeca383758af6a47da7322",
+    "idToken": "0x24e18a456fcf26cf81c87cb7397393b461ee2244",
+    "dateCreationToken": "2021-04-07T07:16:53Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000,
+      "initialPriceUSD": 0.00517215,
+      "initialPoolEth": 2.5,
+      "initialMarketCap": 5172.15
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000,
+      "currentPriceUSD": 0.00517215,
+      "currentPoolEth": 2.5,
+      "currentMarketCap": 5172.15
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1617779813",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x467734dfb53878bc58166e6e5347d58d1f246242",
     "tokenName": "FMT",
     "idPair": "0x429b8b05c336dac5eba0f8b443d0924d806a25c5",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 22276641727399600,
-    "isRugged": true
-  },
-  {
-    "_id": "0xe4a70c86d991333d2af01fcf0143121ade1190f9",
-    "tokenName": "KAI",
-    "idPair": "0x8b3380ad5b841732ed0b945cdddc418957b27005",
-    "idToken": "0xe4a70c86d991333d2af01fcf0143121ade1190f9",
-    "dateCreationToken": "2021-04-02T13:50:53Z",
-    "initialInfos": {
-      "initialPoolToken": 7000,
-      "initialPriceUSD": 0.5279194285714286,
-      "initialPoolEth": 1.8,
-      "initialMarketCap": 3586.8460211512847
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.2361e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.7e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 1,
-    "txCount": 2,
-    "createdAtTimestamp": "1617371453",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
