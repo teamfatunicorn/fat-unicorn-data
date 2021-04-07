@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xe63d6b308bce0f6193aec6b7e6eba005f41e36ab",
+    "tokenName": "STN",
+    "idPair": "0x00d76633a1071e9aed6158ae1a5e1c4c5dc75e54",
+    "idToken": "0xe63d6b308bce0f6193aec6b7e6eba005f41e36ab",
+    "dateCreationToken": "2021-04-07T09:19:12Z",
+    "initialInfos": {
+      "initialPoolToken": 519.9983605648576,
+      "initialPriceUSD": 3.9534547719859368,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2035.645753295627
+    },
+    "currentInfos": {
+      "currentPoolToken": 489.07656395349034,
+      "currentPriceUSD": 4.486071941077306,
+      "currentPoolEth": 1.0672455117446034,
+      "currentMarketCap": 2194.0326505902535
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1090,
+    "holderCountOld": 0,
+    "txCount": 6,
+    "createdAtTimestamp": "1617787152",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.13472195834020373,
+    "isRugged": false
+  },
+  {
     "_id": "0x24e18a456fcf26cf81c87cb7397393b461ee2244",
     "tokenName": "GXFC",
     "idPair": "0xf023431338aef6b9fedeca383758af6a47da7322",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-07T07:16:53Z",
     "initialInfos": {
       "initialPoolToken": 1000000,
-      "initialPriceUSD": 0.0051394,
+      "initialPriceUSD": 0.005139475,
       "initialPoolEth": 2.5,
-      "initialMarketCap": 5139.4
+      "initialMarketCap": 5139.475
     },
     "currentInfos": {
       "currentPoolToken": 980449.8303821794,
-      "currentPriceUSD": 0.00534671722872,
+      "currentPriceUSD": 0.00534679525413,
       "currentPoolEth": 2.55,
-      "currentMarketCap": 5242.188
+      "currentMarketCap": 5242.2645
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.04033880000000013,
+    "priceChange": 0.04033879999999992,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xc4bf2141dd30b6c6e8c3ac2c41686a9f4f5b8add",
-    "tokenName": "ILV",
-    "idPair": "0x531bc749824cabc8cc368c9f4cf021cd5355e257",
-    "idToken": "0xc4bf2141dd30b6c6e8c3ac2c41686a9f4f5b8add",
-    "dateCreationToken": "2021-04-02T13:59:55Z",
-    "initialInfos": {
-      "initialPoolToken": 4400,
-      "initialPriceUSD": 93.80363636363636,
-      "initialPoolEth": 200,
-      "initialMarketCap": 400064.9057070177
-    },
-    "currentInfos": {
-      "currentPoolToken": 1e-18,
-      "currentPriceUSD": 2064760000000000000,
-      "currentPoolEth": 0.001000000000000215,
-      "currentMarketCap": 2.06476
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 7,
-    "holderCountOld": 6,
-    "txCount": 7,
-    "createdAtTimestamp": "1617371995",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 22011513412932240,
     "isRugged": true
   }
 ]
