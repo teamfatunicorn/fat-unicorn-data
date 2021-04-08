@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7709826730475f4c3cbbfdf19f767caf50ac5d1c",
+    "tokenName": "SEPA",
+    "idPair": "0x90244fc7073acfeac450c657666006f83738b00a",
+    "idToken": "0x7709826730475f4c3cbbfdf19f767caf50ac5d1c",
+    "dateCreationToken": "2021-04-08T06:21:38Z",
+    "initialInfos": {
+      "initialPoolToken": 115575,
+      "initialPriceUSD": 4.020179104477612,
+      "initialPoolEth": 230,
+      "initialMarketCap": 464632.2
+    },
+    "currentInfos": {
+      "currentPoolToken": 115575,
+      "currentPriceUSD": 4.020179104477612,
+      "currentPoolEth": 230,
+      "currentMarketCap": 464632.2
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1617862898",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xd99b8214a4c33d772c9d9e2526c9590f37c2d85c",
     "tokenName": "GS",
     "idPair": "0x09f702e9cdb47757f714c762d8bfe221d4dbec0d",
@@ -12,22 +43,22 @@
       "initialMarketCap": 503435.77977160434
     },
     "currentInfos": {
-      "currentPoolToken": 8000000,
-      "currentPriceUSD": 0.063129375,
-      "currentPoolEth": 250,
-      "currentMarketCap": 505035
+      "currentPoolToken": 7918222.727761687,
+      "currentPriceUSD": 0.0644420618237491,
+      "currentPoolEth": 252.58972078996166,
+      "currentMarketCap": 510266.5985566338
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 1,
+    "txCount": 3,
     "createdAtTimestamp": "1617862684",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.020793597651633713,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x9dddbacc2f7b59c443034c4ba935009b30f942f9",
-    "tokenName": "PHY",
-    "idPair": "0x73a994ef2abd177019ed420c869a6587cf9a4b23",
-    "idToken": "0x9dddbacc2f7b59c443034c4ba935009b30f942f9",
-    "dateCreationToken": "2021-04-03T16:27:25Z",
-    "initialInfos": {
-      "initialPoolToken": 4,
-      "initialPriceUSD": 102.3595,
-      "initialPoolEth": 0.2,
-      "initialMarketCap": 409.438
-    },
-    "currentInfos": {
-      "currentPoolToken": 6,
-      "currentPriceUSD": 45.12929000461796,
-      "currentPoolEth": 0.13386780113175697,
-      "currentMarketCap": 270.77574002770774
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 8,
-    "holderCountOld": 7,
-    "txCount": 4,
-    "createdAtTimestamp": "1617467245",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.5591099018203688,
-    "isRugged": false
   }
 ]
