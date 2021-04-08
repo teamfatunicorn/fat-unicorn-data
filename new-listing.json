@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0xd1409f48468e86a611ab18c7d3e4f8937e7aa586",
+    "tokenName": "GAPE",
+    "idPair": "0x0346581fa389ed66e326799660a690332287ae67",
+    "idToken": "0xd1409f48468e86a611ab18c7d3e4f8937e7aa586",
+    "dateCreationToken": "2021-04-08T15:44:45Z",
+    "initialInfos": {
+      "initialPoolToken": 289800000000,
+      "initialPriceUSD": 2.2573250517598342e-8,
+      "initialPoolEth": 3.2,
+      "initialMarketCap": 6542.081036113768
+    },
+    "currentInfos": {
+      "currentPoolToken": 246832072087.1193,
+      "currentPriceUSD": 3.1162946939539204e-8,
+      "currentPoolEth": 3.76268277271197,
+      "currentMarketCap": 7692.014765427414
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 8,
+    "createdAtTimestamp": "1617896685",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.3805254549070921,
+    "isRugged": false
+  },
+  {
+    "_id": "0x74232704659ef37c08995e386a2e26cc27a8d7b1",
+    "tokenName": "STRK",
+    "idPair": "0xff734dcb7fd6517caed5c6c8720992a0c676c800",
+    "idToken": "0x74232704659ef37c08995e386a2e26cc27a8d7b1",
+    "dateCreationToken": "2021-04-08T15:44:40Z",
+    "initialInfos": {
+      "initialPoolToken": 31.984375,
+      "initialPriceUSD": 79.89408891060089,
+      "initialPoolEth": 1.25,
+      "initialMarketCap": 2555.3625
+    },
+    "currentInfos": {
+      "currentPoolToken": 26.362506087243517,
+      "currentPriceUSD": 117.78769761513747,
+      "currentPoolEth": 1.5189522501120425,
+      "currentMarketCap": 3105.1788953814603
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 27,
+    "holderCountOld": 0,
+    "txCount": 5,
+    "createdAtTimestamp": "1617896680",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.47429802656537473,
+    "isRugged": false
+  },
+  {
     "_id": "0x8f539479064dbf15b2e7f78a7a3e07a3401b5818",
     "tokenName": "CLBX",
     "idPair": "0xb9b7934dceaaaad68968acc12d31dc707f83eca4",
@@ -6136,67 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xe866a3945085e4cc5202c354dea3cdacca818bbd",
-    "tokenName": "BYND",
-    "idPair": "0xcf9b7d7dd50f80974f501d4ace4e3aa9909e1631",
-    "idToken": "0xe866a3945085e4cc5202c354dea3cdacca818bbd",
-    "dateCreationToken": "2021-04-04T03:36:06Z",
-    "initialInfos": {
-      "initialPoolToken": 100000000,
-      "initialPriceUSD": 0.0000201991,
-      "initialPoolEth": 1,
-      "initialMarketCap": 2002.532620145279
-    },
-    "currentInfos": {
-      "currentPoolToken": 4346321.62,
-      "currentPriceUSD": 0.0000056006050347124196,
-      "currentPoolEth": 0.01201968750781043,
-      "currentMarketCap": 24.34203074745144
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 5,
-    "holderCountOld": 6,
-    "txCount": 20,
-    "createdAtTimestamp": "1617507366",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.722729971399101,
-    "isRugged": true
-  },
-  {
-    "_id": "0x60c0481e3fe8ed7777fa5743b0962489fbbbe61b",
-    "tokenName": "RYK",
-    "idPair": "0x3e8457f5d9ceb50d159da8fd2665de67a980335a",
-    "idToken": "0x60c0481e3fe8ed7777fa5743b0962489fbbbe61b",
-    "dateCreationToken": "2021-04-04T02:39:04Z",
-    "initialInfos": {
-      "initialPoolToken": 2148,
-      "initialPriceUSD": 0.24854900080810055,
-      "initialPoolEth": 0.26576826,
-      "initialMarketCap": 533.8832537358
-    },
-    "currentInfos": {
-      "currentPoolToken": 1818.391741632438,
-      "currentPriceUSD": 0.3501189136314507,
-      "currentPoolEth": 0.31436876778220885,
-      "currentMarketCap": 636.6533411367508
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 7,
-    "holderCountOld": 8,
-    "txCount": 5,
-    "createdAtTimestamp": "1617503944",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.4086514630640987,
-    "isRugged": false
   }
 ]
