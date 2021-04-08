@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xfa990d1e2cce01707f2501489380371c655d8751",
+    "tokenName": "SPAX",
+    "idPair": "0x1c76f6f2d7a199717bf64a3d5ecff6325443ce43",
+    "idToken": "0xfa990d1e2cce01707f2501489380371c655d8751",
+    "dateCreationToken": "2021-04-08T18:55:45Z",
+    "initialInfos": {
+      "initialPoolToken": 4204204204,
+      "initialPriceUSD": 0.0000013791261600669862,
+      "initialPoolEth": 2.8,
+      "initialMarketCap": 5802.920917002487
+    },
+    "currentInfos": {
+      "currentPoolToken": 3100282267.895707,
+      "currentPriceUSD": 0.000002538119861370219,
+      "currentPoolEth": 3.8,
+      "currentMarketCap": 7868.888
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1617908145",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.8403826530612244,
+    "isRugged": false
+  },
+  {
     "_id": "0x409501bf012db86771edfdeb7399b350fe90a7ba",
     "tokenName": "NIGG",
     "idPair": "0x2f7f8863323484d0558e7696cc94c794fd2b5569",
@@ -7,9 +38,9 @@
     "dateCreationToken": "2021-04-08T18:14:45Z",
     "initialInfos": {
       "initialPoolToken": 20000000000,
-      "initialPriceUSD": 3.211569e-7,
+      "initialPriceUSD": 3.209678e-7,
       "initialPoolEth": 3.1,
-      "initialMarketCap": 6423.138
+      "initialMarketCap": 6419.356
     },
     "currentInfos": {
       "currentPoolToken": 0.000002429,
@@ -38,27 +69,27 @@
     "dateCreationToken": "2021-04-08T18:00:37Z",
     "initialInfos": {
       "initialPoolToken": 70000000,
-      "initialPriceUSD": 0.0007103931428571428,
+      "initialPriceUSD": 0.0007099748571428572,
       "initialPoolEth": 24,
-      "initialMarketCap": 49727.52
+      "initialMarketCap": 49698.24
     },
     "currentInfos": {
-      "currentPoolToken": 17513048.947982877,
-      "currentPriceUSD": 0.011654621509051194,
-      "currentPoolEth": 98.5086520903807,
-      "currentMarketCap": 204107.95695822762
+      "currentPoolToken": 17102892.5138715,
+      "currentPriceUSD": 0.012221911995434164,
+      "currentPoolEth": 100.94363768467007,
+      "currentMarketCap": 209030.04717190724
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 138,
     "holderCountOld": 0,
-    "txCount": 294,
+    "txCount": 305,
     "createdAtTimestamp": "1617904837",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 15.405875572189878,
+    "priceChange": 16.21457016748262,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9925543174421395,
-    "isRugged": true
-  },
-  {
-    "_id": "0xce211b3b9a0ab57e898f4b4571ad305e9607ab8e",
-    "tokenName": "GS",
-    "idPair": "0xa81770b26e75a42508eb8d7c2690d071c1071afb",
-    "idToken": "0xce211b3b9a0ab57e898f4b4571ad305e9607ab8e",
-    "dateCreationToken": "2021-04-04T07:49:57Z",
-    "initialInfos": {
-      "initialPoolToken": 2000000,
-      "initialPriceUSD": 0.25514,
-      "initialPoolEth": 250,
-      "initialMarketCap": 505009.57005101774
-    },
-    "currentInfos": {
-      "currentPoolToken": 7.9688e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.3e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 16,
-    "holderCountOld": 15,
-    "txCount": 16,
-    "createdAtTimestamp": "1617522597",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
