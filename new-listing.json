@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xba004be7f55c6125c62f26fd0fa4ada5e2b0458b",
+    "tokenName": "KTN",
+    "idPair": "0xd46124fc727344d237d372286d45a370bdbdf48f",
+    "idToken": "0xba004be7f55c6125c62f26fd0fa4ada5e2b0458b",
+    "dateCreationToken": "2021-04-08T12:43:10Z",
+    "initialInfos": {
+      "initialPoolToken": 520000,
+      "initialPriceUSD": 1.008375,
+      "initialPoolEth": 260,
+      "initialMarketCap": 524355
+    },
+    "currentInfos": {
+      "currentPoolToken": 520000,
+      "currentPriceUSD": 1.008375,
+      "currentPoolEth": 260,
+      "currentMarketCap": 524355
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1617885790",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x98815602c075778efd41e53c7c732ca73db797d7",
     "tokenName": "SOS",
     "idPair": "0x5b77ab7df36a9fbe21e71640615f949a9ae0cf61",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xa10b749cd5cc19f2b415b19546cba5e98740c69c",
-    "tokenName": "DALMATIAN",
-    "idPair": "0x4fcb12e7e719a800186808c519a1b21bd1da9e71",
-    "idToken": "0xa10b749cd5cc19f2b415b19546cba5e98740c69c",
-    "dateCreationToken": "2021-04-03T18:02:03Z",
-    "initialInfos": {
-      "initialPoolToken": 435028248587.5706,
-      "initialPriceUSD": 4.774494545454546e-9,
-      "initialPoolEth": 1,
-      "initialMarketCap": 2077.04
-    },
-    "currentInfos": {
-      "currentPoolToken": 331519759402.9645,
-      "currentPriceUSD": 9.912543448638065e-9,
-      "currentPoolEth": 1.6436115291560787,
-      "currentMarketCap": 3286.2040191639235
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 33,
-    "holderCountOld": 34,
-    "txCount": 130,
-    "createdAtTimestamp": "1617472923",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.0761450985581476,
-    "isRugged": false
   }
 ]
