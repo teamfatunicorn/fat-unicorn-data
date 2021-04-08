@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x9f29c3b0fe777ba3000bac776279783f81df381b",
+    "tokenName": "CCO",
+    "idPair": "0x0cc7c6fc8dd850609ee85a08bf2c9e2c5f7f6a37",
+    "idToken": "0x9f29c3b0fe777ba3000bac776279783f81df381b",
+    "dateCreationToken": "2021-04-08T06:08:37Z",
+    "initialInfos": {
+      "initialPoolToken": 1,
+      "initialPriceUSD": 0.03012345,
+      "initialPoolEth": 0.000015,
+      "initialMarketCap": 0.03012345
+    },
+    "currentInfos": {
+      "currentPoolToken": 1,
+      "currentPriceUSD": 0.03012345,
+      "currentPoolEth": 0.000015,
+      "currentMarketCap": 0.03012345
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1617862117",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x22b3faaa8df978f6bafe18aade18dc2e3dfa0e0c",
     "tokenName": "BAM",
     "idPair": "0x7af780018d088038beaec4355a4d30edf258ce01",
@@ -74,22 +105,22 @@
       "initialMarketCap": 401646
     },
     "currentInfos": {
-      "currentPoolToken": 32877274.859244257,
-      "currentPriceUSD": 0.018601361598390816,
-      "currentPoolEth": 304.52790667726634,
-      "currentMarketCap": 611562.0780264859
+      "currentPoolToken": 32963159.959244255,
+      "currentPriceUSD": 0.018504701287381083,
+      "currentPoolEth": 303.73683718198424,
+      "currentMarketCap": 609973.4285339757
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 52,
     "holderCountOld": 0,
-    "txCount": 13,
+    "txCount": 14,
     "createdAtTimestamp": "1617857103",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.3156413357024364,
+    "priceChange": 1.3036083127158096,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 8.128735665745214,
-    "isRugged": false
-  },
-  {
-    "_id": "0x31e92324ef7185c65dd4d154cfa4f6326b489c55",
-    "tokenName": "EARN$",
-    "idPair": "0x86d330e94d1339b283316ea2c151a4dbb1b8da6f",
-    "idToken": "0x31e92324ef7185c65dd4d154cfa4f6326b489c55",
-    "dateCreationToken": "2021-04-03T16:00:23Z",
-    "initialInfos": {
-      "initialPoolToken": 710904.48834266,
-      "initialPriceUSD": 0.1472596799101091,
-      "initialPoolEth": 50.34,
-      "initialMarketCap": 104687.5674
-    },
-    "currentInfos": {
-      "currentPoolToken": 691188.68789271,
-      "currentPriceUSD": 0.1544044273895294,
-      "currentPoolEth": 52.76218220713483,
-      "currentMarketCap": 106722.59357219403
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 186,
-    "holderCountOld": 184,
-    "txCount": 287,
-    "createdAtTimestamp": "1617465623",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.048518015819276644,
     "isRugged": false
   }
 ]
