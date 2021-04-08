@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x9d91fbae270a3bccda69c442538d74017b156279",
+    "tokenName": "RHINO",
+    "idPair": "0x669721fa1ef8a8f9fa020756e20b5308c6283298",
+    "idToken": "0x9d91fbae270a3bccda69c442538d74017b156279",
+    "dateCreationToken": "2021-04-08T21:35:01Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 1.22973e-8,
+      "initialPoolEth": 6,
+      "initialMarketCap": 12297.3
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000000,
+      "currentPriceUSD": 1.22973e-8,
+      "currentPoolEth": 6,
+      "currentMarketCap": 12297.3
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1617917701",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xd947b0ceab2a8885866b9a04a06ae99de852a3d4",
     "tokenName": "TIOx",
     "idPair": "0xe6ebc7f1aee3ae243812a540ff8e7233e34b26d5",
@@ -43,22 +74,22 @@
       "initialMarketCap": 51238.75
     },
     "currentInfos": {
-      "currentPoolToken": 457993.94385781244,
-      "currentPriceUSD": 0.12216911544439751,
-      "currentPoolEth": 27.3,
-      "currentMarketCap": 55952.715
+      "currentPoolToken": 436930.98930943204,
+      "currentPriceUSD": 0.134250310541509,
+      "currentPoolEth": 28.62,
+      "currentMarketCap": 58658.121
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 0,
     "holderCountOld": 0,
-    "txCount": 4,
+    "txCount": 5,
     "createdAtTimestamp": "1617916495",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.19215550188477973,
+    "priceChange": 0.3100466984607254,
     "isRugged": false
   },
   {
@@ -100,9 +131,9 @@
     "dateCreationToken": "2021-04-08T20:48:07Z",
     "initialInfos": {
       "initialPoolToken": 1,
-      "initialPriceUSD": 1024.825,
+      "initialPriceUSD": 1024.775,
       "initialPoolEth": 0.5,
-      "initialMarketCap": 1024.825
+      "initialMarketCap": 1024.775
     },
     "currentInfos": {
       "currentPoolToken": 1.326e-15,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.27199165824640936,
     "isRugged": false
-  },
-  {
-    "_id": "0x8399ce5ad0681ef5e875ec1f31664a552d792a56",
-    "tokenName": "NPLAY",
-    "idPair": "0x4809287b1387a4098d8aacbcede1bc6d293fca5d",
-    "idToken": "0x8399ce5ad0681ef5e875ec1f31664a552d792a56",
-    "dateCreationToken": "2021-04-04T12:36:01Z",
-    "initialInfos": {
-      "initialPoolToken": 52000000,
-      "initialPriceUSD": 0.000056133,
-      "initialPoolEth": 1.4,
-      "initialMarketCap": 2918.916
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.094495e-12,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 6,
-    "holderCountOld": 5,
-    "txCount": 2,
-    "createdAtTimestamp": "1617539761",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
