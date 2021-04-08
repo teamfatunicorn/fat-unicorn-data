@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x98815602c075778efd41e53c7c732ca73db797d7",
+    "tokenName": "SOS",
+    "idPair": "0x5b77ab7df36a9fbe21e71640615f949a9ae0cf61",
+    "idToken": "0x98815602c075778efd41e53c7c732ca73db797d7",
+    "dateCreationToken": "2021-04-08T12:34:56Z",
+    "initialInfos": {
+      "initialPoolToken": 10000000,
+      "initialPriceUSD": 0.000080488,
+      "initialPoolEth": 0.4,
+      "initialMarketCap": 804.88
+    },
+    "currentInfos": {
+      "currentPoolToken": 10000000,
+      "currentPriceUSD": 0.000080488,
+      "currentPoolEth": 0.4,
+      "currentMarketCap": 804.88
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1617885296",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x5923ff4d7f39c2c1462a3ae88f0e5dc99ed3ed62",
     "tokenName": "BOSON",
     "idPair": "0xad041b7bee7fe6a64dc00c342cfbbeccdccfab2e",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-08T11:51:45Z",
     "initialInfos": {
       "initialPoolToken": 384266,
-      "initialPriceUSD": 0.6798116408945887,
+      "initialPriceUSD": 0.6807419860201006,
       "initialPoolEth": 130,
-      "initialMarketCap": 261228.5
+      "initialMarketCap": 261586
     },
     "currentInfos": {
       "currentPoolToken": 331584.6119301068,
-      "currentPriceUSD": 0.91338624228597,
+      "currentPriceUSD": 0.9146362421198979,
       "currentPoolEth": 150.72025812570217,
-      "currentMarketCap": 302864.82269069186
+      "currentMarketCap": 303279.3034005376
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.3435872340815054,
+    "priceChange": 0.3435872340815056,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-08T11:29:41Z",
     "initialInfos": {
       "initialPoolToken": 20000000,
-      "initialPriceUSD": 0.004621735,
+      "initialPriceUSD": 0.00462806,
       "initialPoolEth": 46,
-      "initialMarketCap": 92434.7
+      "initialMarketCap": 92561.2
     },
     "currentInfos": {
       "currentPoolToken": 1,
-      "currentPriceUSD": 0.0000032633468,
+      "currentPriceUSD": 0.0000032678128,
       "currentPoolEth": 1.623534418e-9,
-      "currentMarketCap": 0.0000032633468
+      "currentMarketCap": 0.0000032678128
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.9992939130434783,
+    "priceChange": -0.9992939130434781,
     "isRugged": true
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 1.0761450985581476,
     "isRugged": false
-  },
-  {
-    "_id": "0xc63e6bccd96fc0a777524becc8ee1fa049bf81c5",
-    "tokenName": "SafeMoon",
-    "idPair": "0xccb93c0423009b13aef6a322c9d9cd789ba5b38e",
-    "idToken": "0xc63e6bccd96fc0a777524becc8ee1fa049bf81c5",
-    "dateCreationToken": "2021-04-03T18:02:01Z",
-    "initialInfos": {
-      "initialPoolToken": 52631795.68456298,
-      "initialPriceUSD": 0.00591953962329619,
-      "initialPoolEth": 150,
-      "initialMarketCap": 303890.9981851418
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.44656e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 7e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 345,
-    "holderCountOld": 342,
-    "txCount": 347,
-    "createdAtTimestamp": "1617472921",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
