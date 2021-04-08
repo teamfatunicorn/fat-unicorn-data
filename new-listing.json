@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc3756f839739635bcf7504b16da4cd882662e0a2",
+    "tokenName": "CRWNY",
+    "idPair": "0x97bd233a96d5b1ddd7684665d3c4a8f540359305",
+    "idToken": "0xc3756f839739635bcf7504b16da4cd882662e0a2",
+    "dateCreationToken": "2021-04-08T07:34:02Z",
+    "initialInfos": {
+      "initialPoolToken": 170000000,
+      "initialPriceUSD": 0.002614221176470588,
+      "initialPoolEth": 220,
+      "initialMarketCap": 444011.66000927764
+    },
+    "currentInfos": {
+      "currentPoolToken": 170000000,
+      "currentPriceUSD": 0.002614221176470588,
+      "currentPoolEth": 220,
+      "currentMarketCap": 444417.6
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1617867242",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x70171ca922263d23da8e05a72592d0e450d7dd7b",
     "tokenName": "STB",
     "idPair": "0x452ff62c10520d6aaa37574eb630a07075412c53",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-08T07:24:14Z",
     "initialInfos": {
       "initialPoolToken": 200000,
-      "initialPriceUSD": 0.01718037,
+      "initialPriceUSD": 0.01717068,
       "initialPoolEth": 1.7,
-      "initialMarketCap": 3436.074
+      "initialMarketCap": 3434.136
     },
     "currentInfos": {
-      "currentPoolToken": 163176.86429392803,
-      "currentPriceUSD": 0.02583298754219631,
-      "currentPoolEth": 2.0855453154425545,
-      "currentMarketCap": 4215.3459024797
+      "currentPoolToken": 173091.7779377299,
+      "currentPriceUSD": 0.022949252395681307,
+      "currentPoolEth": 1.9664205870609321,
+      "currentMarketCap": 3972.326899510185
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 2,
     "holderCountOld": 0,
-    "txCount": 8,
+    "txCount": 9,
     "createdAtTimestamp": "1617866654",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.503633946311768,
+    "priceChange": 0.33653718988888653,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-08T06:59:23Z",
     "initialInfos": {
       "initialPoolToken": 9800000,
-      "initialPriceUSD": 0.0006187408163265306,
+      "initialPriceUSD": 0.0006183918367346938,
       "initialPoolEth": 3,
-      "initialMarketCap": 6063.66
+      "initialMarketCap": 6060.24
     },
     "currentInfos": {
       "currentPoolToken": 5754839.595946072,
-      "currentPriceUSD": 0.0017969691581508295,
+      "currentPriceUSD": 0.001795955639167101,
       "currentPoolEth": 5.116350156846025,
-      "currentMarketCap": 10341.269264020271
+      "currentMarketCap": 10335.436624841468
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.904235684368538,
+    "priceChange": 1.9042356843685386,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.284111935831843,
     "isRugged": false
-  },
-  {
-    "_id": "0xc90f251d694a9d463ec7ce5c32b986e28236534c",
-    "tokenName": "BLACKH",
-    "idPair": "0xfb421c9864149295d34ba10f2028576ebe004711",
-    "idToken": "0xc90f251d694a9d463ec7ce5c32b986e28236534c",
-    "dateCreationToken": "2021-04-03T17:01:27Z",
-    "initialInfos": {
-      "initialPoolToken": 90000000000000,
-      "initialPriceUSD": 1.1325611111111111e-11,
-      "initialPoolEth": 0.5,
-      "initialMarketCap": 1035.1000756799424
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.000222309,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 5e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 13,
-    "holderCountOld": 12,
-    "txCount": 44,
-    "createdAtTimestamp": "1617469287",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
