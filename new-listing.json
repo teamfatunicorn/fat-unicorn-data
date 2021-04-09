@@ -7,27 +7,58 @@
     "dateCreationToken": "2021-04-09T11:38:24Z",
     "initialInfos": {
       "initialPoolToken": 600000000000,
-      "initialPriceUSD": 1.7386166666666666e-9,
+      "initialPriceUSD": 1.7382333333333334e-9,
       "initialPoolEth": 0.5,
-      "initialMarketCap": 1043.17
+      "initialMarketCap": 1042.94
     },
     "currentInfos": {
-      "currentPoolToken": 333945627955.3188,
-      "currentPriceUSD": 5.6218063597216595e-9,
-      "currentPoolEth": 0.8998426215479844,
-      "currentMarketCap": 1877.3776550404543
+      "currentPoolToken": 177623852567.4272,
+      "currentPriceUSD": 1.9902948147645555e-8,
+      "currentPoolEth": 1.6948426215479846,
+      "currentMarketCap": 3535.238327434542
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 5,
     "holderCountOld": 0,
-    "txCount": 6,
+    "txCount": 14,
     "createdAtTimestamp": "1617968304",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.2334938848250965,
+    "priceChange": 10.45010152893487,
+    "isRugged": false
+  },
+  {
+    "_id": "0x98629512ed2239974e169341be5b920ea4dcdb21",
+    "tokenName": "POP!",
+    "idPair": "0x89db1aa2e4ae2ac29f9b704344f6e0694bcb009d",
+    "idToken": "0x98629512ed2239974e169341be5b920ea4dcdb21",
+    "dateCreationToken": "2021-04-09T11:35:37Z",
+    "initialInfos": {
+      "initialPoolToken": 137534.23,
+      "initialPriceUSD": 1.950042377254631,
+      "initialPoolEth": 128.5776635391706,
+      "initialMarketCap": 268197.5768230852
+    },
+    "currentInfos": {
+      "currentPoolToken": 127637.15748305838,
+      "currentPriceUSD": 2.2646726276511857,
+      "currentPoolEth": 138.5776635391706,
+      "currentMarketCap": 289056.376823086
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1617968137",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.16134534001230644,
     "isRugged": false
   },
   {
@@ -38,9 +69,9 @@
     "dateCreationToken": "2021-04-09T11:07:20Z",
     "initialInfos": {
       "initialPoolToken": 5482,
-      "initialPriceUSD": 0.38058008026267787,
+      "initialPriceUSD": 0.3804961692812842,
       "initialPoolEth": 1,
-      "initialMarketCap": 2086.34
+      "initialMarketCap": 2085.88
     },
     "currentInfos": {
       "currentPoolToken": 7.3671e-14,
@@ -69,15 +100,15 @@
     "dateCreationToken": "2021-04-09T10:41:43Z",
     "initialInfos": {
       "initialPoolToken": 3700000,
-      "initialPriceUSD": 0.08458135135135135,
+      "initialPriceUSD": 0.0845627027027027,
       "initialPoolEth": 150,
       "initialMarketCap": 313844.8100059021
     },
     "currentInfos": {
       "currentPoolToken": 3700000,
-      "currentPriceUSD": 0.08458135135135135,
+      "currentPriceUSD": 0.0845627027027027,
       "currentPoolEth": 150,
-      "currentMarketCap": 312951
+      "currentMarketCap": 312882
     },
     "trustScore": null,
     "contractId": null,
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.4049633801569421,
-    "isRugged": true
-  },
-  {
-    "_id": "0x7a3d70f5c5c92b5d3503194c32bf824691fa2bca",
-    "tokenName": "ELF",
-    "idPair": "0xbc5a3755c2033bcfc66d80d817549fea8b9bed9b",
-    "idToken": "0x7a3d70f5c5c92b5d3503194c32bf824691fa2bca",
-    "dateCreationToken": "2021-04-05T01:17:25Z",
-    "initialInfos": {
-      "initialPoolToken": 223895418,
-      "initialPriceUSD": 0.0028860305858267603,
-      "initialPoolEth": 319.29764215131905,
-      "initialMarketCap": 646169.0243744674
-    },
-    "currentInfos": {
-      "currentPoolToken": 3.7074e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 341,
-    "holderCountOld": 339,
-    "txCount": 334,
-    "createdAtTimestamp": "1617585445",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
