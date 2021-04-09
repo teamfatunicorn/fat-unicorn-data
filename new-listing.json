@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x491e136ff7ff03e6ab097e54734697bb5802fc1c",
+    "tokenName": "KTN",
+    "idPair": "0x92dbb765f587f6e16c07c799e0db6a1f3af498b8",
+    "idToken": "0x491e136ff7ff03e6ab097e54734697bb5802fc1c",
+    "dateCreationToken": "2021-04-09T14:28:23Z",
+    "initialInfos": {
+      "initialPoolToken": 100000,
+      "initialPriceUSD": 0.99815522895,
+      "initialPoolEth": 48.1259,
+      "initialMarketCap": 99815.522895
+    },
+    "currentInfos": {
+      "currentPoolToken": 19060.637334745777,
+      "currentPriceUSD": 27.582274954982214,
+      "currentPoolEth": 253.48267389125476,
+      "currentMarketCap": 525735.7397841575
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 11,
+    "holderCountOld": 0,
+    "txCount": 29,
+    "createdAtTimestamp": "1617978503",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 26.633251978249042,
+    "isRugged": false
+  },
+  {
     "_id": "0x02cd28ee6017df3b5c69b0b31f9aaddf65aa26e8",
     "tokenName": "KTN",
     "idPair": "0xa753a6817aa0c9edec58f7a38e1270c18f8f9273",
@@ -12,22 +43,22 @@
       "initialMarketCap": 414810
     },
     "currentInfos": {
-      "currentPoolToken": 399402.6941662372,
-      "currentPriceUSD": 1.0401337323655886,
-      "currentPoolEth": 200.3,
-      "currentMarketCap": 415432.215
+      "currentPoolToken": 398708.0905770065,
+      "currentPriceUSD": 1.0437664605645196,
+      "currentPoolEth": 200.65,
+      "currentMarketCap": 416158.1325
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 4,
+    "txCount": 6,
     "createdAtTimestamp": "1617978281",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.002997741004882724,
+    "priceChange": 0.006500769571147772,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 165924
     },
     "currentInfos": {
-      "currentPoolToken": 79869.88910193366,
-      "currentPriceUSD": 2.176885600505869,
-      "currentPoolEth": 83.83,
-      "currentMarketCap": 173867.6115
+      "currentPoolToken": 78431.15167829934,
+      "currentPriceUSD": 2.2576063717102244,
+      "currentPoolEth": 85.37242003302651,
+      "currentMarketCap": 177066.66776949965
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 19,
     "holderCountOld": 0,
-    "txCount": 11,
+    "txCount": 13,
     "createdAtTimestamp": "1617977900",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.09788903848468057,
+    "priceChange": 0.13859969864187824,
     "isRugged": false
   },
   {
@@ -124,37 +155,6 @@
     "isRugged": true
   },
   {
-    "_id": "0x14e3ea527bfcef564a3756596249a71f35bfb0bc",
-    "tokenName": "KTN",
-    "idPair": "0xbc86a2f2de503ac977070d4e6f25326444998826",
-    "idToken": "0x14e3ea527bfcef564a3756596249a71f35bfb0bc",
-    "dateCreationToken": "2021-04-09T13:02:24Z",
-    "initialInfos": {
-      "initialPoolToken": 83682,
-      "initialPriceUSD": 1.9835567983556799,
-      "initialPoolEth": 80,
-      "initialMarketCap": 165988
-    },
-    "currentInfos": {
-      "currentPoolToken": 29398.099585541357,
-      "currentPriceUSD": 4.022153919495404,
-      "currentPoolEth": 56.9890264229711,
-      "currentMarketCap": 118243.68147370138
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 24,
-    "holderCountOld": 0,
-    "txCount": 26,
-    "createdAtTimestamp": "1617973344",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.0277482968119043,
-    "isRugged": false
-  },
-  {
     "_id": "0x5943dcd46709d0a8e5dc16a0e02fb5ad0262ea74",
     "tokenName": "GS",
     "idPair": "0xc0d1acd66a29bf474dcc48c5f8121ea7230091a6",
@@ -183,6 +183,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0,
+    "isRugged": false
+  },
+  {
+    "_id": "0x14e3ea527bfcef564a3756596249a71f35bfb0bc",
+    "tokenName": "KTN",
+    "idPair": "0xbc86a2f2de503ac977070d4e6f25326444998826",
+    "idToken": "0x14e3ea527bfcef564a3756596249a71f35bfb0bc",
+    "dateCreationToken": "2021-04-09T13:02:24Z",
+    "initialInfos": {
+      "initialPoolToken": 83682,
+      "initialPriceUSD": 1.9835567983556799,
+      "initialPoolEth": 80,
+      "initialMarketCap": 165988
+    },
+    "currentInfos": {
+      "currentPoolToken": 29398.099585541357,
+      "currentPriceUSD": 4.022153919495404,
+      "currentPoolEth": 56.9890264229711,
+      "currentMarketCap": 118243.68147370138
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 24,
+    "holderCountOld": 0,
+    "txCount": 26,
+    "createdAtTimestamp": "1617973344",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.0277482968119043,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.5642146949742184,
     "isRugged": false
-  },
-  {
-    "_id": "0xd52574f5362f6ccc698e00a5c1c4a5c8094288b0",
-    "tokenName": "META",
-    "idPair": "0x3f8901faa76d975054a5c3ef46288471de98834d",
-    "idToken": "0xd52574f5362f6ccc698e00a5c1c4a5c8094288b0",
-    "dateCreationToken": "2021-04-05T09:46:09Z",
-    "initialInfos": {
-      "initialPoolToken": 45000,
-      "initialPriceUSD": 4.5434,
-      "initialPoolEth": 100,
-      "initialMarketCap": 203173.3923883741
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.8323e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 5.5e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 12,
-    "holderCountOld": 0,
-    "txCount": 12,
-    "createdAtTimestamp": "1617615969",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
