@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xffa98a091331df4600f87c9164cd27e8a5cd2405",
+    "tokenName": "UNI-V2",
+    "idPair": "0x4a26a9d8318d9f088e670fb18808229e9f885430",
+    "idToken": "0xffa98a091331df4600f87c9164cd27e8a5cd2405",
+    "dateCreationToken": "2021-04-09T03:15:39Z",
+    "initialInfos": {
+      "initialPoolToken": 15.39478836515805,
+      "initialPriceUSD": 18.591599374723284,
+      "initialPoolEth": 0.13806541041068857,
+      "initialMarketCap": 286.37342544179165
+    },
+    "currentInfos": {
+      "currentPoolToken": 4.861976092354794,
+      "currentPriceUSD": 186.78058478573996,
+      "currentPoolEth": 0.4380654104106886,
+      "currentMarketCap": 908.1227377443154
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3007,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1617938139",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 9.046504392714196,
+    "isRugged": false
+  },
+  {
     "_id": "0x26aaf6a46eea7515cd41f98e4f87d3cb08bc32b7",
     "tokenName": "SLPY",
     "idPair": "0xe3437e0ba2bce5ec24d4542a930b8836284b17ee",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-09T02:14:16Z",
     "initialInfos": {
       "initialPoolToken": 1000000000,
-      "initialPriceUSD": 3.109485e-7,
+      "initialPriceUSD": 3.109545e-7,
       "initialPoolEth": 0.15,
-      "initialMarketCap": 310.9485
+      "initialMarketCap": 310.9545
     },
     "currentInfos": {
       "currentPoolToken": 261587995,
-      "currentPriceUSD": 0.000004610314171271493,
+      "currentPriceUSD": 0.000004610403130970696,
       "currentPoolEth": 0.5817697337576676,
-      "currentMarketCap": 1206.0028403829965
+      "currentMarketCap": 1206.0261111723466
     },
     "trustScore": null,
     "contractId": null,
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x9275e8386a5bdda160c0e621e9a6067b8fd88ea2",
-    "tokenName": "NBNG",
-    "idPair": "0xb47328711afeb9352190d3aa753001881a294e57",
-    "idToken": "0x9275e8386a5bdda160c0e621e9a6067b8fd88ea2",
-    "dateCreationToken": "2021-04-04T15:26:46Z",
-    "initialInfos": {
-      "initialPoolToken": 3,
-      "initialPriceUSD": 68.95266666666667,
-      "initialPoolEth": 0.1,
-      "initialMarketCap": 206.858
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.432417277019821,
-      "currentPriceUSD": 33.06540642179593,
-      "currentPoolEth": 0.07045935150739137,
-      "currentMarketCap": 146.55967869565043
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 1174,
-    "holderCountOld": 1173,
-    "txCount": 134,
-    "createdAtTimestamp": "1617550006",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.5204622530171046,
     "isRugged": true
   }
 ]
