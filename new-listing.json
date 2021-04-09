@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xa0c957721b2960742398ff635216fb9daabaf4d7",
+    "tokenName": "KTN",
+    "idPair": "0xba0e3a8eea505ebd6ce2dd29c294b56d5d8d0c15",
+    "idToken": "0xa0c957721b2960742398ff635216fb9daabaf4d7",
+    "dateCreationToken": "2021-04-09T03:53:42Z",
+    "initialInfos": {
+      "initialPoolToken": 1300000,
+      "initialPriceUSD": 0.4801384615384615,
+      "initialPoolEth": 300,
+      "initialMarketCap": 624180
+    },
+    "currentInfos": {
+      "currentPoolToken": 1300000,
+      "currentPriceUSD": 0.4801384615384615,
+      "currentPoolEth": 300,
+      "currentMarketCap": 624180
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1617940422",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x3356210a007d65b6dd22424e9f098f70910bd20e",
     "tokenName": "RILLA",
     "idPair": "0x2f4112bb449efe67c9c4c1eceb255e3276d68f9d",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-09T03:37:29Z",
     "initialInfos": {
       "initialPoolToken": 471879965565,
-      "initialPriceUSD": 1.1023195260625008e-8,
+      "initialPriceUSD": 1.102293036275029e-8,
       "initialPoolEth": 2.5,
-      "initialMarketCap": 5201.625
+      "initialMarketCap": 5201.5
     },
     "currentInfos": {
-      "currentPoolToken": 174451268219.83224,
-      "currentPriceUSD": 8.266084483153074e-8,
-      "currentPoolEth": 6.930665519421232,
-      "currentMarketCap": 14420.289212983304
+      "currentPoolToken": 146488123445.6383,
+      "currentPriceUSD": 1.1736383304431616e-7,
+      "currentPoolEth": 8.263196992717774,
+      "currentMarketCap": 17192.40766304907
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 0,
     "holderCountOld": 0,
-    "txCount": 74,
+    "txCount": 82,
     "createdAtTimestamp": "1617939449",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 6.498809816677776,
+    "priceChange": 9.647244351730908,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-09T03:15:39Z",
     "initialInfos": {
       "initialPoolToken": 15.39478836515805,
-      "initialPriceUSD": 18.65993798402242,
+      "initialPriceUSD": 18.659489567950907,
       "initialPoolEth": 0.13806541041068857,
       "initialMarketCap": 286.37342544179165
     },
     "currentInfos": {
       "currentPoolToken": 3.2478209214470506,
-      "currentPriceUSD": 420.5667539734162,
+      "currentPriceUSD": 420.55664735399506,
       "currentPoolEth": 0.6564898000237412,
-      "currentMarketCap": 1365.9255024199356
+      "currentMarketCap": 1365.8926779299345
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 21.53848615861032,
+    "priceChange": 21.538486158610315,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.17521970062169853,
     "isRugged": false
-  },
-  {
-    "_id": "0x99eb6c07a227fd17894461dbbd88225d337e201b",
-    "tokenName": "GRZS",
-    "idPair": "0x9bd51e478b50771d48bc8016966f0d454dcdee0d",
-    "idToken": "0x99eb6c07a227fd17894461dbbd88225d337e201b",
-    "dateCreationToken": "2021-04-04T16:37:17Z",
-    "initialInfos": {
-      "initialPoolToken": 900000000,
-      "initialPriceUSD": 0.00000208,
-      "initialPoolEth": 0.9,
-      "initialMarketCap": 1872
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.0382152e-11,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 18,
-    "holderCountOld": 0,
-    "txCount": 19,
-    "createdAtTimestamp": "1617554237",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
