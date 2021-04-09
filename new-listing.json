@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x2363635047bbc654195fdb49bbded9e2cca11976",
+    "tokenName": "BIRD",
+    "idPair": "0x6630b3948c8606895e73515f309aa8e794d6232a",
+    "idToken": "0x2363635047bbc654195fdb49bbded9e2cca11976",
+    "dateCreationToken": "2021-04-09T06:17:59Z",
+    "initialInfos": {
+      "initialPoolToken": 9700000,
+      "initialPriceUSD": 0.0008554680412371134,
+      "initialPoolEth": 4,
+      "initialMarketCap": 8298.04
+    },
+    "currentInfos": {
+      "currentPoolToken": 9700000,
+      "currentPriceUSD": 0.0008554680412371134,
+      "currentPoolEth": 4,
+      "currentMarketCap": 8298.04
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1617949079",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x4d71b7bcd4e2d502cd518f609154debe22905c70",
     "tokenName": "SAITO",
     "idPair": "0x1280435ade8a09b77eac6162f4019e0998b3fbab",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-09T05:33:16Z",
     "initialInfos": {
       "initialPoolToken": 420000000,
-      "initialPriceUSD": 0.0009873333333333333,
+      "initialPriceUSD": 0.0009878619047619048,
       "initialPoolEth": 200,
-      "initialMarketCap": 414680
+      "initialMarketCap": 414902
     },
     "currentInfos": {
       "currentPoolToken": 353832676.7459009,
-      "currentPriceUSD": 0.001391835366788519,
+      "currentPriceUSD": 0.0013925804894166346,
       "currentPoolEth": 237.52138199112323,
-      "currentMarketCap": 492476.83342039445
+      "currentMarketCap": 492740.48215440457
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.40969145859741957,
+    "priceChange": 0.4096914585974195,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.5312065828232021,
     "isRugged": false
-  },
-  {
-    "_id": "0xbd05914af28d91c22c6b5275144a04b60337b184",
-    "tokenName": "CSAN",
-    "idPair": "0x8b4c8f9b27f115e4af9fcbf9d077bbe0fad1ef6a",
-    "idToken": "0xbd05914af28d91c22c6b5275144a04b60337b184",
-    "dateCreationToken": "2021-04-04T19:51:19Z",
-    "initialInfos": {
-      "initialPoolToken": 900000000,
-      "initialPriceUSD": 0.0000036646577777777777,
-      "initialPoolEth": 1.6,
-      "initialMarketCap": 3298.192
-    },
-    "currentInfos": {
-      "currentPoolToken": 1e-18,
-      "currentPriceUSD": 197371050000000000000,
-      "currentPoolEth": 0.095,
-      "currentMarketCap": 197.37105
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 12,
-    "holderCountOld": 11,
-    "txCount": 12,
-    "createdAtTimestamp": "1617565879",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 5.385797582433042e+25,
-    "isRugged": true
   }
 ]
