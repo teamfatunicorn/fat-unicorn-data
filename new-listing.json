@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xe4f356ecce6fbda81ecdea2e38527e59422861c2",
+    "tokenName": "STASH",
+    "idPair": "0x767ff0f2a17f352c584fb0ee9a09ab82c0a0b27f",
+    "idToken": "0xe4f356ecce6fbda81ecdea2e38527e59422861c2",
+    "dateCreationToken": "2021-04-09T06:49:30Z",
+    "initialInfos": {
+      "initialPoolToken": 10,
+      "initialPriceUSD": 0.06031275,
+      "initialPoolEth": 0.00029,
+      "initialMarketCap": 0.6016503503348248
+    },
+    "currentInfos": {
+      "currentPoolToken": 10,
+      "currentPriceUSD": 0.06031275,
+      "currentPoolEth": 0.00029,
+      "currentMarketCap": 0.6031275
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": null,
+    "txCount": 1,
+    "createdAtTimestamp": "1617950970",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x83e88fc9ac8af15bb2531fc846c38bf713a5c4d0",
     "tokenName": "EQZ",
     "idPair": "0x2d387ea2b6c3a88f8b29288734390eec2af1a1db",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-09T06:46:05Z",
     "initialInfos": {
       "initialPoolToken": 6000000,
-      "initialPriceUSD": 0.1039735,
+      "initialPriceUSD": 0.1039875,
       "initialPoolEth": 300,
-      "initialMarketCap": 623841
+      "initialMarketCap": 623925
     },
     "currentInfos": {
-      "currentPoolToken": 6000000,
-      "currentPriceUSD": 0.1039735,
-      "currentPoolEth": 300,
-      "currentMarketCap": 623841
+      "currentPoolToken": 5997608.1538682375,
+      "currentPriceUSD": 0.104070581803086,
+      "currentPoolEth": 300.12,
+      "currentMarketCap": 624174.57
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 0,
     "holderCountOld": 0,
-    "txCount": 1,
+    "txCount": 2,
     "createdAtTimestamp": "1617950765",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.0007989595199999925,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-09T06:17:59Z",
     "initialInfos": {
       "initialPoolToken": 9700000,
-      "initialPriceUSD": 0.0008575134020618557,
+      "initialPriceUSD": 0.0008576288659793814,
       "initialPoolEth": 4,
-      "initialMarketCap": 8317.88
+      "initialMarketCap": 8319
     },
     "currentInfos": {
       "currentPoolToken": 8438240.26267968,
-      "currentPriceUSD": 0.0011335967811092315,
+      "currentPriceUSD": 0.001133749419569373,
       "currentPoolEth": 4.6,
-      "currentMarketCap": 9565.562
+      "currentMarketCap": 9566.85
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.32195809229750194,
+    "priceChange": 0.3219580922975019,
     "isRugged": false
   },
   {
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 24,
     "createdAtTimestamp": "1617568569",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x95e1275382050a89aa67e7af34afe8560a7bd541",
-    "tokenName": "BYND",
-    "idPair": "0x8f5f9e499bc00d83285628da1a07e3436be6ca71",
-    "idToken": "0x95e1275382050a89aa67e7af34afe8560a7bd541",
-    "dateCreationToken": "2021-04-04T20:08:33Z",
-    "initialInfos": {
-      "initialPoolToken": 300000000,
-      "initialPriceUSD": 0.00000824548,
-      "initialPoolEth": 1.2,
-      "initialMarketCap": 2473.644
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.2265154e-11,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 7,
-    "holderCountOld": 6,
-    "txCount": 7,
-    "createdAtTimestamp": "1617566913",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
