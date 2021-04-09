@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xfb136954821de930646f4daf5370798440bf498c",
+    "tokenName": "FBN",
+    "idPair": "0xd97589a9ef2a7370193a5928e20fe510b8b8a1a9",
+    "idToken": "0xfb136954821de930646f4daf5370798440bf498c",
+    "dateCreationToken": "2021-04-09T18:44:39Z",
+    "initialInfos": {
+      "initialPoolToken": 20000000,
+      "initialPriceUSD": 0.005187775,
+      "initialPoolEth": 50,
+      "initialMarketCap": 103695.26487366353
+    },
+    "currentInfos": {
+      "currentPoolToken": 20000000,
+      "currentPriceUSD": 0.005187775,
+      "currentPoolEth": 50,
+      "currentMarketCap": 103755.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1617993879",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x592876d59afa1b510f5df167db367c90d2618b2d",
     "tokenName": "RFD",
     "idPair": "0x7183049a1c072db5f01261740a78af623e6d526f",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-09T18:13:31Z",
     "initialInfos": {
       "initialPoolToken": 120000,
-      "initialPriceUSD": 1.00048305,
+      "initialPriceUSD": 1.001240575,
       "initialPoolEth": 57.9,
-      "initialMarketCap": 120057.966
+      "initialMarketCap": 120148.869
     },
     "currentInfos": {
-      "currentPoolToken": 70309.495751,
-      "currentPriceUSD": 2.925971819148883,
-      "currentPoolEth": 99.21371335300726,
-      "currentMarketCap": 205723.60318599414
+      "currentPoolToken": 73172.159466,
+      "currentPriceUSD": 2.7039696262420443,
+      "currentPoolEth": 95.34689567425474,
+      "currentMarketCap": 197855.29668260328
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 144,
     "holderCountOld": 0,
-    "txCount": 108,
+    "txCount": 113,
     "createdAtTimestamp": "1617992011",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.9245591108703772,
+    "priceChange": 1.7006193054471892,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 72.92120186525838,
-    "isRugged": true
-  },
-  {
-    "_id": "0x699905d59d1daa57d247287a990f19bd21c82e3c",
-    "tokenName": "QTCH",
-    "idPair": "0x679f35325e9f1dcd5036b061b63a05cf4ea7fdcf",
-    "idToken": "0x699905d59d1daa57d247287a990f19bd21c82e3c",
-    "dateCreationToken": "2021-04-05T19:06:15Z",
-    "initialInfos": {
-      "initialPoolToken": 90000000,
-      "initialPriceUSD": 0.00008181172222222222,
-      "initialPoolEth": 3.5,
-      "initialMarketCap": 7363.055
-    },
-    "currentInfos": {
-      "currentPoolToken": 5.070926e-12,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 5,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1617649575",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
