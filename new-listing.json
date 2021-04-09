@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xa78782b45e53ba1ff99eed88efd738411107c77f",
+    "tokenName": "uMEME",
+    "idPair": "0x0f131f4710ffde7a71481c4a3150926d8b9b92c9",
+    "idToken": "0xa78782b45e53ba1ff99eed88efd738411107c77f",
+    "dateCreationToken": "2021-04-09T20:34:47Z",
+    "initialInfos": {
+      "initialPoolToken": 250000,
+      "initialPriceUSD": 0.04980792,
+      "initialPoolEth": 6,
+      "initialMarketCap": 12451.98
+    },
+    "currentInfos": {
+      "currentPoolToken": 176602.23474027627,
+      "currentPriceUSD": 0.10000966867410148,
+      "currentPoolEth": 8.51042050347695,
+      "currentMarketCap": 17661.93098348092
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 13,
+    "holderCountOld": 0,
+    "txCount": 10,
+    "createdAtTimestamp": "1618000487",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.0079069488166035,
+    "isRugged": false
+  },
+  {
     "_id": "0xbb824f2dfb75e15199077d106872c9aa47bd93b4",
     "tokenName": "eLTC",
     "idPair": "0x856e8f652a912ab2a3c59ac13782ed0a5c02c143",
@@ -12,22 +43,22 @@
       "initialMarketCap": 2075.33
     },
     "currentInfos": {
-      "currentPoolToken": 3980557561268.929,
-      "currentPriceUSD": 3.4759199906828077e-9,
-      "currentPoolEth": 6.666939523487221,
-      "currentMarketCap": 13836.099601278276
+      "currentPoolToken": 3682789102231.13,
+      "currentPriceUSD": 4.068034768885517e-9,
+      "currentPoolEth": 7.218955112848756,
+      "currentMarketCap": 14981.714114348915
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 84,
     "holderCountOld": 0,
-    "txCount": 154,
+    "txCount": 158,
     "createdAtTimestamp": "1617998751",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 40.89786657687593,
+    "priceChange": 48.03506940140362,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 7.628559949120052,
     "isRugged": false
-  },
-  {
-    "_id": "0x443075b42797bf75d7c1164ee4c216525a6147dc",
-    "tokenName": "SOLM",
-    "idPair": "0x9a5a685c62356cf5d69243967d452722c8ea65da",
-    "idToken": "0x443075b42797bf75d7c1164ee4c216525a6147dc",
-    "dateCreationToken": "2021-04-05T20:29:02Z",
-    "initialInfos": {
-      "initialPoolToken": 50000000,
-      "initialPriceUSD": 0.0059619876,
-      "initialPoolEth": 141,
-      "initialMarketCap": 298099.38
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.17755e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 9e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 270,
-    "holderCountOld": 269,
-    "txCount": 281,
-    "createdAtTimestamp": "1617654542",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
