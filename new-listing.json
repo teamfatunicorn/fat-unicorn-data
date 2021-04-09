@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x26aaf6a46eea7515cd41f98e4f87d3cb08bc32b7",
+    "tokenName": "SLPY",
+    "idPair": "0xe3437e0ba2bce5ec24d4542a930b8836284b17ee",
+    "idToken": "0x26aaf6a46eea7515cd41f98e4f87d3cb08bc32b7",
+    "dateCreationToken": "2021-04-09T02:14:16Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000,
+      "initialPriceUSD": 3.123e-7,
+      "initialPoolEth": 0.15,
+      "initialMarketCap": 312.3
+    },
+    "currentInfos": {
+      "currentPoolToken": 200670708,
+      "currentPriceUSD": 0.000007781404747921655,
+      "currentPoolEth": 0.75,
+      "currentMarketCap": 1561.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1617934456",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 23.916441716047565,
+    "isRugged": false
+  },
+  {
     "_id": "0x4ca60bff981785d9b6cf3433914eeff60d5d8cd8",
     "tokenName": "ZPUMP",
     "idPair": "0xf21fb46cf8561249f3c64e04c5dd4f4a7aa0352d",
@@ -12,22 +43,22 @@
       "initialMarketCap": 4164
     },
     "currentInfos": {
-      "currentPoolToken": 13120990.451583674,
-      "currentPriceUSD": 0.0020004597030499026,
-      "currentPoolEth": 12.607114631361643,
-      "currentMarketCap": 26248.012662495683
+      "currentPoolToken": 13731575.832543077,
+      "currentPriceUSD": 0.0018267546633007991,
+      "currentPoolEth": 12.048136496910427,
+      "currentMarketCap": 25084.22018656662
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 114,
+    "txCount": 115,
     "createdAtTimestamp": "1617929060",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 35.40051927165493,
+    "priceChange": 32.23976895145061,
     "isRugged": false
   },
   {
@@ -1191,7 +1222,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 465335.08083530614,
-      "currentPriceUSD": 1.2975694824386166,
+      "currentPriceUSD": 1.26967636001547,
       "currentPoolEth": 290.64,
       "currentMarketCap": 603804.6
     },
@@ -1205,7 +1236,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.281436200672154,
+    "priceChange": 0.253889886346369,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.5204622530171046,
-    "isRugged": true
-  },
-  {
-    "_id": "0xb247aa711d77a21b1a71898cf45970feadf6fe7f",
-    "tokenName": "PDEX",
-    "idPair": "0x3acfe7cdce504359d190e754153115ceadfa875a",
-    "idToken": "0xb247aa711d77a21b1a71898cf45970feadf6fe7f",
-    "dateCreationToken": "2021-04-04T15:21:36Z",
-    "initialInfos": {
-      "initialPoolToken": 530000,
-      "initialPriceUSD": 0.9757452830188679,
-      "initialPoolEth": 250,
-      "initialMarketCap": 517145
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.0727e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2.5e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 13,
-    "holderCountOld": 0,
-    "txCount": 14,
-    "createdAtTimestamp": "1617549696",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
