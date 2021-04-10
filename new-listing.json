@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x728f30fa2f100742c7949d1961804fa8e0b1387d",
+    "tokenName": "GHX",
+    "idPair": "0xc6b9c3fa037303d10d50d71ae3cedb0eea7a1c78",
+    "idToken": "0x728f30fa2f100742c7949d1961804fa8e0b1387d",
+    "dateCreationToken": "2021-04-10T22:40:20Z",
+    "initialInfos": {
+      "initialPoolToken": 4000,
+      "initialPriceUSD": 0.265695,
+      "initialPoolEth": 0.5,
+      "initialMarketCap": 1062.78
+    },
+    "currentInfos": {
+      "currentPoolToken": 3999.9823636939514,
+      "currentPriceUSD": 0.2672944452096298,
+      "currentPoolEth": 0.5030077093813816,
+      "currentMarketCap": 1069.1730667518784
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 342,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1618094420",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.0060198543805107,
+    "isRugged": false
+  },
+  {
     "_id": "0xd10c2b7ea6f447157f8536aae56597fdf802892f",
     "tokenName": "ALR",
     "idPair": "0xedbdf4d1ceb076ce56414782fc14deb52f44ab82",
@@ -51,7 +82,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 5,
+    "holderCount": 7,
     "holderCountOld": 0,
     "txCount": 1,
     "createdAtTimestamp": "1618090646",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xed0d5747a9ab03a75fbfec3228cd55848245b75d",
-    "tokenName": "NGM",
-    "idPair": "0x633dcd0024036f917ffd3554dc68174cd4a9b9fa",
-    "idToken": "0xed0d5747a9ab03a75fbfec3228cd55848245b75d",
-    "dateCreationToken": "2021-04-07T11:59:19Z",
-    "initialInfos": {
-      "initialPoolToken": 100000,
-      "initialPriceUSD": 2.37933275,
-      "initialPoolEth": 120.5,
-      "initialMarketCap": 237853.4344463929
-    },
-    "currentInfos": {
-      "currentPoolToken": 186805.383271,
-      "currentPriceUSD": 1.7207197206337177,
-      "currentPoolEth": 150.74505328181695,
-      "currentMarketCap": 321439.70691494964
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 59,
-    "holderCountOld": 58,
-    "txCount": 188,
-    "createdAtTimestamp": "1617796759",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.2768057680735418,
-    "isRugged": false
   }
 ]
