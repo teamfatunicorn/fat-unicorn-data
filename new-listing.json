@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xe253a1f7d5818022661bfbd2cbe043b642b4eff9",
+    "tokenName": "NFT",
+    "idPair": "0x01f8d5a4862d51d2cf0cf52ac900a4d60adaeee6",
+    "idToken": "0xe253a1f7d5818022661bfbd2cbe043b642b4eff9",
+    "dateCreationToken": "2021-04-10T14:43:39Z",
+    "initialInfos": {
+      "initialPoolToken": 5,
+      "initialPriceUSD": 2155.54,
+      "initialPoolEth": 5,
+      "initialMarketCap": 10753.252277910808
+    },
+    "currentInfos": {
+      "currentPoolToken": 5,
+      "currentPriceUSD": 2155.54,
+      "currentPoolEth": 5,
+      "currentMarketCap": 10777.7
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": null,
+    "txCount": 1,
+    "createdAtTimestamp": "1618065819",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xcb1427add2b5be25dfff7043f2de8204a0d37ad4",
     "tokenName": "KEL",
     "idPair": "0x4665d342ffec77575bf2592c35ba6e3c37f89b11",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-10T14:33:34Z",
     "initialInfos": {
       "initialPoolToken": 9316666,
-      "initialPriceUSD": 0.060161585700292355,
+      "initialPriceUSD": 0.06015460895560708,
       "initialPoolEth": 260,
       "initialMarketCap": 559653.3283043982
     },
     "currentInfos": {
-      "currentPoolToken": 9112868.818334052,
-      "currentPriceUSD": 0.06288671656120316,
-      "currentPoolEth": 265.8322,
-      "currentMarketCap": 573078.398438
+      "currentPoolToken": 9095811.95967698,
+      "currentPriceUSD": 0.06311582879384721,
+      "currentPoolEth": 266.3322,
+      "currentMarketCap": 574089.710388
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 7,
     "holderCountOld": 0,
-    "txCount": 8,
+    "txCount": 9,
     "createdAtTimestamp": "1618065214",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.045296858937306304,
+    "priceChange": 0.04922681552839041,
     "isRugged": false
   },
   {
@@ -38,7 +69,7 @@
     "dateCreationToken": "2021-04-10T13:50:08Z",
     "initialInfos": {
       "initialPoolToken": 5,
-      "initialPriceUSD": 2155.79,
+      "initialPriceUSD": 2155.54,
       "initialPoolEth": 5,
       "initialMarketCap": 10735.580483167789
     },
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.03354133350393018,
-    "isRugged": true
-  },
-  {
-    "_id": "0x0b1df86ca0f72c16bd4c939fd41dd9793d12d0a6",
-    "tokenName": "ZAPD",
-    "idPair": "0x4a99ff9d8f0c5ee3b80582b4e4e0f755b12265d0",
-    "idToken": "0x0b1df86ca0f72c16bd4c939fd41dd9793d12d0a6",
-    "dateCreationToken": "2021-04-06T22:42:32Z",
-    "initialInfos": {
-      "initialPoolToken": 5000000,
-      "initialPriceUSD": 0.002302454,
-      "initialPoolEth": 5.5,
-      "initialMarketCap": 11512.27
-    },
-    "currentInfos": {
-      "currentPoolToken": 8.29951e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 5,
-    "holderCountOld": 0,
-    "txCount": 26,
-    "createdAtTimestamp": "1617748952",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
