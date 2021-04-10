@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x1b49dc534fa67d0c23f6bd0601f8c8142f8306d0",
+    "tokenName": "FRCT",
+    "idPair": "0x9d614dfaef8576f1b24c303113be6ba779a45d27",
+    "idToken": "0x1b49dc534fa67d0c23f6bd0601f8c8142f8306d0",
+    "dateCreationToken": "2021-04-10T17:09:22Z",
+    "initialInfos": {
+      "initialPoolToken": 4000000,
+      "initialPriceUSD": 0.05369425,
+      "initialPoolEth": 100,
+      "initialMarketCap": 214777
+    },
+    "currentInfos": {
+      "currentPoolToken": 3992039.8724942463,
+      "currentPriceUSD": 0.053908918967169,
+      "currentPoolEth": 100.2,
+      "currentMarketCap": 215206.554
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1618074562",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.003997987999999979,
+    "isRugged": false
+  },
+  {
     "_id": "0x969734a4894e561317b134537283d3e92ecc49fd",
     "tokenName": "EEVEE",
     "idPair": "0xf774068bf4afdd3b8908ffe1971f325eb1c4b4b5",
@@ -7,9 +38,9 @@
     "dateCreationToken": "2021-04-10T16:59:11Z",
     "initialInfos": {
       "initialPoolToken": 59000000000,
-      "initialPriceUSD": 1.2384989830508474e-7,
+      "initialPriceUSD": 1.237697966101695e-7,
       "initialPoolEth": 3.4,
-      "initialMarketCap": 7307.144
+      "initialMarketCap": 7302.418
     },
     "currentInfos": {
       "currentPoolToken": 0.00000334,
@@ -38,9 +69,9 @@
     "dateCreationToken": "2021-04-10T16:39:14Z",
     "initialInfos": {
       "initialPoolToken": 8750000,
-      "initialPriceUSD": 0.0003193037714285714,
+      "initialPriceUSD": 0.00031909725714285715,
       "initialPoolEth": 1.3,
-      "initialMarketCap": 2793.908
+      "initialMarketCap": 2792.101
     },
     "currentInfos": {
       "currentPoolToken": 1.827868e-12,
@@ -69,15 +100,15 @@
     "dateCreationToken": "2021-04-10T16:21:34Z",
     "initialInfos": {
       "initialPoolToken": 5000000,
-      "initialPriceUSD": 0.14614288,
+      "initialPriceUSD": 0.14604836,
       "initialPoolEth": 340,
-      "initialMarketCap": 730714.4
+      "initialMarketCap": 730241.8
     },
     "currentInfos": {
       "currentPoolToken": 4996615.158300026,
-      "currentPriceUSD": 0.1463412474118969,
+      "currentPriceUSD": 0.1462465991149332,
       "currentPoolEth": 340.2310182130776,
-      "currentMarketCap": 731210.8951028187
+      "currentMarketCap": 730737.9739875025
     },
     "trustScore": null,
     "contractId": null,
@@ -89,7 +120,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.0013573525572844213,
+    "priceChange": 0.0013573525572845772,
     "isRugged": false
   },
   {
@@ -2232,37 +2263,6 @@
     "isRugged": true
   },
   {
-    "_id": "0x5943dcd46709d0a8e5dc16a0e02fb5ad0262ea74",
-    "tokenName": "GS",
-    "idPair": "0xc0d1acd66a29bf474dcc48c5f8121ea7230091a6",
-    "idToken": "0x5943dcd46709d0a8e5dc16a0e02fb5ad0262ea74",
-    "dateCreationToken": "2021-04-09T13:02:24Z",
-    "initialInfos": {
-      "initialPoolToken": 2130000,
-      "initialPriceUSD": 0.11299652582159625,
-      "initialPoolEth": 116,
-      "initialMarketCap": 240682.6
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.35507e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 8e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1617973344",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0x14e3ea527bfcef564a3756596249a71f35bfb0bc",
     "tokenName": "KTN",
     "idPair": "0xbc86a2f2de503ac977070d4e6f25326444998826",
@@ -2286,6 +2286,37 @@
     "holderCount": 34,
     "holderCountOld": 24,
     "txCount": 38,
+    "createdAtTimestamp": "1617973344",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0x5943dcd46709d0a8e5dc16a0e02fb5ad0262ea74",
+    "tokenName": "GS",
+    "idPair": "0xc0d1acd66a29bf474dcc48c5f8121ea7230091a6",
+    "idToken": "0x5943dcd46709d0a8e5dc16a0e02fb5ad0262ea74",
+    "dateCreationToken": "2021-04-09T13:02:24Z",
+    "initialInfos": {
+      "initialPoolToken": 2130000,
+      "initialPriceUSD": 0.11299652582159625,
+      "initialPoolEth": 116,
+      "initialMarketCap": 240682.6
+    },
+    "currentInfos": {
+      "currentPoolToken": 1.35507e-13,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 8e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 2,
     "createdAtTimestamp": "1617973344",
     "isCodeGenerator": false,
     "linksSocial": [],
@@ -6162,37 +6193,6 @@
     "holderCountOld": 15,
     "txCount": 21,
     "createdAtTimestamp": "1617768366",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x4e24e4f8d0080b9c9c2962e7b77b12c00dde71e2",
-    "tokenName": "LKR",
-    "idPair": "0x03b49794b1570b8570abdfb2b6a64e01d85cd483",
-    "idToken": "0x4e24e4f8d0080b9c9c2962e7b77b12c00dde71e2",
-    "dateCreationToken": "2021-04-07T03:38:24Z",
-    "initialInfos": {
-      "initialPoolToken": 6500000,
-      "initialPriceUSD": 0.09647123076923077,
-      "initialPoolEth": 300,
-      "initialMarketCap": 627063
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.20712e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 9e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 35,
-    "holderCountOld": 33,
-    "txCount": 42,
-    "createdAtTimestamp": "1617766704",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
