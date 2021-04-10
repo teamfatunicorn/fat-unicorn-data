@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x95aaf1904ea61f31e8475b21b948c1c3b212c225",
+    "tokenName": "BPAL",
+    "idPair": "0xefb74020c194d93db9a31e4b2a49f887cebb8ae2",
+    "idToken": "0x95aaf1904ea61f31e8475b21b948c1c3b212c225",
+    "dateCreationToken": "2021-04-10T03:24:43Z",
+    "initialInfos": {
+      "initialPoolToken": 1000,
+      "initialPriceUSD": 0.09754418781048,
+      "initialPoolEth": 0.045921732,
+      "initialMarketCap": 97.54418781048
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000,
+      "currentPriceUSD": 0.09754418781048,
+      "currentPoolEth": 0.045921732,
+      "currentMarketCap": 97.54418781048
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 13,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618025083",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x55fe2d8f3990b56d3805fc73fc9ccef564329f25",
     "tokenName": "SFCHG",
     "idPair": "0x6690bf650af454c0922af97a47a84a1702eacc27",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-10T02:30:03Z",
     "initialInfos": {
       "initialPoolToken": 388906522265,
-      "initialPriceUSD": 1.613393101112485e-8,
+      "initialPriceUSD": 1.6112388559352104e-8,
       "initialPoolEth": 2.95,
-      "initialMarketCap": 6274.591
+      "initialMarketCap": 6266.213
     },
     "currentInfos": {
-      "currentPoolToken": 188127959161.71017,
-      "currentPriceUSD": 7.071660657447786e-8,
-      "currentPoolEth": 6.2547700842033604,
-      "currentMarketCap": 13303.770873698097
+      "currentPoolToken": 185176279906.02383,
+      "currentPriceUSD": 7.289498057477637e-8,
+      "currentPoolEth": 6.354770084203361,
+      "currentMarketCap": 13498.42132665896
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 34,
-    "holderCountOld": 40,
-    "txCount": 117,
+    "holderCountOld": 0,
+    "txCount": 118,
     "createdAtTimestamp": "1618021803",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 3.3830983611939676,
+    "priceChange": 3.524157315736157,
     "isRugged": false
   },
   {
@@ -38,7 +69,7 @@
     "dateCreationToken": "2021-04-10T01:45:49Z",
     "initialInfos": {
       "initialPoolToken": 100000000,
-      "initialPriceUSD": 0.00000319047,
+      "initialPriceUSD": 0.000003186225,
       "initialPoolEth": 0.15,
       "initialMarketCap": 311.2626357087439
     },
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x72e364f2abdc788b7e918bc238b21f109cd634d7",
-    "tokenName": "MVI",
-    "idPair": "0x4d3c5db2c68f6859e0cd05d080979f597dd64bff",
-    "idToken": "0x72e364f2abdc788b7e918bc238b21f109cd634d7",
-    "dateCreationToken": "2021-04-06T05:09:58Z",
-    "initialInfos": {
-      "initialPoolToken": 500,
-      "initialPriceUSD": 98.00116,
-      "initialPoolEth": 23,
-      "initialMarketCap": 49000.58
-    },
-    "currentInfos": {
-      "currentPoolToken": 16899.2167354521,
-      "currentPriceUSD": 101.8652234497655,
-      "currentPoolEth": 825.1055628222018,
-      "currentMarketCap": 1721442.4888828448
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 476,
-    "holderCountOld": 470,
-    "txCount": 1348,
-    "createdAtTimestamp": "1617685798",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.0394287521674794,
-    "isRugged": false
   }
 ]
