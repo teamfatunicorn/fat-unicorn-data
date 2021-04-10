@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x8202701b24ff57dc18ff5c1498fd03666602cb0f",
+    "tokenName": "Party Token",
+    "idPair": "0x52f529560c0b8afd67aa4d3298d152b2ac07f3ac",
+    "idToken": "0x8202701b24ff57dc18ff5c1498fd03666602cb0f",
+    "dateCreationToken": "2021-04-10T01:08:19Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 2.06684e-8,
+      "initialPoolEth": 10,
+      "initialMarketCap": 20668.4
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000000,
+      "currentPriceUSD": 2.06684e-8,
+      "currentPoolEth": 10,
+      "currentMarketCap": 20668.4
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618016899",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x3d7b72ab1bf91942fc3df5d8f8ca81bde813a9c9",
     "tokenName": "Gorilaz Sanctuary",
     "idPair": "0x35360cd6aefae34a87f84b3d59b69dcfae2f6c51",
@@ -43,22 +74,22 @@
       "initialMarketCap": 10932.324831552114
     },
     "currentInfos": {
-      "currentPoolToken": 79542158187074.84,
-      "currentPriceUSD": 7.75032374803535e-10,
-      "currentPoolEth": 29.827053742296165,
-      "currentMarketCap": 61647.74775672706
+      "currentPoolToken": 79858889177667.66,
+      "currentPriceUSD": 7.70029780876851e-10,
+      "currentPoolEth": 29.752531852755354,
+      "currentMarketCap": 61493.72293454815
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 55,
     "holderCountOld": 0,
-    "txCount": 119,
+    "txCount": 133,
     "createdAtTimestamp": "1618015231",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 29.520829164074012,
+    "priceChange": 29.32382666511097,
     "isRugged": false
   },
   {
@@ -74,22 +105,22 @@
       "initialMarketCap": 44.86803010101694
     },
     "currentInfos": {
-      "currentPoolToken": 19542.778065517792,
-      "currentPriceUSD": 0.14091027934778927,
-      "currentPoolEth": 1.3323616324649574,
-      "currentMarketCap": 2753.7783164439606
+      "currentPoolToken": 18676.151784787144,
+      "currentPriceUSD": 0.1543115496838985,
+      "currentPoolEth": 1.394373015832443,
+      "currentMarketCap": 2881.9459240422107
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 788,
     "holderCountOld": 0,
-    "txCount": 23,
+    "txCount": 24,
     "createdAtTimestamp": "1618014957",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.753587011709078,
+    "priceChange": -0.7301519075726035,
     "isRugged": false
   },
   {
@@ -1147,37 +1178,6 @@
     "isRugged": true
   },
   {
-    "_id": "0x5943dcd46709d0a8e5dc16a0e02fb5ad0262ea74",
-    "tokenName": "GS",
-    "idPair": "0xc0d1acd66a29bf474dcc48c5f8121ea7230091a6",
-    "idToken": "0x5943dcd46709d0a8e5dc16a0e02fb5ad0262ea74",
-    "dateCreationToken": "2021-04-09T13:02:24Z",
-    "initialInfos": {
-      "initialPoolToken": 2130000,
-      "initialPriceUSD": 0.11299652582159625,
-      "initialPoolEth": 116,
-      "initialMarketCap": 240682.6
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.35507e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 8e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1617973344",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0x14e3ea527bfcef564a3756596249a71f35bfb0bc",
     "tokenName": "KTN",
     "idPair": "0xbc86a2f2de503ac977070d4e6f25326444998826",
@@ -1201,6 +1201,37 @@
     "holderCount": 34,
     "holderCountOld": 24,
     "txCount": 38,
+    "createdAtTimestamp": "1617973344",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0x5943dcd46709d0a8e5dc16a0e02fb5ad0262ea74",
+    "tokenName": "GS",
+    "idPair": "0xc0d1acd66a29bf474dcc48c5f8121ea7230091a6",
+    "idToken": "0x5943dcd46709d0a8e5dc16a0e02fb5ad0262ea74",
+    "dateCreationToken": "2021-04-09T13:02:24Z",
+    "initialInfos": {
+      "initialPoolToken": 2130000,
+      "initialPriceUSD": 0.11299652582159625,
+      "initialPoolEth": 116,
+      "initialMarketCap": 240682.6
+    },
+    "currentInfos": {
+      "currentPoolToken": 1.35507e-13,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 8e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 2,
     "createdAtTimestamp": "1617973344",
     "isCodeGenerator": false,
     "linksSocial": [],
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 1.468349699770162,
-    "isRugged": false
-  },
-  {
-    "_id": "0x84f830a9203223d672d6592481f4a027e9cf934e",
-    "tokenName": "FRAM20",
-    "idPair": "0x85c76f758db7005a350e3c99a68e721304169de8",
-    "idToken": "0x84f830a9203223d672d6592481f4a027e9cf934e",
-    "dateCreationToken": "2021-04-06T03:55:43Z",
-    "initialInfos": {
-      "initialPoolToken": 760,
-      "initialPriceUSD": 4.26012,
-      "initialPoolEth": 1.52,
-      "initialMarketCap": 3237.6912
-    },
-    "currentInfos": {
-      "currentPoolToken": 608.2202163168314,
-      "currentPriceUSD": 6.486090228472371,
-      "currentPoolEth": 1.9040447136727994,
-      "currentMarketCap": 3944.971201811952
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 5,
-    "holderCountOld": 6,
-    "txCount": 9,
-    "createdAtTimestamp": "1617681343",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.5225135039558443,
     "isRugged": false
   }
 ]
