@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xd10c2b7ea6f447157f8536aae56597fdf802892f",
+    "tokenName": "ALR",
+    "idPair": "0xedbdf4d1ceb076ce56414782fc14deb52f44ab82",
+    "idToken": "0xd10c2b7ea6f447157f8536aae56597fdf802892f",
+    "dateCreationToken": "2021-04-10T21:51:24Z",
+    "initialInfos": {
+      "initialPoolToken": 20000000,
+      "initialPriceUSD": 0.00529145,
+      "initialPoolEth": 50,
+      "initialMarketCap": 105446.00831025555
+    },
+    "currentInfos": {
+      "currentPoolToken": 19841744,
+      "currentPriceUSD": 0.0053763233715745954,
+      "currentPoolEth": 50.4,
+      "currentMarketCap": 106675.632
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1618091484",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.016039719089209162,
+    "isRugged": false
+  },
+  {
     "_id": "0xbe9d107275486de80ca9a272053c888d92599f43",
     "tokenName": "TMKR",
     "idPair": "0x3b0e89cfdf86429e0bb21a10d5241039a063403e",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.2768057680735418,
     "isRugged": false
-  },
-  {
-    "_id": "0x0447e41fb9d38b14fcd9c39ae89efd11ac4a854b",
-    "tokenName": "ELE",
-    "idPair": "0xb52f15ba82ab59acafcf74619c98eb99158ecc28",
-    "idToken": "0x0447e41fb9d38b14fcd9c39ae89efd11ac4a854b",
-    "dateCreationToken": "2021-04-07T11:45:47Z",
-    "initialInfos": {
-      "initialPoolToken": 20000000,
-      "initialPriceUSD": 0.004529321,
-      "initialPoolEth": 46,
-      "initialMarketCap": 90586.42
-    },
-    "currentInfos": {
-      "currentPoolToken": 1,
-      "currentPriceUSD": 0.00000330299466,
-      "currentPoolEth": 1.549408972e-9,
-      "currentMarketCap": 0.00000330299466
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 9,
-    "createdAtTimestamp": "1617795947",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9992707527993709,
-    "isRugged": true
   }
 ]
