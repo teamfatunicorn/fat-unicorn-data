@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x54714a7dc0a6f23b83e57da242fa0cd15efdec85",
+    "tokenName": "AKL",
+    "idPair": "0xa1152e913a584300b950a7b67b276b043cb0681a",
+    "idToken": "0x54714a7dc0a6f23b83e57da242fa0cd15efdec85",
+    "dateCreationToken": "2021-04-10T22:58:04Z",
+    "initialInfos": {
+      "initialPoolToken": 20000000,
+      "initialPriceUSD": 0.00593334,
+      "initialPoolEth": 56,
+      "initialMarketCap": 118666.8
+    },
+    "currentInfos": {
+      "currentPoolToken": 19890225,
+      "currentPriceUSD": 0.005999112905962602,
+      "currentPoolEth": 56.31,
+      "currentMarketCap": 119323.7055
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1618095484",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.011085308774248941,
+    "isRugged": false
+  },
+  {
     "_id": "0x728f30fa2f100742c7949d1961804fa8e0b1387d",
     "tokenName": "GHX",
     "idPair": "0xc6b9c3fa037303d10d50d71ae3cedb0eea7a1c78",
@@ -50,7 +81,7 @@
     },
     "trustScore": null,
     "contractId": null,
-    "contractVerified": true,
+    "contractVerified": false,
     "holderCount": 12,
     "holderCountOld": 0,
     "txCount": 29,
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 10,
     "createdAtTimestamp": "1617800003",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x6586b276a2f9200163b9ffdcd43553c62d295309",
-    "tokenName": "LKR",
-    "idPair": "0xbec52611f7ecbe5b84ca5e322bf97887c6267ac2",
-    "idToken": "0x6586b276a2f9200163b9ffdcd43553c62d295309",
-    "dateCreationToken": "2021-04-07T12:47:47Z",
-    "initialInfos": {
-      "initialPoolToken": 500000000,
-      "initialPriceUSD": 0.000601389,
-      "initialPoolEth": 150,
-      "initialMarketCap": 300694.5
-    },
-    "currentInfos": {
-      "currentPoolToken": 3.49886e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 364,
-    "holderCountOld": 363,
-    "txCount": 365,
-    "createdAtTimestamp": "1617799667",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
