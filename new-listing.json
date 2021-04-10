@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xcb1427add2b5be25dfff7043f2de8204a0d37ad4",
+    "tokenName": "KEL",
+    "idPair": "0x4665d342ffec77575bf2592c35ba6e3c37f89b11",
+    "idToken": "0xcb1427add2b5be25dfff7043f2de8204a0d37ad4",
+    "dateCreationToken": "2021-04-10T14:33:34Z",
+    "initialInfos": {
+      "initialPoolToken": 9316666,
+      "initialPriceUSD": 0.06015572523475673,
+      "initialPoolEth": 260,
+      "initialMarketCap": 559653.3283043982
+    },
+    "currentInfos": {
+      "currentPoolToken": 9316666,
+      "currentPriceUSD": 0.06017637639902514,
+      "currentPoolEth": 260,
+      "currentMarketCap": 560643.2
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": null,
+    "txCount": 1,
+    "createdAtTimestamp": "1618065214",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.0003432950760351407,
+    "isRugged": false
+  },
+  {
     "_id": "0xd96cf4bdac306ed22fa2e7cbba55b35c78975b34",
     "tokenName": "NFT",
     "idPair": "0x301dc2e4fb5035b85cc9970e14f7b0aa8e0a9944",
@@ -7,7 +38,7 @@
     "dateCreationToken": "2021-04-10T13:50:08Z",
     "initialInfos": {
       "initialPoolToken": 5,
-      "initialPriceUSD": 2155.63,
+      "initialPriceUSD": 2155.58,
       "initialPoolEth": 5,
       "initialMarketCap": 10735.580483167789
     },
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-10T13:42:49Z",
     "initialInfos": {
       "initialPoolToken": 114.3,
-      "initialPriceUSD": 4.31126,
+      "initialPriceUSD": 4.31116,
       "initialPoolEth": 0.2286,
-      "initialMarketCap": 492.777018
+      "initialMarketCap": 492.765588
     },
     "currentInfos": {
       "currentPoolToken": 114.3,
-      "currentPriceUSD": 4.31126,
+      "currentPriceUSD": 4.31264,
       "currentPoolEth": 0.2286,
-      "currentMarketCap": 492.777018
+      "currentMarketCap": 492.934752
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.000343295076035203,
     "isRugged": false
   },
   {
@@ -69,15 +100,15 @@
     "dateCreationToken": "2021-04-10T13:02:11Z",
     "initialInfos": {
       "initialPoolToken": 500000000000,
-      "initialPriceUSD": 8.62252e-9,
+      "initialPriceUSD": 8.62232e-9,
       "initialPoolEth": 2,
-      "initialMarketCap": 4311.26
+      "initialMarketCap": 4311.16
     },
     "currentInfos": {
       "currentPoolToken": 297990965248.1943,
-      "currentPriceUSD": 2.431203040455155e-8,
+      "currentPriceUSD": 2.4311466485177526e-8,
       "currentPoolEth": 3.3608575717523954,
-      "currentMarketCap": 7244.765407395764
+      "currentMarketCap": 7244.597364517176
     },
     "trustScore": null,
     "contractId": null,
@@ -89,7 +120,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.819596870120516,
+    "priceChange": 1.8195968701205154,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xb08864ab478e78e0af6a81d6e4b809d6a09c6e87",
-    "tokenName": "BKDR",
-    "idPair": "0x1b62561e2c8657c404c1e6b0deb30206b7c9d731",
-    "idToken": "0xb08864ab478e78e0af6a81d6e4b809d6a09c6e87",
-    "dateCreationToken": "2021-04-06T21:48:43Z",
-    "initialInfos": {
-      "initialPoolToken": 18500065.6167979,
-      "initialPriceUSD": 0.00007989847336854164,
-      "initialPoolEth": 0.7,
-      "initialMarketCap": 1478.127
-    },
-    "currentInfos": {
-      "currentPoolToken": 7975590.94291461,
-      "currentPriceUSD": 0.0004885769431657024,
-      "currentPoolEth": 1.8230042632921357,
-      "currentMarketCap": 3896.689842829283
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 49,
-    "holderCountOld": 52,
-    "txCount": 223,
-    "createdAtTimestamp": "1617745723",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 5.114972196178024,
-    "isRugged": false
   }
 ]
