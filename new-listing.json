@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc896736f9015ad045a79c120ad709b5175b29550",
+    "tokenName": "RVF",
+    "idPair": "0x4c59a1dcf28dfb4d22237ec228506728282c4ede",
+    "idToken": "0xc896736f9015ad045a79c120ad709b5175b29550",
+    "dateCreationToken": "2021-04-10T07:22:07Z",
+    "initialInfos": {
+      "initialPoolToken": 12000000,
+      "initialPriceUSD": 0.03985336666666667,
+      "initialPoolEth": 220,
+      "initialMarketCap": 477762.363835874
+    },
+    "currentInfos": {
+      "currentPoolToken": 12000000,
+      "currentPriceUSD": 0.03985336666666667,
+      "currentPoolEth": 220,
+      "currentMarketCap": 478240.4
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": null,
+    "txCount": 1,
+    "createdAtTimestamp": "1618039327",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xc4dca71a5d1fab8356f01da9d0d2158a96abf0bb",
     "tokenName": "NBNG",
     "idPair": "0x992827fd861a3a4f2c68cd9e2f4b93ae2a5559d1",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-10T06:52:18Z",
     "initialInfos": {
       "initialPoolToken": 2800000,
-      "initialPriceUSD": 0.3714994285714286,
+      "initialPriceUSD": 0.3726548571428571,
       "initialPoolEth": 480,
       "initialMarketCap": 1044047.813969941
     },
     "currentInfos": {
-      "currentPoolToken": 2805018.3570232447,
-      "currentPriceUSD": 0.37028206272289466,
-      "currentPoolEth": 479.2845595059487,
-      "currentMarketCap": 1038647.9832141519
+      "currentPoolToken": 2801836.0865630284,
+      "currentPriceUSD": 0.3722791893028743,
+      "currentPoolEth": 479.8305595059487,
+      "currentMarketCap": 1043065.266865222
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 9,
     "holderCountOld": 0,
-    "txCount": 12,
+    "txCount": 13,
     "createdAtTimestamp": "1618037538",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.0032768983069912617,
+    "priceChange": -0.0010080851833331058,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x7d12e8dcd93fd5ff15955ff6d926590e0f8be222",
-    "tokenName": "RAZE",
-    "idPair": "0xaaa88431a40056773fea453228bd814e157a6cc3",
-    "idToken": "0x7d12e8dcd93fd5ff15955ff6d926590e0f8be222",
-    "dateCreationToken": "2021-04-06T07:30:28Z",
-    "initialInfos": {
-      "initialPoolToken": 1600000,
-      "initialPriceUSD": 0.26608625,
-      "initialPoolEth": 200,
-      "initialMarketCap": 425738
-    },
-    "currentInfos": {
-      "currentPoolToken": 1398004.1291151508,
-      "currentPriceUSD": 0.3569383367385593,
-      "currentPoolEth": 228.99,
-      "currentMarketCap": 499001.2686
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 20,
-    "holderCountOld": 19,
-    "txCount": 19,
-    "createdAtTimestamp": "1617694228",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.34143848747749744,
-    "isRugged": false
   }
 ]
