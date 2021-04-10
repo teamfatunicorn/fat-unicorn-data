@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xccdc9c3c040746f0a617ce5c393e38fc6f0f50e0",
+    "tokenName": "OUT",
+    "idPair": "0x7897e574903d5acb18422a61c297ed6b39bdbddb",
+    "idToken": "0xccdc9c3c040746f0a617ce5c393e38fc6f0f50e0",
+    "dateCreationToken": "2021-04-10T06:15:50Z",
+    "initialInfos": {
+      "initialPoolToken": 20000,
+      "initialPriceUSD": 0.0108539,
+      "initialPoolEth": 0.1,
+      "initialMarketCap": 217.71959000127222
+    },
+    "currentInfos": {
+      "currentPoolToken": 20000,
+      "currentPriceUSD": 0.01088525,
+      "currentPoolEth": 0.1,
+      "currentMarketCap": 217.705
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618035350",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.0028883627083353606,
+    "isRugged": true
+  },
+  {
     "_id": "0xb6b817bddc4d208f066e64338bb2e3cafcb9197f",
     "tokenName": "BYN",
     "idPair": "0x586fd101719ac03253da4bead9dacf7a107168fc",
@@ -12,22 +43,22 @@
       "initialMarketCap": 542695
     },
     "currentInfos": {
-      "currentPoolToken": 2154971.0101155546,
-      "currentPriceUSD": 0.2571121376610679,
-      "currentPoolEth": 255.23968481764172,
-      "currentMarketCap": 554069.2030084409
+      "currentPoolToken": 2112070.9556213445,
+      "currentPriceUSD": 0.26845225740318285,
+      "currentPoolEth": 260.4396848176417,
+      "currentMarketCap": 566990.2158322475
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 2,
     "holderCountOld": 0,
-    "txCount": 9,
+    "txCount": 11,
     "createdAtTimestamp": "1618034886",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.042292084604334555,
+    "priceChange": 0.0882631428095012,
     "isRugged": false
   },
   {
@@ -1333,37 +1364,6 @@
     "isRugged": true
   },
   {
-    "_id": "0x5943dcd46709d0a8e5dc16a0e02fb5ad0262ea74",
-    "tokenName": "GS",
-    "idPair": "0xc0d1acd66a29bf474dcc48c5f8121ea7230091a6",
-    "idToken": "0x5943dcd46709d0a8e5dc16a0e02fb5ad0262ea74",
-    "dateCreationToken": "2021-04-09T13:02:24Z",
-    "initialInfos": {
-      "initialPoolToken": 2130000,
-      "initialPriceUSD": 0.11299652582159625,
-      "initialPoolEth": 116,
-      "initialMarketCap": 240682.6
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.35507e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 8e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1617973344",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0x14e3ea527bfcef564a3756596249a71f35bfb0bc",
     "tokenName": "KTN",
     "idPair": "0xbc86a2f2de503ac977070d4e6f25326444998826",
@@ -1387,6 +1387,37 @@
     "holderCount": 34,
     "holderCountOld": 24,
     "txCount": 38,
+    "createdAtTimestamp": "1617973344",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0x5943dcd46709d0a8e5dc16a0e02fb5ad0262ea74",
+    "tokenName": "GS",
+    "idPair": "0xc0d1acd66a29bf474dcc48c5f8121ea7230091a6",
+    "idToken": "0x5943dcd46709d0a8e5dc16a0e02fb5ad0262ea74",
+    "dateCreationToken": "2021-04-09T13:02:24Z",
+    "initialInfos": {
+      "initialPoolToken": 2130000,
+      "initialPriceUSD": 0.11299652582159625,
+      "initialPoolEth": 116,
+      "initialMarketCap": 240682.6
+    },
+    "currentInfos": {
+      "currentPoolToken": 1.35507e-13,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 8e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 2,
     "createdAtTimestamp": "1617973344",
     "isCodeGenerator": false,
     "linksSocial": [],
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x0d8a2a73544e20e62304200453b8f71fef31b17c",
-    "tokenName": "FLV",
-    "idPair": "0xf066bc9ef3004351456ad9106fa0a22b02b0ed0a",
-    "idToken": "0x0d8a2a73544e20e62304200453b8f71fef31b17c",
-    "dateCreationToken": "2021-04-06T05:57:39Z",
-    "initialInfos": {
-      "initialPoolToken": 1000,
-      "initialPriceUSD": 0.213046,
-      "initialPoolEth": 0.1,
-      "initialMarketCap": 213.046
-    },
-    "currentInfos": {
-      "currentPoolToken": 1,
-      "currentPriceUSD": 0.0000222054366,
-      "currentPoolEth": 1.0190000001e-8,
-      "currentMarketCap": 0.0000222054366
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 3,
-    "holderCountOld": 2,
-    "txCount": 4,
-    "createdAtTimestamp": "1617688659",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9998957716333562,
     "isRugged": true
   }
 ]
