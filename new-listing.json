@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xf8da8b4c1114a12351a4eea31e4a6295608dd13d",
+    "tokenName": "RAZE",
+    "idPair": "0x3126e82221a534c62372835de59f2f9525c5a4b9",
+    "idToken": "0xf8da8b4c1114a12351a4eea31e4a6295608dd13d",
+    "dateCreationToken": "2021-04-11T03:57:50Z",
+    "initialInfos": {
+      "initialPoolToken": 4500000,
+      "initialPriceUSD": 0.11933333333333333,
+      "initialPoolEth": 250,
+      "initialMarketCap": 536741.277985245
+    },
+    "currentInfos": {
+      "currentPoolToken": 4500000,
+      "currentPriceUSD": 0.11933333333333333,
+      "currentPoolEth": 250,
+      "currentMarketCap": 537000
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618113470",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x8281ee37f164c0e26e6b6f87e7695baac256df07",
     "tokenName": "DAC",
     "idPair": "0x9b3e5c1e8399c36494f02f899a9eb33d3327cb15",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-11T02:42:18Z",
     "initialInfos": {
       "initialPoolToken": 40000,
-      "initialPriceUSD": 0.0806295,
+      "initialPriceUSD": 0.08055,
       "initialPoolEth": 1.5,
-      "initialMarketCap": 3225.18
+      "initialMarketCap": 3222
     },
     "currentInfos": {
-      "currentPoolToken": 8955.71010964475,
-      "currentPriceUSD": 1.7120720580236046,
-      "currentPoolEth": 7.1311466515739275,
-      "currentMarketCap": 15332.821038482289
+      "currentPoolToken": 9885.439762722814,
+      "currentPriceUSD": 1.4041943612765084,
+      "currentPoolEth": 6.462327175770383,
+      "currentMarketCap": 13881.07877355396
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 54,
     "holderCountOld": 0,
-    "txCount": 226,
+    "txCount": 228,
     "createdAtTimestamp": "1618108938",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 20.233817126778717,
+    "priceChange": 16.432580524848028,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-11T02:13:44Z",
     "initialInfos": {
       "initialPoolToken": 500,
-      "initialPriceUSD": 0.860048,
+      "initialPriceUSD": 0.8592,
       "initialPoolEth": 0.2,
-      "initialMarketCap": 430.024
+      "initialMarketCap": 429.6
     },
     "currentInfos": {
       "currentPoolToken": 199.78375477877944,
-      "currentPriceUSD": 5.431793430354694,
+      "currentPriceUSD": 5.426437728313713,
       "currentPoolEth": 0.5047086147282895,
-      "currentMarketCap": 1085.1840866989673
+      "currentMarketCap": 1084.114104435744
     },
     "trustScore": null,
     "contractId": null,
@@ -69,9 +100,9 @@
     "dateCreationToken": "2021-04-11T01:43:01Z",
     "initialInfos": {
       "initialPoolToken": 225552,
-      "initialPriceUSD": 0.04651958572745974,
+      "initialPriceUSD": 0.04647371781230049,
       "initialPoolEth": 4.88,
-      "initialMarketCap": 10492.5856
+      "initialMarketCap": 10482.24
     },
     "currentInfos": {
       "currentPoolToken": 3e-8,
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 2.3593617116692127,
-    "isRugged": false
-  },
-  {
-    "_id": "0xfef62a8586480f794b7e6a869a9937f97f88205a",
-    "tokenName": "BURNY",
-    "idPair": "0x8f3cc3874f9a55c6083c84fc870018cabaafc65e",
-    "idToken": "0xfef62a8586480f794b7e6a869a9937f97f88205a",
-    "dateCreationToken": "2021-04-07T16:32:53Z",
-    "initialInfos": {
-      "initialPoolToken": 478400000000,
-      "initialPriceUSD": 6.33693122909699e-8,
-      "initialPoolEth": 15.3,
-      "initialMarketCap": 30283.919803349974
-    },
-    "currentInfos": {
-      "currentPoolToken": 76751664156.05779,
-      "currentPriceUSD": 0.0000027400569174311577,
-      "currentPoolEth": 97.84672747434499,
-      "currentMarketCap": 210303.9282951592
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 756,
-    "holderCountOld": 755,
-    "txCount": 2344,
-    "createdAtTimestamp": "1617813173",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 42.23949271927975,
     "isRugged": false
   }
 ]
