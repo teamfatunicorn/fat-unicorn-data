@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x1d13674f40c94744b6a19b518116bbfbd82c41fe",
+    "tokenName": "Putin",
+    "idPair": "0xbc3296357de3ab94532048558a47f334cfe49524",
+    "idToken": "0x1d13674f40c94744b6a19b518116bbfbd82c41fe",
+    "dateCreationToken": "2021-04-11T16:58:48Z",
+    "initialInfos": {
+      "initialPoolToken": 200000000000,
+      "initialPriceUSD": 3.3322365e-8,
+      "initialPoolEth": 3.1,
+      "initialMarketCap": 6664.473
+    },
+    "currentInfos": {
+      "currentPoolToken": 151330241640.23,
+      "currentPriceUSD": 5.824548288870758e-8,
+      "currentPoolEth": 4.1,
+      "currentMarketCap": 8814.303
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1618160328",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.7479396462018102,
+    "isRugged": false
+  },
+  {
+    "_id": "0xf5064c5055218c338982309fdb85c17864cf4f8b",
+    "tokenName": "TRAPPY",
+    "idPair": "0x5b854a69541624377c21cbe2165733e7aa7e6a76",
+    "idToken": "0xf5064c5055218c338982309fdb85c17864cf4f8b",
+    "dateCreationToken": "2021-04-11T16:57:37Z",
+    "initialInfos": {
+      "initialPoolToken": 10000,
+      "initialPriceUSD": 0.0214986,
+      "initialPoolEth": 0.1,
+      "initialMarketCap": 213.87224357380725
+    },
+    "currentInfos": {
+      "currentPoolToken": 10000,
+      "currentPriceUSD": 0.0214983,
+      "currentPoolEth": 0.1,
+      "currentMarketCap": 214.983
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 9,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618160257",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -0.000013954397030421439,
+    "isRugged": true
+  },
+  {
     "_id": "0xd5af8a01fb6cdc39062a07fabd791f28af08c643",
     "tokenName": "DARWIN",
     "idPair": "0x03b098f853fe5bb6d31233f863eb72a3e7355bdc",
@@ -7,15 +69,15 @@
     "dateCreationToken": "2021-04-11T16:53:43Z",
     "initialInfos": {
       "initialPoolToken": 100000000,
-      "initialPriceUSD": 0.00005374775,
+      "initialPriceUSD": 0.0000537465,
       "initialPoolEth": 2.5,
       "initialMarketCap": 5358.006977727179
     },
     "currentInfos": {
       "currentPoolToken": 89922990.00072215,
-      "currentPriceUSD": 0.00006648911151588693,
+      "currentPriceUSD": 0.00006648663739886748,
       "currentPoolEth": 2.781,
-      "currentMarketCap": 5978.89971
+      "currentMarketCap": 5978.67723
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.23705850972155923,
+    "priceChange": 0.2370412473159644,
     "isRugged": false
   },
   {
@@ -6136,67 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.665720385970265,
     "isRugged": true
-  },
-  {
-    "_id": "0x22b3faaa8df978f6bafe18aade18dc2e3dfa0e0c",
-    "tokenName": "BAM",
-    "idPair": "0x7af780018d088038beaec4355a4d30edf258ce01",
-    "idToken": "0x22b3faaa8df978f6bafe18aade18dc2e3dfa0e0c",
-    "dateCreationToken": "2021-04-08T05:21:30Z",
-    "initialInfos": {
-      "initialPoolToken": 6667,
-      "initialPriceUSD": 0.030300584970751464,
-      "initialPoolEth": 0.1,
-      "initialMarketCap": 202.014
-    },
-    "currentInfos": {
-      "currentPoolToken": 6062.562517050104,
-      "currentPriceUSD": 0.038876547555122244,
-      "currentPoolEth": 0.11,
-      "currentMarketCap": 235.6915
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 378,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1617859290",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.2830296046313621,
-    "isRugged": false
-  },
-  {
-    "_id": "0x9973c42a674388b49688ead27fff8a3a7cc2a75d",
-    "tokenName": "BARK",
-    "idPair": "0x4419f947c12ab700dea586f4fedf0f076ae238a5",
-    "idToken": "0x9973c42a674388b49688ead27fff8a3a7cc2a75d",
-    "dateCreationToken": "2021-04-08T05:17:54Z",
-    "initialInfos": {
-      "initialPoolToken": 989696001.4364386,
-      "initialPriceUSD": 0.000004168073705474022,
-      "initialPoolEth": 2.042,
-      "initialMarketCap": 4125.12588
-    },
-    "currentInfos": {
-      "currentPoolToken": 989696001.4364386,
-      "currentPriceUSD": 0.000004420843666792358,
-      "currentPoolEth": 2.042,
-      "currentMarketCap": 4375.2913
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 1,
-    "createdAtTimestamp": "1617859074",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.06064431178037162,
-    "isRugged": false
   }
 ]
