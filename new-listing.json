@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x43345a39b1f77b621bcbe4a013fce01d69555669",
+    "tokenName": "HTF",
+    "idPair": "0x79f29a09898ba6a951f91afb5d87e7d9b98e09af",
+    "idToken": "0x43345a39b1f77b621bcbe4a013fce01d69555669",
+    "dateCreationToken": "2021-04-11T22:31:59Z",
+    "initialInfos": {
+      "initialPoolToken": 250000,
+      "initialPriceUSD": 0.00428098,
+      "initialPoolEth": 0.5,
+      "initialMarketCap": 1070.245
+    },
+    "currentInfos": {
+      "currentPoolToken": 156425.97922662995,
+      "currentPriceUSD": 0.0109469795776,
+      "currentPoolEth": 0.8,
+      "currentMarketCap": 1712.392
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1618180319",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.5571199999999998,
+    "isRugged": false
+  },
+  {
     "_id": "0xc6cf3c3c693fb0a2c8ae69ec4c199a4ba285a594",
     "tokenName": "CARS",
     "idPair": "0xbab074b2472ebafebb663b3cff200ad083b75065",
@@ -43,22 +74,22 @@
       "initialMarketCap": 139131.85
     },
     "currentInfos": {
-      "currentPoolToken": 24959802,
-      "currentPriceUSD": 0.005583241463614175,
-      "currentPoolEth": 65.105,
-      "currentMarketCap": 139356.60145
+      "currentPoolToken": 24998089,
+      "currentPriceUSD": 0.005566177583555339,
+      "currentPoolEth": 65.00558405950113,
+      "currentMarketCap": 139143.8026235213
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 3,
+    "txCount": 4,
     "createdAtTimestamp": "1618179875",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.00322849577831651,
+    "priceChange": 0.00016236101858392143,
     "isRugged": false
   },
   {
@@ -74,22 +105,22 @@
       "initialMarketCap": 149174.64893327738
     },
     "currentInfos": {
-      "currentPoolToken": 84888.70867632313,
-      "currentPriceUSD": 2.0802581138715563,
-      "currentPoolEth": 82.5,
-      "currentMarketCap": 176590.425
+      "currentPoolToken": 80051.64846312693,
+      "currentPriceUSD": 2.3396504456278637,
+      "currentPoolEth": 87.5,
+      "currentMarketCap": 187292.875
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 4,
     "holderCountOld": 0,
-    "txCount": 4,
+    "txCount": 5,
     "createdAtTimestamp": "1618179579",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.3883724313268433,
+    "priceChange": 0.5614918917950454,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xaa6b1d0fc23c1f9e4d19c6e27e777015ce75daf2",
-    "tokenName": "PUPPY",
-    "idPair": "0x2cfe676ce9db0982ee866e6a4eda8557570f53b3",
-    "idToken": "0xaa6b1d0fc23c1f9e4d19c6e27e777015ce75daf2",
-    "dateCreationToken": "2021-04-08T14:34:24Z",
-    "initialInfos": {
-      "initialPoolToken": 39954213343,
-      "initialPriceUSD": 9.21732576332957e-8,
-      "initialPoolEth": 1.8,
-      "initialMarketCap": 3682.71
-    },
-    "currentInfos": {
-      "currentPoolToken": 32795141468.84528,
-      "currentPriceUSD": 1.1889856537659328e-7,
-      "currentPoolEth": 1.8251966054418443,
-      "currentMarketCap": 3899.2952719681257
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 22,
-    "holderCountOld": 24,
-    "txCount": 157,
-    "createdAtTimestamp": "1617892464",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.28994643814827703,
-    "isRugged": false
   }
 ]
