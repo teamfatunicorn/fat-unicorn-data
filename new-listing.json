@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xd3d7be7bd6a06266c87c7f965817eaf348a7e202",
+    "tokenName": "PUSH",
+    "idPair": "0x77edf7b5ce67fdefb4985f735e64ef42777f4c44",
+    "idToken": "0xd3d7be7bd6a06266c87c7f965817eaf348a7e202",
+    "dateCreationToken": "2021-04-11T04:44:57Z",
+    "initialInfos": {
+      "initialPoolToken": 11000000,
+      "initialPriceUSD": 0.05825672727272727,
+      "initialPoolEth": 300,
+      "initialMarketCap": 640179.878208097
+    },
+    "currentInfos": {
+      "currentPoolToken": 11000000,
+      "currentPriceUSD": 0.05825672727272727,
+      "currentPoolEth": 300,
+      "currentMarketCap": 640824
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618116297",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x421dd5cccd9059b78e151c25215a2de931047331",
     "tokenName": "INK",
     "idPair": "0x74c52ef18fe20de850eba9f61bb650c7991b87ea",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-11T04:35:22Z",
     "initialInfos": {
       "initialPoolToken": 100000000,
-      "initialPriceUSD": 0.0000213688,
+      "initialPriceUSD": 0.0000213608,
       "initialPoolEth": 1,
-      "initialMarketCap": 2136.88
+      "initialMarketCap": 2136.08
     },
     "currentInfos": {
-      "currentPoolToken": 56256764.47208047,
-      "currentPriceUSD": 0.00006769310218154406,
-      "currentPoolEth": 1.7821285733463075,
-      "currentMarketCap": 3808.1949058116006
+      "currentPoolToken": 59245011.0456387,
+      "currentPriceUSD": 0.00006109495317312061,
+      "currentPoolEth": 1.694492329675982,
+      "currentMarketCap": 3619.57117557431
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 4,
     "holderCountOld": 0,
-    "txCount": 7,
+    "txCount": 11,
     "createdAtTimestamp": "1618115722",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.167847618094795,
+    "priceChange": 1.8601434952399074,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-11T03:57:50Z",
     "initialInfos": {
       "initialPoolToken": 4500000,
-      "initialPriceUSD": 0.11871555555555556,
+      "initialPriceUSD": 0.11867111111111112,
       "initialPoolEth": 250,
       "initialMarketCap": 536741.277985245
     },
     "currentInfos": {
       "currentPoolToken": 4185667.18252923,
-      "currentPriceUSD": 0.13724527322156882,
+      "currentPriceUSD": 0.13719389166594695,
       "currentPoolEth": 268.8326139421862,
-      "currentMarketCap": 574463.0360807785
+      "currentMarketCap": 574247.9699896247
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.1560850014920064,
+    "priceChange": 0.15608500149200638,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 6.041066052112167,
     "isRugged": false
-  },
-  {
-    "_id": "0x1f12152d645c794b929c9e156609a25f4f771bae",
-    "tokenName": "DEFIT",
-    "idPair": "0x7681e0066832925cc3f1f725d5bd3e3bba873a25",
-    "idToken": "0x1f12152d645c794b929c9e156609a25f4f771bae",
-    "dateCreationToken": "2021-04-07T16:56:41Z",
-    "initialInfos": {
-      "initialPoolToken": 2000000,
-      "initialPriceUSD": 0.097722,
-      "initialPoolEth": 100,
-      "initialMarketCap": 195444
-    },
-    "currentInfos": {
-      "currentPoolToken": 11609.067169637172,
-      "currentPriceUSD": 0.002252880248101556,
-      "currentPoolEth": 0.012201919420684548,
-      "currentMarketCap": 26.15383812535982
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 14,
-    "holderCountOld": 15,
-    "txCount": 16,
-    "createdAtTimestamp": "1617814601",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9769460280376829,
-    "isRugged": true
   }
 ]
