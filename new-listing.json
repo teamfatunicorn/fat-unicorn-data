@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x16c52ceece2ed57dad87319d91b5e3637d50afa4",
+    "tokenName": "TCAP",
+    "idPair": "0x3436d87664964df8a1825f826f127dec13117b0b",
+    "idToken": "0x16c52ceece2ed57dad87319d91b5e3637d50afa4",
+    "dateCreationToken": "2021-04-11T18:41:14Z",
+    "initialInfos": {
+      "initialPoolToken": 0.1,
+      "initialPriceUSD": 2151.28,
+      "initialPoolEth": 0.1,
+      "initialMarketCap": 215.128
+    },
+    "currentInfos": {
+      "currentPoolToken": 0.31919654925517993,
+      "currentPriceUSD": 213.16574202132412,
+      "currentPoolEth": 0.03162850455193711,
+      "currentMarketCap": 68.04176927262657
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 197,
+    "holderCountOld": 0,
+    "txCount": 7,
+    "createdAtTimestamp": "1618166474",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -0.9009121350910508,
+    "isRugged": true
+  },
+  {
     "_id": "0x7f6c3804904df3734e549485d865026753e2c1a3",
     "tokenName": "KITTY",
     "idPair": "0xadd5af2625e56beaca39a74dc365cf2f1e082a9d",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 5.862576778255331,
-    "isRugged": false
-  },
-  {
-    "_id": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373",
-    "tokenName": "GMEE",
-    "idPair": "0x4c083084c9d50334b343c44ec97d16011303cc73",
-    "idToken": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373",
-    "dateCreationToken": "2021-04-08T08:59:36Z",
-    "initialInfos": {
-      "initialPoolToken": 2815315,
-      "initialPriceUSD": 0.08803675610011669,
-      "initialPoolEth": 124,
-      "initialMarketCap": 249643.45703602623
-    },
-    "currentInfos": {
-      "currentPoolToken": 2360861.423423316,
-      "currentPriceUSD": 0.5431792215541003,
-      "currentPoolEth": 598.6708263526568,
-      "currentMarketCap": 1282370.8701721819
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 614,
-    "holderCountOld": 612,
-    "txCount": 2586,
-    "createdAtTimestamp": "1617872376",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 5.169914086070923,
     "isRugged": false
   }
 ]
