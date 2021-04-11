@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc6cf3c3c693fb0a2c8ae69ec4c199a4ba285a594",
+    "tokenName": "CARS",
+    "idPair": "0xbab074b2472ebafebb663b3cff200ad083b75065",
+    "idToken": "0xc6cf3c3c693fb0a2c8ae69ec4c199a4ba285a594",
+    "dateCreationToken": "2021-04-11T22:29:47Z",
+    "initialInfos": {
+      "initialPoolToken": 200000,
+      "initialPriceUSD": 0.05351225,
+      "initialPoolEth": 5,
+      "initialMarketCap": 10683.99389366738
+    },
+    "currentInfos": {
+      "currentPoolToken": 200000,
+      "currentPriceUSD": 0.05351225,
+      "currentPoolEth": 5,
+      "currentMarketCap": 10702.45
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 46,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618180187",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x51450c3d470af2476d0a9bceabc3e5b7c1bc9749",
     "tokenName": "TRL",
     "idPair": "0xb6569b028141be56f124bbcc4ce7250a5b9a9a5d",
@@ -43,22 +74,22 @@
       "initialMarketCap": 149174.64893327738
     },
     "currentInfos": {
-      "currentPoolToken": 90348.96948601955,
-      "currentPriceUSD": 1.8360804328340374,
-      "currentPoolEth": 77.5,
-      "currentMarketCap": 165887.975
+      "currentPoolToken": 84888.70867632313,
+      "currentPriceUSD": 2.0802581138715563,
+      "currentPoolEth": 82.5,
+      "currentMarketCap": 176590.425
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 4,
     "holderCountOld": 0,
-    "txCount": 3,
+    "txCount": 4,
     "createdAtTimestamp": "1618179579",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.22540728847402594,
+    "priceChange": 0.3883724313268433,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.28994643814827703,
     "isRugged": false
-  },
-  {
-    "_id": "0x6cd96f528ceae8c0619f6f5c45f5bc97e53540a3",
-    "tokenName": "BOSON",
-    "idPair": "0x35135c2bbba127cf2e2bf9c6229e1552cb11b290",
-    "idToken": "0x6cd96f528ceae8c0619f6f5c45f5bc97e53540a3",
-    "dateCreationToken": "2021-04-08T14:15:06Z",
-    "initialInfos": {
-      "initialPoolToken": 190000,
-      "initialPriceUSD": 1.6152236842105263,
-      "initialPoolEth": 150,
-      "initialMarketCap": 306892.5
-    },
-    "currentInfos": {
-      "currentPoolToken": 3.2811e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3.1e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 15,
-    "holderCountOld": 2,
-    "txCount": 20,
-    "createdAtTimestamp": "1617891306",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
