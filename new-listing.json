@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xf052ee5f3f84ef9b69e34de7503c9c479f796aa5",
+    "tokenName": "SPDG",
+    "idPair": "0x489c4f44d054de2503f785177572f513d1fbf526",
+    "idToken": "0xf052ee5f3f84ef9b69e34de7503c9c479f796aa5",
+    "dateCreationToken": "2021-04-11T11:22:55Z",
+    "initialInfos": {
+      "initialPoolToken": 20000000000,
+      "initialPriceUSD": 3.315977e-7,
+      "initialPoolEth": 3.1,
+      "initialMarketCap": 6639.507678653056
+    },
+    "currentInfos": {
+      "currentPoolToken": 19376816576.555,
+      "currentPriceUSD": 3.5330302957417626e-7,
+      "currentPoolEth": 3.2,
+      "currentMarketCap": 6845.888
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1618140175",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.0654568158168053,
+    "isRugged": false
+  },
+  {
     "_id": "0xba68221780ce0c86152f0aa7c83615d02ab53f2a",
     "tokenName": "DOM",
     "idPair": "0x5760bc37e157665eaac16845038c5bbee5881b35",
@@ -7,9 +38,9 @@
     "dateCreationToken": "2021-04-11T11:05:55Z",
     "initialInfos": {
       "initialPoolToken": 20000000000,
-      "initialPriceUSD": 3.208485e-7,
+      "initialPriceUSD": 3.20901e-7,
       "initialPoolEth": 3,
-      "initialMarketCap": 6416.97
+      "initialMarketCap": 6418.02
     },
     "currentInfos": {
       "currentPoolToken": 6.9521531e-11,
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-11T10:44:31Z",
     "initialInfos": {
       "initialPoolToken": 10000000000,
-      "initialPriceUSD": 7.272566e-7,
+      "initialPriceUSD": 7.273756e-7,
       "initialPoolEth": 3.4,
-      "initialMarketCap": 7272.566
+      "initialMarketCap": 7273.756
     },
     "currentInfos": {
       "currentPoolToken": 0.002,
-      "currentPriceUSD": 0.000001069495,
+      "currentPriceUSD": 0.00000106967,
       "currentPoolEth": 6.29259e-13,
-      "currentMarketCap": 2.13899e-9
+      "currentMarketCap": 2.13934e-9
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.47058823529411753,
+    "priceChange": 0.4705882352941175,
     "isRugged": true
   },
   {
@@ -74,22 +105,22 @@
       "initialMarketCap": 525122.045
     },
     "currentInfos": {
-      "currentPoolToken": 378396.1638411036,
-      "currentPriceUSD": 1.8184264742627159,
-      "currentPoolEth": 321.6871523887981,
-      "currentMarketCap": 688085.6020881151
+      "currentPoolToken": 372849.5254524878,
+      "currentPriceUSD": 1.8730150004632526,
+      "currentPoolEth": 326.4871523887981,
+      "currentMarketCap": 698352.7540881151
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 234,
     "holderCountOld": 0,
-    "txCount": 363,
+    "txCount": 367,
     "createdAtTimestamp": "1618135898",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.7002664568443198,
+    "priceChange": 0.7513078606849518,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.05832783805820961,
     "isRugged": false
-  },
-  {
-    "_id": "0x72735a7d1eb69f3238aee15fa07e77d5d139cc0f",
-    "tokenName": "SOLAM",
-    "idPair": "0x71623bf512da4d2bac38bd233aba50a5adf72595",
-    "idToken": "0x72735a7d1eb69f3238aee15fa07e77d5d139cc0f",
-    "dateCreationToken": "2021-04-08T01:23:22Z",
-    "initialInfos": {
-      "initialPoolToken": 3000000,
-      "initialPriceUSD": 0.06628888933333334,
-      "initialPoolEth": 100.1,
-      "initialMarketCap": 198866.668
-    },
-    "currentInfos": {
-      "currentPoolToken": 5.7357e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.9e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 214,
-    "holderCountOld": 213,
-    "txCount": 243,
-    "createdAtTimestamp": "1617845002",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
