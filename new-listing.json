@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7f6c3804904df3734e549485d865026753e2c1a3",
+    "tokenName": "KITTY",
+    "idPair": "0xadd5af2625e56beaca39a74dc365cf2f1e082a9d",
+    "idToken": "0x7f6c3804904df3734e549485d865026753e2c1a3",
+    "dateCreationToken": "2021-04-11T18:13:24Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 4.3442928e-9,
+      "initialPoolEth": 2.02,
+      "initialMarketCap": 4344.2928
+    },
+    "currentInfos": {
+      "currentPoolToken": 593357933317.1805,
+      "currentPriceUSD": 1.238439809061403e-8,
+      "currentPoolEth": 3.416834456916948,
+      "currentMarketCap": 7348.380856423977
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 10,
+    "createdAtTimestamp": "1618164804",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.8507282222353958,
+    "isRugged": false
+  },
+  {
     "_id": "0xf05626e2a8c360fbfaab0f595c4c463b5b30391f",
     "tokenName": "Gaia",
     "idPair": "0xad0c4e9fbb6ccff344a12ba33890925d4479c696",
@@ -74,23 +105,23 @@
       "initialMarketCap": 150544.8
     },
     "currentInfos": {
-      "currentPoolToken": 48516.53282927154,
-      "currentPriceUSD": 4.4815104826125856,
-      "currentPoolEth": 101.09890565338563,
-      "currentMarketCap": 217427.35045439805
+      "currentPoolToken": 2.1735e-14,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 4.7e-17,
+      "currentMarketCap": 0
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 13,
     "holderCountOld": 0,
-    "txCount": 12,
+    "txCount": 14,
     "createdAtTimestamp": "1618162780",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.083803185383228,
-    "isRugged": false
+    "priceChange": -1,
+    "isRugged": true
   },
   {
     "_id": "0xa2b5c6d877ae7eb964e5e7c79f721d1c0085ec0f",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 5.169914086070923,
     "isRugged": false
-  },
-  {
-    "_id": "0xc3756f839739635bcf7504b16da4cd882662e0a2",
-    "tokenName": "CRWNY",
-    "idPair": "0x97bd233a96d5b1ddd7684665d3c4a8f540359305",
-    "idToken": "0xc3756f839739635bcf7504b16da4cd882662e0a2",
-    "dateCreationToken": "2021-04-08T07:34:02Z",
-    "initialInfos": {
-      "initialPoolToken": 170000000,
-      "initialPriceUSD": 0.00260832,
-      "initialPoolEth": 220,
-      "initialMarketCap": 444011.66000927764
-    },
-    "currentInfos": {
-      "currentPoolToken": 7.79025e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 19,
-    "holderCountOld": 18,
-    "txCount": 20,
-    "createdAtTimestamp": "1617867242",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
