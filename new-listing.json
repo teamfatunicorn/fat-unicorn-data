@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x1baffbc23f2246040cce12f7a140c38c5dc73e46",
+    "tokenName": "PIB",
+    "idPair": "0x408ede68c77878f84e4ade3ae192d1edf44fea76",
+    "idToken": "0x1baffbc23f2246040cce12f7a140c38c5dc73e46",
+    "dateCreationToken": "2021-04-11T10:11:38Z",
+    "initialInfos": {
+      "initialPoolToken": 491000,
+      "initialPriceUSD": 1.070395,
+      "initialPoolEth": 245.5,
+      "initialMarketCap": 525563.945
+    },
+    "currentInfos": {
+      "currentPoolToken": 485956.0122054068,
+      "currentPriceUSD": 1.0930321229083753,
+      "currentPoolEth": 248.11659791991025,
+      "currentMarketCap": 531165.5316609641
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 6,
+    "createdAtTimestamp": "1618135898",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.021148382520822007,
+    "isRugged": false
+  },
+  {
     "_id": "0x441fe445f72b6eaf8ed66b2b6bebbf24259642e8",
     "tokenName": "EPNS",
     "idPair": "0x379c1b8cfd3162f5a8533092beeefff8026fa92c",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-11T09:57:58Z",
     "initialInfos": {
       "initialPoolToken": 100000,
-      "initialPriceUSD": 0.213626,
+      "initialPriceUSD": 0.214079,
       "initialPoolEth": 10,
-      "initialMarketCap": 21362.6
+      "initialMarketCap": 21407.9
     },
     "currentInfos": {
-      "currentPoolToken": 71324.45868772181,
-      "currentPriceUSD": 0.42041571149812673,
-      "currentPoolEth": 14.036644905778097,
-      "currentMarketCap": 29985.92304641731
+      "currentPoolToken": 68878.30194925715,
+      "currentPriceUSD": 0.45180997741156004,
+      "currentPoolEth": 14.536644905778097,
+      "currentMarketCap": 31119.904047840486
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 6,
     "holderCountOld": 0,
-    "txCount": 10,
+    "txCount": 11,
     "createdAtTimestamp": "1618135078",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.9679987992946866,
+    "priceChange": 1.1104824733465686,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x5a9fff7242148330c3d56b946e6382c2e2232751",
-    "tokenName": "BEAVER",
-    "idPair": "0x2d21ae02d22f01a5b59ac8eab093f37c061af82e",
-    "idToken": "0x5a9fff7242148330c3d56b946e6382c2e2232751",
-    "dateCreationToken": "2021-04-07T21:58:49Z",
-    "initialInfos": {
-      "initialPoolToken": 438632630039690.8,
-      "initialPriceUSD": 1.1289002825785966e-11,
-      "initialPoolEth": 2.5,
-      "initialMarketCap": 4951.725
-    },
-    "currentInfos": {
-      "currentPoolToken": 235816558093515.5,
-      "currentPriceUSD": 4.435569950270876e-11,
-      "currentPoolEth": 4.898473478709946,
-      "currentMarketCap": 10459.808388559037
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 119,
-    "holderCountOld": 120,
-    "txCount": 395,
-    "createdAtTimestamp": "1617832729",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 2.9291069536622794,
-    "isRugged": false
   }
 ]
