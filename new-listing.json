@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x421dd5cccd9059b78e151c25215a2de931047331",
+    "tokenName": "INK",
+    "idPair": "0x74c52ef18fe20de850eba9f61bb650c7991b87ea",
+    "idToken": "0x421dd5cccd9059b78e151c25215a2de931047331",
+    "dateCreationToken": "2021-04-11T04:35:22Z",
+    "initialInfos": {
+      "initialPoolToken": 100000000,
+      "initialPriceUSD": 0.0000213434,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2134.34
+    },
+    "currentInfos": {
+      "currentPoolToken": 71494944.27076337,
+      "currentPriceUSD": 0.000041794227976228,
+      "currentPoolEth": 1.4,
+      "currentMarketCap": 2988.076
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1618115722",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.9581804199999999,
+    "isRugged": false
+  },
+  {
     "_id": "0xf8da8b4c1114a12351a4eea31e4a6295608dd13d",
     "tokenName": "RAZE",
     "idPair": "0x3126e82221a534c62372835de59f2f9525c5a4b9",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-11T03:57:50Z",
     "initialInfos": {
       "initialPoolToken": 4500000,
-      "initialPriceUSD": 0.11882722222222222,
+      "initialPriceUSD": 0.11857444444444444,
       "initialPoolEth": 250,
       "initialMarketCap": 536741.277985245
     },
     "currentInfos": {
       "currentPoolToken": 4185667.18252923,
-      "currentPriceUSD": 0.13706929139356394,
+      "currentPriceUSD": 0.1370821367824694,
       "currentPoolEth": 268.8326139421862,
-      "currentMarketCap": 573726.4347185768
+      "currentMarketCap": 573780.2012413653
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.15351759327695716,
+    "priceChange": 0.15608500149200646,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.9769460280376829,
     "isRugged": true
-  },
-  {
-    "_id": "0xdcd48d12b73c43249ac2cea37eed1c544eec8268",
-    "tokenName": "Blast",
-    "idPair": "0x716cb02637f316bf9c206e6ba3ed447afbd94f6f",
-    "idToken": "0xdcd48d12b73c43249ac2cea37eed1c544eec8268",
-    "dateCreationToken": "2021-04-07T16:51:25Z",
-    "initialInfos": {
-      "initialPoolToken": 3835830368.4200516,
-      "initialPriceUSD": 0.000001987135839674676,
-      "initialPoolEth": 3.9,
-      "initialMarketCap": 7784.233892288987
-    },
-    "currentInfos": {
-      "currentPoolToken": 2383386643.9282827,
-      "currentPriceUSD": 0.000006169459932029976,
-      "currentPoolEth": 6.8601619851690385,
-      "currentMarketCap": 14704.208402250939
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 154,
-    "holderCountOld": 155,
-    "txCount": 556,
-    "createdAtTimestamp": "1617814285",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 2.104699642999751,
-    "isRugged": false
   }
 ]
