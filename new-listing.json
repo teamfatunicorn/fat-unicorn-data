@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xd5af8a01fb6cdc39062a07fabd791f28af08c643",
+    "tokenName": "DARWIN",
+    "idPair": "0x03b098f853fe5bb6d31233f863eb72a3e7355bdc",
+    "idToken": "0xd5af8a01fb6cdc39062a07fabd791f28af08c643",
+    "dateCreationToken": "2021-04-11T16:53:43Z",
+    "initialInfos": {
+      "initialPoolToken": 100000000,
+      "initialPriceUSD": 0.00005374775,
+      "initialPoolEth": 2.5,
+      "initialMarketCap": 5358.006977727179
+    },
+    "currentInfos": {
+      "currentPoolToken": 99960135.89780396,
+      "currentPriceUSD": 0.00005379069227654108,
+      "currentPoolEth": 2.501,
+      "currentMarketCap": 5376.92491
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1618160023",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.0007989595200001118,
+    "isRugged": false
+  },
+  {
     "_id": "0x2ce47cd60be8a6e5828ed06f233819f697002df4",
     "tokenName": "SAVEN",
     "idPair": "0x0c0f573c7d2ca2ba4f188153cc864ae0eef9d2d5",
@@ -7,9 +38,9 @@
     "dateCreationToken": "2021-04-11T13:23:39Z",
     "initialInfos": {
       "initialPoolToken": 100000000,
-      "initialPriceUSD": 0.0000215002,
+      "initialPriceUSD": 0.0000214991,
       "initialPoolEth": 1,
-      "initialMarketCap": 2150.02
+      "initialMarketCap": 2149.91
     },
     "currentInfos": {
       "currentPoolToken": 2.265088e-12,
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-11T12:39:23Z",
     "initialInfos": {
       "initialPoolToken": 990000000000,
-      "initialPriceUSD": 1.0858686868686869e-10,
+      "initialPriceUSD": 1.0858131313131313e-10,
       "initialPoolEth": 0.05,
-      "initialMarketCap": 107.501
+      "initialMarketCap": 107.4955
     },
     "currentInfos": {
       "currentPoolToken": 990000000000,
-      "currentPriceUSD": 1.0858686868686869e-10,
+      "currentPriceUSD": 1.0858131313131313e-10,
       "currentPoolEth": 0.05,
-      "currentMarketCap": 107.501
+      "currentMarketCap": 107.4955
     },
     "trustScore": null,
     "contractId": null,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.06064431178037162,
     "isRugged": false
-  },
-  {
-    "_id": "0x4df4636bb681912795aef87d6b00d6ae860e451f",
-    "tokenName": "CERE",
-    "idPair": "0x1dba74b25d24388bb05d04e08be97c7098446b30",
-    "idToken": "0x4df4636bb681912795aef87d6b00d6ae860e451f",
-    "dateCreationToken": "2021-04-08T04:45:03Z",
-    "initialInfos": {
-      "initialPoolToken": 50000000,
-      "initialPriceUSD": 0.00803292,
-      "initialPoolEth": 200,
-      "initialMarketCap": 401646
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.76652e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 4e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 74,
-    "holderCountOld": 72,
-    "txCount": 47,
-    "createdAtTimestamp": "1617857103",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
