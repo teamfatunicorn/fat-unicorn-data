@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xf55dc9bd4b04af73599df11087ecfb9be7906cb5",
+    "tokenName": "IGT",
+    "idPair": "0xd08679b8dd0d0ab716cd87f98d35893a290a5e6a",
+    "idToken": "0xf55dc9bd4b04af73599df11087ecfb9be7906cb5",
+    "dateCreationToken": "2021-04-11T06:36:37Z",
+    "initialInfos": {
+      "initialPoolToken": 400,
+      "initialPriceUSD": 0.2649275,
+      "initialPoolEth": 0.05,
+      "initialMarketCap": 105.82756623848009
+    },
+    "currentInfos": {
+      "currentPoolToken": 400,
+      "currentPriceUSD": 0.2649275,
+      "currentPoolEth": 0.05,
+      "currentMarketCap": 105.971
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618122997",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0xc56c97d4cc6bbc5216a2519776eaa6fdcf50f061",
     "tokenName": "ISP",
     "idPair": "0x640aa7c7810e41df7aa221e3c3dda5c5d132b237",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xf33121a2209609cadc7349acc9c40e41ce21c730",
-    "tokenName": "BAG",
-    "idPair": "0x05d230229e624da10f89e00c3f82d806768c3a98",
-    "idToken": "0xf33121a2209609cadc7349acc9c40e41ce21c730",
-    "dateCreationToken": "2021-04-07T20:50:36Z",
-    "initialInfos": {
-      "initialPoolToken": 100,
-      "initialPriceUSD": 102.70563468,
-      "initialPoolEth": 5.1414,
-      "initialMarketCap": 10179.232403307122
-    },
-    "currentInfos": {
-      "currentPoolToken": 5347.326282226583,
-      "currentPriceUSD": 102.655982303735,
-      "currentPoolEth": 274.2577908333088,
-      "currentMarketCap": 583214.6773628483
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 107,
-    "holderCountOld": 96,
-    "txCount": 1271,
-    "createdAtTimestamp": "1617828636",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.0004834435464003834,
-    "isRugged": false
   }
 ]
