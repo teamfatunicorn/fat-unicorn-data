@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x004bf5bae20b84a261f96d4e5db563fef0fd531b",
+    "tokenName": "FTCH",
+    "idPair": "0x092ddcb5efc4957fdb85cb3d6868d2fcd0b185f5",
+    "idToken": "0x004bf5bae20b84a261f96d4e5db563fef0fd531b",
+    "dateCreationToken": "2021-04-11T17:39:40Z",
+    "initialInfos": {
+      "initialPoolToken": 70000,
+      "initialPriceUSD": 2.14516,
+      "initialPoolEth": 70,
+      "initialMarketCap": 150161.2
+    },
+    "currentInfos": {
+      "currentPoolToken": 49368.129513198284,
+      "currentPriceUSD": 4.316979781683308,
+      "currentPoolEth": 99.3498,
+      "currentMarketCap": 213121.216968
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 11,
+    "createdAtTimestamp": "1618162780",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.0124278756285348,
+    "isRugged": false
+  },
+  {
     "_id": "0xa2b5c6d877ae7eb964e5e7c79f721d1c0085ec0f",
     "tokenName": "DOPEX",
     "idPair": "0xcf4c3d4405ccb9de15f9fdb22af4aa5339c87b52",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-11T17:01:38Z",
     "initialInfos": {
       "initialPoolToken": 7000000,
-      "initialPriceUSD": 0.03063142857142857,
+      "initialPriceUSD": 0.030645142857142857,
       "initialPoolEth": 100,
-      "initialMarketCap": 214420
+      "initialMarketCap": 214516
     },
     "currentInfos": {
-      "currentPoolToken": 3733075.9460096844,
-      "currentPriceUSD": 0.10790559301968594,
-      "currentPoolEth": 187.86483245112365,
-      "currentMarketCap": 402819.7737417001
+      "currentPoolToken": 3664169.485294111,
+      "currentPriceUSD": 0.11205860438407846,
+      "currentPoolEth": 191.40843515112365,
+      "currentMarketCap": 410601.71874878515
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 82,
+    "holderCount": 145,
     "holderCountOld": 0,
-    "txCount": 140,
+    "txCount": 148,
     "createdAtTimestamp": "1618160498",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.522708474665617,
+    "priceChange": 2.656651395180542,
     "isRugged": false
   },
   {
@@ -38,9 +69,9 @@
     "dateCreationToken": "2021-04-11T16:59:01Z",
     "initialInfos": {
       "initialPoolToken": 31305652382,
-      "initialPriceUSD": 1.4383408929018242e-7,
+      "initialPriceUSD": 1.4389848660653284e-7,
       "initialPoolEth": 2.1,
-      "initialMarketCap": 4502.82
+      "initialMarketCap": 4504.836
     },
     "currentInfos": {
       "currentPoolToken": 2.9945484e-11,
@@ -69,15 +100,15 @@
     "dateCreationToken": "2021-04-11T16:58:48Z",
     "initialInfos": {
       "initialPoolToken": 200000000000,
-      "initialPriceUSD": 3.32351e-8,
+      "initialPriceUSD": 3.324998e-8,
       "initialPoolEth": 3.1,
-      "initialMarketCap": 6647.02
+      "initialMarketCap": 6649.996
     },
     "currentInfos": {
       "currentPoolToken": 0.02,
-      "currentPriceUSD": 1.0721e-7,
+      "currentPriceUSD": 1.07258e-7,
       "currentPoolEth": 5.51676e-13,
-      "currentMarketCap": 2.1442e-9
+      "currentMarketCap": 2.14516e-9
     },
     "trustScore": null,
     "contractId": null,
@@ -106,9 +137,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 24446.585115315178,
-      "currentPriceUSD": 0.003599182336402972,
+      "currentPriceUSD": 0.003600793760264061,
       "currentPoolEth": 0.04103521935088419,
-      "currentMarketCap": 87.9877173324142
+      "currentMarketCap": 88.02711114299116
     },
     "trustScore": null,
     "contractId": null,
@@ -120,7 +151,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.832143347803238,
+    "priceChange": -0.8320681951187361,
     "isRugged": true
   },
   {
@@ -137,9 +168,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 70133689.33672014,
-      "currentPriceUSD": 0.00010909302190712087,
+      "currentPriceUSD": 0.00010914186497261422,
       "currentPoolEth": 3.568275397461849,
-      "currentMarketCap": 7651.0961072380205
+      "currentMarketCap": 7654.521651619584
     },
     "trustScore": null,
     "contractId": null,
@@ -151,7 +182,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.0351277288894856,
+    "priceChange": 1.0360388951145272,
     "isRugged": false
   },
   {
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 13,
     "createdAtTimestamp": "1617865163",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x7709826730475f4c3cbbfdf19f767caf50ac5d1c",
-    "tokenName": "SEPA",
-    "idPair": "0x90244fc7073acfeac450c657666006f83738b00a",
-    "idToken": "0x7709826730475f4c3cbbfdf19f767caf50ac5d1c",
-    "dateCreationToken": "2021-04-08T06:21:38Z",
-    "initialInfos": {
-      "initialPoolToken": 115575,
-      "initialPriceUSD": 4.024,
-      "initialPoolEth": 230,
-      "initialMarketCap": 465073.8
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.9966e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 5.1e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 16,
-    "holderCountOld": 15,
-    "txCount": 21,
-    "createdAtTimestamp": "1617862898",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
