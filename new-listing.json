@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x3d4e38f1c06de37e3fb1953e3d44afca691e03af",
+    "tokenName": "AMN",
+    "idPair": "0x288745dcf58c9cc41c2ce9c443a6a1f4596b0824",
+    "idToken": "0x3d4e38f1c06de37e3fb1953e3d44afca691e03af",
+    "dateCreationToken": "2021-04-12T20:11:37Z",
+    "initialInfos": {
+      "initialPoolToken": 25000000,
+      "initialPriceUSD": 0.00555594,
+      "initialPoolEth": 65,
+      "initialMarketCap": 138898.5
+    },
+    "currentInfos": {
+      "currentPoolToken": 25000000,
+      "currentPriceUSD": 0.00555594,
+      "currentPoolEth": 65,
+      "currentMarketCap": 138898.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618258297",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
+    "_id": "0xc242eb8e4e27eae6a2a728a41201152f19595c83",
+    "tokenName": "ECO",
+    "idPair": "0x3f3aa0726b240aef0fe4f7df2814df525303dc43",
+    "idToken": "0xc242eb8e4e27eae6a2a728a41201152f19595c83",
+    "dateCreationToken": "2021-04-12T20:10:13Z",
+    "initialInfos": {
+      "initialPoolToken": 25000,
+      "initialPriceUSD": 1.9918682507354253,
+      "initialPoolEth": 23.303245948984806,
+      "initialMarketCap": 49818.33223060123
+    },
+    "currentInfos": {
+      "currentPoolToken": 24893.496314291657,
+      "currentPriceUSD": 2.0089743777644635,
+      "currentPoolEth": 23.403245948984804,
+      "currentMarketCap": 50010.396268386045
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 49,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1618258213",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.008587981169297931,
+    "isRugged": false
+  },
+  {
     "_id": "0x948a09cf8058eb876a43a21a2f808765d35637fc",
     "tokenName": "BSIC",
     "idPair": "0x6a0b93942b3d315659fc9691335604cec543ed45",
@@ -6131,68 +6193,6 @@
     "holderCountOld": 8,
     "txCount": 16,
     "createdAtTimestamp": "1617946396",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xacfe45c352c902ae3a3f9b6bfe6ec994c5d791bf",
-    "tokenName": "mBONK",
-    "idPair": "0xcae496cf11cc0c2c78889bb171b4bbf33a459469",
-    "idToken": "0xacfe45c352c902ae3a3f9b6bfe6ec994c5d791bf",
-    "dateCreationToken": "2021-04-09T05:12:51Z",
-    "initialInfos": {
-      "initialPoolToken": 320000,
-      "initialPriceUSD": 0.72569,
-      "initialPoolEth": 112,
-      "initialMarketCap": 232220.8
-    },
-    "currentInfos": {
-      "currentPoolToken": 440296.54782028304,
-      "currentPriceUSD": 0.40987586432905126,
-      "currentPoolEth": 84.33625165265597,
-      "currentMarketCap": 180466.92809893595
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 307,
-    "holderCountOld": 308,
-    "txCount": 329,
-    "createdAtTimestamp": "1617945171",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.4351915220975192,
-    "isRugged": false
-  },
-  {
-    "_id": "0xbf6a02c1134dde886ab8b20bfa2b7fabc8fa470c",
-    "tokenName": "SMG",
-    "idPair": "0x98a79d7fec5c9037c42666a07604df3c450ddaff",
-    "idToken": "0xbf6a02c1134dde886ab8b20bfa2b7fabc8fa470c",
-    "dateCreationToken": "2021-04-09T04:58:02Z",
-    "initialInfos": {
-      "initialPoolToken": 5000,
-      "initialPriceUSD": 0.10367,
-      "initialPoolEth": 0.25,
-      "initialMarketCap": 518.35
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.31878e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 8e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 5,
-    "createdAtTimestamp": "1617944282",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
