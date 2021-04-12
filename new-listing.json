@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x155040625d7ae3e9cada9a73e3e44f76d3ed1409",
+    "tokenName": "REVO",
+    "idPair": "0xedc25e28c40762b64fa8fe139939c9164d5b3805",
+    "idToken": "0x155040625d7ae3e9cada9a73e3e44f76d3ed1409",
+    "dateCreationToken": "2021-04-12T15:44:32Z",
+    "initialInfos": {
+      "initialPoolToken": 1264682,
+      "initialPriceUSD": 0.17027153070890547,
+      "initialPoolEth": 102,
+      "initialMarketCap": 215339.34
+    },
+    "currentInfos": {
+      "currentPoolToken": 383197.4208896051,
+      "currentPriceUSD": 1.8626340057239226,
+      "currentPoolEth": 338.08577568584275,
+      "currentMarketCap": 713756.5470546811
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 14,
+    "holderCountOld": 0,
+    "txCount": 36,
+    "createdAtTimestamp": "1618242272",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 9.93919810298918,
+    "isRugged": false
+  },
+  {
     "_id": "0x1d7418d7718918c9f315418e86f29812321d0ea3",
     "tokenName": "PDX",
     "idPair": "0x5b8ef2cbfed1e01bdfb8affaa199994aeadf8a6d",
@@ -12,22 +43,22 @@
       "initialMarketCap": 105558.5
     },
     "currentInfos": {
-      "currentPoolToken": 118.04501150549424,
-      "currentPriceUSD": 757.9567164929682,
-      "currentPoolEth": 42.380769582307124,
-      "currentMarketCap": 89473.00931907906
+      "currentPoolToken": 116.6726598118038,
+      "currentPriceUSD": 775.9195210352124,
+      "currentPoolEth": 42.880769582307124,
+      "currentMarketCap": 90528.59431907907
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 2,
     "holderCountOld": 0,
-    "txCount": 4,
+    "txCount": 5,
     "createdAtTimestamp": "1618242214",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.28195577192460275,
+    "priceChange": -0.2649388528302199,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.4056811660372512,
     "isRugged": false
-  },
-  {
-    "_id": "0xffa98a091331df4600f87c9164cd27e8a5cd2405",
-    "tokenName": "UNI-V2",
-    "idPair": "0x4a26a9d8318d9f088e670fb18808229e9f885430",
-    "idToken": "0xffa98a091331df4600f87c9164cd27e8a5cd2405",
-    "dateCreationToken": "2021-04-09T03:15:39Z",
-    "initialInfos": {
-      "initialPoolToken": 15.39478836515805,
-      "initialPriceUSD": 18.628459175801954,
-      "initialPoolEth": 0.13806541041068857,
-      "initialMarketCap": 286.37342544179165
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.772e-15,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3.64e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2940,
-    "holderCountOld": 2943,
-    "txCount": 7,
-    "createdAtTimestamp": "1617938139",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
