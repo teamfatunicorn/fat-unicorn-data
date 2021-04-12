@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x0082ea5a7d3f7a117945cf7174335862b98132e7",
+    "tokenName": "ART",
+    "idPair": "0xc46850bee623409f39ce91b5669ca58a0efa7264",
+    "idToken": "0x0082ea5a7d3f7a117945cf7174335862b98132e7",
+    "dateCreationToken": "2021-04-12T11:44:46Z",
+    "initialInfos": {
+      "initialPoolToken": 0.0001,
+      "initialPriceUSD": 2146740,
+      "initialPoolEth": 0.1,
+      "initialMarketCap": 214.674
+    },
+    "currentInfos": {
+      "currentPoolToken": 0.0001,
+      "currentPriceUSD": 2146740,
+      "currentPoolEth": 0.1,
+      "currentMarketCap": 214.674
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618227886",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0xc8107e0bd17e7f011eb5a526e00631327d291aa1",
     "tokenName": "IDO",
     "idPair": "0xf729d190d1276dad9de56a5be38e52abe06b6bb2",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-12T11:34:19Z",
     "initialInfos": {
       "initialPoolToken": 50000,
-      "initialPriceUSD": 0.643968,
+      "initialPriceUSD": 0.644022,
       "initialPoolEth": 15,
       "initialMarketCap": 32070.421529383188
     },
     "currentInfos": {
-      "currentPoolToken": 24369.067994455334,
-      "currentPriceUSD": 2.732265971859135,
-      "currentPoolEth": 31.018362052387,
-      "currentMarketCap": 66582.77524717184
+      "currentPoolToken": 24576.651413243497,
+      "currentPriceUSD": 2.689473294159053,
+      "currentPoolEth": 30.790057312844407,
+      "currentMarketCap": 66098.24763577472
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 24,
     "holderCountOld": 0,
-    "txCount": 75,
+    "txCount": 84,
     "createdAtTimestamp": "1618227259",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 3.242859849960145,
+    "priceChange": 3.176058106957609,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-12T11:15:03Z",
     "initialInfos": {
       "initialPoolToken": 2996000,
-      "initialPriceUSD": 0.24360160213618157,
+      "initialPriceUSD": 0.24362202937249666,
       "initialPoolEth": 340,
-      "initialMarketCap": 729830.4
+      "initialMarketCap": 729891.6
     },
     "currentInfos": {
       "currentPoolToken": 2947723.3361631213,
-      "currentPriceUSD": 0.2516594548092803,
+      "currentPriceUSD": 0.2516805577376241,
       "currentPoolEth": 345.58663522445374,
-      "currentMarketCap": 741822.447707404
+      "currentMarketCap": 741884.6533017444
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.03307799539263348,
+    "priceChange": 0.033077995392633376,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.2164024462591069,
-    "isRugged": true
-  },
-  {
-    "_id": "0xfc2aba1733337ec987bb25d95c06c27f92f06acf",
-    "tokenName": "GLDT",
-    "idPair": "0xdf0534a062c8d227bb587cd2ae58a95e80eb6772",
-    "idToken": "0xfc2aba1733337ec987bb25d95c06c27f92f06acf",
-    "dateCreationToken": "2021-04-08T20:14:43Z",
-    "initialInfos": {
-      "initialPoolToken": 1950000000000,
-      "initialPriceUSD": 3.159169230769231e-9,
-      "initialPoolEth": 3,
-      "initialMarketCap": 6180.805527472277
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.12343137e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 10,
-    "holderCountOld": 0,
-    "txCount": 10,
-    "createdAtTimestamp": "1617912883",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
