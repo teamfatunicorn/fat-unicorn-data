@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x94208d00bf8f8b7c00e2683c3e25f3e5c30090cb",
+    "tokenName": "BYN",
+    "idPair": "0x1aa5f043f89d742f750256c07de7180d9538e4f7",
+    "idToken": "0x94208d00bf8f8b7c00e2683c3e25f3e5c30090cb",
+    "dateCreationToken": "2021-04-12T13:12:04Z",
+    "initialInfos": {
+      "initialPoolToken": 1520000,
+      "initialPriceUSD": 0.48885365131578945,
+      "initialPoolEth": 345,
+      "initialMarketCap": 743057.55
+    },
+    "currentInfos": {
+      "currentPoolToken": 1520000,
+      "currentPriceUSD": 0.48885365131578945,
+      "currentPoolEth": 345,
+      "currentMarketCap": 743057.55
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618233124",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xcf3ae12aaaac6628cf1176d9700bc57c6ae14a86",
     "tokenName": "SOS",
     "idPair": "0x5c824799bf34582901b64538d32249834cb482fa",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 1.5094950919218169,
     "isRugged": false
-  },
-  {
-    "_id": "0xfe41168fe09359c4b010e414c724c643df4159a3",
-    "tokenName": "-ETH($3000)",
-    "idPair": "0xd201ccc3118d88a1783a1afbca777813c324c2f0",
-    "idToken": "0xfe41168fe09359c4b010e414c724c643df4159a3",
-    "dateCreationToken": "2021-04-08T20:55:49Z",
-    "initialInfos": {
-      "initialPoolToken": 1,
-      "initialPriceUSD": 1024.775,
-      "initialPoolEth": 0.5,
-      "initialMarketCap": 2050.8574559576637
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.497e-15,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 6.74e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 18,
-    "holderCountOld": 19,
-    "txCount": 11,
-    "createdAtTimestamp": "1617915349",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
