@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x999a5b683e1912137c25139a0a07ed6cf48b7952",
+    "tokenName": "FISH",
+    "idPair": "0x0228dd9c928d75f3009999377e41f3c162acf9a2",
+    "idToken": "0x999a5b683e1912137c25139a0a07ed6cf48b7952",
+    "dateCreationToken": "2021-04-13T03:51:03Z",
+    "initialInfos": {
+      "initialPoolToken": 100,
+      "initialPriceUSD": 173.2616,
+      "initialPoolEth": 8,
+      "initialMarketCap": 17326.16
+    },
+    "currentInfos": {
+      "currentPoolToken": 96.39599474641828,
+      "currentPriceUSD": 186.479646247625,
+      "currentPoolEth": 8.3,
+      "currentMarketCap": 17975.891
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1618285863",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.07628953125000007,
+    "isRugged": false
+  },
+  {
     "_id": "0x99b22ad5decf03c7b82aa437e0c06b372528a67b",
     "tokenName": "VBRIGHT",
     "idPair": "0xf334941c78f94350d3d82bbcc5c7cb1a4524049b",
@@ -7,9 +38,9 @@
     "dateCreationToken": "2021-04-13T03:17:15Z",
     "initialInfos": {
       "initialPoolToken": 2500000,
-      "initialPriceUSD": 0.000432712,
+      "initialPriceUSD": 0.000433154,
       "initialPoolEth": 0.5,
-      "initialMarketCap": 1081.78
+      "initialMarketCap": 1082.885
     },
     "currentInfos": {
       "currentPoolToken": 6.110338e-12,
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-13T02:18:18Z",
     "initialInfos": {
       "initialPoolToken": 7200000,
-      "initialPriceUSD": 0.07211866666666666,
+      "initialPriceUSD": 0.07219233333333333,
       "initialPoolEth": 240,
       "initialMarketCap": 518404.52629032993
     },
     "currentInfos": {
       "currentPoolToken": 6330248.303850694,
-      "currentPriceUSD": 0.09333373644463902,
+      "currentPriceUSD": 0.09342907355456093,
       "currentPoolEth": 273.08035220688316,
-      "currentMarketCap": 590825.7268207237
+      "currentMarketCap": 591429.234399101
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.2941689129671332,
+    "priceChange": 0.2941689129671331,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.11323229221208883,
-    "isRugged": false
-  },
-  {
-    "_id": "0xdc28699481502339560e984d47278e49f4153a26",
-    "tokenName": "RUB",
-    "idPair": "0xc1d2babca91e66fd88c34acc41d66c3fd769af59",
-    "idToken": "0xdc28699481502339560e984d47278e49f4153a26",
-    "dateCreationToken": "2021-04-09T10:02:19Z",
-    "initialInfos": {
-      "initialPoolToken": 247500,
-      "initialPriceUSD": 0.626178,
-      "initialPoolEth": 74.25,
-      "initialMarketCap": 154123.56589102757
-    },
-    "currentInfos": {
-      "currentPoolToken": 489803.5973466525,
-      "currentPriceUSD": 0.17716214264357788,
-      "currentPoolEth": 40.038876175661734,
-      "currentMarketCap": 86774.65478046522
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 100,
-    "holderCountOld": 98,
-    "txCount": 815,
-    "createdAtTimestamp": "1617962539",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.717073831013581,
     "isRugged": false
   }
 ]
