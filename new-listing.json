@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x24c74eb817fcfd8eeaa2e9df456f0c2554510d6e",
+    "tokenName": "FLY",
+    "idPair": "0x2582230a723b420d6f178ff9533586a5f66b3288",
+    "idToken": "0x24c74eb817fcfd8eeaa2e9df456f0c2554510d6e",
+    "dateCreationToken": "2021-04-13T05:37:22Z",
+    "initialInfos": {
+      "initialPoolToken": 18000000,
+      "initialPriceUSD": 0.018017,
+      "initialPoolEth": 150,
+      "initialMarketCap": 324306
+    },
+    "currentInfos": {
+      "currentPoolToken": 17976103.76606032,
+      "currentPriceUSD": 0.018065005199464888,
+      "currentPoolEth": 150.2,
+      "currentMarketCap": 324738.408
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1618292242",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.0026644391111111353,
+    "isRugged": false
+  },
+  {
     "_id": "0xa4495c9328c87a32393b1b2030389efd8cbf97d3",
     "tokenName": "MINA",
     "idPair": "0xa0809a44f38e7f9438213743d8a127c9986957ca",
@@ -74,23 +105,23 @@
       "initialMarketCap": 17296.32
     },
     "currentInfos": {
-      "currentPoolToken": 2.178204e-11,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 4.62e-16,
-      "currentMarketCap": 0
+      "currentPoolToken": 77134.59592696432,
+      "currentPriceUSD": 0.04585715938452992,
+      "currentPoolEth": 1.6360351609976622,
+      "currentMarketCap": 3537.173459484116
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 5,
     "holderCountOld": 0,
-    "txCount": 33,
+    "txCount": 34,
     "createdAtTimestamp": "1618285863",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
+    "priceChange": -0.9997348733176507,
+    "isRugged": false
   },
   {
     "_id": "0x99b22ad5decf03c7b82aa437e0c06b372528a67b",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.6378759735040824,
-    "isRugged": false
-  },
-  {
-    "_id": "0xe530441f4f73bdb6dc2fa5af7c3fc5fd551ec838",
-    "tokenName": "GSE",
-    "idPair": "0x9da3b99210496ef7b76264392409c04a24caddc7",
-    "idToken": "0xe530441f4f73bdb6dc2fa5af7c3fc5fd551ec838",
-    "dateCreationToken": "2021-04-09T10:12:10Z",
-    "initialInfos": {
-      "initialPoolToken": 9346971.583,
-      "initialPriceUSD": 0.0001227638802376361,
-      "initialPoolEth": 0.55,
-      "initialMarketCap": 1146.9592545473142
-    },
-    "currentInfos": {
-      "currentPoolToken": 10321281.4574,
-      "currentPriceUSD": 0.000047653325156827617,
-      "currentPoolEth": 0.2274199413348682,
-      "currentMarketCap": 491.84338132461784
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 305346,
-    "holderCountOld": 305347,
-    "txCount": 7,
-    "createdAtTimestamp": "1617963130",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.6118294317140818,
     "isRugged": false
   }
 ]
