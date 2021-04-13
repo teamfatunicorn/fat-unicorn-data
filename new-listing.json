@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc6d0c7fe6cb2ae92fd50eced2e8abe9ce9174db2",
+    "tokenName": "RVF",
+    "idPair": "0x27f4196ed4d649942d48870e1c66447060c219d8",
+    "idToken": "0xc6d0c7fe6cb2ae92fd50eced2e8abe9ce9174db2",
+    "dateCreationToken": "2021-04-13T09:50:49Z",
+    "initialInfos": {
+      "initialPoolToken": 3650000,
+      "initialPriceUSD": 0.07674035890410959,
+      "initialPoolEth": 127,
+      "initialMarketCap": 281179.53237977694
+    },
+    "currentInfos": {
+      "currentPoolToken": 3650000,
+      "currentPriceUSD": 0.07674035890410959,
+      "currentPoolEth": 127,
+      "currentMarketCap": 280102.31
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": null,
+    "txCount": 1,
+    "createdAtTimestamp": "1618307449",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x2df9c70b41805b6b681fc857583f080f50540192",
     "tokenName": "BYN",
     "idPair": "0x5368212c8e65485178216613e3f6d78a3e97114c",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-13T09:25:33Z",
     "initialInfos": {
       "initialPoolToken": 170000,
-      "initialPriceUSD": 0.4546294117647059,
+      "initialPriceUSD": 0.45407970588235297,
       "initialPoolEth": 35,
-      "initialMarketCap": 77287
+      "initialMarketCap": 77193.55
     },
     "currentInfos": {
       "currentPoolToken": 155091.18681493448,
-      "currentPriceUSD": 0.5463861405684981,
+      "currentPriceUSD": 0.5457254889086313,
       "currentPoolEth": 38.375,
-      "currentMarketCap": 84739.675
+      "currentMarketCap": 84637.21375
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.20182752463732162,
+    "priceChange": 0.2018275246373215,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-13T09:09:53Z",
     "initialInfos": {
       "initialPoolToken": 2200000,
-      "initialPriceUSD": 0.15055909090909092,
+      "initialPriceUSD": 0.15037704545454544,
       "initialPoolEth": 150,
       "initialMarketCap": 331226.537441585
     },
     "currentInfos": {
       "currentPoolToken": 2200000,
-      "currentPriceUSD": 0.15055909090909092,
+      "currentPriceUSD": 0.15037704545454544,
       "currentPoolEth": 150,
-      "currentMarketCap": 331230
+      "currentMarketCap": 330829.5
     },
     "trustScore": null,
     "contractId": null,
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 9.73415446601659,
-    "isRugged": false
-  },
-  {
-    "_id": "0x674514fe4a89aefd1f4290382f0d2a4cba2e81cf",
-    "tokenName": "aBURNY",
-    "idPair": "0x4b8569b39b3a87f023021218824c0fc00eef24e6",
-    "idToken": "0x674514fe4a89aefd1f4290382f0d2a4cba2e81cf",
-    "dateCreationToken": "2021-04-09T11:38:24Z",
-    "initialInfos": {
-      "initialPoolToken": 600000000000,
-      "initialPriceUSD": 1.729175e-9,
-      "initialPoolEth": 0.5,
-      "initialMarketCap": 1037.505
-    },
-    "currentInfos": {
-      "currentPoolToken": 436302419421.2345,
-      "currentPriceUSD": 3.5389048546500204e-9,
-      "currentPoolEth": 0.6980130333016527,
-      "currentMarketCap": 1544.032750185356
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 20,
-    "holderCountOld": 23,
-    "txCount": 54,
-    "createdAtTimestamp": "1617968304",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.0465857155290934,
     "isRugged": false
   }
 ]
