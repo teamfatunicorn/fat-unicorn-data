@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x4bb3205bf648b7f59ef90dee0f1b62f6116bc7ca",
+    "tokenName": "BYN",
+    "idPair": "0x188270f9662b244862fe617990e065050767cd02",
+    "idToken": "0x4bb3205bf648b7f59ef90dee0f1b62f6116bc7ca",
+    "dateCreationToken": "2021-04-13T16:31:45Z",
+    "initialInfos": {
+      "initialPoolToken": 2000,
+      "initialPriceUSD": 24.9166475,
+      "initialPoolEth": 21.85,
+      "initialMarketCap": 49833.295
+    },
+    "currentInfos": {
+      "currentPoolToken": 1123.301326190147,
+      "currentPriceUSD": 79.94987278558892,
+      "currentPoolEth": 39.37729562361803,
+      "currentMarketCap": 89807.79812878557
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 17,
+    "holderCountOld": 0,
+    "txCount": 35,
+    "createdAtTimestamp": "1618331505",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.208693014804216,
+    "isRugged": false
+  },
+  {
     "_id": "0x9cd485441705919ad5f7b2b5646282121455ecb0",
     "tokenName": "ALR",
     "idPair": "0xedd55966cc6a05ae68267f52956dd81288b8f9a5",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-13T16:00:11Z",
     "initialInfos": {
       "initialPoolToken": 20000000,
-      "initialPriceUSD": 0.00684408,
+      "initialPriceUSD": 0.0068421,
       "initialPoolEth": 60,
-      "initialMarketCap": 136881.6
+      "initialMarketCap": 136842
     },
     "currentInfos": {
       "currentPoolToken": 20000000,
-      "currentPriceUSD": 0.00684408,
+      "currentPriceUSD": 0.0068421,
       "currentPoolEth": 60,
-      "currentMarketCap": 136881.6
+      "currentMarketCap": 136842
     },
     "trustScore": null,
     "contractId": null,
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-13T15:56:11Z",
     "initialInfos": {
       "initialPoolToken": 835926,
-      "initialPriceUSD": 0.21833128769771487,
+      "initialPriceUSD": 0.21826812421195177,
       "initialPoolEth": 80,
-      "initialMarketCap": 182508.8
+      "initialMarketCap": 182456
     },
     "currentInfos": {
       "currentPoolToken": 835926,
-      "currentPriceUSD": 0.21833128769771487,
+      "currentPriceUSD": 0.21826812421195177,
       "currentPoolEth": 80,
-      "currentMarketCap": 182508.8
+      "currentMarketCap": 182456
     },
     "trustScore": null,
     "contractId": null,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 1.103345529346338,
     "isRugged": false
-  },
-  {
-    "_id": "0x31479eb3a46c577321f7fa8d0c7873b0283e0e05",
-    "tokenName": "LUGIA",
-    "idPair": "0x0df24cf8d17315ccff11e05b37193da702ac9801",
-    "idToken": "0x31479eb3a46c577321f7fa8d0c7873b0283e0e05",
-    "dateCreationToken": "2021-04-09T16:08:28Z",
-    "initialInfos": {
-      "initialPoolToken": 120000000000,
-      "initialPriceUSD": 4.826033333333333e-8,
-      "initialPoolEth": 2.8,
-      "initialMarketCap": 5791.24
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.000005002,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2.04e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 11,
-    "holderCountOld": 0,
-    "txCount": 48,
-    "createdAtTimestamp": "1617984508",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
