@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x505479e8bec20efad03bb2c2f429d9bc5bd75be2",
+    "tokenName": "RAZE",
+    "idPair": "0x70ef1862561f33b2488968aa1747a4f584061bed",
+    "idToken": "0x505479e8bec20efad03bb2c2f429d9bc5bd75be2",
+    "dateCreationToken": "2021-04-13T14:05:35Z",
+    "initialInfos": {
+      "initialPoolToken": 550000,
+      "initialPriceUSD": 0.40766363636363634,
+      "initialPoolEth": 100,
+      "initialMarketCap": 224215
+    },
+    "currentInfos": {
+      "currentPoolToken": 542962.7310162027,
+      "currentPriceUSD": 0.41831562651621873,
+      "currentPoolEth": 101.3,
+      "currentMarketCap": 227129.795
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 14,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1618322735",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.026129360586581253,
+    "isRugged": false
+  },
+  {
     "_id": "0x379ec11344929da69ddfd805d564608089c97e55",
     "tokenName": "DRF",
     "idPair": "0x4ce78b0c8324a0d3782a17ee8989485864c07866",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x491e136ff7ff03e6ab097e54734697bb5802fc1c",
-    "tokenName": "KTN",
-    "idPair": "0x92dbb765f587f6e16c07c799e0db6a1f3af498b8",
-    "idToken": "0x491e136ff7ff03e6ab097e54734697bb5802fc1c",
-    "dateCreationToken": "2021-04-09T14:28:23Z",
-    "initialInfos": {
-      "initialPoolToken": 100000,
-      "initialPriceUSD": 0.99785203578,
-      "initialPoolEth": 48.1259,
-      "initialMarketCap": 99785.203578
-    },
-    "currentInfos": {
-      "currentPoolToken": 27824.956150876944,
-      "currentPriceUSD": 18.462662284756252,
-      "currentPoolEth": 230.49712328909,
-      "currentMarketCap": 513722.7685017922
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1669,
-    "holderCountOld": 1664,
-    "txCount": 4021,
-    "createdAtTimestamp": "1617978503",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 17.502404788225316,
-    "isRugged": false
   }
 ]
