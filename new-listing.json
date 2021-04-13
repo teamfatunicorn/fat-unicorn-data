@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x2df9c70b41805b6b681fc857583f080f50540192",
+    "tokenName": "BYN",
+    "idPair": "0x5368212c8e65485178216613e3f6d78a3e97114c",
+    "idToken": "0x2df9c70b41805b6b681fc857583f080f50540192",
+    "dateCreationToken": "2021-04-13T09:25:33Z",
+    "initialInfos": {
+      "initialPoolToken": 170000,
+      "initialPriceUSD": 0.45379147058823527,
+      "initialPoolEth": 35,
+      "initialMarketCap": 77144.55
+    },
+    "currentInfos": {
+      "currentPoolToken": 170000,
+      "currentPriceUSD": 0.45379147058823527,
+      "currentPoolEth": 35,
+      "currentMarketCap": 77144.55
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618305933",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xe686793a286d6bcd48ccf825acf86607dd3ad895",
     "tokenName": "PUSH",
     "idPair": "0x297ffade41f0798ce633064e77b98c3090e6c7a5",
@@ -7,20 +38,20 @@
     "dateCreationToken": "2021-04-13T09:09:53Z",
     "initialInfos": {
       "initialPoolToken": 2200000,
-      "initialPriceUSD": 0.15046977272727272,
+      "initialPriceUSD": 0.1502815909090909,
       "initialPoolEth": 150,
       "initialMarketCap": 331226.537441585
     },
     "currentInfos": {
       "currentPoolToken": 2200000,
-      "currentPriceUSD": 0.15046977272727272,
+      "currentPriceUSD": 0.1502815909090909,
       "currentPoolEth": 150,
-      "currentMarketCap": 331033.5
+      "currentMarketCap": 330619.5
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 1,
+    "holderCount": 2,
     "holderCountOld": 0,
     "txCount": 1,
     "createdAtTimestamp": "1618304993",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 1.0465857155290934,
-    "isRugged": false
-  },
-  {
-    "_id": "0x98629512ed2239974e169341be5b920ea4dcdb21",
-    "tokenName": "POP!",
-    "idPair": "0x89db1aa2e4ae2ac29f9b704344f6e0694bcb009d",
-    "idToken": "0x98629512ed2239974e169341be5b920ea4dcdb21",
-    "dateCreationToken": "2021-04-09T11:35:37Z",
-    "initialInfos": {
-      "initialPoolToken": 137534.23,
-      "initialPriceUSD": 1.9398802583212513,
-      "initialPoolEth": 128.5776635391706,
-      "initialMarketCap": 266799.9376204144
-    },
-    "currentInfos": {
-      "currentPoolToken": 856594.0903527886,
-      "currentPriceUSD": 1.1497020773751525,
-      "currentPoolEth": 445.21256629440654,
-      "currentMarketCap": 984828.00514588
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 458,
-    "holderCountOld": 460,
-    "txCount": 549,
-    "createdAtTimestamp": "1617968137",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.4073334823407654,
     "isRugged": false
   }
 ]
