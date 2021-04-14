@@ -7,15 +7,15 @@
     "dateCreationToken": "2021-04-14T02:15:16Z",
     "initialInfos": {
       "initialPoolToken": 1,
-      "initialPriceUSD": 393.6770835,
+      "initialPriceUSD": 393.6531169,
       "initialPoolEth": 0.17119,
-      "initialMarketCap": 393.6770835
+      "initialMarketCap": 393.6531169
     },
     "currentInfos": {
       "currentPoolToken": 1,
-      "currentPriceUSD": 395.18446915481474,
+      "currentPriceUSD": 395.16041078694064,
       "currentPoolEth": 0.1718454848147404,
-      "currentMarketCap": 395.18446915481474
+      "currentMarketCap": 395.16041078694064
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +27,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.0038289900987207317,
+    "priceChange": 0.003828990098720741,
     "isRugged": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 124750.89725571556,
-      "currentPriceUSD": 3.820063027151638,
+      "currentPriceUSD": 3.91282668317326,
       "currentPoolEth": 207.02826382257678,
       "currentMarketCap": 476556.29021055176
     },
@@ -275,7 +275,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.8472549156480034,
+    "priceChange": -0.8435457641593728,
     "isRugged": false
   },
   {
@@ -3348,6 +3348,37 @@
     "isRugged": true
   },
   {
+    "_id": "0xdc8af07a7861bedd104b8093ae3e9376fc8596d2",
+    "tokenName": "RVF",
+    "idPair": "0xa66cdad5facbcbf74d9b60dcc8034c2a485e63ff",
+    "idToken": "0xdc8af07a7861bedd104b8093ae3e9376fc8596d2",
+    "dateCreationToken": "2021-04-11T13:13:53Z",
+    "initialInfos": {
+      "initialPoolToken": 3125000,
+      "initialPriceUSD": 0.082051512,
+      "initialPoolEth": 111.5,
+      "initialMarketCap": 250140.2136420487
+    },
+    "currentInfos": {
+      "currentPoolToken": 1037594.6348145601,
+      "currentPriceUSD": 0.7993651500815399,
+      "currentPoolEth": 360.67096774828354,
+      "currentMarketCap": 829416.9909823413
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1443,
+    "holderCountOld": 0,
+    "txCount": 2249,
+    "createdAtTimestamp": "1618146833",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 8.74223546400388,
+    "isRugged": false
+  },
+  {
     "_id": "0x4f15f523dd637d08b67a7d3a261b881d8f87bf48",
     "tokenName": "@tiktokbinance",
     "idPair": "0x8453ac7bc54d099376d7366d7b4b96570d45da4b",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.9992982063064582,
     "isRugged": true
-  },
-  {
-    "_id": "0x592876d59afa1b510f5df167db367c90d2618b2d",
-    "tokenName": "RFD",
-    "idPair": "0x7183049a1c072db5f01261740a78af623e6d526f",
-    "idToken": "0x592876d59afa1b510f5df167db367c90d2618b2d",
-    "dateCreationToken": "2021-04-09T18:13:31Z",
-    "initialInfos": {
-      "initialPoolToken": 120000,
-      "initialPriceUSD": 1.001501125,
-      "initialPoolEth": 57.9,
-      "initialMarketCap": 120180.135
-    },
-    "currentInfos": {
-      "currentPoolToken": 442949.501447,
-      "currentPriceUSD": 0.10157368023283432,
-      "currentPoolEth": 19.569827110881292,
-      "currentMarketCap": 44992.01101927096
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 183,
-    "holderCountOld": 181,
-    "txCount": 282,
-    "createdAtTimestamp": "1617992011",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.898578566017253,
-    "isRugged": false
   }
 ]
