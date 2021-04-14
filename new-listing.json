@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xedadeb5faa413e6c8623461849dfd0b7c3790c32",
+    "tokenName": "OBOT",
+    "idPair": "0xe7b0c13adb5ab3323d07734a469709b05d15a762",
+    "idToken": "0xedadeb5faa413e6c8623461849dfd0b7c3790c32",
+    "dateCreationToken": "2021-04-14T14:41:21Z",
+    "initialInfos": {
+      "initialPoolToken": 27000,
+      "initialPriceUSD": 0.017343555555555557,
+      "initialPoolEth": 0.2,
+      "initialMarketCap": 467.183148272447
+    },
+    "currentInfos": {
+      "currentPoolToken": 27000,
+      "currentPriceUSD": 0.017343555555555557,
+      "currentPoolEth": 0.2,
+      "currentMarketCap": 468.276
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 30,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618411281",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xdcc16284fe9c88bdf5c9dcdf051dd7e4174f97bc",
     "tokenName": "GS",
     "idPair": "0xdd3b5a012e9b049e15849ea4fbd4d344911fe743",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-14T14:14:37Z",
     "initialInfos": {
       "initialPoolToken": 6000000,
-      "initialPriceUSD": 0.232807,
+      "initialPriceUSD": 0.234138,
       "initialPoolEth": 600,
       "initialMarketCap": 1388068.218708591
     },
     "currentInfos": {
       "currentPoolToken": 5998006.6624525115,
-      "currentPriceUSD": 0.23296199764950878,
+      "currentPriceUSD": 0.23429388379928734,
       "currentPoolEth": 600.2,
-      "currentMarketCap": 1397307.614
+      "currentMarketCap": 1405296.276
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.000665777444444531,
+    "priceChange": 0.0006657774444444144,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-14T14:01:30Z",
     "initialInfos": {
       "initialPoolToken": 769000,
-      "initialPriceUSD": 0.24219193758127439,
+      "initialPriceUSD": 0.24357659297789336,
       "initialPoolEth": 80,
-      "initialMarketCap": 186245.6
+      "initialMarketCap": 187310.4
     },
     "currentInfos": {
       "currentPoolToken": 639839.612435859,
-      "currentPriceUSD": 0.350034552748414,
+      "currentPriceUSD": 0.3520357640079901,
       "currentPoolEth": 96.20242199319804,
-      "currentMarketCap": 223965.97256970446
+      "currentMarketCap": 225246.42680643394
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.44527747803722806,
+    "priceChange": 0.44527747803722795,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x55fe2d8f3990b56d3805fc73fc9ccef564329f25",
-    "tokenName": "SFCHG",
-    "idPair": "0x6690bf650af454c0922af97a47a84a1702eacc27",
-    "idToken": "0x55fe2d8f3990b56d3805fc73fc9ccef564329f25",
-    "dateCreationToken": "2021-04-10T02:30:03Z",
-    "initialInfos": {
-      "initialPoolToken": 388906522265,
-      "initialPriceUSD": 1.6488622928340902e-8,
-      "initialPoolEth": 2.95,
-      "initialMarketCap": 6412.533
-    },
-    "currentInfos": {
-      "currentPoolToken": 368085415108.02313,
-      "currentPriceUSD": 1.6659753176924697e-8,
-      "currentPoolEth": 2.605726350292715,
-      "currentMarketCap": 6132.212163725534
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 14,
-    "holderCountOld": 15,
-    "txCount": 158,
-    "createdAtTimestamp": "1618021803",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.010378686523885145,
-    "isRugged": false
   }
 ]
