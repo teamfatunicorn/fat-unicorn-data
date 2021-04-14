@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xdc0d00397cbace3c361cd76d24163d60c4478ac2",
+    "tokenName": "MINA",
+    "idPair": "0xdc797ed7a27e0eca78256e812389e5a57e557983",
+    "idToken": "0xdc0d00397cbace3c361cd76d24163d60c4478ac2",
+    "dateCreationToken": "2021-04-14T09:41:06Z",
+    "initialInfos": {
+      "initialPoolToken": 3292000,
+      "initialPriceUSD": 0.2448836573511543,
+      "initialPoolEth": 340,
+      "initialMarketCap": 789004.9997301128
+    },
+    "currentInfos": {
+      "currentPoolToken": 3292000,
+      "currentPriceUSD": 0.2448836573511543,
+      "currentPoolEth": 340,
+      "currentMarketCap": 806157
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618393266",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x7d4b8cce0591c9044a22ee543533b72e976e36c3",
     "tokenName": "CAG",
     "idPair": "0x4751c9ca5230a33e8da11c3d4be623409ed524b8",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-14T08:58:06Z",
     "initialInfos": {
       "initialPoolToken": 5000,
-      "initialPriceUSD": 0.05709528,
+      "initialPriceUSD": 0.0569052,
       "initialPoolEth": 0.12,
-      "initialMarketCap": 285.4764
+      "initialMarketCap": 284.526
     },
     "currentInfos": {
       "currentPoolToken": 5000,
-      "currentPriceUSD": 0.05709528,
+      "currentPriceUSD": 0.0569052,
       "currentPoolEth": 0.12,
-      "currentMarketCap": 285.4764
+      "currentMarketCap": 284.526
     },
     "trustScore": null,
     "contractId": null,
@@ -38,7 +69,7 @@
     "dateCreationToken": "2021-04-14T08:21:57Z",
     "initialInfos": {
       "initialPoolToken": 476000,
-      "initialPriceUSD": 0.24989180672268907,
+      "initialPriceUSD": 0.24905987394957982,
       "initialPoolEth": 50,
       "initialMarketCap": 119020.05357066126
     },
@@ -571,7 +602,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 124586.03232377539,
-      "currentPriceUSD": 3.91461812560221,
+      "currentPriceUSD": 4.02980225475672,
       "currentPoolEth": 213.02065556084938,
       "currentMarketCap": 506541.81685814285
     },
@@ -585,7 +616,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.8434741333975301,
+    "priceChange": -0.8388685000876432,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x0fa7e3e89cfbbf9a6d4c48d8d4b106e01558ec70",
-    "tokenName": "DONO",
-    "idPair": "0xc012b98635569f282cebc3751596e409f9f6d8dc",
-    "idToken": "0x0fa7e3e89cfbbf9a6d4c48d8d4b106e01558ec70",
-    "dateCreationToken": "2021-04-09T23:48:19Z",
-    "initialInfos": {
-      "initialPoolToken": 9604941284.245855,
-      "initialPriceUSD": 1.9366656650478968e-7,
-      "initialPoolEth": 0.9,
-      "initialMarketCap": 1860.156
-    },
-    "currentInfos": {
-      "currentPoolToken": 175705988362.30444,
-      "currentPriceUSD": 6.356611028292768e-7,
-      "currentPoolEth": 46.89189593639032,
-      "currentMarketCap": 111689.46233609052
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 232,
-    "holderCountOld": 229,
-    "txCount": 523,
-    "createdAtTimestamp": "1618012099",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 2.2822449135202483,
-    "isRugged": false
   }
 ]
