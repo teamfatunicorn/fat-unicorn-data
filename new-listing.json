@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc70e28a770b866d1683348900da542954423a3a3",
+    "tokenName": "LOGE",
+    "idPair": "0xeff5f890350406457ddae7604cfce7595405f9d0",
+    "idToken": "0xc70e28a770b866d1683348900da542954423a3a3",
+    "dateCreationToken": "2021-04-14T10:07:45Z",
+    "initialInfos": {
+      "initialPoolToken": 10000000000,
+      "initialPriceUSD": 2.37826e-7,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2340.146213661512
+    },
+    "currentInfos": {
+      "currentPoolToken": 7697636825.494574,
+      "currentPriceUSD": 4.0164768358e-7,
+      "currentPoolEth": 1.3,
+      "currentMarketCap": 3091.738
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1618394865",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.6888299999999999,
+    "isRugged": false
+  },
+  {
     "_id": "0xdc0d00397cbace3c361cd76d24163d60c4478ac2",
     "tokenName": "MINA",
     "idPair": "0xdc797ed7a27e0eca78256e812389e5a57e557983",
@@ -12,22 +43,22 @@
       "initialMarketCap": 789004.9997301128
     },
     "currentInfos": {
-      "currentPoolToken": 3250631.6572118797,
-      "currentPriceUSD": 0.2519295124020326,
-      "currentPoolEth": 344.34,
-      "currentMarketCap": 818930.0484
+      "currentPoolToken": 3231916.314437331,
+      "currentPriceUSD": 0.2548601164951271,
+      "currentPoolEth": 346.34,
+      "currentMarketCap": 823686.5684
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 2,
     "holderCountOld": 0,
-    "txCount": 6,
+    "txCount": 7,
     "createdAtTimestamp": "1618393266",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.025653400122347618,
+    "priceChange": 0.03758445188296132,
     "isRugged": false
   },
   {
@@ -726,7 +757,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 177505.6598108058,
-      "currentPriceUSD": 7.75464749363721,
+      "currentPriceUSD": 7.74378424509092,
       "currentPoolEth": 578.8232657125187,
       "currentMarketCap": 1376493.8199582843
     },
@@ -740,7 +771,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 62.265115967701654,
+    "priceChange": 62.17648980131164,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.1490703337907574,
-    "isRugged": true
-  },
-  {
-    "_id": "0x865ba66ec2fc688c481135faaf787f9c9a4e67ec",
-    "tokenName": "Horny Farm",
-    "idPair": "0x59ba94e887aaf05355395446f49528df2e1b9bf0",
-    "idToken": "0x865ba66ec2fc688c481135faaf787f9c9a4e67ec",
-    "dateCreationToken": "2021-04-09T23:50:32Z",
-    "initialInfos": {
-      "initialPoolToken": 6900000,
-      "initialPriceUSD": 0.002695878260869565,
-      "initialPoolEth": 9,
-      "initialMarketCap": 18601.56
-    },
-    "currentInfos": {
-      "currentPoolToken": 8e-8,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.35147e-13,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 9,
-    "holderCountOld": 0,
-    "txCount": 9,
-    "createdAtTimestamp": "1618012232",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
