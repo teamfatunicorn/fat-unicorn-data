@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x02b6361bbec213bcc34756bbd2877831d92a6c84",
+    "tokenName": "WALL",
+    "idPair": "0xe4e10688001ff74a33e5e254e5e310b38ec67a29",
+    "idToken": "0x02b6361bbec213bcc34756bbd2877831d92a6c84",
+    "dateCreationToken": "2021-04-14T10:26:44Z",
+    "initialInfos": {
+      "initialPoolToken": 45682,
+      "initialPriceUSD": 0.05219626986559257,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2384.43
+    },
+    "currentInfos": {
+      "currentPoolToken": 22875.312969454182,
+      "currentPriceUSD": 0.20847190184317674,
+      "currentPoolEth": 2,
+      "currentMarketCap": 4768.86
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1618396004",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.9939999999999998,
+    "isRugged": false
+  },
+  {
     "_id": "0xc70e28a770b866d1683348900da542954423a3a3",
     "tokenName": "LOGE",
     "idPair": "0xeff5f890350406457ddae7604cfce7595405f9d0",
@@ -12,22 +43,22 @@
       "initialMarketCap": 2340.146213661512
     },
     "currentInfos": {
-      "currentPoolToken": 3326076223.6393433,
-      "currentPriceUSD": 0.000002171503608438394,
-      "currentPoolEth": 3.0290620909705113,
-      "currentMarketCap": 7222.586521573981
+      "currentPoolToken": 3169588207.798005,
+      "currentPriceUSD": 0.000002391557049248419,
+      "currentPoolEth": 3.1790620909705116,
+      "currentMarketCap": 7580.251021573981
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 12,
     "holderCountOld": 0,
-    "txCount": 27,
+    "txCount": 28,
     "createdAtTimestamp": "1618394865",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 8.107013451593858,
+    "priceChange": 9.029889949583001,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 789004.9997301128
     },
     "currentInfos": {
-      "currentPoolToken": 3226992.9070131225,
-      "currentPriceUSD": 0.2563027741097656,
-      "currentPoolEth": 346.87,
-      "currentMarketCap": 827087.2341
+      "currentPoolToken": 3226621.9389763176,
+      "currentPriceUSD": 0.2563618009621645,
+      "currentPoolEth": 346.91,
+      "currentMarketCap": 827182.6113
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 7,
     "holderCountOld": 0,
-    "txCount": 10,
+    "txCount": 11,
     "createdAtTimestamp": "1618393266",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.040757715149271505,
+    "priceChange": 0.04099740296477995,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.6136849687033064,
     "isRugged": false
-  },
-  {
-    "_id": "0x92e6f255addeda6bcd380b9f51be017d8320c271",
-    "tokenName": "NFT Farm",
-    "idPair": "0x9f795beda588a8f884e2cacbef83afefea90cd45",
-    "idToken": "0x92e6f255addeda6bcd380b9f51be017d8320c271",
-    "dateCreationToken": "2021-04-10T00:21:13Z",
-    "initialInfos": {
-      "initialPoolToken": 100000,
-      "initialPriceUSD": 0.206956,
-      "initialPoolEth": 10,
-      "initialMarketCap": 20695.6
-    },
-    "currentInfos": {
-      "currentPoolToken": 1e-8,
-      "currentPriceUSD": 0.237807,
-      "currentPoolEth": 1.03e-12,
-      "currentMarketCap": 2.37807e-9
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 3,
-    "createdAtTimestamp": "1618014073",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.1490703337907574,
-    "isRugged": true
   }
 ]
