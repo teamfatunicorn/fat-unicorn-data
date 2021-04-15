@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x5dfa95372eacd62a194049f868a34a888ac174b8",
+    "tokenName": "SHNGT",
+    "idPair": "0x0d4536a4b386295413b7e58c65b698f9fcd78a77",
+    "idToken": "0x5dfa95372eacd62a194049f868a34a888ac174b8",
+    "dateCreationToken": "2021-04-15T11:14:38Z",
+    "initialInfos": {
+      "initialPoolToken": 10000,
+      "initialPriceUSD": 0.00241926,
+      "initialPoolEth": 0.01,
+      "initialMarketCap": 24.1926
+    },
+    "currentInfos": {
+      "currentPoolToken": 10000,
+      "currentPriceUSD": 0.00241926,
+      "currentPoolEth": 0.01,
+      "currentMarketCap": 24.1926
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618485278",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0xc1016edb3f0a314131216425bc8c05459bcecfcc",
     "tokenName": "ADAS",
     "idPair": "0x6a5513550ea0e71eba0c365c878423cd9ab8f042",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-15T10:14:47Z",
     "initialInfos": {
       "initialPoolToken": 8734651,
-      "initialPriceUSD": 0.09415554210465879,
+      "initialPriceUSD": 0.09417072302030155,
       "initialPoolEth": 340,
       "initialMarketCap": 832337.848439258
     },
     "currentInfos": {
       "currentPoolToken": 8706567.221661063,
-      "currentPriceUSD": 0.09476485232288709,
+      "currentPriceUSD": 0.09478013147902442,
       "currentPoolEth": 341.1,
-      "currentMarketCap": 825076.557
+      "currentMarketCap": 825209.586
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.006471315491455811,
+    "priceChange": 0.006471315491455802,
     "isRugged": false
   },
   {
@@ -44,9 +75,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 972000,
-      "currentPriceUSD": 0.0030235875,
+      "currentPriceUSD": 0.003024075,
       "currentPoolEth": 1.215,
-      "currentMarketCap": 2938.92705
+      "currentMarketCap": 2939.4009
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.0001612323109551619,
     "isRugged": false
   },
   {
@@ -75,9 +106,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 155281.1639931403,
-      "currentPriceUSD": 0.8037878051974826,
+      "currentPriceUSD": 0.8039174017628321,
       "currentPoolEth": 51.59975773586704,
-      "currentMarketCap": 124813.10599455661
+      "currentMarketCap": 124833.2299000736
     },
     "trustScore": null,
     "contractId": null,
@@ -89,7 +120,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.6614944275580801,
+    "priceChange": 0.6617623141442742,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 9.270883107103451,
     "isRugged": false
-  },
-  {
-    "_id": "0x0ad3a50b9573d4ab607670f087a938ca85ded396",
-    "tokenName": "CHBF",
-    "idPair": "0xb0d054ecf859e4856a0fa2ad5fb0bcacf69bb4b9",
-    "idToken": "0x0ad3a50b9573d4ab607670f087a938ca85ded396",
-    "dateCreationToken": "2021-04-10T18:02:25Z",
-    "initialInfos": {
-      "initialPoolToken": 25,
-      "initialPriceUSD": 342.248,
-      "initialPoolEth": 4,
-      "initialMarketCap": 8556.2
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.402e-15,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 4.18e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 5,
-    "holderCountOld": 0,
-    "txCount": 13,
-    "createdAtTimestamp": "1618077745",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
