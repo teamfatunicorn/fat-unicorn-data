@@ -1,21 +1,21 @@
 [
   {
-    "_id": "0xc775c0c30840cb9f51e21061b054ebf1a00acc29",
-    "tokenName": "WPSL",
-    "idPair": "0x731a5948bfa84a7a40d2fd3c263b75d09cf14de1",
-    "idToken": "0xc775c0c30840cb9f51e21061b054ebf1a00acc29",
-    "dateCreationToken": "2021-04-15T05:39:53Z",
+    "_id": "0x43ced2c8b0750f6c7716daf7184ad79f6e60233a",
+    "tokenName": "DDOS",
+    "idPair": "0x5dd230f81bd77cc1134a6994e35fe0b48be115c5",
+    "idToken": "0x43ced2c8b0750f6c7716daf7184ad79f6e60233a",
+    "dateCreationToken": "2021-04-15T05:46:49Z",
     "initialInfos": {
-      "initialPoolToken": 5000000,
-      "initialPriceUSD": 0.006863584,
-      "initialPoolEth": 14,
-      "initialMarketCap": 34321.45369899201
+      "initialPoolToken": 445000,
+      "initialPriceUSD": 0.490384,
+      "initialPoolEth": 89,
+      "initialMarketCap": 218220.88
     },
     "currentInfos": {
-      "currentPoolToken": 5000000,
-      "currentPriceUSD": 0.006863584,
-      "currentPoolEth": 14,
-      "currentMarketCap": 34317.92
+      "currentPoolToken": 445000,
+      "currentPriceUSD": 0.490384,
+      "currentPoolEth": 89,
+      "currentMarketCap": 218220.88
     },
     "trustScore": null,
     "contractId": null,
@@ -23,11 +23,42 @@
     "holderCount": 1,
     "holderCountOld": 0,
     "txCount": 1,
-    "createdAtTimestamp": "1618465193",
+    "createdAtTimestamp": "1618465609",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0,
+    "isRugged": false
+  },
+  {
+    "_id": "0xc775c0c30840cb9f51e21061b054ebf1a00acc29",
+    "tokenName": "WPSL",
+    "idPair": "0x731a5948bfa84a7a40d2fd3c263b75d09cf14de1",
+    "idToken": "0xc775c0c30840cb9f51e21061b054ebf1a00acc29",
+    "dateCreationToken": "2021-04-15T05:39:53Z",
+    "initialInfos": {
+      "initialPoolToken": 5000000,
+      "initialPriceUSD": 0.006865376,
+      "initialPoolEth": 14,
+      "initialMarketCap": 34321.45369899201
+    },
+    "currentInfos": {
+      "currentPoolToken": 4964644.63783,
+      "currentPriceUSD": 0.006963654908261698,
+      "currentPoolEth": 14.1,
+      "currentMarketCap": 34572.072
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1618465193",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.014315153061055632,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-15T05:07:54Z",
     "initialInfos": {
       "initialPoolToken": 12000000,
-      "initialPriceUSD": 0.040854666666666664,
+      "initialPriceUSD": 0.04086533333333333,
       "initialPoolEth": 200,
       "initialMarketCap": 490857.5690408744
     },
     "currentInfos": {
       "currentPoolToken": 9981922.850082178,
-      "currentPriceUSD": 0.05907634073772027,
+      "currentPriceUSD": 0.05909176486636822,
       "currentPoolEth": 240.56634717743023,
-      "currentMarketCap": 589695.4755090906
+      "currentMarketCap": 589849.4379712841
     },
     "trustScore": null,
     "contractId": null,
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 24,
     "createdAtTimestamp": "1618070891",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x5be0a50026c1fb9a4a288d7657a87127610e24f3",
-    "tokenName": "ALPHR",
-    "idPair": "0xf6563f530c9c5b74c8e0ce8d2b1dec5068718c81",
-    "idToken": "0x5be0a50026c1fb9a4a288d7657a87127610e24f3",
-    "dateCreationToken": "2021-04-10T15:45:59Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000,
-      "initialPriceUSD": 0.7531055,
-      "initialPoolEth": 350,
-      "initialMarketCap": 753105.5
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.8986e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2.1e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 15,
-    "holderCountOld": 14,
-    "txCount": 17,
-    "createdAtTimestamp": "1618069559",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
