@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xd68d003419f141fc63718785d0040334da168df7",
+    "tokenName": "SOME",
+    "idPair": "0x73e289c7675c4deeb55684aea2f5dcc3d977e413",
+    "idToken": "0xd68d003419f141fc63718785d0040334da168df7",
+    "dateCreationToken": "2021-04-15T05:07:54Z",
+    "initialInfos": {
+      "initialPoolToken": 12000000,
+      "initialPriceUSD": 0.04092,
+      "initialPoolEth": 200,
+      "initialMarketCap": 490857.5690408744
+    },
+    "currentInfos": {
+      "currentPoolToken": 12000000,
+      "currentPriceUSD": 0.04092,
+      "currentPoolEth": 200,
+      "currentMarketCap": 491040
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": null,
+    "txCount": 1,
+    "createdAtTimestamp": "1618463274",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xfeacd6a8413890a72177d36b89d2fbf83c28155f",
     "tokenName": "SAITO",
     "idPair": "0xc2a2863ac5748cc728cc14dd1de2bdd5e6b11ffc",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-15T04:29:14Z",
     "initialInfos": {
       "initialPoolToken": 3000000,
-      "initialPriceUSD": 0.0016376066666666668,
+      "initialPriceUSD": 0.0016368,
       "initialPoolEth": 2,
       "initialMarketCap": 4929.962664157885
     },
     "currentInfos": {
       "currentPoolToken": 57278715.83660567,
-      "currentPriceUSD": 0.012645563122717578,
+      "currentPriceUSD": 0.012639334060232696,
       "currentPoolEth": 294.87,
-      "currentMarketCap": 724321.6167
+      "currentMarketCap": 723964.824
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 6.721978287043436,
+    "priceChange": 6.721978287043435,
     "isRugged": false
   },
   {
@@ -38,9 +69,9 @@
     "dateCreationToken": "2021-04-15T04:21:22Z",
     "initialInfos": {
       "initialPoolToken": 100000000,
-      "initialPriceUSD": 0.00000736923,
+      "initialPriceUSD": 0.0000073656,
       "initialPoolEth": 0.3,
-      "initialMarketCap": 736.923
+      "initialMarketCap": 736.56
     },
     "currentInfos": {
       "currentPoolToken": 1.1604457e-11,
@@ -69,15 +100,15 @@
     "dateCreationToken": "2021-04-15T04:16:54Z",
     "initialInfos": {
       "initialPoolToken": 2200000,
-      "initialPriceUSD": 0.334965,
+      "initialPriceUSD": 0.3348,
       "initialPoolEth": 300,
       "initialMarketCap": 740266.9618209087
     },
     "currentInfos": {
       "currentPoolToken": 2013018.4832000348,
-      "currentPriceUSD": 0.40018844715515095,
+      "currentPriceUSD": 0.39999131881702427,
       "currentPoolEth": 327.9528828194147,
-      "currentMarketCap": 805586.7408864392
+      "currentMarketCap": 805189.9178982277
     },
     "trustScore": null,
     "contractId": null,
@@ -89,7 +120,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.19471720076769494,
+    "priceChange": 0.194717200767695,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x064157699884433163bdba81a0fab7c425c69a50",
-    "tokenName": "PUSH",
-    "idPair": "0x0811f452765217f984c8f4b7b3d7a34c2fe925f6",
-    "idToken": "0x064157699884433163bdba81a0fab7c425c69a50",
-    "dateCreationToken": "2021-04-10T15:35:01Z",
-    "initialInfos": {
-      "initialPoolToken": 1920000,
-      "initialPriceUSD": 0.26930875,
-      "initialPoolEth": 240,
-      "initialMarketCap": 517072.8
-    },
-    "currentInfos": {
-      "currentPoolToken": 1477876.5664573626,
-      "currentPriceUSD": 0.5189299689622136,
-      "currentPoolEth": 312.04050907,
-      "currentMarketCap": 766914.4407617018
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 27,
-    "holderCountOld": 26,
-    "txCount": 27,
-    "createdAtTimestamp": "1618068901",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.926896058751205,
-    "isRugged": false
   }
 ]
