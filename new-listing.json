@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x08517f7d33fecb1ec9bd4a7413cbd363c27cd684",
+    "tokenName": "SAUR",
+    "idPair": "0xe9a7d464c9ab866bb71d53948c535e6170955c2f",
+    "idToken": "0x08517f7d33fecb1ec9bd4a7413cbd363c27cd684",
+    "dateCreationToken": "2021-04-15T15:21:53Z",
+    "initialInfos": {
+      "initialPoolToken": 50000000000,
+      "initialPriceUSD": 1.3281786e-7,
+      "initialPoolEth": 2.7,
+      "initialMarketCap": 6640.893
+    },
+    "currentInfos": {
+      "currentPoolToken": 45013504051.21536,
+      "currentPriceUSD": 1.6392347486666667e-7,
+      "currentPoolEth": 3,
+      "currentMarketCap": 7378.77
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1618500113",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.2341975308641977,
+    "isRugged": false
+  },
+  {
     "_id": "0x3758e00b100876c854636ef8db61988931bb8025",
     "tokenName": "UNIQ",
     "idPair": "0xc447aaa230af55b2eaa75227521768914ec590aa",
@@ -12,22 +43,22 @@
       "initialMarketCap": 169711.71
     },
     "currentInfos": {
-      "currentPoolToken": 140637.96973590113,
-      "currentPriceUSD": 3.717968644787828,
-      "currentPoolEth": 212.59135130029847,
-      "currentMarketCap": 522887.56174469995
+      "currentPoolToken": 151161.3082153509,
+      "currentPriceUSD": 3.222455091235251,
+      "currentPoolEth": 198.0454170233005,
+      "currentMarketCap": 487110.52725633845
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 268,
     "holderCountOld": 0,
-    "txCount": 586,
+    "txCount": 618,
     "createdAtTimestamp": "1618498766",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 8.201173158946355,
+    "priceChange": 6.974883632477721,
     "isRugged": false
   },
   {
@@ -74,22 +105,22 @@
       "initialMarketCap": 153724.375
     },
     "currentInfos": {
-      "currentPoolToken": 79629.13474835984,
-      "currentPriceUSD": 7.38061974115807,
-      "currentPoolEth": 238.94728954625754,
-      "currentMarketCap": 587712.3638950808
+      "currentPoolToken": 79466.81848295227,
+      "currentPriceUSD": 7.413531355007333,
+      "currentPoolEth": 239.52355901025896,
+      "currentMarketCap": 589129.750506043
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 76,
     "holderCountOld": 0,
-    "txCount": 222,
+    "txCount": 238,
     "createdAtTimestamp": "1618497635",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 13.403609852682251,
+    "priceChange": 13.46783834055074,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x54714a7dc0a6f23b83e57da242fa0cd15efdec85",
-    "tokenName": "AKL",
-    "idPair": "0xa1152e913a584300b950a7b67b276b043cb0681a",
-    "idToken": "0x54714a7dc0a6f23b83e57da242fa0cd15efdec85",
-    "dateCreationToken": "2021-04-10T22:58:04Z",
-    "initialInfos": {
-      "initialPoolToken": 20000000,
-      "initialPriceUSD": 0.005983936,
-      "initialPoolEth": 56,
-      "initialMarketCap": 119678.72
-    },
-    "currentInfos": {
-      "currentPoolToken": 1,
-      "currentPriceUSD": 0.00000412967546,
-      "currentPoolEth": 1.677532153e-9,
-      "currentMarketCap": 0.00000412967546
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 4,
-    "holderCountOld": 0,
-    "txCount": 6,
-    "createdAtTimestamp": "1618095484",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9993098730567974,
     "isRugged": true
   }
 ]
