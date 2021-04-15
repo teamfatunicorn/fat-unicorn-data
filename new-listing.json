@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xb513c00495b3d7c26b91639a3d5c9b808a6cee2b",
+    "tokenName": "LQFI",
+    "idPair": "0x054fd88a4a40198de966e49ca5e0fe05c881cfab",
+    "idToken": "0xb513c00495b3d7c26b91639a3d5c9b808a6cee2b",
+    "dateCreationToken": "2021-04-15T19:16:21Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000,
+      "initialPriceUSD": 0.1702199205,
+      "initialPoolEth": 68.85,
+      "initialMarketCap": 170219.9205
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000,
+      "currentPriceUSD": 0.1702199205,
+      "currentPoolEth": 68.85,
+      "currentMarketCap": 170219.9205
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618514181",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x8dee4ecc63d4257f25fe384debb9e4da28797538",
     "tokenName": "GRL",
     "idPair": "0x748aa94706b8ae6daae23be8e133b772a071c5b0",
@@ -12,23 +43,23 @@
       "initialMarketCap": 143395.14
     },
     "currentInfos": {
-      "currentPoolToken": 18518066,
-      "currentPriceUSD": 0.008367614262554519,
-      "currentPoolEth": 62.67449457658355,
-      "currentMarketCap": 154952.03317652593
+      "currentPoolToken": 1,
+      "currentPriceUSD": 0.0000045490872,
+      "currentPoolEth": 1.840186524e-9,
+      "currentMarketCap": 0.0000045490872
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 2,
     "holderCountOld": 0,
-    "txCount": 6,
+    "txCount": 7,
     "createdAtTimestamp": "1618513689",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.167070831348192,
-    "isRugged": false
+    "priceChange": -0.9993655172413792,
+    "isRugged": true
   },
   {
     "_id": "0x6307b25a665efc992ec1c1bc403c38f3ddd7c661",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 2.7673023410853546,
     "isRugged": false
-  },
-  {
-    "_id": "0xf8da8b4c1114a12351a4eea31e4a6295608dd13d",
-    "tokenName": "RAZE",
-    "idPair": "0x3126e82221a534c62372835de59f2f9525c5a4b9",
-    "idToken": "0xf8da8b4c1114a12351a4eea31e4a6295608dd13d",
-    "dateCreationToken": "2021-04-11T03:57:50Z",
-    "initialInfos": {
-      "initialPoolToken": 4500000,
-      "initialPriceUSD": 0.11839333333333334,
-      "initialPoolEth": 250,
-      "initialMarketCap": 536741.277985245
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.23942e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 9e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 16,
-    "holderCountOld": 13,
-    "txCount": 17,
-    "createdAtTimestamp": "1618113470",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
