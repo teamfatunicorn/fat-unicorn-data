@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x6243d8cea23066d098a15582d81a598b4e8391f4",
+    "tokenName": "FLX",
+    "idPair": "0xd6f3768e62ef92a9798e5a8cedd2b78907cecef9",
+    "idToken": "0x6243d8cea23066d098a15582d81a598b4e8391f4",
+    "dateCreationToken": "2021-04-15T13:06:03Z",
+    "initialInfos": {
+      "initialPoolToken": 0.1,
+      "initialPriceUSD": 26.79358,
+      "initialPoolEth": 0.0011,
+      "initialMarketCap": 2.679358
+    },
+    "currentInfos": {
+      "currentPoolToken": 0.1,
+      "currentPriceUSD": 26.79358,
+      "currentPoolEth": 0.0011,
+      "currentMarketCap": 2.679358
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618491963",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x7bebd226154e865954a87650faefa8f485d36081",
     "tokenName": "ZIG",
     "idPair": "0xd17351869efe6cd11861ae9eac87119a891d9ac3",
@@ -12,22 +43,22 @@
       "initialMarketCap": 24357.8
     },
     "currentInfos": {
-      "currentPoolToken": 548154.249808,
-      "currentPriceUSD": 0.10383450495045402,
-      "currentPoolEth": 23.367186349055142,
-      "currentMarketCap": 56917.32516530119
+      "currentPoolToken": 3451519.219476635,
+      "currentPriceUSD": 0.09862528320866064,
+      "currentPoolEth": 139.7527939801701,
+      "currentMarketCap": 340407.06052101846
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 96,
     "holderCountOld": 0,
-    "txCount": 89,
+    "txCount": 100,
     "createdAtTimestamp": "1618490510",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 4.328606491065184,
+    "priceChange": 4.061278276807667,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 2.3565374231044514,
-    "isRugged": false
-  },
-  {
-    "_id": "0x18bdfc80b97cb97f6b466cce967849ce9cd9d58c",
-    "tokenName": "🍑",
-    "idPair": "0x31677221f6fc2ccf04042499e80dba55c433f7d2",
-    "idToken": "0x18bdfc80b97cb97f6b466cce967849ce9cd9d58c",
-    "dateCreationToken": "2021-04-10T19:25:57Z",
-    "initialInfos": {
-      "initialPoolToken": 9554361.99431655,
-      "initialPriceUSD": 0.0003776031306063229,
-      "initialPoolEth": 1.7,
-      "initialMarketCap": 3607.757
-    },
-    "currentInfos": {
-      "currentPoolToken": 2350565.11635332,
-      "currentPriceUSD": 0.008363200402954185,
-      "currentPoolEth": 8.080901363210607,
-      "currentMarketCap": 19658.247128256135
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 124,
-    "holderCountOld": 122,
-    "txCount": 429,
-    "createdAtTimestamp": "1618082757",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 21.148122526222892,
     "isRugged": false
   }
 ]
