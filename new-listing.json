@@ -43,22 +43,22 @@
       "initialMarketCap": 832337.848439258
     },
     "currentInfos": {
-      "currentPoolToken": 8706567.221661063,
-      "currentPriceUSD": 0.09466808433401727,
-      "currentPoolEth": 341.1,
-      "currentMarketCap": 824234.04
+      "currentPoolToken": 1803279.0913955616,
+      "currentPriceUSD": 0.09732583502484747,
+      "currentPoolEth": 72.6310392952,
+      "currentMarketCap": 175505.64335292127
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 3,
     "holderCountOld": 0,
-    "txCount": 3,
+    "txCount": 5,
     "createdAtTimestamp": "1618481687",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.006471315491455871,
+    "priceChange": 0.03472740467786187,
     "isRugged": false
   },
   {
@@ -5084,6 +5084,37 @@
     "isRugged": true
   },
   {
+    "_id": "0x3d3097cd94fec5dc823e5025a59438e63757dc79",
+    "tokenName": "PLASMA",
+    "idPair": "0x05c98860089f248ec7d324955c6f0b58d3de53a1",
+    "idToken": "0x3d3097cd94fec5dc823e5025a59438e63757dc79",
+    "dateCreationToken": "2021-04-11T12:33:44Z",
+    "initialInfos": {
+      "initialPoolToken": 97297.2972972973,
+      "initialPriceUSD": 0.07450566666666666,
+      "initialPoolEth": 3,
+      "initialMarketCap": 7249.2
+    },
+    "currentInfos": {
+      "currentPoolToken": 89410.31328273275,
+      "currentPriceUSD": 0.4242548033026785,
+      "currentPoolEth": 15.698044560087853,
+      "currentMarketCap": 37932.754874996645
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 96,
+    "holderCountOld": 0,
+    "txCount": 380,
+    "createdAtTimestamp": "1618144424",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 4.694262225727956,
+    "isRugged": false
+  },
+  {
     "_id": "0xfa45554f4031d320e9bafdc57361030756e528ed",
     "tokenName": "TLM",
     "idPair": "0x16cc0fbb6587145be98a00524b9a47473e7f12db",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x9b18373f80f09c5c56101401ff63c71009eed144",
-    "tokenName": "MND",
-    "idPair": "0x004ea549cdc104479b202a3f5c6c1ee78f200da9",
-    "idToken": "0x9b18373f80f09c5c56101401ff63c71009eed144",
-    "dateCreationToken": "2021-04-10T18:28:59Z",
-    "initialInfos": {
-      "initialPoolToken": 27000000,
-      "initialPriceUSD": 0.0000213329,
-      "initialPoolEth": 0.27,
-      "initialMarketCap": 575.9883
-    },
-    "currentInfos": {
-      "currentPoolToken": 9305373.329296505,
-      "currentPriceUSD": 0.0002191077222355272,
-      "currentPoolEth": 0.8338701207046917,
-      "currentMarketCap": 2038.8791547333815
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 34,
-    "holderCountOld": 35,
-    "txCount": 133,
-    "createdAtTimestamp": "1618079339",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 9.270883107103451,
-    "isRugged": false
   }
 ]
