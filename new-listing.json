@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xa7b8b741d2d4c55606268b59bcdb3582a52e71e6",
+    "tokenName": "XCV",
+    "idPair": "0x74ac90f91f147e2ab333b76d3b20975880a9c346",
+    "idToken": "0xa7b8b741d2d4c55606268b59bcdb3582a52e71e6",
+    "dateCreationToken": "2021-04-15T02:27:19Z",
+    "initialInfos": {
+      "initialPoolToken": 684938,
+      "initialPriceUSD": 0.01674155544005443,
+      "initialPoolEth": 4.75,
+      "initialMarketCap": 11466.9275
+    },
+    "currentInfos": {
+      "currentPoolToken": 684938,
+      "currentPriceUSD": 0.01674155544005443,
+      "currentPoolEth": 4.75,
+      "currentMarketCap": 11466.9275
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618453639",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x93c2c7cf7efb87f140a3a79ae647bbc85d23b630",
     "tokenName": "MDOG",
     "idPair": "0x48056dd7cc59b31d24f6c42f57a7439514dbbd32",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-15T01:51:40Z",
     "initialInfos": {
       "initialPoolToken": 9800000,
-      "initialPriceUSD": 0.0009852285714285714,
+      "initialPriceUSD": 0.000985342857142857,
       "initialPoolEth": 4,
-      "initialMarketCap": 9655.24
+      "initialMarketCap": 9656.36
     },
     "currentInfos": {
       "currentPoolToken": 7566028.743006027,
-      "currentPriceUSD": 0.001654184153287723,
+      "currentPriceUSD": 0.0016543760373063162,
       "currentPoolEth": 5.185,
-      "currentMarketCap": 12515.60485
+      "currentMarketCap": 12517.05665
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.6789851626908999,
+    "priceChange": 0.6789851626909,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.12476168829060337,
     "isRugged": false
-  },
-  {
-    "_id": "0x1d1b1b49c8f2fdd1938a81cbf55bb8b44e457ae3",
-    "tokenName": "PiggyBank Community Token",
-    "idPair": "0x7445321265a1b0ec190729935351c92513ed58fb",
-    "idToken": "0x1d1b1b49c8f2fdd1938a81cbf55bb8b44e457ae3",
-    "dateCreationToken": "2021-04-10T13:02:11Z",
-    "initialInfos": {
-      "initialPoolToken": 500000000000,
-      "initialPriceUSD": 8.62232e-9,
-      "initialPoolEth": 2,
-      "initialMarketCap": 4311.16
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.00002814,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3.57e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 11,
-    "holderCountOld": 10,
-    "txCount": 12,
-    "createdAtTimestamp": "1618059731",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
