@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x49a17f821c449fdb599a0d535208bc3a06c61381",
+    "tokenName": "CNM",
+    "idPair": "0xc4e3ec658dc2e17e346ed0daba4a898229e5846b",
+    "idToken": "0x49a17f821c449fdb599a0d535208bc3a06c61381",
+    "dateCreationToken": "2021-04-16T16:23:49Z",
+    "initialInfos": {
+      "initialPoolToken": 50,
+      "initialPriceUSD": 24.2865,
+      "initialPoolEth": 0.5,
+      "initialMarketCap": 1214.325
+    },
+    "currentInfos": {
+      "currentPoolToken": 13.923684175643823,
+      "currentPriceUSD": 313.96647215304,
+      "currentPoolEth": 1.8,
+      "currentMarketCap": 4371.57
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 5,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1618590229",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 11.927612960000001,
+    "isRugged": false
+  },
+  {
     "_id": "0x5a4623f305a8d7904ed68638af3b4328678eddbf",
     "tokenName": "dART",
     "idPair": "0xd225d64ae6c0784413e9054b832c9a52a19fbfe5",
@@ -12,22 +43,22 @@
       "initialMarketCap": 429712.0492085946
     },
     "currentInfos": {
-      "currentPoolToken": 540391.7884124671,
-      "currentPriceUSD": 0.3391531602032581,
-      "currentPoolEth": 75.46397496056608,
-      "currentMarketCap": 183275.5827879786
+      "currentPoolToken": 565070.2782576417,
+      "currentPriceUSD": 0.31058495595258884,
+      "currentPoolEth": 72.26332632646438,
+      "currentMarketCap": 175502.3274827668
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 53,
-    "holderCountOld": 0,
-    "txCount": 137,
+    "holderCount": 79,
+    "holderCountOld": 53,
+    "txCount": 154,
     "createdAtTimestamp": "1618588719",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.29038062767553435,
+    "priceChange": -0.3501546576643674,
     "isRugged": false
   },
   {
@@ -51,7 +82,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 48,
+    "holderCount": 56,
     "holderCountOld": 0,
     "txCount": 59,
     "createdAtTimestamp": "1618588183",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 2.0313209748793297,
     "isRugged": false
-  },
-  {
-    "_id": "0x37cbd19525b6ba489d1f06ab08c81726bac983f9",
-    "tokenName": "SOX",
-    "idPair": "0x557893ee503bdc5caeff4d038b2e70f175c1ae3c",
-    "idToken": "0x37cbd19525b6ba489d1f06ab08c81726bac983f9",
-    "dateCreationToken": "2021-04-11T18:46:44Z",
-    "initialInfos": {
-      "initialPoolToken": 3200,
-      "initialPriceUSD": 0.134029375,
-      "initialPoolEth": 0.2,
-      "initialMarketCap": 428.894
-    },
-    "currentInfos": {
-      "currentPoolToken": 3.0716e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3.3e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 9,
-    "holderCountOld": 0,
-    "txCount": 9,
-    "createdAtTimestamp": "1618166804",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
