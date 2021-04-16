@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x1af426ff990e1e2693245a11687e44f448c1da03",
+    "tokenName": "PDEX",
+    "idPair": "0x45501b8ee20805bd8e526724cb286e4c4ec70f3f",
+    "idToken": "0x1af426ff990e1e2693245a11687e44f448c1da03",
+    "dateCreationToken": "2021-04-16T06:25:02Z",
+    "initialInfos": {
+      "initialPoolToken": 300000,
+      "initialPriceUSD": 1.8398313333333334,
+      "initialPoolEth": 230,
+      "initialMarketCap": 551949.4
+    },
+    "currentInfos": {
+      "currentPoolToken": 300000,
+      "currentPriceUSD": 1.8398313333333334,
+      "currentPoolEth": 230,
+      "currentMarketCap": 551949.4
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618554302",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x29a2bd141e26c9935ee1eb4ecb939abb75b0a260",
     "tokenName": "RAZE",
     "idPair": "0xba057c6f9ced0be35ecb8f86a73340ff10358c2a",
@@ -20,7 +51,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 1,
+    "holderCount": 2,
     "holderCountOld": 0,
     "txCount": 1,
     "createdAtTimestamp": "1618553928",
@@ -6162,37 +6193,6 @@
     "holderCountOld": 9,
     "txCount": 13,
     "createdAtTimestamp": "1618140175",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xba68221780ce0c86152f0aa7c83615d02ab53f2a",
-    "tokenName": "DOM",
-    "idPair": "0x5760bc37e157665eaac16845038c5bbee5881b35",
-    "idToken": "0xba68221780ce0c86152f0aa7c83615d02ab53f2a",
-    "dateCreationToken": "2021-04-11T11:05:55Z",
-    "initialInfos": {
-      "initialPoolToken": 20000000000,
-      "initialPriceUSD": 3.21264e-7,
-      "initialPoolEth": 3,
-      "initialMarketCap": 6425.28
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.9521531e-11,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 0,
-    "txCount": 12,
-    "createdAtTimestamp": "1618139155",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
