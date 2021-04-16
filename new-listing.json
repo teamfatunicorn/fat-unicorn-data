@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x530b5804f3ab321adfd3f976d7f3e0537bf953a8",
+    "tokenName": "dART",
+    "idPair": "0xe210e3d8c975d69c41bd2d0dbc35843f1e9f8662",
+    "idToken": "0x530b5804f3ab321adfd3f976d7f3e0537bf953a8",
+    "dateCreationToken": "2021-04-16T15:11:03Z",
+    "initialInfos": {
+      "initialPoolToken": 16006382,
+      "initialPriceUSD": 0.0496188082978402,
+      "initialPoolEth": 330,
+      "initialMarketCap": 794217.6
+    },
+    "currentInfos": {
+      "currentPoolToken": 16006382,
+      "currentPriceUSD": 0.0496188082978402,
+      "currentPoolEth": 330,
+      "currentMarketCap": 794217.6
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618585863",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xa2c1e04aca801da92fa95af161040d37f103d69d",
     "tokenName": "COY",
     "idPair": "0x8382e99c4f7a50123a3e10dbe3644cbe721a3b9c",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-16T14:31:22Z",
     "initialInfos": {
       "initialPoolToken": 550000,
-      "initialPriceUSD": 0.00963192,
+      "initialPriceUSD": 0.00962688,
       "initialPoolEth": 2.2,
-      "initialMarketCap": 5297.556
+      "initialMarketCap": 5294.784
     },
     "currentInfos": {
       "currentPoolToken": 505594.05332002684,
-      "currentPriceUSD": 0.011414992389243294,
+      "currentPriceUSD": 0.011409019378499665,
       "currentPoolEth": 2.396760882854132,
-      "currentMarketCap": 5771.352270694775
+      "currentMarketCap": 5768.332351982379
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.18512117929169822,
+    "priceChange": 0.18512117929169825,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.8961767003891686,
-    "isRugged": true
-  },
-  {
-    "_id": "0x7f6c3804904df3734e549485d865026753e2c1a3",
-    "tokenName": "KITTY",
-    "idPair": "0xadd5af2625e56beaca39a74dc365cf2f1e082a9d",
-    "idToken": "0x7f6c3804904df3734e549485d865026753e2c1a3",
-    "dateCreationToken": "2021-04-11T18:13:24Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 4.3318294e-9,
-      "initialPoolEth": 2.02,
-      "initialMarketCap": 4331.8294
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.0553112e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 11,
-    "holderCountOld": 0,
-    "txCount": 31,
-    "createdAtTimestamp": "1618164804",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
