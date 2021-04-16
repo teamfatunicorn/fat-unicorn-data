@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc40af1e4fecfa05ce6bab79dcd8b373d2e436c4e",
+    "tokenName": "HOKK",
+    "idPair": "0x9314941c11d6dee1d7bf93113eb74d4718949f3b",
+    "idToken": "0xc40af1e4fecfa05ce6bab79dcd8b373d2e436c4e",
+    "dateCreationToken": "2021-04-16T22:12:52Z",
+    "initialInfos": {
+      "initialPoolToken": 88012592442834320,
+      "initialPriceUSD": 2.08301442908953e-14,
+      "initialPoolEth": 0.75,
+      "initialMarketCap": 1833.847581441366
+    },
+    "currentInfos": {
+      "currentPoolToken": 36885970217511990,
+      "currentPriceUSD": 1.205539095319202e-13,
+      "currentPoolEth": 1.8191423391225872,
+      "currentMarketCap": 4446.7479165990435
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 9,
+    "holderCountOld": 0,
+    "txCount": 12,
+    "createdAtTimestamp": "1618611172",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 4.787473569475629,
+    "isRugged": false
+  },
+  {
     "_id": "0xdd43663fd99799b313a20670c4844358e1f94238",
     "tokenName": "KCOBRA",
     "idPair": "0x97ac96b3b2028ea51a0821009be4fef07eac834b",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-16T21:43:20Z",
     "initialInfos": {
       "initialPoolToken": 70000,
-      "initialPriceUSD": 0.0017566214285714287,
+      "initialPriceUSD": 0.0017460142857142857,
       "initialPoolEth": 0.05,
       "initialMarketCap": 122.68669200692375
     },
     "currentInfos": {
-      "currentPoolToken": 35343.4159893482,
-      "currentPriceUSD": 0.0069953300461722875,
-      "currentPoolEth": 0.10053343463897317,
-      "currentMarketCap": 247.23885980465354
+      "currentPoolToken": 59975.199138542564,
+      "currentPriceUSD": 0.0069530896044231105,
+      "currentPoolEth": 0.170597906109903,
+      "currentMarketCap": 417.0129336534062
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 18,
     "holderCountOld": 0,
-    "txCount": 14,
+    "txCount": 15,
     "createdAtTimestamp": "1618609400",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.982263868807086,
+    "priceChange": 2.982263868808288,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.999209416366891,
-    "isRugged": true
-  },
-  {
-    "_id": "0xd42b0635c56f1788b75ed4860dd2fff729b1e499",
-    "tokenName": "DRAM",
-    "idPair": "0x81474ec148ce372ce5626f57a8362747dc2eeee5",
-    "idToken": "0xd42b0635c56f1788b75ed4860dd2fff729b1e499",
-    "dateCreationToken": "2021-04-11T20:21:33Z",
-    "initialInfos": {
-      "initialPoolToken": 2000,
-      "initialPriceUSD": 0.0106832,
-      "initialPoolEth": 0.01,
-      "initialMarketCap": 21.420467121467258
-    },
-    "currentInfos": {
-      "currentPoolToken": 2000,
-      "currentPriceUSD": 0.01228985,
-      "currentPoolEth": 0.01,
-      "currentMarketCap": 24.5797
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 1,
-    "createdAtTimestamp": "1618172493",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.15039033248464873,
     "isRugged": true
   }
 ]
