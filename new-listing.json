@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x66f7b7c2431bffc8b3a5516de8be6991f00daf0c",
+    "tokenName": "rDOGE",
+    "idPair": "0x48ce9d5c55bac9d060381881f43f2da720c9e7b8",
+    "idToken": "0x66f7b7c2431bffc8b3a5516de8be6991f00daf0c",
+    "dateCreationToken": "2021-04-16T02:39:19Z",
+    "initialInfos": {
+      "initialPoolToken": 1100000,
+      "initialPriceUSD": 0.22881272727272728,
+      "initialPoolEth": 100,
+      "initialMarketCap": 251694
+    },
+    "currentInfos": {
+      "currentPoolToken": 1100000,
+      "currentPriceUSD": 0.22881272727272728,
+      "currentPoolEth": 100,
+      "currentMarketCap": 251694
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618540759",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x963a6363ada9b3395027b26c6d14e209102052e1",
     "tokenName": "wowQ",
     "idPair": "0x5f280ceb19a13a1f261a6f438831a69eb2bd629f",
@@ -12,22 +43,22 @@
       "initialMarketCap": 3775.41
     },
     "currentInfos": {
-      "currentPoolToken": 1612760.1466805073,
-      "currentPriceUSD": 0.004366721159494747,
-      "currentPoolEth": 2.798030091182447,
-      "currentMarketCap": 7042.473857699623
+      "currentPoolToken": 1770030.97987829,
+      "currentPriceUSD": 0.0036310476281773826,
+      "currentPoolEth": 2.5535240376357553,
+      "currentMarketCap": 6427.066791287554
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 13,
+    "txCount": 19,
     "createdAtTimestamp": "1618540131",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.4698651215322944,
+    "priceChange": 1.8852873951523534,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x674df687581f4e4fdcf5b447e5b5af3332c992a4",
-    "tokenName": "RVF",
-    "idPair": "0xd73c8101b7a531f86624c179505177759535b450",
-    "idToken": "0x674df687581f4e4fdcf5b447e5b5af3332c992a4",
-    "dateCreationToken": "2021-04-11T05:44:16Z",
-    "initialInfos": {
-      "initialPoolToken": 5200000,
-      "initialPriceUSD": 0.106651,
-      "initialPoolEth": 260,
-      "initialMarketCap": 554585.2
-    },
-    "currentInfos": {
-      "currentPoolToken": 4415086.578251775,
-      "currentPriceUSD": 0.1744929983487909,
-      "currentPoolEth": 306.37268700211814,
-      "currentMarketCap": 770401.6950086559
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 28,
-    "holderCountOld": 27,
-    "txCount": 27,
-    "createdAtTimestamp": "1618119856",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.6361121634939279,
-    "isRugged": false
   }
 ]
