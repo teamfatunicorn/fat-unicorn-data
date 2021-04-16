@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xe6cb848ec3563182976580f57f11a7437bbd5730",
+    "tokenName": "FDOGE",
+    "idPair": "0xa7fdec6bad0c3b7d5b420931d6e3d3be10e61cb2",
+    "idToken": "0xe6cb848ec3563182976580f57f11a7437bbd5730",
+    "dateCreationToken": "2021-04-16T10:11:35Z",
+    "initialInfos": {
+      "initialPoolToken": 500000000000000,
+      "initialPriceUSD": 4.7847e-11,
+      "initialPoolEth": 10,
+      "initialMarketCap": 23942.32725873134
+    },
+    "currentInfos": {
+      "currentPoolToken": 454669455305992.56,
+      "currentPriceUSD": 5.787908049e-11,
+      "currentPoolEth": 11,
+      "currentMarketCap": 26315.85
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1618567895",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.20966999999999997,
+    "isRugged": false
+  },
+  {
     "_id": "0x82df128257a7d7556262e1ab7f1f639d9775b85e",
     "tokenName": "COLL",
     "idPair": "0xc0700c77126f9ed38b56fe9f5fb8df3945468ef2",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-16T09:07:24Z",
     "initialInfos": {
       "initialPoolToken": 2500000,
-      "initialPriceUSD": 0.3156714,
+      "initialPriceUSD": 0.31570308,
       "initialPoolEth": 330,
-      "initialMarketCap": 789178.5
+      "initialMarketCap": 789257.7
     },
     "currentInfos": {
-      "currentPoolToken": 2337909.3478096253,
-      "currentPriceUSD": 0.4208501774753037,
-      "currentPoolEth": 411.4280306704515,
-      "currentMarketCap": 983909.5639468525
+      "currentPoolToken": 2529824.2649086667,
+      "currentPriceUSD": 0.431789622238306,
+      "currentPoolEth": 456.7280306704515,
+      "currentMarketCap": 1092351.8636742134
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 18,
     "holderCountOld": 0,
-    "txCount": 19,
+    "txCount": 21,
     "createdAtTimestamp": "1618564044",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.3331907086777696,
+    "priceChange": 0.3677079813041608,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-16T09:00:08Z",
     "initialInfos": {
       "initialPoolToken": 788000,
-      "initialPriceUSD": 0.15174175126903552,
+      "initialPriceUSD": 0.15175697969543148,
       "initialPoolEth": 50,
-      "initialMarketCap": 119572.5
+      "initialMarketCap": 119584.5
     },
     "currentInfos": {
       "currentPoolToken": 766186.1880598369,
-      "currentPriceUSD": 0.160822887560121,
+      "currentPriceUSD": 0.16083902734686728,
       "currentPoolEth": 51.525340346845844,
-      "currentMarketCap": 123220.27517246487
+      "currentMarketCap": 123232.64125414811
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.05984599634008955,
+    "priceChange": 0.05984599634008934,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.8107700243258605,
-    "isRugged": true
-  },
-  {
-    "_id": "0xd5af8a01fb6cdc39062a07fabd791f28af08c643",
-    "tokenName": "DARWIN",
-    "idPair": "0x03b098f853fe5bb6d31233f863eb72a3e7355bdc",
-    "idToken": "0xd5af8a01fb6cdc39062a07fabd791f28af08c643",
-    "dateCreationToken": "2021-04-11T16:53:43Z",
-    "initialInfos": {
-      "initialPoolToken": 100000000,
-      "initialPriceUSD": 0.0000537635,
-      "initialPoolEth": 2.5,
-      "initialMarketCap": 5358.006977727179
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.435644e-12,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 7,
-    "holderCountOld": 0,
-    "txCount": 9,
-    "createdAtTimestamp": "1618160023",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
