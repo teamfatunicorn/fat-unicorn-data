@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x29a2bd141e26c9935ee1eb4ecb939abb75b0a260",
+    "tokenName": "RAZE",
+    "idPair": "0xba057c6f9ced0be35ecb8f86a73340ff10358c2a",
+    "idToken": "0x29a2bd141e26c9935ee1eb4ecb939abb75b0a260",
+    "dateCreationToken": "2021-04-16T06:18:48Z",
+    "initialInfos": {
+      "initialPoolToken": 1410000,
+      "initialPriceUSD": 0.38981823404255317,
+      "initialPoolEth": 231,
+      "initialMarketCap": 549643.71
+    },
+    "currentInfos": {
+      "currentPoolToken": 1410000,
+      "currentPriceUSD": 0.38981823404255317,
+      "currentPoolEth": 231,
+      "currentMarketCap": 549643.71
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618553928",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xd906e1588cf974d3217ef1d4d1a0c0aa8665566e",
     "tokenName": "COLL",
     "idPair": "0x983a8e9531e6f7071d484f81db89f82db85e9562",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x0fdae37ee299cac7dd8fa83f8a3660ae9689053a",
-    "tokenName": "Leprechaun",
-    "idPair": "0x8a61cc712a555d46b525236a256d739e2d6f9e18",
-    "idToken": "0x0fdae37ee299cac7dd8fa83f8a3660ae9689053a",
-    "dateCreationToken": "2021-04-11T10:44:31Z",
-    "initialInfos": {
-      "initialPoolToken": 10000000000,
-      "initialPriceUSD": 7.310952e-7,
-      "initialPoolEth": 3.4,
-      "initialMarketCap": 7310.952
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.002,
-      "currentPriceUSD": 0.000001212185,
-      "currentPoolEth": 6.29259e-13,
-      "currentMarketCap": 2.42437e-9
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6,
-    "holderCountOld": 0,
-    "txCount": 14,
-    "createdAtTimestamp": "1618137871",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.6580398831780047,
     "isRugged": true
   }
 ]
