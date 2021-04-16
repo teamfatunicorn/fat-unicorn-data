@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xdd43663fd99799b313a20670c4844358e1f94238",
+    "tokenName": "KCOBRA",
+    "idPair": "0x97ac96b3b2028ea51a0821009be4fef07eac834b",
+    "idToken": "0xdd43663fd99799b313a20670c4844358e1f94238",
+    "dateCreationToken": "2021-04-16T21:43:20Z",
+    "initialInfos": {
+      "initialPoolToken": 70000,
+      "initialPriceUSD": 0.0017494857142857142,
+      "initialPoolEth": 0.05,
+      "initialMarketCap": 122.68669200692375
+    },
+    "currentInfos": {
+      "currentPoolToken": 10670.790584722607,
+      "currentPriceUSD": 0.07615484652161303,
+      "currentPoolEth": 0.3317842056618461,
+      "currentMarketCap": 812.6324192438234
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 14,
+    "holderCountOld": 0,
+    "txCount": 10,
+    "createdAtTimestamp": "1618609400",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 42.52984760021649,
+    "isRugged": false
+  },
+  {
     "_id": "0x8b8e088c7ad40d70d0a8183a399c8f9c24b5c8d8",
     "tokenName": "CHL",
     "idPair": "0x31362f2d88303a1f22ca5167798daf05848fea82",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.13709375468024562,
-    "isRugged": true
-  },
-  {
-    "_id": "0xbb5cca3249a0dd1958f352725c46b81e5b2039c6",
-    "tokenName": "NFB",
-    "idPair": "0xb88f2d23b3e72d565ef248f0ed6fc8cdd9803c34",
-    "idToken": "0xbb5cca3249a0dd1958f352725c46b81e5b2039c6",
-    "dateCreationToken": "2021-04-11T19:58:41Z",
-    "initialInfos": {
-      "initialPoolToken": 50000,
-      "initialPriceUSD": 0.0215121,
-      "initialPoolEth": 0.5,
-      "initialMarketCap": 1075.605
-    },
-    "currentInfos": {
-      "currentPoolToken": 3.16228e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 4e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1618171121",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
