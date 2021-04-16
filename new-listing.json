@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x963a6363ada9b3395027b26c6d14e209102052e1",
+    "tokenName": "wowQ",
+    "idPair": "0x5f280ceb19a13a1f261a6f438831a69eb2bd629f",
+    "idToken": "0x963a6363ada9b3395027b26c6d14e209102052e1",
+    "dateCreationToken": "2021-04-16T02:28:51Z",
+    "initialInfos": {
+      "initialPoolToken": 0,
+      "initialPriceUSD": 0,
+      "initialPoolEth": 0,
+      "initialMarketCap": 0
+    },
+    "currentInfos": {
+      "currentPoolToken": 3000000,
+      "currentPriceUSD": 0.00125632,
+      "currentPoolEth": 1.5,
+      "currentMarketCap": 3768.96
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618540131",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": null,
+    "isRugged": false
+  },
+  {
     "_id": "0x02ec96261b8ea3fb7bc9e046aa626204a97ca446",
     "tokenName": "INDEX20",
     "idPair": "0xf38c8016be205511a484863c1191f9410fa841a5",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-16T00:02:15Z",
     "initialInfos": {
       "initialPoolToken": 950000,
-      "initialPriceUSD": 0.0013217789473684211,
+      "initialPriceUSD": 0.0013224421052631578,
       "initialPoolEth": 0.5,
-      "initialMarketCap": 1255.69
+      "initialMarketCap": 1256.32
     },
     "currentInfos": {
       "currentPoolToken": 805563.4680355134,
-      "currentPriceUSD": 0.0018455877301929398,
+      "currentPriceUSD": 0.0018465136914333907,
       "currentPoolEth": 0.5920004350192553,
-      "currentMarketCap": 1486.7380524980163
+      "currentMarketCap": 1487.4839730461401
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.3962907594098008,
+    "priceChange": 0.3962907594098011,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.6361121634939279,
     "isRugged": false
-  },
-  {
-    "_id": "0x6800b98f01e2ed7d1da7ca5331683972d0c0705f",
-    "tokenName": "KUL",
-    "idPair": "0x297e06f71ed05e5e434ebe56918e7166caa66abb",
-    "idToken": "0x6800b98f01e2ed7d1da7ca5331683972d0c0705f",
-    "dateCreationToken": "2021-04-11T05:32:48Z",
-    "initialInfos": {
-      "initialPoolToken": 100000,
-      "initialPriceUSD": 0.00423884,
-      "initialPoolEth": 0.2,
-      "initialMarketCap": 423.884
-    },
-    "currentInfos": {
-      "currentPoolToken": 7071.070000000001,
-      "currentPriceUSD": 0.007112332362711725,
-      "currentPoolEth": 0.02,
-      "currentMarketCap": 50.2918
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 5,
-    "createdAtTimestamp": "1618119168",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.6778959249963965,
-    "isRugged": true
   }
 ]
