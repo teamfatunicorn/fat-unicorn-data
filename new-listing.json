@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x33d6176dbc85b1b2c42caf80ec4a19d9f2b34577",
+    "tokenName": "DARK",
+    "idPair": "0xbbd233cee71503e26c1762aab76dd3af490e53bc",
+    "idToken": "0x33d6176dbc85b1b2c42caf80ec4a19d9f2b34577",
+    "dateCreationToken": "2021-04-16T22:47:22Z",
+    "initialInfos": {
+      "initialPoolToken": 5000,
+      "initialPriceUSD": 0.975764,
+      "initialPoolEth": 2,
+      "initialMarketCap": 4878.82
+    },
+    "currentInfos": {
+      "currentPoolToken": 3848.923908231427,
+      "currentPriceUSD": 1.6478543487014143,
+      "currentPoolEth": 2.6,
+      "currentMarketCap": 6342.466
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1618613242",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.6887837107142858,
+    "isRugged": false
+  },
+  {
     "_id": "0x09f29b8a3fa68d53a7ce0eb88c5ff2ee248db76b",
     "tokenName": "FDOGE",
     "idPair": "0x779623d46fc5ec0becf75c67bbc1ab4afaf90612",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-16T22:32:22Z",
     "initialInfos": {
       "initialPoolToken": 5e+24,
-      "initialPriceUSD": 4.8927e-22,
+      "initialPriceUSD": 4.87882e-22,
       "initialPoolEth": 1,
-      "initialMarketCap": 2446.35
+      "initialMarketCap": 2439.41
     },
     "currentInfos": {
       "currentPoolToken": 5e+24,
-      "currentPriceUSD": 4.8927e-22,
+      "currentPriceUSD": 4.87882e-22,
       "currentPoolEth": 1,
-      "currentMarketCap": 2446.35
+      "currentMarketCap": 2439.41
     },
     "trustScore": null,
     "contractId": null,
@@ -38,27 +69,27 @@
     "dateCreationToken": "2021-04-16T22:12:52Z",
     "initialInfos": {
       "initialPoolToken": 88012592442834320,
-      "initialPriceUSD": 2.08465908011028e-14,
+      "initialPriceUSD": 2.07874515364188e-14,
       "initialPoolEth": 0.75,
       "initialMarketCap": 1833.847581441366
     },
     "currentInfos": {
-      "currentPoolToken": 11092231517848330,
-      "currentPriceUSD": 1.3982372111298085e-12,
-      "currentPoolEth": 6.33988221747605,
-      "currentMarketCap": 15509.570862722412
+      "currentPoolToken": 8054614242274877,
+      "currentPriceUSD": 2.6516941658855274e-12,
+      "currentPoolEth": 8.755548921541964,
+      "currentMarketCap": 21358.37359469877
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 52,
     "holderCountOld": 0,
-    "txCount": 119,
+    "txCount": 133,
     "createdAtTimestamp": "1618611172",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 66.0727038521733,
+    "priceChange": 126.56225366249747,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.8561024303156424,
     "isRugged": true
-  },
-  {
-    "_id": "0x573a17c7c21dfad8b57e11e6f3ed00bef32cc619",
-    "tokenName": "Biden",
-    "idPair": "0x730f06c0487271d07cdf99af5770074bf285b67c",
-    "idToken": "0x573a17c7c21dfad8b57e11e6f3ed00bef32cc619",
-    "dateCreationToken": "2021-04-11T20:58:36Z",
-    "initialInfos": {
-      "initialPoolToken": 285353600000,
-      "initialPriceUSD": 1.1227701350184472e-8,
-      "initialPoolEth": 1.5,
-      "initialMarketCap": 3203.865
-    },
-    "currentInfos": {
-      "currentPoolToken": 167450965849.14075,
-      "currentPriceUSD": 3.8402978581589514e-8,
-      "currentPoolEth": 2.616230407601055,
-      "currentMarketCap": 6430.61585497103
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 32,
-    "holderCountOld": 33,
-    "txCount": 184,
-    "createdAtTimestamp": "1618174716",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 2.420377634194781,
-    "isRugged": false
   }
 ]
