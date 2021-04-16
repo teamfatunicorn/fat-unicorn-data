@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x09f29b8a3fa68d53a7ce0eb88c5ff2ee248db76b",
+    "tokenName": "FDOGE",
+    "idPair": "0x779623d46fc5ec0becf75c67bbc1ab4afaf90612",
+    "idToken": "0x09f29b8a3fa68d53a7ce0eb88c5ff2ee248db76b",
+    "dateCreationToken": "2021-04-16T22:32:22Z",
+    "initialInfos": {
+      "initialPoolToken": 5e+24,
+      "initialPriceUSD": 4.88458e-22,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2442.29
+    },
+    "currentInfos": {
+      "currentPoolToken": 5e+24,
+      "currentPriceUSD": 4.88458e-22,
+      "currentPoolEth": 1,
+      "currentMarketCap": 2442.29
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618612342",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xc40af1e4fecfa05ce6bab79dcd8b373d2e436c4e",
     "tokenName": "HOKK",
     "idPair": "0x9314941c11d6dee1d7bf93113eb74d4718949f3b",
@@ -12,22 +43,22 @@
       "initialMarketCap": 1833.847581441366
     },
     "currentInfos": {
-      "currentPoolToken": 15637150647713424,
-      "currentPriceUSD": 6.849575765895729e-13,
-      "currentPoolEth": 4.385549960252117,
-      "currentMarketCap": 10710.784812423857
+      "currentPoolToken": 16441091446725846,
+      "currentPriceUSD": 6.255060552025058e-13,
+      "currentPoolEth": 4.21080307992309,
+      "currentMarketCap": 10284.002254065144
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 32,
     "holderCountOld": 0,
-    "txCount": 52,
+    "txCount": 64,
     "createdAtTimestamp": "1618611172",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 31.91167553348675,
+    "priceChange": 29.05507645532847,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 2.420377634194781,
     "isRugged": false
-  },
-  {
-    "_id": "0x9dfdc4a38aea5a71b9f2c8bffe5a2c5c233ae1c5",
-    "tokenName": "ANR",
-    "idPair": "0xbd519fe96d46e00d16e955be140fd880def00f70",
-    "idToken": "0x9dfdc4a38aea5a71b9f2c8bffe5a2c5c233ae1c5",
-    "dateCreationToken": "2021-04-11T20:36:56Z",
-    "initialInfos": {
-      "initialPoolToken": 30000000,
-      "initialPriceUSD": 0.004629386666666666,
-      "initialPoolEth": 65,
-      "initialMarketCap": 138881.6
-    },
-    "currentInfos": {
-      "currentPoolToken": 1,
-      "currentPriceUSD": 0.00000365991733,
-      "currentPoolEth": 1.489018828e-9,
-      "currentMarketCap": 0.00000365991733
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 5,
-    "holderCountOld": 0,
-    "txCount": 13,
-    "createdAtTimestamp": "1618173416",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.999209416366891,
-    "isRugged": true
   }
 ]
