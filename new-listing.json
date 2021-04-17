@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x4515eb2b008bc25a733d7eb1be3b84872259cc64",
+    "tokenName": "Kish",
+    "idPair": "0xd3f5de33fda2cb95c78cc10080be923a42063217",
+    "idToken": "0x4515eb2b008bc25a733d7eb1be3b84872259cc64",
+    "dateCreationToken": "2021-04-17T21:20:39Z",
+    "initialInfos": {
+      "initialPoolToken": 920080000,
+      "initialPriceUSD": 0.0000033733620989479177,
+      "initialPoolEth": 1.3,
+      "initialMarketCap": 3103.763
+    },
+    "currentInfos": {
+      "currentPoolToken": 594180121.0206231,
+      "currentPriceUSD": 0.000008237225256868065,
+      "currentPoolEth": 2.05,
+      "currentMarketCap": 4894.3955
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1618694439",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.441844372247227,
+    "isRugged": false
+  },
+  {
     "_id": "0xac9ce326e95f51b5005e9fe1dd8085a01f18450c",
     "tokenName": "VSF",
     "idPair": "0x76a5b30f2886ec8e6328d6c62358cd73242db065",
@@ -43,22 +74,22 @@
       "initialMarketCap": 214875.9
     },
     "currentInfos": {
-      "currentPoolToken": 9000000,
-      "currentPriceUSD": 0.02388401282856952,
-      "currentPoolEth": 90.03359795650127,
-      "currentMarketCap": 214956.1154571257
+      "currentPoolToken": 8881973.03254206,
+      "currentPriceUSD": 0.02452395730757858,
+      "currentPoolEth": 91.23359795650127,
+      "currentMarketCap": 217821.1274571257
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 3,
     "holderCountOld": 0,
-    "txCount": 7,
+    "txCount": 8,
     "createdAtTimestamp": "1618690644",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.0003733106277888608,
+    "priceChange": 0.027177155596356868,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 1.8610152818903456,
     "isRugged": false
-  },
-  {
-    "_id": "0x1d7418d7718918c9f315418e86f29812321d0ea3",
-    "tokenName": "PDX",
-    "idPair": "0x5b8ef2cbfed1e01bdfb8affaa199994aeadf8a6d",
-    "idToken": "0x1d7418d7718918c9f315418e86f29812321d0ea3",
-    "dateCreationToken": "2021-04-12T15:43:34Z",
-    "initialInfos": {
-      "initialPoolToken": 100,
-      "initialPriceUSD": 1060.635,
-      "initialPoolEth": 50,
-      "initialMarketCap": 106063.5
-    },
-    "currentInfos": {
-      "currentPoolToken": 7.44e-16,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.545e-15,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 18,
-    "holderCountOld": 17,
-    "txCount": 36,
-    "createdAtTimestamp": "1618242214",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
