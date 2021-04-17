@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x6e85b6161a41b62c7bb52afea2bce69e4b720888",
+    "tokenName": "KEL",
+    "idPair": "0xab75dabf7a4102e184ef7ef5242abe531c5fa563",
+    "idToken": "0x6e85b6161a41b62c7bb52afea2bce69e4b720888",
+    "dateCreationToken": "2021-04-17T07:06:46Z",
+    "initialInfos": {
+      "initialPoolToken": 15045999,
+      "initialPriceUSD": 0.09190722397362913,
+      "initialPoolEth": 560,
+      "initialMarketCap": 1382836
+    },
+    "currentInfos": {
+      "currentPoolToken": 15045999,
+      "currentPriceUSD": 0.09190722397362913,
+      "currentPoolEth": 560,
+      "currentMarketCap": 1382836
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618643206",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x9500966c68a6cfea52ac84c1773a09636990bd4e",
     "tokenName": "KEL",
     "idPair": "0x6b845ad715d080716a9afbb8996ee0d3ff63c331",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.34569024493538036,
     "isRugged": true
-  },
-  {
-    "_id": "0xe68ce1ccdb5ba3c59a8ebae40419ba8facd09edb",
-    "tokenName": "CRYPTONIA20",
-    "idPair": "0xb47e403b4d8bac9c4bb2fc6cbc0bfbec38efd04e",
-    "idToken": "0xe68ce1ccdb5ba3c59a8ebae40419ba8facd09edb",
-    "dateCreationToken": "2021-04-12T02:52:13Z",
-    "initialInfos": {
-      "initialPoolToken": 475,
-      "initialPriceUSD": 2.261821052631579,
-      "initialPoolEth": 0.5,
-      "initialMarketCap": 1068.4887241568158
-    },
-    "currentInfos": {
-      "currentPoolToken": 1171.9822153247303,
-      "currentPriceUSD": 1.690128625588919,
-      "currentPoolEth": 0.7992094618817357,
-      "currentMarketCap": 1980.800690801443
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 28,
-    "holderCountOld": 27,
-    "txCount": 93,
-    "createdAtTimestamp": "1618195933",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.25275758503419554,
-    "isRugged": false
   }
 ]
