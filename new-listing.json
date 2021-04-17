@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xbdfa65533074b0b23ebc18c7190be79fa74b30c2",
+    "tokenName": "ZDR",
+    "idPair": "0x885f128d5672222f4a0657d2c7a28d9065c80ee6",
+    "idToken": "0xbdfa65533074b0b23ebc18c7190be79fa74b30c2",
+    "dateCreationToken": "2021-04-17T19:09:41Z",
+    "initialInfos": {
+      "initialPoolToken": 260000,
+      "initialPriceUSD": 0.011414759615384615,
+      "initialPoolEth": 1.25,
+      "initialMarketCap": 2967.8375
+    },
+    "currentInfos": {
+      "currentPoolToken": 260000,
+      "currentPriceUSD": 0.011414759615384615,
+      "currentPoolEth": 1.25,
+      "currentMarketCap": 2967.8375
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 304,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618686581",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xa558fe9a36213b39c57989e4a38f1f2b33cedd5d",
     "tokenName": "Hound",
     "idPair": "0xe7436a7d094f9680a3e485ba4a77e14e508d88ec",
@@ -20,7 +51,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 9,
+    "holderCount": 11,
     "holderCountOld": 0,
     "txCount": 10,
     "createdAtTimestamp": "1618684473",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 1.388022826435441,
     "isRugged": false
-  },
-  {
-    "_id": "0x2aa202f6f1901c7d8f977d981fcd7109553897c5",
-    "tokenName": "BYN",
-    "idPair": "0xb36313b63205bf0bb20b1247bf7d8741f09e053b",
-    "idToken": "0x2aa202f6f1901c7d8f977d981fcd7109553897c5",
-    "dateCreationToken": "2021-04-12T13:56:29Z",
-    "initialInfos": {
-      "initialPoolToken": 300000,
-      "initialPriceUSD": 0.71394,
-      "initialPoolEth": 100,
-      "initialMarketCap": 214182
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.7663e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2.1e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 25,
-    "holderCountOld": 26,
-    "txCount": 25,
-    "createdAtTimestamp": "1618235789",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
