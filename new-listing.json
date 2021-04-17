@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xac9ce326e95f51b5005e9fe1dd8085a01f18450c",
+    "tokenName": "VSF",
+    "idPair": "0x76a5b30f2886ec8e6328d6c62358cd73242db065",
+    "idToken": "0xac9ce326e95f51b5005e9fe1dd8085a01f18450c",
+    "dateCreationToken": "2021-04-17T20:17:50Z",
+    "initialInfos": {
+      "initialPoolToken": 2000000,
+      "initialPriceUSD": 0.0005942925,
+      "initialPoolEth": 0.5,
+      "initialMarketCap": 1188.585
+    },
+    "currentInfos": {
+      "currentPoolToken": 20612040.79838606,
+      "currentPriceUSD": 0.000005610432144316249,
+      "currentPoolEth": 0.04864711242965845,
+      "currentMarketCap": 115.6424562552231
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 670,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1618690670",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -0.9905594767823651,
+    "isRugged": true
+  },
+  {
     "_id": "0x95fec9aa4d8268ed1ee490e7bd6d0a35e636f3d4",
     "tokenName": "JYSD",
     "idPair": "0x187c67788228d658ad6f11aa5bc5aa6126539300",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-17T20:17:24Z",
     "initialInfos": {
       "initialPoolToken": 9000000,
-      "initialPriceUSD": 0.0237858,
+      "initialPriceUSD": 0.0237717,
       "initialPoolEth": 90,
-      "initialMarketCap": 214072.2
+      "initialMarketCap": 213945.3
     },
     "currentInfos": {
       "currentPoolToken": 9000000,
-      "currentPriceUSD": 0.0237858,
+      "currentPriceUSD": 0.0237717,
       "currentPoolEth": 90,
-      "currentMarketCap": 214072.2
+      "currentMarketCap": 213945.3
     },
     "trustScore": null,
     "contractId": null,
@@ -38,27 +69,27 @@
     "dateCreationToken": "2021-04-17T19:52:07Z",
     "initialInfos": {
       "initialPoolToken": 587500000000,
-      "initialPriceUSD": 4.048646808510638e-9,
+      "initialPriceUSD": 4.046246808510638e-9,
       "initialPoolEth": 1,
       "initialMarketCap": 2375.663733716421
     },
     "currentInfos": {
-      "currentPoolToken": 488764277565.8553,
-      "currentPriceUSD": 5.875268174664626e-9,
-      "currentPoolEth": 1.2072838436776143,
-      "currentMarketCap": 2871.621204895617
+      "currentPoolToken": 469382968758.36914,
+      "currentPriceUSD": 6.367460333258504e-9,
+      "currentPoolEth": 1.2572838436776144,
+      "currentMarketCap": 2988.777434676031
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 93,
     "holderCountOld": 0,
-    "txCount": 13,
+    "txCount": 14,
     "createdAtTimestamp": "1618689127",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.45116836625863654,
+    "priceChange": 0.5736707706177392,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x276ceb4052c5add844ab14bf2c5efa5addc9ef22",
-    "tokenName": "HOOP",
-    "idPair": "0x1637c7847203bc716342fae44a42c3261a88b45e",
-    "idToken": "0x276ceb4052c5add844ab14bf2c5efa5addc9ef22",
-    "dateCreationToken": "2021-04-12T14:58:20Z",
-    "initialInfos": {
-      "initialPoolToken": 21.4234,
-      "initialPriceUSD": 0.9901649598103008,
-      "initialPoolEth": 0.01,
-      "initialMarketCap": 21.2127
-    },
-    "currentInfos": {
-      "currentPoolToken": 21.4234,
-      "currentPriceUSD": 1.099433329910285,
-      "currentPoolEth": 0.01,
-      "currentMarketCap": 23.5536
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 1,
-    "createdAtTimestamp": "1618239500",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.11035370320609825,
     "isRugged": true
   }
 ]
