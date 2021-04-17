@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc1cec2c3b11066e157c69a4822f0a3cfdd4d498c",
+    "tokenName": "FYDER",
+    "idPair": "0xd1f8c7a079e616752f93c544c6eabc0b5c231cc0",
+    "idToken": "0xc1cec2c3b11066e157c69a4822f0a3cfdd4d498c",
+    "dateCreationToken": "2021-04-17T03:37:22Z",
+    "initialInfos": {
+      "initialPoolToken": 500000000000000,
+      "initialPriceUSD": 2.47397e-11,
+      "initialPoolEth": 5,
+      "initialMarketCap": 12388.881876610867
+    },
+    "currentInfos": {
+      "currentPoolToken": 471778226491291,
+      "currentPriceUSD": 2.779280658524e-11,
+      "currentPoolEth": 5.3,
+      "currentMarketCap": 13112.041
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1618630642",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.1234091999999999,
+    "isRugged": false
+  },
+  {
     "_id": "0x7dfac5cbbc816a29e746ed4286a669e328374db4",
     "tokenName": "CCOR",
     "idPair": "0x1ab32c660f9dab9cd62f184759439746da39241c",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-17T03:24:20Z",
     "initialInfos": {
       "initialPoolToken": 43175000000000,
-      "initialPriceUSD": 3.4436317313259986e-11,
+      "initialPriceUSD": 3.4380590619571514e-11,
       "initialPoolEth": 0.6,
-      "initialMarketCap": 1486.788
+      "initialMarketCap": 1484.382
     },
     "currentInfos": {
       "currentPoolToken": 13579423900071.088,
-      "currentPriceUSD": 3.587648386072085e-10,
+      "currentPriceUSD": 3.5818426612364734e-10,
       "currentPoolEth": 1.9660448526168346,
-      "currentMarketCap": 4871.819823887874
+      "currentMarketCap": 4863.93598402888
     },
     "trustScore": null,
     "contractId": null,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 229.615316431634,
     "isRugged": false
-  },
-  {
-    "_id": "0x51450c3d470af2476d0a9bceabc3e5b7c1bc9749",
-    "tokenName": "TRL",
-    "idPair": "0xb6569b028141be56f124bbcc4ce7250a5b9a9a5d",
-    "idToken": "0x51450c3d470af2476d0a9bceabc3e5b7c1bc9749",
-    "dateCreationToken": "2021-04-11T22:24:35Z",
-    "initialInfos": {
-      "initialPoolToken": 25000000,
-      "initialPriceUSD": 0.005572814,
-      "initialPoolEth": 65,
-      "initialMarketCap": 139320.35
-    },
-    "currentInfos": {
-      "currentPoolToken": 1,
-      "currentPriceUSD": 0.00000401847264,
-      "currentPoolEth": 1.614274094e-9,
-      "currentMarketCap": 0.00000401847264
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 5,
-    "holderCountOld": 3,
-    "txCount": 7,
-    "createdAtTimestamp": "1618179875",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9992789149898059,
-    "isRugged": true
   }
 ]
