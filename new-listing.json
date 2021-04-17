@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x0ada190c81b814548ddc2f6adc4a689ce7c1fe73",
+    "tokenName": "YAXIS",
+    "idPair": "0xf0e3fdf48661cd10d56692f60bd4eccd01e9cf64",
+    "idToken": "0x0ada190c81b814548ddc2f6adc4a689ce7c1fe73",
+    "dateCreationToken": "2021-04-17T12:26:15Z",
+    "initialInfos": {
+      "initialPoolToken": 1,
+      "initialPriceUSD": 24.0445,
+      "initialPoolEth": 0.01,
+      "initialMarketCap": 24.0445
+    },
+    "currentInfos": {
+      "currentPoolToken": 1,
+      "currentPriceUSD": 24.0445,
+      "currentPoolEth": 0.01,
+      "currentMarketCap": 24.0445
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618662375",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0xda38f3d22402d3e8b604a484c981d89190beff08",
     "tokenName": "SPADE",
     "idPair": "0xacb35668f9b4c725521b27ad7b230ec58ce4ff69",
@@ -74,22 +105,22 @@
       "initialMarketCap": 2422.0559820951667
     },
     "currentInfos": {
-      "currentPoolToken": 309654389051445.3,
-      "currentPriceUSD": 2.5604675188069608e-11,
-      "currentPoolEth": 3.297469297436695,
-      "currentMarketCap": 7928.600052222395
+      "currentPoolToken": 325514426387844.06,
+      "currentPriceUSD": 2.3173773330122913e-11,
+      "currentPoolEth": 3.1372652926015423,
+      "currentMarketCap": 7543.397532796879
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 27,
-    "holderCountOld": 28,
-    "txCount": 81,
+    "holderCountOld": 0,
+    "txCount": 82,
     "createdAtTimestamp": "1618656867",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 9.648869882122568,
+    "priceChange": 8.637868672720545,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.5069941914336648,
     "isRugged": false
-  },
-  {
-    "_id": "0x431639017b31d80686289d904909005d57529d53",
-    "tokenName": "RVF",
-    "idPair": "0x43c51220e1bbe919f6eb71f4723b9a20382af9e2",
-    "idToken": "0x431639017b31d80686289d904909005d57529d53",
-    "dateCreationToken": "2021-04-12T05:08:24Z",
-    "initialInfos": {
-      "initialPoolToken": 1437500,
-      "initialPriceUSD": 0.5161803130434782,
-      "initialPoolEth": 340,
-      "initialMarketCap": 742009.2
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.4921e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.7e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6,
-    "holderCountOld": 5,
-    "txCount": 8,
-    "createdAtTimestamp": "1618204104",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
