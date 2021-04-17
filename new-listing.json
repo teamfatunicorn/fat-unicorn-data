@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0xa2b4c0af19cc16a6cfacce81f192b024d625817d",
+    "tokenName": "KISHU",
+    "idPair": "0xf82d8ec196fb0d56c6b82a8b1870f09502a49f88",
+    "idToken": "0xa2b4c0af19cc16a6cfacce81f192b024d625817d",
+    "dateCreationToken": "2021-04-17T23:25:12Z",
+    "initialInfos": {
+      "initialPoolToken": 88012592442834320,
+      "initialPriceUSD": 2.6885357359936e-14,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2366.25
+    },
+    "currentInfos": {
+      "currentPoolToken": 88012592442834320,
+      "currentPriceUSD": 2.6885357359936e-14,
+      "currentPoolEth": 1,
+      "currentMarketCap": 2366.25
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 9,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618701912",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
+    "_id": "0x34cc8427a8191b119b9be2ed5f08e14119046c10",
+    "tokenName": "SOLEX",
+    "idPair": "0x20b92d38ac7df055708f39b03a1eea2f5cb8bcd0",
+    "idToken": "0x34cc8427a8191b119b9be2ed5f08e14119046c10",
+    "dateCreationToken": "2021-04-17T23:24:07Z",
+    "initialInfos": {
+      "initialPoolToken": 529102.3849175012,
+      "initialPriceUSD": 0.22360984068980813,
+      "initialPoolEth": 50,
+      "initialMarketCap": 118312.5
+    },
+    "currentInfos": {
+      "currentPoolToken": 529102.3849175012,
+      "currentPriceUSD": 0.22360984068980813,
+      "currentPoolEth": 50,
+      "currentMarketCap": 118312.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618701847",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x300a902513815028e97fc79e92082ce6a98d3b74",
     "tokenName": "SOX",
     "idPair": "0xfb25a690ab1b057ac19f69ce6d30603c211ce8fe",
@@ -12,22 +74,22 @@
       "initialMarketCap": 899.175
     },
     "currentInfos": {
-      "currentPoolToken": 5.1669415845430855,
-      "currentPriceUSD": 754.9180908719678,
-      "currentPoolEth": 1.6484385321285637,
-      "currentMarketCap": 3900.6176766502463
+      "currentPoolToken": 5.374779816771562,
+      "currentPriceUSD": 697.7437663650365,
+      "currentPoolEth": 1.5848786530324421,
+      "currentMarketCap": 3750.21911273697
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 325,
+    "holderCount": 327,
     "holderCountOld": 0,
-    "txCount": 4,
+    "txCount": 5,
     "createdAtTimestamp": "1618701063",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.160432517727953,
+    "priceChange": -0.2240178314954969,
     "isRugged": false
   },
   {
@@ -106,7 +168,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 92105050.58906607,
-      "currentPriceUSD": 0.0003694642121235462,
+      "currentPriceUSD": 0.000236012483892637,
       "currentPoolEth": 14.281256142322524,
       "currentMarketCap": 34029.51994848867
     },
@@ -120,7 +182,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 108.25678114218158,
+    "priceChange": 68.7928607246481,
     "isRugged": false
   },
   {
@@ -6136,67 +6198,5 @@
     "officialSite": null,
     "priceChange": 1.9214990932500646,
     "isRugged": false
-  },
-  {
-    "_id": "0x948a09cf8058eb876a43a21a2f808765d35637fc",
-    "tokenName": "BSIC",
-    "idPair": "0x6a0b93942b3d315659fc9691335604cec543ed45",
-    "idToken": "0x948a09cf8058eb876a43a21a2f808765d35637fc",
-    "dateCreationToken": "2021-04-12T18:47:42Z",
-    "initialInfos": {
-      "initialPoolToken": 70000,
-      "initialPriceUSD": 2.13977,
-      "initialPoolEth": 70,
-      "initialMarketCap": 149783.9
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.2532e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 4.5e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 12,
-    "holderCountOld": 13,
-    "txCount": 21,
-    "createdAtTimestamp": "1618253262",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x4b2071ae2e84c9c58037caa91055685a8da78056",
-    "tokenName": "REVO",
-    "idPair": "0xc8e136a159a1deb42a492e793242e543368cc5ee",
-    "idToken": "0x4b2071ae2e84c9c58037caa91055685a8da78056",
-    "dateCreationToken": "2021-04-12T18:38:00Z",
-    "initialInfos": {
-      "initialPoolToken": 50000000,
-      "initialPriceUSD": 0.003637609,
-      "initialPoolEth": 85,
-      "initialMarketCap": 181880.45
-    },
-    "currentInfos": {
-      "currentPoolToken": 5.9474e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 103,
-    "holderCountOld": 0,
-    "txCount": 102,
-    "createdAtTimestamp": "1618252680",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
