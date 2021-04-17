@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x93b5f52cbe50be12ce6b89ca6e28525ca579cbf9",
+    "tokenName": "ASAC",
+    "idPair": "0x88d208b6ed755e74fe1a695c3be3a231e9614687",
+    "idToken": "0x93b5f52cbe50be12ce6b89ca6e28525ca579cbf9",
+    "dateCreationToken": "2021-04-17T10:35:53Z",
+    "initialInfos": {
+      "initialPoolToken": 85000,
+      "initialPriceUSD": 0.28663176470588236,
+      "initialPoolEth": 10,
+      "initialMarketCap": 24363.7
+    },
+    "currentInfos": {
+      "currentPoolToken": 85000,
+      "currentPriceUSD": 0.28663176470588236,
+      "currentPoolEth": 10,
+      "currentMarketCap": 24363.7
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618655753",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
+    "_id": "0x7300eab43eeeaf3e4cf55573a4cf386347d2bcad",
+    "tokenName": "COOLDOG",
+    "idPair": "0xa2829dda978ec1b2307fb431760db1f4d33c675e",
+    "idToken": "0x7300eab43eeeaf3e4cf55573a4cf386347d2bcad",
+    "dateCreationToken": "2021-04-17T10:35:07Z",
+    "initialInfos": {
+      "initialPoolToken": 100000000000000,
+      "initialPriceUSD": 6.090925e-11,
+      "initialPoolEth": 2.5,
+      "initialMarketCap": 6090.925
+    },
+    "currentInfos": {
+      "currentPoolToken": 82014302771437.81,
+      "currentPriceUSD": 9.060527552991508e-11,
+      "currentPoolEth": 3.05,
+      "currentMarketCap": 7430.9285
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 5,
+    "createdAtTimestamp": "1618655707",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.4875454143650606,
+    "isRugged": false
+  },
+  {
     "_id": "0x6c1eaeaec4d63b341c3b8e4b2222dc7831d98642",
     "tokenName": "OOGE",
     "idPair": "0xbf24141c782da217b74e5cb4265d3cb604c453a6",
@@ -6135,68 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 3.6281082946865633,
-    "isRugged": false
-  },
-  {
-    "_id": "0x193ef6b440fb7f3fb6bd2c691d26ebc65751b2f2",
-    "tokenName": "Leprechaun",
-    "idPair": "0x23beca0c5815b32e4a2af125c7c6f4ae998ff1bd",
-    "idToken": "0x193ef6b440fb7f3fb6bd2c691d26ebc65751b2f2",
-    "dateCreationToken": "2021-04-12T03:16:55Z",
-    "initialInfos": {
-      "initialPoolToken": 8000000000,
-      "initialPriceUSD": 8.1021375e-7,
-      "initialPoolEth": 3,
-      "initialMarketCap": 6481.71
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.002,
-      "currentPriceUSD": 0.00000121647,
-      "currentPoolEth": 6.37943e-13,
-      "currentMarketCap": 2.43294e-9
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 5,
-    "createdAtTimestamp": "1618197415",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.501418607126823,
-    "isRugged": true
-  },
-  {
-    "_id": "0x0d628c56b613d09928589a41b4927a25217bc641",
-    "tokenName": "Trudeau",
-    "idPair": "0x7cc71ac48592ae657e0c7577a1060d5b8d7c6ba2",
-    "idToken": "0x0d628c56b613d09928589a41b4927a25217bc641",
-    "dateCreationToken": "2021-04-12T03:10:24Z",
-    "initialInfos": {
-      "initialPoolToken": 90000000000000,
-      "initialPriceUSD": 1.2003166666666666e-11,
-      "initialPoolEth": 0.5,
-      "initialMarketCap": 1080.285
-    },
-    "currentInfos": {
-      "currentPoolToken": 18474526366027.11,
-      "currentPriceUSD": 3.2828731999857747e-10,
-      "currentPoolEth": 2.4928492889040825,
-      "currentMarketCap": 6064.952748946098
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 27,
-    "holderCountOld": 26,
-    "txCount": 29,
-    "createdAtTimestamp": "1618197024",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 26.350059289791094,
     "isRugged": false
   }
 ]
