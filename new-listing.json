@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x07ab9b37413635ff0fa6007437af4f178203b308",
+    "tokenName": "CLV",
+    "idPair": "0xd0a888466ff1d30ea8ace849ccab56443953f7e8",
+    "idToken": "0x07ab9b37413635ff0fa6007437af4f178203b308",
+    "dateCreationToken": "2021-04-17T13:26:21Z",
+    "initialInfos": {
+      "initialPoolToken": 13880000,
+      "initialPriceUSD": 0.050182327089337175,
+      "initialPoolEth": 290,
+      "initialMarketCap": 696530.7
+    },
+    "currentInfos": {
+      "currentPoolToken": 13880000,
+      "currentPriceUSD": 0.050182327089337175,
+      "currentPoolEth": 290,
+      "currentMarketCap": 696530.7
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618665981",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
+    "_id": "0xe240a1077b692bbd4fc171906557b38c63e217fc",
+    "tokenName": "GAPE",
+    "idPair": "0xabd7c60e87e86b42a11e93dd901fa5927604436a",
+    "idToken": "0xe240a1077b692bbd4fc171906557b38c63e217fc",
+    "dateCreationToken": "2021-04-17T13:25:29Z",
+    "initialInfos": {
+      "initialPoolToken": 4200000000,
+      "initialPriceUSD": 0.0000039458635714285714,
+      "initialPoolEth": 6.9,
+      "initialMarketCap": 16465.27644445178
+    },
+    "currentInfos": {
+      "currentPoolToken": 3642719438.6705136,
+      "currentPriceUSD": 0.000005263385657997887,
+      "currentPoolEth": 7.982678728140338,
+      "currentMarketCap": 19173.037249608496
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 16,
+    "createdAtTimestamp": "1618665929",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.3338995539808581,
+    "isRugged": false
+  },
+  {
     "_id": "0xe2d4ea9fd5eccc15ae06b3bc5c6b8778408d42c3",
     "tokenName": "SMPay",
     "idPair": "0xbce6354f22ee5a04f254138a9f1390180cac11f0",
@@ -6135,68 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x3104873c734dc7a85dab4683b24adbb7b15816ca",
-    "tokenName": "fHoge",
-    "idPair": "0x1bcdf6411025693f1ebfc1c160567a979f110c7a",
-    "idToken": "0x3104873c734dc7a85dab4683b24adbb7b15816ca",
-    "dateCreationToken": "2021-04-12T08:53:01Z",
-    "initialInfos": {
-      "initialPoolToken": 99900000000,
-      "initialPriceUSD": 6.978402402402403e-8,
-      "initialPoolEth": 3.2,
-      "initialMarketCap": 6971.424
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.82690077e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 7,
-    "holderCountOld": 0,
-    "txCount": 24,
-    "createdAtTimestamp": "1618217581",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x4689a4e169eb39cc9078c0940e21ff1aa8a39b9c",
-    "tokenName": "PTT",
-    "idPair": "0xa937c5dc80da0165474a7ddb6706bafcc6f03c1f",
-    "idToken": "0x4689a4e169eb39cc9078c0940e21ff1aa8a39b9c",
-    "dateCreationToken": "2021-04-12T08:49:00Z",
-    "initialInfos": {
-      "initialPoolToken": 300000,
-      "initialPriceUSD": 0.00072619,
-      "initialPoolEth": 0.1,
-      "initialMarketCap": 217.857
-    },
-    "currentInfos": {
-      "currentPoolToken": 19790572.385650035,
-      "currentPriceUSD": 1.85619441680598e-7,
-      "currentPoolEth": 0.001521571558411537,
-      "currentMarketCap": 3.67351499676382
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 80744,
-    "holderCountOld": 80740,
-    "txCount": 5,
-    "createdAtTimestamp": "1618217340",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9997443927323696,
     "isRugged": true
   }
 ]
