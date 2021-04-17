@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xf361eb0e9f8aee243b7f525805e38bfec94d08c1",
+    "tokenName": "MOAR",
+    "idPair": "0x86e9a775ecffa518cf8dfc3c9bcd1d60b8be94e6",
+    "idToken": "0xf361eb0e9f8aee243b7f525805e38bfec94d08c1",
+    "dateCreationToken": "2021-04-17T22:23:23Z",
+    "initialInfos": {
+      "initialPoolToken": 10000000,
+      "initialPriceUSD": 0.010770075,
+      "initialPoolEth": 45,
+      "initialMarketCap": 107525.69641960051
+    },
+    "currentInfos": {
+      "currentPoolToken": 10000000,
+      "currentPriceUSD": 0.010770075,
+      "currentPoolEth": 45,
+      "currentMarketCap": 107700.75
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": null,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618698203",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x4515eb2b008bc25a733d7eb1be3b84872259cc64",
     "tokenName": "Kish",
     "idPair": "0xd3f5de33fda2cb95c78cc10080be923a42063217",
@@ -12,22 +43,22 @@
       "initialMarketCap": 3111.355
     },
     "currentInfos": {
-      "currentPoolToken": 150816571.3165915,
-      "currentPriceUSD": 0.00013507373232369302,
-      "currentPoolEth": 8.51164985647539,
-      "currentMarketCap": 20371.35718399444
+      "currentPoolToken": 143097853.6059525,
+      "currentPriceUSD": 0.0001501201523479794,
+      "currentPoolEth": 8.97564985647539,
+      "currentMarketCap": 21481.87158399444
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 48,
     "holderCountOld": 0,
-    "txCount": 87,
+    "txCount": 88,
     "createdAtTimestamp": "1618694439",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 38.94357430649459,
+    "priceChange": 43.39305375707011,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x155040625d7ae3e9cada9a73e3e44f76d3ed1409",
-    "tokenName": "REVO",
-    "idPair": "0xedc25e28c40762b64fa8fe139939c9164d5b3805",
-    "idToken": "0x155040625d7ae3e9cada9a73e3e44f76d3ed1409",
-    "dateCreationToken": "2021-04-12T15:44:32Z",
-    "initialInfos": {
-      "initialPoolToken": 1264682,
-      "initialPriceUSD": 0.1710861228356219,
-      "initialPoolEth": 102,
-      "initialMarketCap": 216369.54
-    },
-    "currentInfos": {
-      "currentPoolToken": 837088.9445472392,
-      "currentPriceUSD": 0.4910171965371005,
-      "currentPoolEth": 172.36284855378602,
-      "currentMarketCap": 411025.0668037858
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 374,
-    "holderCountOld": 373,
-    "txCount": 2820,
-    "createdAtTimestamp": "1618242272",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.8700001402735957,
-    "isRugged": false
   }
 ]
