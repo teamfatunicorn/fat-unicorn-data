@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x95fec9aa4d8268ed1ee490e7bd6d0a35e636f3d4",
+    "tokenName": "JYSD",
+    "idPair": "0x187c67788228d658ad6f11aa5bc5aa6126539300",
+    "idToken": "0x95fec9aa4d8268ed1ee490e7bd6d0a35e636f3d4",
+    "dateCreationToken": "2021-04-17T20:17:24Z",
+    "initialInfos": {
+      "initialPoolToken": 9000000,
+      "initialPriceUSD": 0.0237858,
+      "initialPoolEth": 90,
+      "initialMarketCap": 214072.2
+    },
+    "currentInfos": {
+      "currentPoolToken": 9000000,
+      "currentPriceUSD": 0.0237858,
+      "currentPoolEth": 90,
+      "currentMarketCap": 214072.2
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618690644",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xf1d32952e2fbb1a91e620b0fd7fbc8a8879a47f3",
     "tokenName": "DOGEBEAR",
     "idPair": "0x0b7904b92836eff0245aa78ad4f4e06276a275f0",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.11035370320609825,
-    "isRugged": true
-  },
-  {
-    "_id": "0x71dcc0be796bc569c519e9fb24d3d79184e01128",
-    "tokenName": "Cere",
-    "idPair": "0x777f8b0115959d9efbeb324570db88d104d99b20",
-    "idToken": "0x71dcc0be796bc569c519e9fb24d3d79184e01128",
-    "dateCreationToken": "2021-04-12T14:58:14Z",
-    "initialInfos": {
-      "initialPoolToken": 1000,
-      "initialPriceUSD": 106.0635,
-      "initialPoolEth": 50,
-      "initialMarketCap": 106063.5
-    },
-    "currentInfos": {
-      "currentPoolToken": 3.151e-15,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3.18e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 7,
-    "holderCountOld": 0,
-    "txCount": 7,
-    "createdAtTimestamp": "1618239494",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
