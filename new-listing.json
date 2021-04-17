@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x737d6a363e7ad062af7931f08c7f2f91341e14f2",
+    "tokenName": "NYAN",
+    "idPair": "0x590ae78ef522bed094b7c6bf2f8e1bd5241b546c",
+    "idToken": "0x737d6a363e7ad062af7931f08c7f2f91341e14f2",
+    "dateCreationToken": "2021-04-17T16:10:06Z",
+    "initialInfos": {
+      "initialPoolToken": 500000000,
+      "initialPriceUSD": 0.0000464604,
+      "initialPoolEth": 10,
+      "initialMarketCap": 23230.2
+    },
+    "currentInfos": {
+      "currentPoolToken": 471755004.60291266,
+      "currentPriceUSD": 0.000052275834932961815,
+      "currentPoolEth": 10.616088862523707,
+      "currentMarketCap": 24661.386749420504
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 10,
+    "createdAtTimestamp": "1618675806",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.12516971298055582,
+    "isRugged": false
+  },
+  {
     "_id": "0x8f62949f13c98a165b304c85259bd80a674013d4",
     "tokenName": "DOODLE",
     "idPair": "0x3bce3238d925d2d99e7392aab2f9a6d664efb1e0",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xcc2c721cb1e9d7ae782f73004902e32d993f8fcc",
-    "tokenName": "GSS",
-    "idPair": "0x010857199956345929eab5b110b41d65b0a81dd0",
-    "idToken": "0xcc2c721cb1e9d7ae782f73004902e32d993f8fcc",
-    "dateCreationToken": "2021-04-12T13:16:14Z",
-    "initialInfos": {
-      "initialPoolToken": 6000000000,
-      "initialPriceUSD": 1.07091e-8,
-      "initialPoolEth": 0.03,
-      "initialMarketCap": 64.6131561442867
-    },
-    "currentInfos": {
-      "currentPoolToken": 299006302.3883959,
-      "currentPriceUSD": 1.215193934367389e-8,
-      "currentPoolEth": 0.001505000000000001,
-      "currentMarketCap": 3.63350645
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 3,
-    "createdAtTimestamp": "1618233374",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.13473021483354242,
     "isRugged": true
   }
 ]
