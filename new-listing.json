@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7dfac5cbbc816a29e746ed4286a669e328374db4",
+    "tokenName": "CCOR",
+    "idPair": "0x1ab32c660f9dab9cd62f184759439746da39241c",
+    "idToken": "0x7dfac5cbbc816a29e746ed4286a669e328374db4",
+    "dateCreationToken": "2021-04-17T03:24:20Z",
+    "initialInfos": {
+      "initialPoolToken": 43175000000000,
+      "initialPriceUSD": 3.445994209612044e-11,
+      "initialPoolEth": 0.6,
+      "initialMarketCap": 1487.808
+    },
+    "currentInfos": {
+      "currentPoolToken": 29020554479871.445,
+      "currentPriceUSD": 7.690108063055472e-11,
+      "currentPoolEth": 0.9,
+      "currentMarketCap": 2231.712
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1618629860",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.231607946875,
+    "isRugged": false
+  },
+  {
     "_id": "0xecf308d118b78be09860f69f30fdc0733c9dac6c",
     "tokenName": "HUSKY",
     "idPair": "0x384e8fdcca55ee9c7ca9c974b04fbc22700776fa",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9992789149898059,
-    "isRugged": true
-  },
-  {
-    "_id": "0xf503fc98d44aa6d93da81690599a78f93ae045e8",
-    "tokenName": "GEN",
-    "idPair": "0xc1530b05c482fbf6dba3f20d24d9cca5849e6c30",
-    "idToken": "0xf503fc98d44aa6d93da81690599a78f93ae045e8",
-    "dateCreationToken": "2021-04-11T22:19:39Z",
-    "initialInfos": {
-      "initialPoolToken": 100000,
-      "initialPriceUSD": 1.500373,
-      "initialPoolEth": 70,
-      "initialMarketCap": 149174.64893327738
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.929e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3.5e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 20,
-    "holderCountOld": 17,
-    "txCount": 30,
-    "createdAtTimestamp": "1618179579",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
