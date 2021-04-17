@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x9500966c68a6cfea52ac84c1773a09636990bd4e",
+    "tokenName": "KEL",
+    "idPair": "0x6b845ad715d080716a9afbb8996ee0d3ff63c331",
+    "idToken": "0x9500966c68a6cfea52ac84c1773a09636990bd4e",
+    "dateCreationToken": "2021-04-17T05:41:18Z",
+    "initialInfos": {
+      "initialPoolToken": 27000000,
+      "initialPriceUSD": 0.04594962962962963,
+      "initialPoolEth": 500,
+      "initialMarketCap": 1240640
+    },
+    "currentInfos": {
+      "currentPoolToken": 27000000,
+      "currentPriceUSD": 0.04594962962962963,
+      "currentPoolEth": 500,
+      "currentMarketCap": 1240640
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618638078",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xa4f8e83af2fee374f603b35c32c3d59d42f32950",
     "tokenName": "CHEEMS",
     "idPair": "0x5355f3a15cc936f31b2412ae776caafb39d65bc0",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.25275758503419554,
     "isRugged": false
-  },
-  {
-    "_id": "0x13b5adae8f5d7f200261d48dd419852ea49dc5fd",
-    "tokenName": "NOT",
-    "idPair": "0x60eb4dc87e8649b633cbab4f1dce1207d618dbd5",
-    "idToken": "0x13b5adae8f5d7f200261d48dd419852ea49dc5fd",
-    "dateCreationToken": "2021-04-12T02:12:53Z",
-    "initialInfos": {
-      "initialPoolToken": 30,
-      "initialPriceUSD": 213.637,
-      "initialPoolEth": 3,
-      "initialMarketCap": 6409.11
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.603e-15,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3.85e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 4,
-    "holderCountOld": 5,
-    "txCount": 12,
-    "createdAtTimestamp": "1618193573",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
