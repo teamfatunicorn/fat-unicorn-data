@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x025600d1b1fbfbe9e1ee1108bf4aae6ec53c4170",
+    "tokenName": "TRFLE",
+    "idPair": "0xd2cab72aea1c0a8cb44741ce095077e2dde9a4b2",
+    "idToken": "0x025600d1b1fbfbe9e1ee1108bf4aae6ec53c4170",
+    "dateCreationToken": "2021-04-18T02:28:13Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 2.045736e-8,
+      "initialPoolEth": 9,
+      "initialMarketCap": 20457.36
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000000,
+      "currentPriceUSD": 2.045736e-8,
+      "currentPoolEth": 9,
+      "currentMarketCap": 20457.36
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618712893",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x6e45431f3f6426f2c4759cb7c76d3ff9ea8dd07b",
     "tokenName": "GUM",
     "idPair": "0x6800567e81733865619d103519dfa3cfe3ed40b5",
@@ -7,9 +38,9 @@
     "dateCreationToken": "2021-04-18T01:51:01Z",
     "initialInfos": {
       "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 1.818912e-8,
+      "initialPriceUSD": 1.818432e-8,
       "initialPoolEth": 8,
-      "initialMarketCap": 18189.12
+      "initialMarketCap": 18184.32
     },
     "currentInfos": {
       "currentPoolToken": 0.00003019,
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-18T01:33:45Z",
     "initialInfos": {
       "initialPoolToken": 100000000000000000,
-      "initialPriceUSD": 4.54728e-15,
+      "initialPriceUSD": 4.54608e-15,
       "initialPoolEth": 0.2,
-      "initialMarketCap": 454.728
+      "initialMarketCap": 454.608
     },
     "currentInfos": {
       "currentPoolToken": 18268663375601956,
-      "currentPriceUSD": 1.427024434618378e-13,
+      "currentPriceUSD": 1.426647851403458e-13,
       "currentPoolEth": 1.1466119977127152,
-      "currentMarketCap": 2606.982902480185
+      "currentMarketCap": 2606.2949352815576
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 30.381934576678322,
+    "priceChange": 30.38193457667833,
     "isRugged": false
   },
   {
@@ -136,22 +167,22 @@
       "initialMarketCap": 4586.596772451853
     },
     "currentInfos": {
-      "currentPoolToken": 9183304112687.908,
-      "currentPriceUSD": 3.5790332845339613e-9,
-      "currentPoolEth": 14.455829014843166,
-      "currentMarketCap": 32867.351081307635
+      "currentPoolToken": 9133152738935.184,
+      "currentPriceUSD": 3.6186017277929357e-9,
+      "currentPoolEth": 14.535829014843166,
+      "currentMarketCap": 33049.24228130764
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 102,
     "holderCountOld": 0,
-    "txCount": 203,
+    "txCount": 204,
     "createdAtTimestamp": "1618707761",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 47.130669463298815,
+    "priceChange": 47.662784007163125,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 1.5227523129559248,
-    "isRugged": false
-  },
-  {
-    "_id": "0x3f3cd642e81d030d7b514a2ab5e3a5536beb90ec",
-    "tokenName": "RHO",
-    "idPair": "0xf28e099827cb05c9c35397859b4b626218c5a1cc",
-    "idToken": "0x3f3cd642e81d030d7b514a2ab5e3a5536beb90ec",
-    "dateCreationToken": "2021-04-13T00:11:40Z",
-    "initialInfos": {
-      "initialPoolToken": 300,
-      "initialPriceUSD": 2.15953,
-      "initialPoolEth": 0.3,
-      "initialMarketCap": 647.859
-    },
-    "currentInfos": {
-      "currentPoolToken": 780.5099847118275,
-      "currentPriceUSD": 6.152561539334484,
-      "currentPoolEth": 2.091841401348265,
-      "currentMarketCap": 4802.135713004536
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 18,
-    "holderCountOld": 17,
-    "txCount": 40,
-    "createdAtTimestamp": "1618272700",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.849028047461477,
     "isRugged": false
   }
 ]
