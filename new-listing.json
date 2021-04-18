@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x2ccdc8d1708c37f15ad0fee06b359a5dd35fc9fa",
+    "tokenName": "CrND",
+    "idPair": "0x20273ffa7d1bbca7d19f0dbbd011cd673309033b",
+    "idToken": "0x2ccdc8d1708c37f15ad0fee06b359a5dd35fc9fa",
+    "dateCreationToken": "2021-04-18T21:46:56Z",
+    "initialInfos": {
+      "initialPoolToken": 100000,
+      "initialPriceUSD": 0.98489856,
+      "initialPoolEth": 44.4,
+      "initialMarketCap": 98489.856
+    },
+    "currentInfos": {
+      "currentPoolToken": 100000,
+      "currentPriceUSD": 0.98489856,
+      "currentPoolEth": 44.4,
+      "currentMarketCap": 98489.856
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618782416",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x28882ac1f4099b56aa96e5d92caf4dee493456b5",
     "tokenName": "BLC",
     "idPair": "0x6a214ba7fe553f0931d0efe86e9640f3bb612c6d",
@@ -43,23 +74,23 @@
       "initialMarketCap": 4440.58963088453
     },
     "currentInfos": {
-      "currentPoolToken": 266259403335.40463,
-      "currentPriceUSD": 3.139042051273486e-8,
-      "currentPoolEth": 3.767849572710172,
-      "currentMarketCap": 8357.99463616823
+      "currentPoolToken": 0.00000808,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1.27e-16,
+      "currentMarketCap": 0
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 15,
     "holderCountOld": 0,
-    "txCount": 27,
+    "txCount": 29,
     "createdAtTimestamp": "1618781511",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.5020270076795983,
-    "isRugged": false
+    "priceChange": -1,
+    "isRugged": true
   },
   {
     "_id": "0x433409d5e7f811a533f251acf1124260d437e990",
@@ -229,22 +260,22 @@
       "initialMarketCap": 6654.72
     },
     "currentInfos": {
-      "currentPoolToken": 433705842602.6829,
-      "currentPriceUSD": 3.546428953236052e-8,
-      "currentPoolEth": 6.9339068693821595,
-      "currentMarketCap": 15381.069573937928
+      "currentPoolToken": 427558147215.3111,
+      "currentPriceUSD": 3.6493032995768344e-8,
+      "currentPoolEth": 7.03390686938216,
+      "currentMarketCap": 15602.893573937929
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 16,
     "holderCountOld": 0,
-    "txCount": 18,
+    "txCount": 19,
     "createdAtTimestamp": "1618779360",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 4.329193344327113,
+    "priceChange": 4.48378188650587,
     "isRugged": false
   },
   {
@@ -6162,37 +6193,6 @@
     "holderCountOld": 2,
     "txCount": 6,
     "createdAtTimestamp": "1618377840",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x13bce3da58be46ec3004f00b746dd953f775cb49",
-    "tokenName": "KEL",
-    "idPair": "0xb9b00fcc1ae230b285ff123ec109b9941e508b2f",
-    "idToken": "0x13bce3da58be46ec3004f00b746dd953f775cb49",
-    "dateCreationToken": "2021-04-14T04:56:15Z",
-    "initialInfos": {
-      "initialPoolToken": 15000000,
-      "initialPriceUSD": 0.0469398,
-      "initialPoolEth": 300,
-      "initialMarketCap": 704097
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.02467e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 5e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 17,
-    "holderCountOld": 16,
-    "txCount": 18,
-    "createdAtTimestamp": "1618376175",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
