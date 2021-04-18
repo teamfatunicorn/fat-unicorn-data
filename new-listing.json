@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xf65b5c5104c4fafd4b709d9d60a185eae063276c",
+    "tokenName": "TRU",
+    "idPair": "0x80b4d4e9d88d9f78198c56c5a27f3bacb9a685c5",
+    "idToken": "0xf65b5c5104c4fafd4b709d9d60a185eae063276c",
+    "dateCreationToken": "2021-04-18T08:44:47Z",
+    "initialInfos": {
+      "initialPoolToken": 100000,
+      "initialPriceUSD": 0.0218872,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2178.1847632573
+    },
+    "currentInfos": {
+      "currentPoolToken": 100000,
+      "currentPriceUSD": 0.0218872,
+      "currentPoolEth": 1,
+      "currentMarketCap": 2188.72
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 11,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618735487",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xf3e49656dc589a0da71632d66081800457839702",
     "tokenName": "ZEUS",
     "idPair": "0xb5402de7bd6cd69380d54c6a5e76b78754530ed9",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.012629231331276915,
     "isRugged": false
-  },
-  {
-    "_id": "0x56828bda8b008023bc18584123e9b3d559567361",
-    "tokenName": "EPNS",
-    "idPair": "0xd015e5dc1f9ff5f5421c4a281e3c674e7c2de3da",
-    "idToken": "0x56828bda8b008023bc18584123e9b3d559567361",
-    "dateCreationToken": "2021-04-13T01:17:09Z",
-    "initialInfos": {
-      "initialPoolToken": 10,
-      "initialPriceUSD": 0.216373,
-      "initialPoolEth": 0.001,
-      "initialMarketCap": 2.16373
-    },
-    "currentInfos": {
-      "currentPoolToken": 10,
-      "currentPriceUSD": 0.221482,
-      "currentPoolEth": 0.001,
-      "currentMarketCap": 2.21482
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 1,
-    "createdAtTimestamp": "1618276629",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.02361200334607369,
-    "isRugged": true
   }
 ]
