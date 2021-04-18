@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7eef8ec3c8e880ed620882c0b9831cea23c3cdcc",
+    "tokenName": "COLLIE",
+    "idPair": "0x6285368720103c8975cb74d401bbbb90508bacf6",
+    "idToken": "0x7eef8ec3c8e880ed620882c0b9831cea23c3cdcc",
+    "dateCreationToken": "2021-04-18T10:16:26Z",
+    "initialInfos": {
+      "initialPoolToken": 8000000000000,
+      "initialPriceUSD": 2.665725e-10,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2132.58
+    },
+    "currentInfos": {
+      "currentPoolToken": 5719470099674.471,
+      "currentPriceUSD": 5.220084986841577e-10,
+      "currentPoolEth": 1.4,
+      "currentMarketCap": 2985.612
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1618740986",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.9582233676923075,
+    "isRugged": false
+  },
+  {
     "_id": "0xea175f4a18b51ccab72788702063fe2df687aedb",
     "tokenName": "KISHU INU",
     "idPair": "0x34997ab4cb7ff8c0552b74bb712bfbfbb24af7fe",
@@ -12,22 +43,22 @@
       "initialMarketCap": 10602.182808104239
     },
     "currentInfos": {
-      "currentPoolToken": 1271101406784.2737,
-      "currentPriceUSD": 3.3331420866205436e-8,
-      "currentPoolEth": 19.866835454310056,
-      "currentMarketCap": 42367.61595315242
+      "currentPoolToken": 1113909545076.571,
+      "currentPriceUSD": 4.343181472274556e-8,
+      "currentPoolEth": 22.685720104129018,
+      "currentMarketCap": 48379.11297966342
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 26,
     "holderCountOld": 0,
-    "txCount": 52,
+    "txCount": 59,
     "createdAtTimestamp": "1618740090",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 9.784439691679445,
+    "priceChange": 13.052439842207297,
     "isRugged": false
   },
   {
@@ -2028,7 +2059,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 20145.7586859796,
-      "currentPriceUSD": 24.684969551617804,
+      "currentPriceUSD": 25.0497992191842,
       "currentPoolEth": 236.05517622710698,
       "currentMarketCap": 497297.4397576463
     },
@@ -2042,7 +2073,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 11.5043977195931,
+    "priceChange": 11.689205533660596,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xc5514fc162dd7b9acc70b98d1bc57a94f12d79cb",
-    "tokenName": "HORD",
-    "idPair": "0x829a111a2c75e8ad3fcee8c172d03e9198155fc4",
-    "idToken": "0xc5514fc162dd7b9acc70b98d1bc57a94f12d79cb",
-    "dateCreationToken": "2021-04-13T02:18:18Z",
-    "initialInfos": {
-      "initialPoolToken": 7200000,
-      "initialPriceUSD": 0.07219233333333333,
-      "initialPoolEth": 240,
-      "initialMarketCap": 518404.52629032993
-    },
-    "currentInfos": {
-      "currentPoolToken": 6323322.490653632,
-      "currentPriceUSD": 0.09131726448837915,
-      "currentPoolEth": 273.3803522068831,
-      "currentMarketCap": 577428.5123243341
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 28,
-    "holderCountOld": 26,
-    "txCount": 27,
-    "createdAtTimestamp": "1618280298",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.2649163736922086,
-    "isRugged": false
   }
 ]
