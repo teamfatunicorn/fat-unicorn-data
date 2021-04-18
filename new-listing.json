@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x7a2e89f4e0efe7ddd53a8d86c5ae0f1886715275",
+    "tokenName": "FLM",
+    "idPair": "0x43110d5b80187571cbf7747090b2e03aad05b5ca",
+    "idToken": "0x7a2e89f4e0efe7ddd53a8d86c5ae0f1886715275",
+    "dateCreationToken": "2021-04-18T18:49:42Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000,
+      "initialPriceUSD": 0.00001078185,
+      "initialPoolEth": 5,
+      "initialMarketCap": 10781.85
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000,
+      "currentPriceUSD": 0.00001078185,
+      "currentPoolEth": 5,
+      "currentMarketCap": 10781.85
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618771782",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
+    "_id": "0x4f1368354afcd6a5cabeffe5db6f1b523fe85b21",
+    "tokenName": "BEAR",
+    "idPair": "0x7c232be5992602a5e6130968bdf8cc305ecdbf2a",
+    "idToken": "0x4f1368354afcd6a5cabeffe5db6f1b523fe85b21",
+    "dateCreationToken": "2021-04-18T18:49:31Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 6.253473e-9,
+      "initialPoolEth": 2.9,
+      "initialMarketCap": 6253.473
+    },
+    "currentInfos": {
+      "currentPoolToken": 906504954518.4584,
+      "currentPriceUSD": 7.612075329103448e-9,
+      "currentPoolEth": 3.2,
+      "currentMarketCap": 6900.384
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1618771771",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.2172556480380499,
+    "isRugged": false
+  },
+  {
     "_id": "0x601cb558052b50fc975b8e35dae8853f1c96a1cf",
     "tokenName": "SAFECAT",
     "idPair": "0x798f1e95278c807099d3bcbd2f3e67db1a358373",
@@ -43,22 +105,22 @@
       "initialMarketCap": 2156.37
     },
     "currentInfos": {
-      "currentPoolToken": 127838012703579.72,
-      "currentPriceUSD": 5.617814508610835e-11,
-      "currentPoolEth": 3.3304592556854584,
-      "currentMarketCap": 7181.702425181464
+      "currentPoolToken": 118786878471940.23,
+      "currentPriceUSD": 6.507931767635741e-11,
+      "currentPoolEth": 3.5849919076310073,
+      "currentMarketCap": 7730.568999858259
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 74,
     "holderCountOld": 0,
-    "txCount": 227,
+    "txCount": 228,
     "createdAtTimestamp": "1618769546",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 9.420873057241261,
+    "priceChange": 11.0720131844456,
     "isRugged": false
   },
   {
@@ -6135,68 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x379ec11344929da69ddfd805d564608089c97e55",
-    "tokenName": "DRF",
-    "idPair": "0x4ce78b0c8324a0d3782a17ee8989485864c07866",
-    "idToken": "0x379ec11344929da69ddfd805d564608089c97e55",
-    "dateCreationToken": "2021-04-13T12:43:20Z",
-    "initialInfos": {
-      "initialPoolToken": 1400,
-      "initialPriceUSD": 1.6015357142857143,
-      "initialPoolEth": 1,
-      "initialMarketCap": 2242.15
-    },
-    "currentInfos": {
-      "currentPoolToken": 552.2546941497146,
-      "currentPriceUSD": 13.7498182992329,
-      "currentPoolEth": 3.5373099137527233,
-      "currentMarketCap": 7593.401699457015
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 166,
-    "holderCountOld": 165,
-    "txCount": 103,
-    "createdAtTimestamp": "1618317800",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 7.585395989976612,
-    "isRugged": false
-  },
-  {
-    "_id": "0xa14b5a70ad4209d964dd31973c24353ead91f513",
-    "tokenName": "DCNFT",
-    "idPair": "0x82d78e202f9b4c24e99ed70c9ca4b2d831d43bda",
-    "idToken": "0xa14b5a70ad4209d964dd31973c24353ead91f513",
-    "dateCreationToken": "2021-04-13T12:35:52Z",
-    "initialInfos": {
-      "initialPoolToken": 900000,
-      "initialPriceUSD": 0.01121075,
-      "initialPoolEth": 4.5,
-      "initialMarketCap": 10089.675
-    },
-    "currentInfos": {
-      "currentPoolToken": 569510719489.9487,
-      "currentPriceUSD": 2.69127484505066e-14,
-      "currentPoolEth": 0.000007139974703103,
-      "currentMarketCap": 0.0153270987335
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 7,
-    "holderCountOld": 6,
-    "txCount": 10,
-    "createdAtTimestamp": "1618317352",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9999999999975994,
     "isRugged": true
   }
 ]
