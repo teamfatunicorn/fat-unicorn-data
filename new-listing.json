@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x34ec89e9fe4106b9b43b9acf21111485a6fdcc40",
+    "tokenName": "EMI",
+    "idPair": "0x0e791c0acf6fa60377f45fa590ad3e36cde489b6",
+    "idToken": "0x34ec89e9fe4106b9b43b9acf21111485a6fdcc40",
+    "dateCreationToken": "2021-04-18T18:12:26Z",
+    "initialInfos": {
+      "initialPoolToken": 400000000000000,
+      "initialPriceUSD": 5.374525e-12,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2149.81
+    },
+    "currentInfos": {
+      "currentPoolToken": 119797083834488.28,
+      "currentPriceUSD": 6.011718540619987e-11,
+      "currentPoolEth": 3.35,
+      "currentMarketCap": 7201.8635
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 10,
+    "createdAtTimestamp": "1618769546",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 10.185581126927472,
+    "isRugged": false
+  },
+  {
     "_id": "0x683ab7b78e1a31d5f2efacdcdcc4da460e203292",
     "tokenName": "GRLZ",
     "idPair": "0xeb453fbc4f2dd32a3d754ac888fffa864ec7f883",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-18T17:20:39Z",
     "initialInfos": {
       "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 6.44922e-9,
+      "initialPriceUSD": 6.44943e-9,
       "initialPoolEth": 3,
-      "initialMarketCap": 6449.22
+      "initialMarketCap": 6449.43
     },
     "currentInfos": {
       "currentPoolToken": 938772256023.6853,
-      "currentPriceUSD": 7.319278460139503e-9,
+      "currentPriceUSD": 7.3195167910503154e-9,
       "currentPoolEth": 3.1962635260498593,
-      "currentMarketCap": 6871.135552490727
+      "currentMarketCap": 6871.35929093755
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.13490909910648158,
+    "priceChange": 0.13490909910648155,
     "isRugged": false
   },
   {
@@ -6163,37 +6194,6 @@
     "txCount": 36,
     "createdAtTimestamp": "1618316183",
     "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x7467f65f75d35f3befa991cf940cfb3e321dd042",
-    "tokenName": "HOGO",
-    "idPair": "0x6e96e118fb4b8c38f1b74137380d56f79ca53a6e",
-    "idToken": "0x7467f65f75d35f3befa991cf940cfb3e321dd042",
-    "dateCreationToken": "2021-04-13T11:53:44Z",
-    "initialInfos": {
-      "initialPoolToken": 200000000,
-      "initialPriceUSD": 0.0000224215,
-      "initialPoolEth": 2,
-      "initialMarketCap": 4484.3
-    },
-    "currentInfos": {
-      "currentPoolToken": 9.458122e-12,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 9,
-    "holderCountOld": 10,
-    "txCount": 28,
-    "createdAtTimestamp": "1618314824",
-    "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
