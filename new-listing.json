@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x601cb558052b50fc975b8e35dae8853f1c96a1cf",
+    "tokenName": "SAFECAT",
+    "idPair": "0x798f1e95278c807099d3bcbd2f3e67db1a358373",
+    "idToken": "0x601cb558052b50fc975b8e35dae8853f1c96a1cf",
+    "dateCreationToken": "2021-04-18T18:31:54Z",
+    "initialInfos": {
+      "initialPoolToken": 980000000000000,
+      "initialPriceUSD": 8.776204081632654e-12,
+      "initialPoolEth": 4,
+      "initialMarketCap": 8600.68
+    },
+    "currentInfos": {
+      "currentPoolToken": 620570051947973,
+      "currentPriceUSD": 2.1915815434465047e-11,
+      "currentPoolEth": 6.325220202425056,
+      "currentMarketCap": 13600.298722648162
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 13,
+    "createdAtTimestamp": "1618770714",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.4971861673467384,
+    "isRugged": false
+  },
+  {
     "_id": "0x34ec89e9fe4106b9b43b9acf21111485a6fdcc40",
     "tokenName": "EMI",
     "idPair": "0x0e791c0acf6fa60377f45fa590ad3e36cde489b6",
@@ -12,22 +43,22 @@
       "initialMarketCap": 2150.17
     },
     "currentInfos": {
-      "currentPoolToken": 100775087029049.42,
-      "currentPriceUSD": 8.92025349527395e-11,
-      "currentPoolEth": 4.180782553506554,
-      "currentMarketCap": 8989.393223074147
+      "currentPoolToken": 85662737097673.53,
+      "currentPriceUSD": 1.2377756008585933e-10,
+      "currentPoolEth": 4.931295938566143,
+      "currentMarketCap": 10603.124588226456
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 66,
     "holderCountOld": 0,
-    "txCount": 168,
+    "txCount": 180,
     "createdAtTimestamp": "1618769546",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 15.594508332408973,
+    "priceChange": 22.02656256684064,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9999999999975994,
-    "isRugged": true
-  },
-  {
-    "_id": "0xfc431503c075f00ae42eecf36f6b741d524d6bb4",
-    "tokenName": "RVF",
-    "idPair": "0x08d22e98d3024c1af130536e0e175ee38c13957b",
-    "idToken": "0xfc431503c075f00ae42eecf36f6b741d524d6bb4",
-    "dateCreationToken": "2021-04-13T12:16:23Z",
-    "initialInfos": {
-      "initialPoolToken": 12000000,
-      "initialPriceUSD": 0.07100141666666666,
-      "initialPoolEth": 380,
-      "initialMarketCap": 845558.9168544833
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.50425e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 7e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 31,
-    "holderCountOld": 30,
-    "txCount": 36,
-    "createdAtTimestamp": "1618316183",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
