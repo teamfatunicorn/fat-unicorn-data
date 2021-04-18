@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xf66f1310503867918e93cfc69242b8a709cb8acf",
+    "tokenName": "CUNO",
+    "idPair": "0x17942dc3a931aedefb8bb1878ff6478a655cb597",
+    "idToken": "0xf66f1310503867918e93cfc69242b8a709cb8acf",
+    "dateCreationToken": "2021-04-18T21:31:51Z",
+    "initialInfos": {
+      "initialPoolToken": 494949494949.49493,
+      "initialPriceUSD": 8.972188163265306e-9,
+      "initialPoolEth": 2,
+      "initialMarketCap": 4440.58963088453
+    },
+    "currentInfos": {
+      "currentPoolToken": 280508414418.46765,
+      "currentPriceUSD": 2.8100349561139772e-8,
+      "currentPoolEth": 3.55,
+      "currentMarketCap": 7882.3845
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 6,
+    "createdAtTimestamp": "1618781511",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.131939394248396,
+    "isRugged": false
+  },
+  {
     "_id": "0x433409d5e7f811a533f251acf1124260d437e990",
     "tokenName": "BUDG",
     "idPair": "0x5c1b7f391252f655ad6eaaed63a8ad5385b7254d",
@@ -43,22 +74,22 @@
       "initialMarketCap": 11101.95
     },
     "currentInfos": {
-      "currentPoolToken": 809089016457.9,
-      "currentPriceUSD": 1.6969886475087845e-8,
-      "currentPoolEth": 6.183665372989382,
-      "currentMarketCap": 13730.148757531046
+      "currentPoolToken": 777740020604.6532,
+      "currentPriceUSD": 1.8367636844025328e-8,
+      "currentPoolEth": 6.433665372989382,
+      "currentMarketCap": 14285.246257531046
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 7,
     "holderCountOld": 0,
-    "txCount": 9,
+    "txCount": 10,
     "createdAtTimestamp": "1618780644",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.5285500722925113,
+    "priceChange": 0.6544514111507733,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x7278264d96813f2b22cff0f543e2a3973467d0ea",
-    "tokenName": "COMFY",
-    "idPair": "0x4fa1311bbf86bcce0651a9e823db4e3a238717c1",
-    "idToken": "0x7278264d96813f2b22cff0f543e2a3973467d0ea",
-    "dateCreationToken": "2021-04-14T02:31:34Z",
-    "initialInfos": {
-      "initialPoolToken": 166666666666.66666,
-      "initialPriceUSD": 4.807194e-9,
-      "initialPoolEth": 0.35,
-      "initialMarketCap": 801.199
-    },
-    "currentInfos": {
-      "currentPoolToken": 51288687.05363078,
-      "currentPriceUSD": 0.000038728088746855214,
-      "currentPoolEth": 0.8941675890186198,
-      "currentMarketCap": 1986.3128239226967
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 13,
-    "holderCountOld": 12,
-    "txCount": 22,
-    "createdAtTimestamp": "1618367494",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 8055.277476393758,
-    "isRugged": false
   }
 ]
