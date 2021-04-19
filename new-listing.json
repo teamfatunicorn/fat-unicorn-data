@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xa13942860f2fabbcf0ca723d42d5ccae9edac298",
+    "tokenName": "POGE",
+    "idPair": "0xa70fedd155cca652cab72891278007fa5f34acf6",
+    "idToken": "0xa13942860f2fabbcf0ca723d42d5ccae9edac298",
+    "dateCreationToken": "2021-04-19T07:18:38Z",
+    "initialInfos": {
+      "initialPoolToken": 425000000000000,
+      "initialPriceUSD": 6.673470588235294e-12,
+      "initialPoolEth": 1.25,
+      "initialMarketCap": 2836.225
+    },
+    "currentInfos": {
+      "currentPoolToken": 342941062552449.8,
+      "currentPriceUSD": 1.0255170301929412e-11,
+      "currentPoolEth": 1.55,
+      "currentMarketCap": 3516.919
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1618816718",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.5367072,
+    "isRugged": false
+  },
+  {
     "_id": "0x47769d1b7c507046f4ee17b95cd80a6da44ab2dd",
     "tokenName": "BULLDOG",
     "idPair": "0xeef032dcca0f0d511d1f4f3fa547b9af22d5e7dd",
@@ -105,22 +136,22 @@
       "initialMarketCap": 6742.41300080187
     },
     "currentInfos": {
-      "currentPoolToken": 120261617692357.84,
-      "currentPriceUSD": 2.408874763620258e-10,
-      "currentPoolEth": 12.767639022435613,
-      "currentMarketCap": 28969.517589126834
+      "currentPoolToken": 95299115674707.52,
+      "currentPriceUSD": 3.84255600171237e-10,
+      "currentPoolEth": 16.139066404011142,
+      "currentMarketCap": 36619.21888937288
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 29,
     "holderCountOld": 0,
-    "txCount": 123,
+    "txCount": 131,
     "createdAtTimestamp": "1618813097",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 16.69425588899166,
+    "priceChange": 27.225281857283672,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.5086001940634267,
     "isRugged": false
-  },
-  {
-    "_id": "0x95e8165ab8c94443491f8cd25a6189de176c7ec4",
-    "tokenName": "OCC",
-    "idPair": "0xe9e1f53f51240e8c5184643b04e7ee566567fe09",
-    "idToken": "0x95e8165ab8c94443491f8cd25a6189de176c7ec4",
-    "dateCreationToken": "2021-04-14T17:02:11Z",
-    "initialInfos": {
-      "initialPoolToken": 440000,
-      "initialPriceUSD": 1.8088309090909092,
-      "initialPoolEth": 340,
-      "initialMarketCap": 795885.6
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.1088e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 4.9e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 108,
-    "holderCountOld": 107,
-    "txCount": 141,
-    "createdAtTimestamp": "1618419731",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
