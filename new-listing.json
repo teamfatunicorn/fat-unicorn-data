@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xaef9daa12ff5ce59f5c5afd7d839cca0df15d658",
+    "tokenName": "WOGE",
+    "idPair": "0x6a83bf7b6f76a8f223a6ead762bfb3bc212e9d68",
+    "idToken": "0xaef9daa12ff5ce59f5c5afd7d839cca0df15d658",
+    "dateCreationToken": "2021-04-19T02:27:17Z",
+    "initialInfos": {
+      "initialPoolToken": 85380000,
+      "initialPriceUSD": 0.00044522557976106814,
+      "initialPoolEth": 17,
+      "initialMarketCap": 38013.36
+    },
+    "currentInfos": {
+      "currentPoolToken": 76396158.74299507,
+      "currentPriceUSD": 0.0005572738507193778,
+      "currentPoolEth": 19.03938211641724,
+      "currentMarketCap": 42573.58156287773
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 18,
+    "holderCountOld": 0,
+    "txCount": 9,
+    "createdAtTimestamp": "1618799237",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.2516662924408808,
+    "isRugged": false
+  },
+  {
     "_id": "0xd8b98032f2220e1ddcc65371c0a7b9fa7391d347",
     "tokenName": "REGI",
     "idPair": "0xa1b09257289bd1395500b01cf22b18246ab214ad",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-19T01:16:39Z",
     "initialInfos": {
       "initialPoolToken": 1000,
-      "initialPriceUSD": 0.00223956,
+      "initialPriceUSD": 0.00223608,
       "initialPoolEth": 0.001,
       "initialMarketCap": 2.263370521925805
     },
     "currentInfos": {
       "currentPoolToken": 769.8039608296045,
-      "currentPriceUSD": 0.003782038217707277,
+      "currentPriceUSD": 0.003776161396814949,
       "currentPoolEth": 0.0013,
-      "currentMarketCap": 2.911428
+      "currentMarketCap": 2.906904
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.6887416357263378,
+    "priceChange": 0.6887416357263375,
     "isRugged": true
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-19T01:06:22Z",
     "initialInfos": {
       "initialPoolToken": 1000000000,
-      "initialPriceUSD": 2.23956e-7,
+      "initialPriceUSD": 2.23608e-7,
       "initialPoolEth": 0.1,
-      "initialMarketCap": 223.956
+      "initialMarketCap": 223.608
     },
     "currentInfos": {
       "currentPoolToken": 394595633.77440226,
-      "currentPriceUSD": 0.0000014566874720907317,
+      "currentPriceUSD": 0.0000014544239594351763,
       "currentPoolEth": 0.25665868128594305,
-      "currentMarketCap": 574.8025162608742
+      "currentMarketCap": 573.9093440499989
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 5.504346711366214,
+    "priceChange": 5.504346711366213,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 2.0499095419372515,
     "isRugged": false
-  },
-  {
-    "_id": "0xdc0d00397cbace3c361cd76d24163d60c4478ac2",
-    "tokenName": "MINA",
-    "idPair": "0xdc797ed7a27e0eca78256e812389e5a57e557983",
-    "idToken": "0xdc0d00397cbace3c361cd76d24163d60c4478ac2",
-    "dateCreationToken": "2021-04-14T09:41:06Z",
-    "initialInfos": {
-      "initialPoolToken": 3292000,
-      "initialPriceUSD": 0.24574914945321993,
-      "initialPoolEth": 340,
-      "initialMarketCap": 789004.9997301128
-    },
-    "currentInfos": {
-      "currentPoolToken": 8.9196e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.2e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 15,
-    "holderCountOld": 14,
-    "txCount": 24,
-    "createdAtTimestamp": "1618393266",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
