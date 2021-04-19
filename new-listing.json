@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x05b98e50bf2e6a2ed42ca5e9913175ef778a93ed",
+    "tokenName": "FINE",
+    "idPair": "0x64955297dd19df0ca19784e542a7e674eb1b2be3",
+    "idToken": "0x05b98e50bf2e6a2ed42ca5e9913175ef778a93ed",
+    "dateCreationToken": "2021-04-19T08:35:12Z",
+    "initialInfos": {
+      "initialPoolToken": 400,
+      "initialPriceUSD": 225.516,
+      "initialPoolEth": 40,
+      "initialMarketCap": 90206.4
+    },
+    "currentInfos": {
+      "currentPoolToken": 390.2724589604117,
+      "currentPriceUSD": 236.9154109575,
+      "currentPoolEth": 41,
+      "currentMarketCap": 92461.56
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1618821312",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.05054812500000004,
+    "isRugged": false
+  },
+  {
     "_id": "0x0d0fca1f7342a237a23ee94a53268ae352970207",
     "tokenName": "MOGE",
     "idPair": "0x25d3b413de9d0b772fd8cbafb8b9574126a88656",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-19T08:06:21Z",
     "initialInfos": {
       "initialPoolToken": 425000000000000,
-      "initialPriceUSD": 6.63614705882353e-12,
+      "initialPriceUSD": 6.632823529411765e-12,
       "initialPoolEth": 1.25,
-      "initialMarketCap": 2820.3625
+      "initialMarketCap": 2818.95
     },
     "currentInfos": {
-      "currentPoolToken": 84325896070328.8,
-      "currentPriceUSD": 1.7916374453769355e-10,
-      "currentPoolEth": 6.696011284656261,
-      "currentMarketCap": 15108.143301456486
+      "currentPoolToken": 74223100891360.42,
+      "currentPriceUSD": 2.314801381298742e-10,
+      "currentPoolEth": 7.61860517513625,
+      "currentMarketCap": 17181.1736467597
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 107,
     "holderCountOld": 0,
-    "txCount": 263,
+    "txCount": 271,
     "createdAtTimestamp": "1618819581",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 25.99815765828675,
+    "priceChange": 33.89918540775698,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 2820.3625
     },
     "currentInfos": {
-      "currentPoolToken": 29735816468827.81,
-      "currentPriceUSD": 1.5205971808778592e-9,
-      "currentPoolEth": 20.04006519268401,
-      "currentMarketCap": 45216.198693600985
+      "currentPoolToken": 29622556757130.242,
+      "currentPriceUSD": 1.5329775364033395e-9,
+      "currentPoolEth": 20.12627546969329,
+      "currentMarketCap": 45410.71407951362
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 225,
     "holderCountOld": 0,
-    "txCount": 745,
+    "txCount": 749,
     "createdAtTimestamp": "1618816718",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 228.1385599805309,
+    "priceChange": 230.00415388852292,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x039aa25407d0ce00e87afba994e279606e16922c",
-    "tokenName": "GDEFI",
-    "idPair": "0x41c26ae992ba42e1d694f8f77f01c5db01e95823",
-    "idToken": "0x039aa25407d0ce00e87afba994e279606e16922c",
-    "dateCreationToken": "2021-04-14T17:18:42Z",
-    "initialInfos": {
-      "initialPoolToken": 45,
-      "initialPriceUSD": 51.69266666666667,
-      "initialPoolEth": 1,
-      "initialMarketCap": 2326.17
-    },
-    "currentInfos": {
-      "currentPoolToken": 47.12187034428407,
-      "currentPriceUSD": 46.18732976492865,
-      "currentPoolEth": 0.9575536931646671,
-      "currentMarketCap": 2176.4333647316603
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 13,
-    "holderCountOld": 14,
-    "txCount": 11,
-    "createdAtTimestamp": "1618420722",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.10650131356616707,
-    "isRugged": false
   }
 ]
