@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x48be1e4fe4d9949d0685d3b8cfa54aadb08a675c",
+    "tokenName": "CBD",
+    "idPair": "0x70d78418a9478461d4c9162f6472a61621509027",
+    "idToken": "0x48be1e4fe4d9949d0685d3b8cfa54aadb08a675c",
+    "dateCreationToken": "2021-04-19T11:24:03Z",
+    "initialInfos": {
+      "initialPoolToken": 95000000000000,
+      "initialPriceUSD": 1.1818631578947369e-11,
+      "initialPoolEth": 0.5,
+      "initialMarketCap": 1122.77
+    },
+    "currentInfos": {
+      "currentPoolToken": 43265851774083.805,
+      "currentPriceUSD": 5.709107526410895e-11,
+      "currentPoolEth": 1.1,
+      "currentMarketCap": 2470.094
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 5,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1618831443",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 3.8305994549999998,
+    "isRugged": false
+  },
+  {
     "_id": "0x6afe30c9bdb626cc08869b9ea9a82f29f2e10464",
     "tokenName": "ELONDOG",
     "idPair": "0x847b3e7b525f5eee79772e310d7dcc72ad829cca",
@@ -12,22 +43,22 @@
       "initialMarketCap": 999265.3
     },
     "currentInfos": {
-      "currentPoolToken": 88888888888,
-      "currentPriceUSD": 0.000011241734625112417,
-      "currentPoolEth": 445,
-      "currentMarketCap": 999265.3
+      "currentPoolToken": 88756882169.8777,
+      "currentPriceUSD": 0.000011275249216195555,
+      "currentPoolEth": 445.6638341413979,
+      "currentMarketCap": 1000755.9661178748
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 0,
+    "holderCount": 6,
     "holderCountOld": 0,
-    "txCount": 1,
+    "txCount": 7,
     "createdAtTimestamp": "1618831348",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.0029812650983836527,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 17964.32
     },
     "currentInfos": {
-      "currentPoolToken": 400632.062043268,
-      "currentPriceUSD": 0.19882738135792702,
-      "currentPoolEth": 35.47325978788631,
-      "currentMarketCap": 79656.62378408953
+      "currentPoolToken": 383162.637957498,
+      "currentPriceUSD": 0.21802120562338592,
+      "currentPoolEth": 37.201555206021766,
+      "currentMarketCap": 83537.58027733063
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 17,
+    "holderCount": 116,
     "holderCountOld": 0,
-    "txCount": 96,
+    "txCount": 133,
     "createdAtTimestamp": "1618830860",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 18.13828193432386,
+    "priceChange": 19.985798195320847,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 1.1492088731679331e+24,
     "isRugged": false
-  },
-  {
-    "_id": "0xc134496351785b617e6d101e1046c98d1e148120",
-    "tokenName": "PLE",
-    "idPair": "0x70bd09fbb741d9dca8c77b89bb269893b3f4bf6a",
-    "idToken": "0xc134496351785b617e6d101e1046c98d1e148120",
-    "dateCreationToken": "2021-04-14T22:53:51Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000,
-      "initialPriceUSD": 0.000363516,
-      "initialPoolEth": 0.15,
-      "initialMarketCap": 363.59762335468326
-    },
-    "currentInfos": {
-      "currentPoolToken": 3.97451e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 9,
-    "holderCountOld": 0,
-    "txCount": 16,
-    "createdAtTimestamp": "1618440831",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
