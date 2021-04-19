@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x4c9d1312a2a518f69556dd59018efbf748e838bb",
+    "tokenName": "PLE",
+    "idPair": "0x53b303724ff11009e1b5a4b997e02d10611db49c",
+    "idToken": "0x4c9d1312a2a518f69556dd59018efbf748e838bb",
+    "dateCreationToken": "2021-04-19T03:37:56Z",
+    "initialInfos": {
+      "initialPoolToken": 22000000,
+      "initialPriceUSD": 0.030790636363636364,
+      "initialPoolEth": 300,
+      "initialMarketCap": 677394
+    },
+    "currentInfos": {
+      "currentPoolToken": 22000000,
+      "currentPriceUSD": 0.030790636363636364,
+      "currentPoolEth": 300,
+      "currentMarketCap": 677394
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618803476",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x737fde306bddf7857efa8adde6752ecd171cd3aa",
     "tokenName": "HUAHUA",
     "idPair": "0xdc167646d3522639eb01fd622d1cece5d3ac319c",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-19T03:05:21Z",
     "initialInfos": {
       "initialPoolToken": 900000000000000,
-      "initialPriceUSD": 2.50642222222222e-14,
+      "initialPriceUSD": 2.50886666666667e-14,
       "initialPoolEth": 0.01,
-      "initialMarketCap": 22.5578
+      "initialMarketCap": 22.5798
     },
     "currentInfos": {
       "currentPoolToken": 538560024240497.44,
-      "currentPriceUSD": 7.27804207961863e-14,
+      "currentPriceUSD": 7.28514015326729e-14,
       "currentPoolEth": 0.01737608507437058,
-      "currentMarketCap": 39.19662518822772
+      "currentMarketCap": 39.23485257539052
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.903757401722142,
+    "priceChange": 1.903757401722138,
     "isRugged": true
   },
   {
@@ -38,9 +69,9 @@
     "dateCreationToken": "2021-04-19T02:57:12Z",
     "initialInfos": {
       "initialPoolToken": 0.42095663075186945,
-      "initialPriceUSD": 5.358699293965171,
+      "initialPriceUSD": 5.363925485547118,
       "initialPoolEth": 0.001,
-      "initialMarketCap": 2.25578
+      "initialMarketCap": 2.25798
     },
     "currentInfos": {
       "currentPoolToken": 2.0518e-14,
@@ -74,22 +105,22 @@
       "initialMarketCap": 38348.26
     },
     "currentInfos": {
-      "currentPoolToken": 14051268.525816962,
-      "currentPriceUSD": 0.017043186400145245,
-      "currentPoolEth": 106.16212070503016,
-      "currentMarketCap": 239478.38864399257
+      "currentPoolToken": 13439624.765652092,
+      "currentPriceUSD": 0.018638949624135145,
+      "currentPoolEth": 111.04827996270396,
+      "currentMarketCap": 250500.48897426843
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 191,
     "holderCountOld": 0,
-    "txCount": 512,
+    "txCount": 536,
     "createdAtTimestamp": "1618799237",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 36.94558748804773,
+    "priceChange": 40.4984543994606,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x3c511abd08ddda0e9ca8fced2f021ae01ab17755",
-    "tokenName": "AJRC",
-    "idPair": "0x7a7ec8f63c12f2dccc08e4eb013c4023b4a050ae",
-    "idToken": "0x3c511abd08ddda0e9ca8fced2f021ae01ab17755",
-    "dateCreationToken": "2021-04-14T12:21:22Z",
-    "initialInfos": {
-      "initialPoolToken": 30000,
-      "initialPriceUSD": 0.01029587,
-      "initialPoolEth": 0.13,
-      "initialMarketCap": 308.8761
-    },
-    "currentInfos": {
-      "currentPoolToken": 120000,
-      "currentPriceUSD": 0.009656313333333333,
-      "currentPoolEth": 0.52,
-      "currentMarketCap": 1158.7576
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 16,
-    "holderCountOld": 15,
-    "txCount": 2,
-    "createdAtTimestamp": "1618402882",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.06211778768250449,
-    "isRugged": false
   }
 ]
