@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x33f25765357258b3350b3dcfa785b92266e019fd",
+    "tokenName": "WDOG",
+    "idPair": "0x42ebc021bb8d6f1ec76d8f3cf0c6aec8221c4611",
+    "idToken": "0x33f25765357258b3350b3dcfa785b92266e019fd",
+    "dateCreationToken": "2021-04-19T16:23:25Z",
+    "initialInfos": {
+      "initialPoolToken": 500000000000000,
+      "initialPriceUSD": 2.562192e-11,
+      "initialPoolEth": 6,
+      "initialMarketCap": 12810.96
+    },
+    "currentInfos": {
+      "currentPoolToken": 379868086280880.56,
+      "currentPriceUSD": 4.450741046192922e-11,
+      "currentPoolEth": 7.918350305124922,
+      "currentMarketCap": 16906.944837490693
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 14,
+    "createdAtTimestamp": "1618849405",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.73708334355619,
+    "isRugged": false
+  },
+  {
     "_id": "0x6703bec801f9d2f441093c18e251172837914a1d",
     "tokenName": "UNIDOG",
     "idPair": "0x8dd5b1d800b9afe3ff5611f8c79373e9307e6a7b",
@@ -20,8 +51,8 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
+    "holderCount": 5,
+    "holderCountOld": 2,
     "txCount": 5,
     "createdAtTimestamp": "1618848144",
     "isCodeGenerator": false,
@@ -43,22 +74,22 @@
       "initialMarketCap": 3202.74
     },
     "currentInfos": {
-      "currentPoolToken": 22090638838.763103,
-      "currentPriceUSD": 6.423388747782295e-7,
-      "currentPoolEth": 6.64572027146558,
-      "currentMarketCap": 14189.676094823344
+      "currentPoolToken": 23859193822.454193,
+      "currentPriceUSD": 5.5295841432571e-7,
+      "currentPoolEth": 6.175581594293585,
+      "currentMarketCap": 13193.141983154044
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 23,
-    "holderCountOld": 0,
-    "txCount": 74,
+    "holderCount": 31,
+    "holderCountOld": 23,
+    "txCount": 86,
     "createdAtTimestamp": "1618847499",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 18.053121110028226,
+    "priceChange": 15.401908790892314,
     "isRugged": false
   },
   {
@@ -75,21 +106,21 @@
     },
     "currentInfos": {
       "currentPoolToken": 8809123.750766128,
-      "currentPriceUSD": 0.0000590894425926764,
+      "currentPriceUSD": 0.0000591220984790078,
       "currentPoolEth": 0.24378791854629311,
-      "currentMarketCap": 520.5262121626773
+      "currentMarketCap": 520.8138819065616
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 13,
-    "holderCountOld": 0,
+    "holderCount": 14,
+    "holderCountOld": 13,
     "txCount": 50,
     "createdAtTimestamp": "1618846491",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.21767711744214086,
+    "priceChange": 0.21835006888305472,
     "isRugged": false
   },
   {
@@ -6162,37 +6193,6 @@
     "holderCountOld": 18,
     "txCount": 22,
     "createdAtTimestamp": "1618474442",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xfc5e2f8c1284227813cfa21d81ba2e7beb9dfc22",
-    "tokenName": "KIAN",
-    "idPair": "0xa6e933a25e3ace47e8172da42acddf9405d8324d",
-    "idToken": "0xfc5e2f8c1284227813cfa21d81ba2e7beb9dfc22",
-    "dateCreationToken": "2021-04-15T06:26:58Z",
-    "initialInfos": {
-      "initialPoolToken": 4100000,
-      "initialPriceUSD": 0.09063512195121952,
-      "initialPoolEth": 150,
-      "initialMarketCap": 370342.8259573834
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.39319e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 8e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 13,
-    "holderCountOld": 12,
-    "txCount": 15,
-    "createdAtTimestamp": "1618468018",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
