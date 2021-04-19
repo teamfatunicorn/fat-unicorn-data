@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7d4329d0d658ac8852e28625ca12d3bcf2e88115",
+    "tokenName": "SOGE",
+    "idPair": "0xf6c3a14c891fe1c0a61a15ad7d69fcfff300d542",
+    "idToken": "0x7d4329d0d658ac8852e28625ca12d3bcf2e88115",
+    "dateCreationToken": "2021-04-19T18:08:51Z",
+    "initialInfos": {
+      "initialPoolToken": 4000000000,
+      "initialPriceUSD": 5.3752e-7,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2150.08
+    },
+    "currentInfos": {
+      "currentPoolToken": 1136982782.7373846,
+      "currentPriceUSD": 0.00000667537144381988,
+      "currentPoolEth": 3.53,
+      "currentMarketCap": 7589.7824
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 8,
+    "holderCountOld": 0,
+    "txCount": 11,
+    "createdAtTimestamp": "1618855731",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 11.418833613297886,
+    "isRugged": false
+  },
+  {
     "_id": "0xc7eb14f5e7618a67126c9e507c097ef325d17fac",
     "tokenName": "YOGE",
     "idPair": "0x3216e3d8c2b221b22f3f16cf8245d25ab60ddce5",
@@ -43,22 +74,22 @@
       "initialMarketCap": 19164.317756120407
     },
     "currentInfos": {
-      "currentPoolToken": 240039196528397.3,
-      "currentPriceUSD": 1.6828005444209064e-10,
-      "currentPoolEth": 18.78711911186326,
-      "currentMarketCap": 40393.8090600344
+      "currentPoolToken": 238557150364051.22,
+      "currentPriceUSD": 1.7038060824254008e-10,
+      "currentPoolEth": 18.904186067324968,
+      "currentMarketCap": 40645.512379634136
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 25,
+    "holderCount": 27,
     "holderCountOld": 0,
-    "txCount": 26,
+    "txCount": 27,
     "createdAtTimestamp": "1618853711",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 3.3481600282080106,
+    "priceChange": 3.402435884621867,
     "isRugged": false
   },
   {
@@ -82,7 +113,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 41,
+    "holderCount": 42,
     "holderCountOld": 0,
     "txCount": 54,
     "createdAtTimestamp": "1618852157",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.19509575543114105,
     "isRugged": false
-  },
-  {
-    "_id": "0xc1016edb3f0a314131216425bc8c05459bcecfcc",
-    "tokenName": "ADAS",
-    "idPair": "0x6a5513550ea0e71eba0c365c878423cd9ab8f042",
-    "idToken": "0xc1016edb3f0a314131216425bc8c05459bcecfcc",
-    "dateCreationToken": "2021-04-15T10:14:47Z",
-    "initialInfos": {
-      "initialPoolToken": 8734651,
-      "initialPriceUSD": 0.09488344754701705,
-      "initialPoolEth": 340,
-      "initialMarketCap": 832337.848439258
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.40731e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 9e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 14,
-    "holderCountOld": 12,
-    "txCount": 31,
-    "createdAtTimestamp": "1618481687",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
