@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x0d5be6ed4fddfd6d5c584badf4ee8ecaa50400c5",
+    "tokenName": "PUG",
+    "idPair": "0xbad7a3d6f13cd6d50618ef4419c189436c9699ba",
+    "idToken": "0x0d5be6ed4fddfd6d5c584badf4ee8ecaa50400c5",
+    "dateCreationToken": "2021-04-19T09:33:27Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 1.121515e-8,
+      "initialPoolEth": 5,
+      "initialMarketCap": 11215.15
+    },
+    "currentInfos": {
+      "currentPoolToken": 720082575058.9215,
+      "currentPriceUSD": 2.1648987268889835e-8,
+      "currentPoolEth": 6.95,
+      "currentMarketCap": 15589.0585
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 7,
+    "createdAtTimestamp": "1618824807",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.9303341701974415,
+    "isRugged": false
+  },
+  {
     "_id": "0xbac98e0a952ada4c4348f8c8078cd1682747b8b6",
     "tokenName": "SWDOGE",
     "idPair": "0x532ea43a7ddb7d64d2f4871419cdf9177d5fede2",
@@ -12,22 +43,22 @@
       "initialMarketCap": 3140.242
     },
     "currentInfos": {
-      "currentPoolToken": 12114222919185.826,
-      "currentPriceUSD": 9.967882934095922e-10,
-      "currentPoolEth": 5.3834837650852085,
-      "currentMarketCap": 12075.315589598607
+      "currentPoolToken": 14142484689966.844,
+      "currentPriceUSD": 7.317019971318625e-10,
+      "currentPoolEth": 4.613439986114872,
+      "currentMarketCap": 10348.084292055528
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 40,
     "holderCountOld": 0,
-    "txCount": 102,
+    "txCount": 104,
     "createdAtTimestamp": "1618823729",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 13.442793692376716,
+    "priceChange": 9.601871088119879,
     "isRugged": false
   },
   {
@@ -43,23 +74,23 @@
       "initialMarketCap": 2803.7875
     },
     "currentInfos": {
-      "currentPoolToken": 135637936528.79889,
-      "currentPriceUSD": 6.649452605632649e-8,
-      "currentPoolEth": 4.020980684493713,
-      "currentMarketCap": 9019.180304740577
+      "currentPoolToken": 0.000005937,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1.76e-16,
+      "currentMarketCap": 0
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 32,
     "holderCountOld": 0,
-    "txCount": 65,
+    "txCount": 66,
     "createdAtTimestamp": "1618823670",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 8.962379625382866,
-    "isRugged": false
+    "priceChange": -1,
+    "isRugged": true
   },
   {
     "_id": "0x091102444cc671be7076b9f2f35cfa4c91fa624f",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.04638615128363268,
-    "isRugged": true
-  },
-  {
-    "_id": "0xaf9768c67b298aea8e451ea9366fa9dc2f6db4db",
-    "tokenName": "APOLLO",
-    "idPair": "0x6dccdc295b760882f53686ab8ae1dddd934a784b",
-    "idToken": "0xaf9768c67b298aea8e451ea9366fa9dc2f6db4db",
-    "dateCreationToken": "2021-04-14T20:15:45Z",
-    "initialInfos": {
-      "initialPoolToken": 280000,
-      "initialPriceUSD": 0.14471067857142858,
-      "initialPoolEth": 17,
-      "initialMarketCap": 40518.99
-    },
-    "currentInfos": {
-      "currentPoolToken": 108872954.66904037,
-      "currentPriceUSD": 9.263276448390936e-7,
-      "currentPoolEth": 0.04437132472712649,
-      "currentMarketCap": 100.85202768524557
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 37,
-    "holderCountOld": 36,
-    "txCount": 91,
-    "createdAtTimestamp": "1618431345",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9999935987609623,
     "isRugged": true
   }
 ]
