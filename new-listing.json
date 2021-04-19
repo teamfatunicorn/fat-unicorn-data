@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc37ecae209927cd0cd6440efa56cac1c9cfe8859",
+    "tokenName": "CRWNY",
+    "idPair": "0x25f2df36ba640eb3310b770966201712ba3e4e88",
+    "idToken": "0xc37ecae209927cd0cd6440efa56cac1c9cfe8859",
+    "dateCreationToken": "2021-04-19T05:23:52Z",
+    "initialInfos": {
+      "initialPoolToken": 330000000,
+      "initialPriceUSD": 0.002730690909090909,
+      "initialPoolEth": 400,
+      "initialMarketCap": 897716.7710768066
+    },
+    "currentInfos": {
+      "currentPoolToken": 330000000,
+      "currentPriceUSD": 0.002730690909090909,
+      "currentPoolEth": 400,
+      "currentMarketCap": 901128
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": null,
+    "txCount": 1,
+    "createdAtTimestamp": "1618809832",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xe250cebb7b5e5545c4dd4ff6e49e6252b09dcb08",
     "tokenName": "SHARPAY",
     "idPair": "0xd15a990fb62d65db129a6e463f37bd52a08218d0",
@@ -51,7 +82,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 29,
+    "holderCount": 31,
     "holderCountOld": 0,
     "txCount": 32,
     "createdAtTimestamp": "1618806843",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.12132399521674213,
     "isRugged": false
-  },
-  {
-    "_id": "0xdcc16284fe9c88bdf5c9dcdf051dd7e4174f97bc",
-    "tokenName": "GS",
-    "idPair": "0xdd3b5a012e9b049e15849ea4fbd4d344911fe743",
-    "idToken": "0xdcc16284fe9c88bdf5c9dcdf051dd7e4174f97bc",
-    "dateCreationToken": "2021-04-14T14:14:37Z",
-    "initialInfos": {
-      "initialPoolToken": 6000000,
-      "initialPriceUSD": 0.237596,
-      "initialPoolEth": 600,
-      "initialMarketCap": 1388068.218708591
-    },
-    "currentInfos": {
-      "currentPoolToken": 9.0886e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.2e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 18,
-    "holderCountOld": 0,
-    "txCount": 22,
-    "createdAtTimestamp": "1618409677",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
