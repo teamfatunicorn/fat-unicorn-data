@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x6afe30c9bdb626cc08869b9ea9a82f29f2e10464",
+    "tokenName": "ELONDOG",
+    "idPair": "0x847b3e7b525f5eee79772e310d7dcc72ad829cca",
+    "idToken": "0x6afe30c9bdb626cc08869b9ea9a82f29f2e10464",
+    "dateCreationToken": "2021-04-19T11:22:28Z",
+    "initialInfos": {
+      "initialPoolToken": 88888888888,
+      "initialPriceUSD": 0.000011241734625112417,
+      "initialPoolEth": 445,
+      "initialMarketCap": 999265.3
+    },
+    "currentInfos": {
+      "currentPoolToken": 88888888888,
+      "currentPriceUSD": 0.000011241734625112417,
+      "currentPoolEth": 445,
+      "currentMarketCap": 999265.3
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618831348",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x525e76a73089e60ac0d2153771aec3ec0ce8faac",
     "tokenName": "Swoge",
     "idPair": "0x39e5cafa787632a8a14559a815bbee8c32479ba8",
@@ -12,22 +43,22 @@
       "initialMarketCap": 17964.32
     },
     "currentInfos": {
-      "currentPoolToken": 502198.890645969,
-      "currentPriceUSD": 0.12621054406364882,
-      "currentPoolEth": 28.226081573513667,
-      "currentMarketCap": 63382.79521658863
+      "currentPoolToken": 400632.062043268,
+      "currentPriceUSD": 0.19882738135792702,
+      "currentPoolEth": 35.47325978788631,
+      "currentMarketCap": 79656.62378408953
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 17,
     "holderCountOld": 0,
-    "txCount": 77,
+    "txCount": 96,
     "createdAtTimestamp": "1618830860",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 11.148492621477732,
+    "priceChange": 18.13828193432386,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x1d92711fc5874cd93474a54482e435742f17930d",
-    "tokenName": "SN",
-    "idPair": "0xf483d0ab2d73768ff96e662727091a2f9af54f5e",
-    "idToken": "0x1d92711fc5874cd93474a54482e435742f17930d",
-    "dateCreationToken": "2021-04-14T22:50:08Z",
-    "initialInfos": {
-      "initialPoolToken": 100,
-      "initialPriceUSD": 0.242344,
-      "initialPoolEth": 0.01,
-      "initialMarketCap": 24.2344
-    },
-    "currentInfos": {
-      "currentPoolToken": 100,
-      "currentPriceUSD": 0.227291,
-      "currentPoolEth": 0.01,
-      "currentMarketCap": 22.7291
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 1,
-    "createdAtTimestamp": "1618440608",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.06211418479516725,
     "isRugged": true
   }
 ]
