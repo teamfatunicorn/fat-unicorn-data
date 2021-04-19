@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x737fde306bddf7857efa8adde6752ecd171cd3aa",
+    "tokenName": "HUAHUA",
+    "idPair": "0xdc167646d3522639eb01fd622d1cece5d3ac319c",
+    "idToken": "0x737fde306bddf7857efa8adde6752ecd171cd3aa",
+    "dateCreationToken": "2021-04-19T03:05:21Z",
+    "initialInfos": {
+      "initialPoolToken": 900000000000000,
+      "initialPriceUSD": 2.50281111111111e-14,
+      "initialPoolEth": 0.01,
+      "initialMarketCap": 22.5253
+    },
+    "currentInfos": {
+      "currentPoolToken": 27323208287279.6,
+      "currentPriceUSD": 2.7321274747219565e-11,
+      "currentPoolEth": 0.33140729783538864,
+      "currentMarketCap": 746.5048805922726
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 5,
+    "createdAtTimestamp": "1618801521",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1090.623519886422,
+    "isRugged": false
+  },
+  {
     "_id": "0x133bb423d9248a336d2b3086b8f44a7dbff3a13c",
     "tokenName": "SIL",
     "idPair": "0xb138d853f1c913ad04c19e8ee9963c0891cfa467",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-19T02:57:12Z",
     "initialInfos": {
       "initialPoolToken": 0.42095663075186945,
-      "initialPriceUSD": 5.354066987790264,
+      "initialPriceUSD": 5.350978783673659,
       "initialPoolEth": 0.001,
-      "initialMarketCap": 2.25383
+      "initialMarketCap": 2.25253
     },
     "currentInfos": {
       "currentPoolToken": 0.42095663075186945,
-      "currentPriceUSD": 5.354066987790264,
+      "currentPriceUSD": 5.350978783673659,
       "currentPoolEth": 0.001,
-      "currentMarketCap": 2.25383
+      "currentMarketCap": 2.25253
     },
     "trustScore": null,
     "contractId": null,
@@ -38,27 +69,27 @@
     "dateCreationToken": "2021-04-19T02:27:17Z",
     "initialInfos": {
       "initialPoolToken": 85380000,
-      "initialPriceUSD": 0.00044875977980791753,
+      "initialPriceUSD": 0.0004485009369875849,
       "initialPoolEth": 17,
-      "initialMarketCap": 38315.11
+      "initialMarketCap": 38293.01
     },
     "currentInfos": {
-      "currentPoolToken": 21480195.01183889,
-      "currentPriceUSD": 0.007238183574150446,
-      "currentPoolEth": 68.9837275678468,
-      "currentMarketCap": 155477.5947042406
+      "currentPoolToken": 20453312.399715316,
+      "currentPriceUSD": 0.007986690633556425,
+      "currentPoolEth": 72.52035647383623,
+      "currentMarketCap": 163354.27856800982
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 126,
     "holderCountOld": 0,
-    "txCount": 327,
+    "txCount": 343,
     "createdAtTimestamp": "1618799237",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 15.129305476637418,
+    "priceChange": 16.807522738302566,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.06211778768250449,
-    "isRugged": false
-  },
-  {
-    "_id": "0x02b6361bbec213bcc34756bbd2877831d92a6c84",
-    "tokenName": "WALL",
-    "idPair": "0xe4e10688001ff74a33e5e254e5e310b38ec67a29",
-    "idToken": "0x02b6361bbec213bcc34756bbd2877831d92a6c84",
-    "dateCreationToken": "2021-04-14T10:26:44Z",
-    "initialInfos": {
-      "initialPoolToken": 45682,
-      "initialPriceUSD": 0.05208681756490521,
-      "initialPoolEth": 1,
-      "initialMarketCap": 2379.43
-    },
-    "currentInfos": {
-      "currentPoolToken": 47882.078219769544,
-      "currentPriceUSD": 0.07479673300155405,
-      "currentPoolEth": 1.607186844327507,
-      "currentMarketCap": 3581.4230201636287
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 8,
-    "holderCountOld": 7,
-    "txCount": 19,
-    "createdAtTimestamp": "1618396004",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.4360012091034375,
     "isRugged": false
   }
 ]
