@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x133bb423d9248a336d2b3086b8f44a7dbff3a13c",
+    "tokenName": "SIL",
+    "idPair": "0xb138d853f1c913ad04c19e8ee9963c0891cfa467",
+    "idToken": "0x133bb423d9248a336d2b3086b8f44a7dbff3a13c",
+    "dateCreationToken": "2021-04-19T02:57:12Z",
+    "initialInfos": {
+      "initialPoolToken": 0.42095663075186945,
+      "initialPriceUSD": 5.351525158248135,
+      "initialPoolEth": 0.001,
+      "initialMarketCap": 2.25276
+    },
+    "currentInfos": {
+      "currentPoolToken": 0.42095663075186945,
+      "currentPriceUSD": 5.351525158248135,
+      "currentPoolEth": 0.001,
+      "currentMarketCap": 2.25276
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 86,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618801032",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0xaef9daa12ff5ce59f5c5afd7d839cca0df15d658",
     "tokenName": "WOGE",
     "idPair": "0x6a83bf7b6f76a8f223a6ead762bfb3bc212e9d68",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-19T02:27:17Z",
     "initialInfos": {
       "initialPoolToken": 85380000,
-      "initialPriceUSD": 0.00044873588662450224,
+      "initialPriceUSD": 0.00044854673225579763,
       "initialPoolEth": 17,
-      "initialMarketCap": 38313.07
+      "initialMarketCap": 38296.92
     },
     "currentInfos": {
-      "currentPoolToken": 25632162.2791519,
-      "currentPriceUSD": 0.005058808985923947,
-      "currentPoolEth": 57.53544726980638,
-      "currentMarketCap": 129668.21286643448
+      "currentPoolToken": 22504655.298095107,
+      "currentPriceUSD": 0.006569103213580573,
+      "currentPoolEth": 65.62412482432224,
+      "currentMarketCap": 147835.40343923963
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 126,
     "holderCountOld": 0,
-    "txCount": 245,
+    "txCount": 269,
     "createdAtTimestamp": "1618799237",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 10.27346650159297,
+    "priceChange": 13.645303914140074,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.4360012091034375,
-    "isRugged": false
-  },
-  {
-    "_id": "0xc70e28a770b866d1683348900da542954423a3a3",
-    "tokenName": "LOGE",
-    "idPair": "0xeff5f890350406457ddae7604cfce7595405f9d0",
-    "idToken": "0xc70e28a770b866d1683348900da542954423a3a3",
-    "dateCreationToken": "2021-04-14T10:07:45Z",
-    "initialInfos": {
-      "initialPoolToken": 10000000000,
-      "initialPriceUSD": 2.37943e-7,
-      "initialPoolEth": 1,
-      "initialMarketCap": 2340.146213661512
-    },
-    "currentInfos": {
-      "currentPoolToken": 5576275869.643223,
-      "currentPriceUSD": 7.257046261371754e-7,
-      "currentPoolEth": 1.815996012896295,
-      "currentMarketCap": 4046.7291952171886
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 16,
-    "holderCountOld": 15,
-    "txCount": 60,
-    "createdAtTimestamp": "1618394865",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 2.0499095419372515,
     "isRugged": false
   }
 ]
