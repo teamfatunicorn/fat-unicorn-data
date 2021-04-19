@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x525e76a73089e60ac0d2153771aec3ec0ce8faac",
+    "tokenName": "Swoge",
+    "idPair": "0x39e5cafa787632a8a14559a815bbee8c32479ba8",
+    "idToken": "0x525e76a73089e60ac0d2153771aec3ec0ce8faac",
+    "dateCreationToken": "2021-04-19T11:14:20Z",
+    "initialInfos": {
+      "initialPoolToken": 1729169.385877976,
+      "initialPriceUSD": 0.010274528421042576,
+      "initialPoolEth": 8,
+      "initialMarketCap": 17766.4
+    },
+    "currentInfos": {
+      "currentPoolToken": 1460854.447508545,
+      "currentPriceUSD": 0.014441958975434883,
+      "currentPoolEth": 9.5,
+      "currentMarketCap": 21097.6
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 17,
+    "holderCountOld": 0,
+    "txCount": 5,
+    "createdAtTimestamp": "1618830860",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.4056079640460453,
+    "isRugged": false
+  },
+  {
     "_id": "0xd15c7fcda27a93b9d4cd3617e09416ec3aaa5237",
     "tokenName": "WCCD",
     "idPair": "0x417ca3eb284ad8fc1021995b93ed2d9652942313",
@@ -13,9 +44,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 7.375070990474861,
-      "currentPriceUSD": 818.4782657185833,
+      "currentPriceUSD": 818.4635239404143,
       "currentPoolEth": 2.7180415130471607,
-      "currentMarketCap": 6036.3353138352995
+      "currentMarketCap": 6036.226592174778
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.8427222711194488,
+    "priceChange": 0.8426890814746094,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.06211418479516725,
     "isRugged": true
-  },
-  {
-    "_id": "0xabb6219303b1abe28f2c5bcb6ad05d307b7841e8",
-    "tokenName": "MKC",
-    "idPair": "0x484ae7254ae7bdab7a44a00a11a8ccf394acddf8",
-    "idToken": "0xabb6219303b1abe28f2c5bcb6ad05d307b7841e8",
-    "dateCreationToken": "2021-04-14T21:28:59Z",
-    "initialInfos": {
-      "initialPoolToken": 105000000,
-      "initialPriceUSD": 0.00000579752380952381,
-      "initialPoolEth": 0.25,
-      "initialMarketCap": 608.74
-    },
-    "currentInfos": {
-      "currentPoolToken": 83822680.08323626,
-      "currentPriceUSD": 0.00001434243890044042,
-      "currentPoolEth": 0.5289350073540928,
-      "currentMarketCap": 1202.2216675649802
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 11,
-    "holderCountOld": 7,
-    "txCount": 18,
-    "createdAtTimestamp": "1618435739",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.4738904697346062,
-    "isRugged": false
   }
 ]
