@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xd8b98032f2220e1ddcc65371c0a7b9fa7391d347",
+    "tokenName": "REGI",
+    "idPair": "0xa1b09257289bd1395500b01cf22b18246ab214ad",
+    "idToken": "0xd8b98032f2220e1ddcc65371c0a7b9fa7391d347",
+    "dateCreationToken": "2021-04-19T01:16:39Z",
+    "initialInfos": {
+      "initialPoolToken": 1000,
+      "initialPriceUSD": 0.00226044,
+      "initialPoolEth": 0.001,
+      "initialMarketCap": 2.263370521925805
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000,
+      "currentPriceUSD": 0.00226044,
+      "currentPoolEth": 0.001,
+      "currentMarketCap": 2.26044
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618794999",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x7f340ecc34d5b36e2647b1b98f849374e8187ffa",
     "tokenName": "BCF",
     "idPair": "0xfa03a0c5152964a900a4a7b4a0cd787d39b8c793",
@@ -12,22 +43,22 @@
       "initialMarketCap": 226.044
     },
     "currentInfos": {
-      "currentPoolToken": 1000000000,
-      "currentPriceUSD": 2.2706425647025848e-7,
-      "currentPoolEth": 0.10045135304205623,
-      "currentMarketCap": 227.06425647025847
+      "currentPoolToken": 501876962.1854576,
+      "currentPriceUSD": 9.028273672837413e-7,
+      "currentPoolEth": 0.20045135304205622,
+      "currentMarketCap": 453.1082564702585
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 3,
     "holderCountOld": 0,
-    "txCount": 3,
+    "txCount": 4,
     "createdAtTimestamp": "1618794382",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.004513530419999965,
+    "priceChange": 2.994033760169442,
     "isRugged": false
   },
   {
@@ -4477,7 +4508,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 157856.53537126604,
-      "currentPriceUSD": 4.61932253047136,
+      "currentPriceUSD": 4.72981773035408,
       "currentPoolEth": 314.6651520391126,
       "currentMarketCap": 701193.5315009187
     },
@@ -4491,7 +4522,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 10.442809750356762,
+    "priceChange": 10.716524249018669,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x7d4b8cce0591c9044a22ee543533b72e976e36c3",
-    "tokenName": "CAG",
-    "idPair": "0x4751c9ca5230a33e8da11c3d4be623409ed524b8",
-    "idToken": "0x7d4b8cce0591c9044a22ee543533b72e976e36c3",
-    "dateCreationToken": "2021-04-14T08:58:06Z",
-    "initialInfos": {
-      "initialPoolToken": 5000,
-      "initialPriceUSD": 0.05707824,
-      "initialPoolEth": 0.12,
-      "initialMarketCap": 285.3912
-    },
-    "currentInfos": {
-      "currentPoolToken": 5000,
-      "currentPriceUSD": 0.05348112,
-      "currentPoolEth": 0.12,
-      "currentMarketCap": 267.4056
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4395,
-    "holderCountOld": 0,
-    "txCount": 1,
-    "createdAtTimestamp": "1618390686",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.06302086399300333,
-    "isRugged": false
   }
 ]
