@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0xbac98e0a952ada4c4348f8c8078cd1682747b8b6",
+    "tokenName": "SWDOGE",
+    "idPair": "0x532ea43a7ddb7d64d2f4871419cdf9177d5fede2",
+    "idToken": "0xbac98e0a952ada4c4348f8c8078cd1682747b8b6",
+    "dateCreationToken": "2021-04-19T09:15:29Z",
+    "initialInfos": {
+      "initialPoolToken": 45500000000000,
+      "initialPriceUSD": 6.918061538461538e-11,
+      "initialPoolEth": 1.4,
+      "initialMarketCap": 3147.718
+    },
+    "currentInfos": {
+      "currentPoolToken": 35413536363006.01,
+      "currentPriceUSD": 1.1428019948405041e-10,
+      "currentPoolEth": 1.8,
+      "currentMarketCap": 4047.066
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1618823729",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.6519107100840336,
+    "isRugged": false
+  },
+  {
+    "_id": "0x368d6e95968cf9faedb82f4584ba8ad93b9048e2",
+    "tokenName": "FOGE",
+    "idPair": "0x8e21506f0b5ee8105d316b34d050eb5c670c686c",
+    "idToken": "0x368d6e95968cf9faedb82f4584ba8ad93b9048e2",
+    "dateCreationToken": "2021-04-19T09:14:30Z",
+    "initialInfos": {
+      "initialPoolToken": 420070600100.8573,
+      "initialPriceUSD": 6.690452746098439e-9,
+      "initialPoolEth": 1.25,
+      "initialMarketCap": 2810.4625
+    },
+    "currentInfos": {
+      "currentPoolToken": 170676904411.9916,
+      "currentPriceUSD": 4.0926723019201146e-8,
+      "currentPoolEth": 3.1068046596616075,
+      "currentMarketCap": 6985.246392644251
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 7,
+    "createdAtTimestamp": "1618823670",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 5.117182883186449,
+    "isRugged": false
+  },
+  {
     "_id": "0x091102444cc671be7076b9f2f35cfa4c91fa624f",
     "tokenName": "DDOGE",
     "idPair": "0x6cecd0acdf1fa17ce8d2d336a837511e86698d2a",
@@ -43,22 +105,22 @@
       "initialMarketCap": 89934.8
     },
     "currentInfos": {
-      "currentPoolToken": 234.0788135188162,
-      "currentPriceUSD": 657.8769837473803,
-      "currentPoolEth": 68.4918691304915,
-      "currentMarketCap": 153995.0637969243
+      "currentPoolToken": 204.33486532276612,
+      "currentPriceUSD": 863.6742609645177,
+      "currentPoolEth": 78.4918691304915,
+      "currentMarketCap": 176478.7637969243
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 12,
     "holderCountOld": 0,
-    "txCount": 14,
+    "txCount": 15,
     "createdAtTimestamp": "1618821312",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.9260174426245698,
+    "priceChange": 2.841335104829355,
     "isRugged": false
   },
   {
@@ -6136,67 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.9999935987609623,
     "isRugged": true
-  },
-  {
-    "_id": "0x373acda15ce392362e4b46ed97a7feecd7ef9eb8",
-    "tokenName": "SQUIG",
-    "idPair": "0xae86878be57a0264fee69069e097452ecc0d699c",
-    "idToken": "0x373acda15ce392362e4b46ed97a7feecd7ef9eb8",
-    "dateCreationToken": "2021-04-14T19:58:33Z",
-    "initialInfos": {
-      "initialPoolToken": 1000,
-      "initialPriceUSD": 1.7783475,
-      "initialPoolEth": 0.75,
-      "initialMarketCap": 1778.3475
-    },
-    "currentInfos": {
-      "currentPoolToken": 5976.0457,
-      "currentPriceUSD": 0.2585046329929521,
-      "currentPoolEth": 0.6796729744811619,
-      "currentMarketCap": 1544.8355004276098
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 597,
-    "holderCountOld": 599,
-    "txCount": 45,
-    "createdAtTimestamp": "1618430313",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.8546377280070672,
-    "isRugged": false
-  },
-  {
-    "_id": "0x76a1f4b0b4eb915503c7970dcc1640a6f24e4978",
-    "tokenName": "STPAD",
-    "idPair": "0xb216f9f864134ad2f32e2bef1673378b580603e9",
-    "idToken": "0x76a1f4b0b4eb915503c7970dcc1640a6f24e4978",
-    "dateCreationToken": "2021-04-14T18:03:06Z",
-    "initialInfos": {
-      "initialPoolToken": 120000,
-      "initialPriceUSD": 5.815425,
-      "initialPoolEth": 300,
-      "initialMarketCap": 697851
-    },
-    "currentInfos": {
-      "currentPoolToken": 584872.596007644,
-      "currentPriceUSD": 0.2477692942092522,
-      "currentPoolEth": 63.75680089187313,
-      "currentMarketCap": 144913.47031514707
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 119,
-    "holderCountOld": 120,
-    "txCount": 1180,
-    "createdAtTimestamp": "1618423386",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9573944648569533,
-    "isRugged": false
   }
 ]
