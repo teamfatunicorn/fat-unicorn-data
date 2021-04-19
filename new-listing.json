@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x0d0fca1f7342a237a23ee94a53268ae352970207",
+    "tokenName": "MOGE",
+    "idPair": "0x25d3b413de9d0b772fd8cbafb8b9574126a88656",
+    "idToken": "0x0d0fca1f7342a237a23ee94a53268ae352970207",
+    "dateCreationToken": "2021-04-19T08:06:21Z",
+    "initialInfos": {
+      "initialPoolToken": 425000000000000,
+      "initialPriceUSD": 6.686352941176471e-12,
+      "initialPoolEth": 1.25,
+      "initialMarketCap": 2841.7
+    },
+    "currentInfos": {
+      "currentPoolToken": 142569160786320.97,
+      "currentPriceUSD": 6.00177297877698e-11,
+      "currentPoolEth": 3.7638901749580596,
+      "currentMarketCap": 8556.677368142518
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 15,
+    "createdAtTimestamp": "1618819581",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 7.976153415139588,
+    "isRugged": false
+  },
+  {
     "_id": "0xa13942860f2fabbcf0ca723d42d5ccae9edac298",
     "tokenName": "POGE",
     "idPair": "0xa70fedd155cca652cab72891278007fa5f34acf6",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-19T07:18:38Z",
     "initialInfos": {
       "initialPoolToken": 425000000000000,
-      "initialPriceUSD": 6.685029411764706e-12,
+      "initialPriceUSD": 6.686352941176471e-12,
       "initialPoolEth": 1.25,
-      "initialMarketCap": 2841.1375
+      "initialMarketCap": 2841.7
     },
     "currentInfos": {
-      "currentPoolToken": 28612503113171.406,
-      "currentPriceUSD": 1.5909717630062406e-9,
-      "currentPoolEth": 20.027930944025186,
-      "currentMarketCap": 45521.684521983865
+      "currentPoolToken": 28147851264072.945,
+      "currentPriceUSD": 1.649399277543962e-9,
+      "currentPoolEth": 20.422214492811108,
+      "currentMarketCap": 46427.04553937681
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 134,
     "holderCountOld": 0,
-    "txCount": 455,
+    "txCount": 479,
     "createdAtTimestamp": "1618816718",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 236.99024133033063,
+    "priceChange": 245.68145580328107,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.10650131356616707,
-    "isRugged": false
-  },
-  {
-    "_id": "0x2f109021afe75b949429fe30523ee7c0d5b27207",
-    "tokenName": "OCC",
-    "idPair": "0x14b6154bcbf537368af932901456a7feb57cbe5a",
-    "idToken": "0x2f109021afe75b949429fe30523ee7c0d5b27207",
-    "dateCreationToken": "2021-04-14T17:12:43Z",
-    "initialInfos": {
-      "initialPoolToken": 27.4,
-      "initialPriceUSD": 8.489671532846716,
-      "initialPoolEth": 0.1,
-      "initialMarketCap": 232.617
-    },
-    "currentInfos": {
-      "currentPoolToken": 4960.98061817563,
-      "currentPriceUSD": 12.687647672653377,
-      "currentPoolEth": 27.692770146761266,
-      "currentMarketCap": 62943.17419427454
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 2962,
-    "holderCountOld": 2963,
-    "txCount": 703,
-    "createdAtTimestamp": "1618420363",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.49448039580384284,
     "isRugged": false
   }
 ]
