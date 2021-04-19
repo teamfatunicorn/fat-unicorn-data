@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x8e69befc01e0fdc6eb88f350142206b9bf7ca89e",
+    "tokenName": "PPL",
+    "idPair": "0xac9d25f176b677b7d42d6c424387283f581633a7",
+    "idToken": "0x8e69befc01e0fdc6eb88f350142206b9bf7ca89e",
+    "dateCreationToken": "2021-04-19T19:06:53Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 2.1646e-8,
+      "initialPoolEth": 10,
+      "initialMarketCap": 21646
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000000,
+      "currentPriceUSD": 2.1646e-8,
+      "currentPoolEth": 10,
+      "currentMarketCap": 21646
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618859213",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x21ae9e080a53ab98cc1266ed1c8cc27ffd3256d5",
     "tokenName": "uTVL-0621",
     "idPair": "0x3d11b8e488b27ca60f350d8cbe77d1155ce04e1f",
@@ -43,22 +74,22 @@
       "initialMarketCap": 8658.4
     },
     "currentInfos": {
-      "currentPoolToken": 3742675341.8976,
-      "currentPriceUSD": 0.0000030728089407728314,
-      "currentPoolEth": 5.3130029811475366,
-      "currentMarketCap": 11500.52625299296
+      "currentPoolToken": 3372618170.27973,
+      "currentPriceUSD": 0.000003797538295701498,
+      "currentPoolEth": 5.916865313875644,
+      "currentMarketCap": 12807.64665841599
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 2,
     "holderCountOld": 0,
-    "txCount": 10,
+    "txCount": 14,
     "createdAtTimestamp": "1618858858",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.7565430487293326,
+    "priceChange": 1.170827937619909,
     "isRugged": false
   },
   {
@@ -105,22 +136,22 @@
       "initialMarketCap": 31412.10263589098
     },
     "currentInfos": {
-      "currentPoolToken": 1914626.471691806,
-      "currentPriceUSD": 0.06992212704842753,
-      "currentPoolEth": 61.84734149677436,
-      "currentMarketCap": 133874.755403917
+      "currentPoolToken": 1688385.239679154,
+      "currentPriceUSD": 0.09023233676275708,
+      "currentPoolEth": 70.38110760971853,
+      "currentMarketCap": 152346.94553199774
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 11,
     "holderCountOld": 0,
-    "txCount": 111,
+    "txCount": 148,
     "createdAtTimestamp": "1618858808",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 16.835395161288435,
+    "priceChange": 22.016024403485567,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.1322293552990539,
     "isRugged": true
-  },
-  {
-    "_id": "0x1bce677f3b21987a886f35a73fb7d5220c56d381",
-    "tokenName": "FLX",
-    "idPair": "0x0c7beec0b4cbdb5f4e2c44f6d676d757781c7840",
-    "idToken": "0x1bce677f3b21987a886f35a73fb7d5220c56d381",
-    "dateCreationToken": "2021-04-15T13:53:09Z",
-    "initialInfos": {
-      "initialPoolToken": 4000,
-      "initialPriceUSD": 123.4175,
-      "initialPoolEth": 200,
-      "initialMarketCap": 493670
-    },
-    "currentInfos": {
-      "currentPoolToken": 2581.1922387386044,
-      "currentPriceUSD": 256.6112639732613,
-      "currentPoolEth": 310.3333097231417,
-      "currentMarketCap": 662363.0029406854
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 17,
-    "holderCountOld": 15,
-    "txCount": 17,
-    "createdAtTimestamp": "1618494789",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.0792129477040233,
-    "isRugged": false
   }
 ]
