@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xb20b7f6f803e292a3d37aae66a4b67eec4ab636e",
+    "tokenName": "CHEESE",
+    "idPair": "0x78ec1f048170186ca832413a4deca42107d23e70",
+    "idToken": "0xb20b7f6f803e292a3d37aae66a4b67eec4ab636e",
+    "dateCreationToken": "2021-04-19T06:19:50Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 1.57486e-8,
+      "initialPoolEth": 7,
+      "initialMarketCap": 15748.6
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000000,
+      "currentPriceUSD": 1.57486e-8,
+      "currentPoolEth": 7,
+      "currentMarketCap": 15748.6
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618813190",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xe3798a240bf06610ff756850c1a1489c803c7314",
     "tokenName": "FDOGE",
     "idPair": "0x6e50777c8a7a91d899f83eaee4ec37f18173ca1d",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-19T06:18:17Z",
     "initialInfos": {
       "initialPoolToken": 500000000000000,
-      "initialPriceUSD": 1.349802e-11,
+      "initialPriceUSD": 1.34988e-11,
       "initialPoolEth": 3,
       "initialMarketCap": 6742.41300080187
     },
     "currentInfos": {
-      "currentPoolToken": 468837907107582.7,
-      "currentPriceUSD": 1.53548676224e-11,
-      "currentPoolEth": 3.2,
-      "currentMarketCap": 7198.944
+      "currentPoolToken": 280400627255874.34,
+      "currentPriceUSD": 4.3043629537684054e-11,
+      "currentPoolEth": 5.364681625805447,
+      "currentMarketCap": 12069.46072173609
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 2,
+    "txCount": 13,
     "createdAtTimestamp": "1618813097",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.1375644444444444,
+    "priceChange": 2.188700442830774,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-19T05:23:52Z",
     "initialInfos": {
       "initialPoolToken": 330000000,
-      "initialPriceUSD": 0.0027268727272727273,
+      "initialPriceUSD": 0.002727030303030303,
       "initialPoolEth": 400,
       "initialMarketCap": 897716.7710768066
     },
     "currentInfos": {
       "currentPoolToken": 285570455.72947013,
-      "currentPriceUSD": 0.0036429547838723255,
+      "currentPriceUSD": 0.0036431652965794796,
       "currentPoolEth": 462.4323824526592,
-      "currentMarketCap": 1040320.2578322734
+      "currentMarketCap": 1040380.3740419922
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.3359460261703577,
+    "priceChange": 0.33594602617035757,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 12.00590384999686,
     "isRugged": false
-  },
-  {
-    "_id": "0x62dab1d0478e2929695f5975a832ef3012515ece",
-    "tokenName": "GS",
-    "idPair": "0x72b90a7df05d9b29fe6fe82a9a8666185fad60c3",
-    "idToken": "0x62dab1d0478e2929695f5975a832ef3012515ece",
-    "dateCreationToken": "2021-04-14T14:54:50Z",
-    "initialInfos": {
-      "initialPoolToken": 769000,
-      "initialPriceUSD": 0.2471739921976593,
-      "initialPoolEth": 80,
-      "initialMarketCap": 190076.8
-    },
-    "currentInfos": {
-      "currentPoolToken": 9.4284e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.1e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 11,
-    "holderCountOld": 0,
-    "txCount": 6,
-    "createdAtTimestamp": "1618412090",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
