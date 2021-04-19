@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xa357c45548738f912ba9695b51dcafa620309102",
+    "tokenName": "SOGE",
+    "idPair": "0xd7c7d3fd5023ed6afb45f57fddc3f80495fabff2",
+    "idToken": "0xa357c45548738f912ba9695b51dcafa620309102",
+    "dateCreationToken": "2021-04-19T13:29:55Z",
+    "initialInfos": {
+      "initialPoolToken": 5000000000,
+      "initialPriceUSD": 4.42114e-7,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2210.57
+    },
+    "currentInfos": {
+      "currentPoolToken": 925720613.9496927,
+      "currentPriceUSD": 0.000013229215829761706,
+      "currentPoolEth": 5.54,
+      "currentMarketCap": 12246.5578
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 20,
+    "createdAtTimestamp": "1618838995",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 28.922634953341685,
+    "isRugged": false
+  },
+  {
     "_id": "0xec2874391589a273658b073326f572c831e93eec",
     "tokenName": "TMTF",
     "idPair": "0x3bb34ec67fefdd9ce8a276be0e811d869d9e8798",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x7ace84ac394e41f1c01711ed134d9bbcfa770ce7",
-    "tokenName": "DGN",
-    "idPair": "0x2cf7638bb4172a88e53f1c06de45441a52b46584",
-    "idToken": "0x7ace84ac394e41f1c01711ed134d9bbcfa770ce7",
-    "dateCreationToken": "2021-04-15T03:58:58Z",
-    "initialInfos": {
-      "initialPoolToken": 625,
-      "initialPriceUSD": 7.860512,
-      "initialPoolEth": 2,
-      "initialMarketCap": 4912.82
-    },
-    "currentInfos": {
-      "currentPoolToken": 932.727288,
-      "currentPriceUSD": 7.181677444333696,
-      "currentPoolEth": 3.0106774262309717,
-      "currentMarketCap": 6698.546525944139
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6,
-    "holderCountOld": 5,
-    "txCount": 4,
-    "createdAtTimestamp": "1618459138",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.08636009405828834,
-    "isRugged": false
   }
 ]
