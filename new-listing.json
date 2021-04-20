@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x17981c16fec32df831e187a5b1dc0d32f9c29cb8",
+    "tokenName": "DEMON",
+    "idPair": "0x2e047975b79cd179fe4026b60e3b0c3fd88105c5",
+    "idToken": "0x17981c16fec32df831e187a5b1dc0d32f9c29cb8",
+    "dateCreationToken": "2021-04-20T11:53:00Z",
+    "initialInfos": {
+      "initialPoolToken": 9000000000,
+      "initialPriceUSD": 2.4250555555555556e-7,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2182.55
+    },
+    "currentInfos": {
+      "currentPoolToken": 6672241824.323199,
+      "currentPriceUSD": 4.4159707899958694e-7,
+      "currentPoolEth": 1.35,
+      "currentMarketCap": 2946.4425
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1618919580",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.8209771647826086,
+    "isRugged": false
+  },
+  {
     "_id": "0x00b10982010c28e093209fbc2c09582c780c4504",
     "tokenName": "BULL",
     "idPair": "0xa95cc92410d6221eaf96b6008bfa90e6f6e4554e",
@@ -20,7 +51,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 10,
+    "holderCount": 13,
     "holderCountOld": 0,
     "txCount": 13,
     "createdAtTimestamp": "1618916519",
@@ -105,22 +136,22 @@
       "initialMarketCap": 7420.67
     },
     "currentInfos": {
-      "currentPoolToken": 45809319.36811727,
-      "currentPriceUSD": 0.0018200118365543016,
-      "currentPoolEth": 38.20004282809952,
-      "currentMarketCap": 83373.50347446966
+      "currentPoolToken": 48836415.85847443,
+      "currentPriceUSD": 0.0016016846390424749,
+      "currentPoolEth": 35.839058489569084,
+      "currentMarketCap": 78220.53710640882
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 85,
     "holderCountOld": 0,
-    "txCount": 247,
+    "txCount": 251,
     "createdAtTimestamp": "1618914379",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 111.83054566345639,
+    "priceChange": 98.29548158658183,
     "isRugged": false
   },
   {
@@ -837,37 +868,6 @@
     "isRugged": true
   },
   {
-    "_id": "0xe99d0a815823dcf7f9e439b4992ea56e01c2b571",
-    "tokenName": "BONG",
-    "idPair": "0x96a25763e819fb3b823f5f06c6e742d17de88763",
-    "idToken": "0xe99d0a815823dcf7f9e439b4992ea56e01c2b571",
-    "dateCreationToken": "2021-04-20T04:26:54Z",
-    "initialInfos": {
-      "initialPoolToken": 430000000000,
-      "initialPriceUSD": 1.2342441860465117e-8,
-      "initialPoolEth": 2.5,
-      "initialMarketCap": 5294.08220911317
-    },
-    "currentInfos": {
-      "currentPoolToken": 271769575417.57806,
-      "currentPriceUSD": 3.2950490453134765e-8,
-      "currentPoolEth": 4.08725971512173,
-      "currentMarketCap": 8954.940800249395
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 25,
-    "holderCountOld": 24,
-    "txCount": 129,
-    "createdAtTimestamp": "1618892814",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.6696897441891654,
-    "isRugged": false
-  },
-  {
     "_id": "0xe8a634e0adf969b716917a571392d9697d520cbc",
     "tokenName": "Joint",
     "idPair": "0xa288cfde1e175a4f3c3e9db399226e81a3ca962c",
@@ -896,6 +896,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.862579144518097,
+    "isRugged": false
+  },
+  {
+    "_id": "0xe99d0a815823dcf7f9e439b4992ea56e01c2b571",
+    "tokenName": "BONG",
+    "idPair": "0x96a25763e819fb3b823f5f06c6e742d17de88763",
+    "idToken": "0xe99d0a815823dcf7f9e439b4992ea56e01c2b571",
+    "dateCreationToken": "2021-04-20T04:26:54Z",
+    "initialInfos": {
+      "initialPoolToken": 430000000000,
+      "initialPriceUSD": 1.2342441860465117e-8,
+      "initialPoolEth": 2.5,
+      "initialMarketCap": 5294.08220911317
+    },
+    "currentInfos": {
+      "currentPoolToken": 271769575417.57806,
+      "currentPriceUSD": 3.2950490453134765e-8,
+      "currentPoolEth": 4.08725971512173,
+      "currentMarketCap": 8954.940800249395
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 25,
+    "holderCountOld": 24,
+    "txCount": 129,
+    "createdAtTimestamp": "1618892814",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.6696897441891654,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x150bbcff6b1b4d528b48f1a300585dea0b6490b6",
-    "tokenName": "ECZZ",
-    "idPair": "0x32c2deef2acb177c6c08a21ca9b3f517f276dc6f",
-    "idToken": "0x150bbcff6b1b4d528b48f1a300585dea0b6490b6",
-    "dateCreationToken": "2021-04-17T15:05:42Z",
-    "initialInfos": {
-      "initialPoolToken": 45000,
-      "initialPriceUSD": 0.21305043015928,
-      "initialPoolEth": 4.12707138,
-      "initialMarketCap": 9587.2693571676
-    },
-    "currentInfos": {
-      "currentPoolToken": 45000,
-      "currentPriceUSD": 0.20093701709549333,
-      "currentPoolEth": 4.12707138,
-      "currentMarketCap": 9042.1657692972
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 1,
-    "createdAtTimestamp": "1618671942",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.05685702232438805,
-    "isRugged": false
   }
 ]
