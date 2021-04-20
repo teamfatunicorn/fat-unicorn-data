@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc2eb69ac2828ae4874fca025caf453f758b99acc",
+    "tokenName": "KISHU",
+    "idPair": "0x7d6a1846279acb144a688fe8051cc1983836c2bf",
+    "idToken": "0xc2eb69ac2828ae4874fca025caf453f758b99acc",
+    "dateCreationToken": "2021-04-20T14:34:54Z",
+    "initialInfos": {
+      "initialPoolToken": 40000000000000,
+      "initialPriceUSD": 1.542821e-10,
+      "initialPoolEth": 2.8,
+      "initialMarketCap": 6185.035858105506
+    },
+    "currentInfos": {
+      "currentPoolToken": 14529273139898.744,
+      "currentPriceUSD": 1.1923307571842218e-9,
+      "currentPoolEth": 7.860010636983906,
+      "currentMarketCap": 17323.699244231844
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 24,
+    "createdAtTimestamp": "1618929294",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 6.728250763920259,
+    "isRugged": false
+  },
+  {
     "_id": "0xeb45670c80be29f60c9ffb74add41f1f18343e4b",
     "tokenName": "PAD",
     "idPair": "0xb0d9d811576b07c1a576ab8a67f627c647e89fbe",
@@ -12,22 +43,22 @@
       "initialMarketCap": 22185.11844642714
     },
     "currentInfos": {
-      "currentPoolToken": 293435718669.97095,
-      "currentPriceUSD": 1.0254509818813484e-7,
-      "currentPoolEth": 13.65244328930093,
-      "currentMarketCap": 30090.394582918085
+      "currentPoolToken": 281118360586.9177,
+      "currentPriceUSD": 1.1174230141828712e-7,
+      "currentPoolEth": 14.25244328930093,
+      "currentMarketCap": 31412.812582918083
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 17,
     "holderCountOld": 0,
-    "txCount": 19,
+    "txCount": 21,
     "createdAtTimestamp": "1618928380",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.8610472305392366,
+    "priceChange": 1.0279633474732581,
     "isRugged": false
   },
   {
@@ -74,22 +105,22 @@
       "initialMarketCap": 3306.045
     },
     "currentInfos": {
-      "currentPoolToken": 27606327.28169564,
-      "currentPriceUSD": 0.0019670271654332492,
-      "currentPoolEth": 24.637775212196125,
-      "currentMarketCap": 54302.39570093635
+      "currentPoolToken": 26988311.975734368,
+      "currentPriceUSD": 0.0020713040361307437,
+      "currentPoolEth": 25.363084678381558,
+      "currentMarketCap": 55900.99952369428
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 187,
     "holderCountOld": 0,
-    "txCount": 298,
+    "txCount": 318,
     "createdAtTimestamp": "1618926863",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 233.90893249380255,
+    "priceChange": 246.36202353891144,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.040604585920073544,
-    "isRugged": false
-  },
-  {
-    "_id": "0xf1d32952e2fbb1a91e620b0fd7fbc8a8879a47f3",
-    "tokenName": "DOGEBEAR",
-    "idPair": "0x0b7904b92836eff0245aa78ad4f4e06276a275f0",
-    "idToken": "0xf1d32952e2fbb1a91e620b0fd7fbc8a8879a47f3",
-    "dateCreationToken": "2021-04-17T19:52:07Z",
-    "initialInfos": {
-      "initialPoolToken": 587500000000,
-      "initialPriceUSD": 4.063846808510638e-9,
-      "initialPoolEth": 1,
-      "initialMarketCap": 2375.663733716421
-    },
-    "currentInfos": {
-      "currentPoolToken": 319495692699.5068,
-      "currentPriceUSD": 6.4375751333461375e-9,
-      "currentPoolEth": 0.9220778029732443,
-      "currentMarketCap": 2056.777526533544
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 113,
-    "holderCountOld": 112,
-    "txCount": 52,
-    "createdAtTimestamp": "1618689127",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.5841087119387379,
     "isRugged": false
   }
 ]
