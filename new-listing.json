@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x5a545797e347734edbb2104e90b9771448e2d7cb",
+    "tokenName": "COKEGE",
+    "idPair": "0x5894ce4ea4f4926848ad98ed764cfa62f91d1471",
+    "idToken": "0x5a545797e347734edbb2104e90b9771448e2d7cb",
+    "dateCreationToken": "2021-04-20T08:40:19Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000000,
+      "initialPriceUSD": 1.91682e-11,
+      "initialPoolEth": 9,
+      "initialMarketCap": 19168.2
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000000000,
+      "currentPriceUSD": 1.91682e-11,
+      "currentPoolEth": 9,
+      "currentMarketCap": 19168.2
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618908019",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xc3a32d05f1c6efd4c0e6967c31ae187b1e7a41db",
     "tokenName": "ASS",
     "idPair": "0xc29bbd0a3cc956e6af67df37dba586798e1694e5",
@@ -20,7 +51,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 2,
+    "holderCount": 12,
     "holderCountOld": 0,
     "txCount": 17,
     "createdAtTimestamp": "1618907009",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.9994854543607412,
     "isRugged": true
-  },
-  {
-    "_id": "0xedcc5b168ab7ed192def00b37d61653916f87de7",
-    "tokenName": "DOGGY",
-    "idPair": "0xe2daa801c8ae21ae733357a1df2b4e3c9f8e9ea2",
-    "idToken": "0xedcc5b168ab7ed192def00b37d61653916f87de7",
-    "dateCreationToken": "2021-04-17T10:54:27Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000000,
-      "initialPriceUSD": 2.40445e-12,
-      "initialPoolEth": 1,
-      "initialMarketCap": 2422.0559820951667
-    },
-    "currentInfos": {
-      "currentPoolToken": 442689964981141,
-      "currentPriceUSD": 1.090366108929786e-11,
-      "currentPoolEth": 2.3360990716409025,
-      "currentMarketCap": 4826.9413457875
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 31,
-    "holderCountOld": 32,
-    "txCount": 158,
-    "createdAtTimestamp": "1618656867",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 3.5347838754384004,
-    "isRugged": false
   }
 ]
