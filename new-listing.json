@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x1c31137f412a421d11ad092c7847993ba351eda9",
+    "tokenName": "PUP",
+    "idPair": "0xe9c6551dfb495381f665499ddc80fb0a1041877c",
+    "idToken": "0x1c31137f412a421d11ad092c7847993ba351eda9",
+    "dateCreationToken": "2021-04-20T00:33:56Z",
+    "initialInfos": {
+      "initialPoolToken": 425000000000000,
+      "initialPriceUSD": 6.222647058823529e-12,
+      "initialPoolEth": 1.25,
+      "initialMarketCap": 2644.625
+    },
+    "currentInfos": {
+      "currentPoolToken": 303831855876465.56,
+      "currentPriceUSD": 1.2185934188235294e-11,
+      "currentPoolEth": 1.75,
+      "currentMarketCap": 3702.475
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1618878836",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.95832,
+    "isRugged": false
+  },
+  {
     "_id": "0x236d53148f83706c3d670064809577385f923a75",
     "tokenName": "SHUSKY",
     "idPair": "0xf9446f3fca6db27aacfb15479ab11469fd7fe292",
@@ -12,22 +43,22 @@
       "initialMarketCap": 2327.27
     },
     "currentInfos": {
-      "currentPoolToken": 3334847491118248.5,
-      "currentPriceUSD": 8.409977235848959e-12,
-      "currentPoolEth": 13.256128697514786,
-      "currentMarketCap": 28045.991485332484
+      "currentPoolToken": 3142198168484842,
+      "currentPriceUSD": 9.508296266174939e-12,
+      "currentPoolEth": 14.12154422318243,
+      "currentMarketCap": 29876.951112986157
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 11,
     "holderCountOld": 0,
-    "txCount": 55,
+    "txCount": 76,
     "createdAtTimestamp": "1618878313",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 141.70781946284126,
+    "priceChange": 160.34505348818882,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 10578.5
     },
     "currentInfos": {
-      "currentPoolToken": 13810562237106.746,
-      "currentPriceUSD": 1.98147392293747e-9,
-      "currentPoolEth": 12.934380552031486,
-      "currentMarketCap": 27365.268933931988
+      "currentPoolToken": 13876724958432.807,
+      "currentPriceUSD": 1.9631179570649e-9,
+      "currentPoolEth": 12.875950253415333,
+      "currentMarketCap": 27241.647951150117
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 36,
     "holderCountOld": 0,
-    "txCount": 73,
+    "txCount": 75,
     "createdAtTimestamp": "1618877498",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 5.533676530355082,
+    "priceChange": 5.473149898121732,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.07783283586303145,
     "isRugged": false
-  },
-  {
-    "_id": "0x04dd61507ba904ce467da908c7ce7136cef4568a",
-    "tokenName": "NAME",
-    "idPair": "0x1d7faf70188e98188b9d476ea04ebb09ccbf15a4",
-    "idToken": "0x04dd61507ba904ce467da908c7ce7136cef4568a",
-    "dateCreationToken": "2021-04-16T08:01:07Z",
-    "initialInfos": {
-      "initialPoolToken": 5600000,
-      "initialPriceUSD": 0.13004089285714285,
-      "initialPoolEth": 300,
-      "initialMarketCap": 728229
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.18173e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 9e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 37,
-    "holderCountOld": 32,
-    "txCount": 36,
-    "createdAtTimestamp": "1618560067",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
