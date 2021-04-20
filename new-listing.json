@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xa77e9683c394ac065c355f6683e5a523cba388a5",
+    "tokenName": "WOGE",
+    "idPair": "0xe3ea0eb102c4e0ab2d20c841d071fbeec253fdd1",
+    "idToken": "0xa77e9683c394ac065c355f6683e5a523cba388a5",
+    "dateCreationToken": "2021-04-20T01:13:39Z",
+    "initialInfos": {
+      "initialPoolToken": 400000000000,
+      "initialPriceUSD": 5.287625e-9,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2115.05
+    },
+    "currentInfos": {
+      "currentPoolToken": 70776736444.45445,
+      "currentPriceUSD": 1.7170360496665621e-7,
+      "currentPoolEth": 5.74578416363062,
+      "currentMarketCap": 12152.620795287747
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 24,
+    "createdAtTimestamp": "1618881219",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 31.472727352385277,
+    "isRugged": false
+  },
+  {
     "_id": "0x1c31137f412a421d11ad092c7847993ba351eda9",
     "tokenName": "PUP",
     "idPair": "0xe9c6551dfb495381f665499ddc80fb0a1041877c",
@@ -43,22 +74,22 @@
       "initialMarketCap": 2326.555
     },
     "currentInfos": {
-      "currentPoolToken": 1613733371082360.8,
-      "currentPriceUSD": 3.765409618962152e-11,
-      "currentPoolEth": 28.729189181880578,
-      "currentMarketCap": 60763.67157913741
+      "currentPoolToken": 1573835796735488,
+      "currentPriceUSD": 3.973956993468439e-11,
+      "currentPoolEth": 29.57072301367799,
+      "currentMarketCap": 62543.55771007965
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 198,
     "holderCountOld": 0,
-    "txCount": 346,
+    "txCount": 376,
     "createdAtTimestamp": "1618878313",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 638.143865908382,
+    "priceChange": 673.5428765487517,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724",
-    "tokenName": "VIB",
-    "idPair": "0x71284d34813fc17367e2d5f35df8a1278c31bb15",
-    "idToken": "0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724",
-    "dateCreationToken": "2021-04-16T09:00:08Z",
-    "initialInfos": {
-      "initialPoolToken": 788000,
-      "initialPriceUSD": 0.15175697969543148,
-      "initialPoolEth": 50,
-      "initialMarketCap": 119584.5
-    },
-    "currentInfos": {
-      "currentPoolToken": 787421.8296472486,
-      "currentPriceUSD": 0.13994530360372756,
-      "currentPoolEth": 50.245073119816325,
-      "currentMarketCap": 110195.98701418686
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 9658,
-    "holderCountOld": 9649,
-    "txCount": 70,
-    "createdAtTimestamp": "1618563608",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.07783283586303145,
-    "isRugged": false
   }
 ]
