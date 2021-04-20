@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x5d2c6545d16e3f927a25b4567e39e2cf5076bef4",
+    "tokenName": "KAPPA",
+    "idPair": "0xefa2e1e46b83d572d01521c4c64845b0227b6314",
+    "idToken": "0x5d2c6545d16e3f927a25b4567e39e2cf5076bef4",
+    "dateCreationToken": "2021-04-20T22:44:45Z",
+    "initialInfos": {
+      "initialPoolToken": 500,
+      "initialPriceUSD": 2.32438,
+      "initialPoolEth": 0.5,
+      "initialMarketCap": 1162.19
+    },
+    "currentInfos": {
+      "currentPoolToken": 500,
+      "currentPriceUSD": 2.32438,
+      "currentPoolEth": 0.5,
+      "currentMarketCap": 1162.19
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 81,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618958685",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x1e1eed62f8d82ecfd8230b8d283d5b5c1ba81b55",
     "tokenName": "GAMMA",
     "idPair": "0xe46456153cf0e767528f4a4cd3b613d5c4101e48",
@@ -105,22 +136,53 @@
       "initialMarketCap": 2324.38
     },
     "currentInfos": {
-      "currentPoolToken": 151143803.64348152,
-      "currentPriceUSD": 0.00009342781568071995,
-      "currentPoolEth": 6.075183673963207,
-      "currentMarketCap": 14121.035428086117
+      "currentPoolToken": 147008497.3509357,
+      "currentPriceUSD": 0.00009876606834769303,
+      "currentPoolEth": 6.246591046667978,
+      "currentMarketCap": 14519.451297054165
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 12,
     "holderCountOld": 0,
-    "txCount": 56,
+    "txCount": 57,
     "createdAtTimestamp": "1618956398",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 35.175252804037186,
+    "priceChange": 37.24222438367381,
+    "isRugged": false
+  },
+  {
+    "_id": "0x069131a539e523f89e760299e5b485632a1f9e4d",
+    "tokenName": "SAFECAT",
+    "idPair": "0x04ca55d74feb53e611b4f49254ecc31c149561f9",
+    "idToken": "0x069131a539e523f89e760299e5b485632a1f9e4d",
+    "dateCreationToken": "2021-04-20T21:55:20Z",
+    "initialInfos": {
+      "initialPoolToken": 990000000000000,
+      "initialPriceUSD": 9.391434343434343e-12,
+      "initialPoolEth": 4,
+      "initialMarketCap": 9297.52
+    },
+    "currentInfos": {
+      "currentPoolToken": 563746229904869.9,
+      "currentPriceUSD": 2.9010105633450953e-11,
+      "currentPoolEth": 7.036,
+      "currentMarketCap": 16354.33768
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 17,
+    "holderCountOld": 0,
+    "txCount": 16,
+    "createdAtTimestamp": "1618955720",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.0889962675118143,
     "isRugged": false
   },
   {
@@ -153,37 +215,6 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x069131a539e523f89e760299e5b485632a1f9e4d",
-    "tokenName": "SAFECAT",
-    "idPair": "0x04ca55d74feb53e611b4f49254ecc31c149561f9",
-    "idToken": "0x069131a539e523f89e760299e5b485632a1f9e4d",
-    "dateCreationToken": "2021-04-20T21:55:20Z",
-    "initialInfos": {
-      "initialPoolToken": 990000000000000,
-      "initialPriceUSD": 9.391434343434343e-12,
-      "initialPoolEth": 4,
-      "initialMarketCap": 9297.52
-    },
-    "currentInfos": {
-      "currentPoolToken": 563746229904869.9,
-      "currentPriceUSD": 2.9010105633450953e-11,
-      "currentPoolEth": 7.036,
-      "currentMarketCap": 16354.33768
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 17,
-    "holderCountOld": 0,
-    "txCount": 16,
-    "createdAtTimestamp": "1618955720",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 2.0889962675118143,
-    "isRugged": false
   },
   {
     "_id": "0xb77ae8fcc5e36e7bdf96ca73f257ddf65ae40c88",
@@ -6162,37 +6193,6 @@
     "holderCountOld": 243,
     "txCount": 271,
     "createdAtTimestamp": "1618777387",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x7eb8bca5f3b5b1bde89c14dcf37700d5ba189efa",
-    "tokenName": "CAUC",
-    "idPair": "0xa2cdcced09b7efbe2123d74c51f829a160203362",
-    "idToken": "0x7eb8bca5f3b5b1bde89c14dcf37700d5ba189efa",
-    "dateCreationToken": "2021-04-18T20:21:39Z",
-    "initialInfos": {
-      "initialPoolToken": 5000000000,
-      "initialPriceUSD": 7.981704e-7,
-      "initialPoolEth": 1.8,
-      "initialMarketCap": 3990.852
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.774697e-11,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 38,
-    "holderCountOld": 36,
-    "txCount": 60,
-    "createdAtTimestamp": "1618777299",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
