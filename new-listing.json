@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x5cd87a0ee2f1ea3f9c02c77cf3423b08e9540f2c",
+    "tokenName": "TOKE",
+    "idPair": "0x79c60e23d834c24e139e170243d319b23b60248a",
+    "idToken": "0x5cd87a0ee2f1ea3f9c02c77cf3423b08e9540f2c",
+    "dateCreationToken": "2021-04-20T13:49:18Z",
+    "initialInfos": {
+      "initialPoolToken": 336000000,
+      "initialPriceUSD": 0.0001251127380952381,
+      "initialPoolEth": 19,
+      "initialMarketCap": 42037.88
+    },
+    "currentInfos": {
+      "currentPoolToken": 319248499.3725095,
+      "currentPriceUSD": 0.00013860801252621457,
+      "currentPoolEth": 20,
+      "currentMarketCap": 44250.4
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1618926558",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.10786491157042408,
+    "isRugged": false
+  },
+  {
     "_id": "0x7f37cf8f9bd64f589079e715f3483f6a6891d75e",
     "tokenName": "MEOW",
     "idPair": "0xdac16e6572cdf95375f6742a817c223c8c0595ec",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-20T13:16:08Z",
     "initialInfos": {
       "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 1.326828e-8,
+      "initialPriceUSD": 1.327512e-8,
       "initialPoolEth": 6,
-      "initialMarketCap": 13268.28
+      "initialMarketCap": 13275.12
     },
     "currentInfos": {
-      "currentPoolToken": 398987987966.0984,
-      "currentPriceUSD": 8.357059167692822e-8,
-      "currentPoolEth": 15.078214610928198,
-      "currentMarketCap": 33343.66222631396
+      "currentPoolToken": 384002568645.57605,
+      "currentPriceUSD": 9.027718608343921e-8,
+      "currentPoolEth": 15.668410385504039,
+      "currentMarketCap": 34666.67134613531
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 23,
     "holderCountOld": 0,
-    "txCount": 30,
+    "txCount": 32,
     "createdAtTimestamp": "1618924568",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 5.298524878652563,
+    "priceChange": 5.800479851288667,
     "isRugged": false
   },
   {
@@ -38,27 +69,27 @@
     "dateCreationToken": "2021-04-20T13:02:00Z",
     "initialInfos": {
       "initialPoolToken": 2550000000,
-      "initialPriceUSD": 0.00000202562408,
+      "initialPriceUSD": 0.00000202666832,
       "initialPoolEth": 2.3358,
-      "initialMarketCap": 5165.341404
+      "initialMarketCap": 5168.004216
     },
     "currentInfos": {
-      "currentPoolToken": 1688396357.8006468,
-      "currentPriceUSD": 0.000004660782642646026,
-      "currentPoolEth": 3.5585238350456034,
-      "currentMarketCap": 7869.248438344023
+      "currentPoolToken": 1586126819.8565624,
+      "currentPriceUSD": 0.000005284876245743057,
+      "currentPoolEth": 3.7886590643232907,
+      "currentMarketCap": 8382.483952995924
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 16,
     "holderCountOld": 0,
-    "txCount": 35,
+    "txCount": 36,
     "createdAtTimestamp": "1618923720",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.3009119454415383,
+    "priceChange": 1.6076670728948177,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 2.877978261144013,
     "isRugged": false
-  },
-  {
-    "_id": "0x737d6a363e7ad062af7931f08c7f2f91341e14f2",
-    "tokenName": "NYAN",
-    "idPair": "0x590ae78ef522bed094b7c6bf2f8e1bd5241b546c",
-    "idToken": "0x737d6a363e7ad062af7931f08c7f2f91341e14f2",
-    "dateCreationToken": "2021-04-17T16:10:06Z",
-    "initialInfos": {
-      "initialPoolToken": 500000000,
-      "initialPriceUSD": 0.0000470914,
-      "initialPoolEth": 10,
-      "initialMarketCap": 23545.7
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.23e-7,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 4.511e-15,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6,
-    "holderCountOld": 0,
-    "txCount": 18,
-    "createdAtTimestamp": "1618675806",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
