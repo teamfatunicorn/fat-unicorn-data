@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x236d53148f83706c3d670064809577385f923a75",
+    "tokenName": "SHUSKY",
+    "idPair": "0xf9446f3fca6db27aacfb15479ab11469fd7fe292",
+    "idToken": "0x236d53148f83706c3d670064809577385f923a75",
+    "dateCreationToken": "2021-04-20T00:25:13Z",
+    "initialInfos": {
+      "initialPoolToken": 39491144587831980,
+      "initialPriceUSD": 5.99957541045804e-14,
+      "initialPoolEth": 1.1,
+      "initialMarketCap": 2369.301
+    },
+    "currentInfos": {
+      "currentPoolToken": 20700261423172480,
+      "currentPriceUSD": 2.195503721954194e-13,
+      "currentPoolEth": 2.11,
+      "currentMarketCap": 4544.7501
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 11,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1618878313",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.659431829337698,
+    "isRugged": false
+  },
+  {
     "_id": "0x495279a3f13682f4a2f21c2a1794fb99bfa0afcc",
     "tokenName": "BSAUR",
     "idPair": "0x8672ee8da39e7dfbd35ebf0e1f68c378c1c35db1",
@@ -12,22 +43,22 @@
       "initialMarketCap": 10769.55
     },
     "currentInfos": {
-      "currentPoolToken": 17414083297721.836,
-      "currentPriceUSD": 1.2613280125332082e-9,
-      "currentPoolEth": 10.197673568534675,
-      "currentMarketCap": 21964.871076003223
+      "currentPoolToken": 15706064344706.344,
+      "currentPriceUSD": 1.5534556587338948e-9,
+      "currentPoolEth": 11.327620250020688,
+      "currentMarketCap": 24398.674532722733
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 1,
+    "holderCount": 36,
     "holderCountOld": 0,
-    "txCount": 54,
+    "txCount": 59,
     "createdAtTimestamp": "1618877498",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 3.0852989542208853,
+    "priceChange": 4.031467401812747,
     "isRugged": false
   },
   {
@@ -51,7 +82,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 7,
+    "holderCount": 11,
     "holderCountOld": 0,
     "txCount": 10,
     "createdAtTimestamp": "1618876944",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xc52c326331e9ce41f04484d3b5e5648158028804",
-    "tokenName": "ZCX",
-    "idPair": "0x797e1dc0738f2f047d7e0dd185e41a35f87c5618",
-    "idToken": "0xc52c326331e9ce41f04484d3b5e5648158028804",
-    "dateCreationToken": "2021-04-16T07:59:10Z",
-    "initialInfos": {
-      "initialPoolToken": 3333333.3,
-      "initialPriceUSD": 0.030633372306333725,
-      "initialPoolEth": 42,
-      "initialMarketCap": 101841.92124287982
-    },
-    "currentInfos": {
-      "currentPoolToken": 376394.95141192066,
-      "currentPriceUSD": 3.22943070080662,
-      "currentPoolEth": 566.3310356865416,
-      "currentMarketCap": 1242060.2375366534
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1961,
-    "holderCountOld": 1952,
-    "txCount": 6753,
-    "createdAtTimestamp": "1618559950",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 104.42197798245368,
-    "isRugged": false
   }
 ]
