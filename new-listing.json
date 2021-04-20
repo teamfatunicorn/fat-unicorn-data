@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x605a655491daf3d440a4450097cce43cc016a2f3",
+    "tokenName": "COGE",
+    "idPair": "0x7d5e6be421af8fcf930c31d6c2ea3b05120e133c",
+    "idToken": "0x605a655491daf3d440a4450097cce43cc016a2f3",
+    "dateCreationToken": "2021-04-20T05:57:24Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000000,
+      "initialPriceUSD": 1.804465e-11,
+      "initialPoolEth": 8.5,
+      "initialMarketCap": 18044.65
+    },
+    "currentInfos": {
+      "currentPoolToken": 851684256712949,
+      "currentPriceUSD": 2.5299792534808273e-11,
+      "currentPoolEth": 10.15,
+      "currentMarketCap": 21547.435
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 8,
+    "createdAtTimestamp": "1618898244",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.4020661267915019,
+    "isRugged": false
+  },
+  {
     "_id": "0xce80f8030449964e92c324dea27ddba03bcd4f07",
     "tokenName": "MON",
     "idPair": "0xc4bd4157482ae8c912c7ec5850d1de962e609b65",
@@ -74,22 +105,22 @@
       "initialMarketCap": 8491.6
     },
     "currentInfos": {
-      "currentPoolToken": 105855671826780.4,
-      "currentPriceUSD": 3.836718962843898e-10,
-      "currentPoolEth": 19.131304509039083,
-      "currentMarketCap": 40613.846342238896
+      "currentPoolToken": 100916761519618.75,
+      "currentPriceUSD": 4.223844751074937e-10,
+      "currentPoolEth": 20.078983157007663,
+      "currentMarketCap": 42625.673344012284
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 37,
     "holderCountOld": 0,
-    "txCount": 74,
+    "txCount": 79,
     "createdAtTimestamp": "1618895352",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 21.59126055657295,
+    "priceChange": 23.870723721530315,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xc1cec2c3b11066e157c69a4822f0a3cfdd4d498c",
-    "tokenName": "FYDER",
-    "idPair": "0xd1f8c7a079e616752f93c544c6eabc0b5c231cc0",
-    "idToken": "0xc1cec2c3b11066e157c69a4822f0a3cfdd4d498c",
-    "dateCreationToken": "2021-04-17T03:37:22Z",
-    "initialInfos": {
-      "initialPoolToken": 500000000000000,
-      "initialPriceUSD": 2.48131e-11,
-      "initialPoolEth": 5,
-      "initialMarketCap": 12388.881876610867
-    },
-    "currentInfos": {
-      "currentPoolToken": 107725947576674.39,
-      "currentPriceUSD": 4.665883720907665e-10,
-      "currentPoolEth": 23.43710051745096,
-      "currentMarketCap": 50263.674511735764
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 65,
-    "holderCountOld": 66,
-    "txCount": 135,
-    "createdAtTimestamp": "1618630642",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 17.804114443208086,
-    "isRugged": false
   }
 ]
