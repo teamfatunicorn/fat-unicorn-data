@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7f37cf8f9bd64f589079e715f3483f6a6891d75e",
+    "tokenName": "MEOW",
+    "idPair": "0xdac16e6572cdf95375f6742a817c223c8c0595ec",
+    "idToken": "0x7f37cf8f9bd64f589079e715f3483f6a6891d75e",
+    "dateCreationToken": "2021-04-20T13:16:08Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 1.313028e-8,
+      "initialPoolEth": 6,
+      "initialMarketCap": 13130.28
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000000,
+      "currentPriceUSD": 1.313028e-8,
+      "currentPoolEth": 6,
+      "currentMarketCap": 13130.28
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618924568",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x7e717d3b43897af67f9ea3a2281aaa9f3fb09d1c",
     "tokenName": "JINDO",
     "idPair": "0x33d522dee645d1303358c39c171a6548188bb3dd",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-20T13:02:00Z",
     "initialInfos": {
       "initialPoolToken": 2550000000,
-      "initialPriceUSD": 0.00000200075468,
+      "initialPriceUSD": 0.00000200455608,
       "initialPoolEth": 2.3358,
-      "initialMarketCap": 5101.924434
+      "initialMarketCap": 5111.618004
     },
     "currentInfos": {
-      "currentPoolToken": 1130592609.4834278,
-      "currentPriceUSD": 0.000010217359413527454,
-      "currentPoolEth": 5.288669710319186,
-      "currentMarketCap": 11551.67104137007
+      "currentPoolToken": 1183499804.8833623,
+      "currentPriceUSD": 0.000009346172064680109,
+      "currentPoolEth": 5.054511928895376,
+      "currentMarketCap": 11061.19281495524
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 9,
     "holderCountOld": 0,
-    "txCount": 18,
+    "txCount": 20,
     "createdAtTimestamp": "1618923720",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 4.106752724690592,
+    "priceChange": 3.6624647511383706,
     "isRugged": false
   },
   {
@@ -899,37 +930,6 @@
     "isRugged": true
   },
   {
-    "_id": "0xe99d0a815823dcf7f9e439b4992ea56e01c2b571",
-    "tokenName": "BONG",
-    "idPair": "0x96a25763e819fb3b823f5f06c6e742d17de88763",
-    "idToken": "0xe99d0a815823dcf7f9e439b4992ea56e01c2b571",
-    "dateCreationToken": "2021-04-20T04:26:54Z",
-    "initialInfos": {
-      "initialPoolToken": 430000000000,
-      "initialPriceUSD": 1.2342441860465117e-8,
-      "initialPoolEth": 2.5,
-      "initialMarketCap": 5294.08220911317
-    },
-    "currentInfos": {
-      "currentPoolToken": 262176711272.9746,
-      "currentPriceUSD": 3.514732880098811e-8,
-      "currentPoolEth": 4.237259715121731,
-      "currentMarketCap": 9214.811075072965
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 25,
-    "holderCountOld": 24,
-    "txCount": 130,
-    "createdAtTimestamp": "1618892814",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.8476803211502921,
-    "isRugged": false
-  },
-  {
     "_id": "0xe8a634e0adf969b716917a571392d9697d520cbc",
     "tokenName": "Joint",
     "idPair": "0xa288cfde1e175a4f3c3e9db399226e81a3ca962c",
@@ -958,6 +958,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.8888084248494708,
+    "isRugged": false
+  },
+  {
+    "_id": "0xe99d0a815823dcf7f9e439b4992ea56e01c2b571",
+    "tokenName": "BONG",
+    "idPair": "0x96a25763e819fb3b823f5f06c6e742d17de88763",
+    "idToken": "0xe99d0a815823dcf7f9e439b4992ea56e01c2b571",
+    "dateCreationToken": "2021-04-20T04:26:54Z",
+    "initialInfos": {
+      "initialPoolToken": 430000000000,
+      "initialPriceUSD": 1.2342441860465117e-8,
+      "initialPoolEth": 2.5,
+      "initialMarketCap": 5294.08220911317
+    },
+    "currentInfos": {
+      "currentPoolToken": 262176711272.9746,
+      "currentPriceUSD": 3.514732880098811e-8,
+      "currentPoolEth": 4.237259715121731,
+      "currentMarketCap": 9214.811075072965
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 25,
+    "holderCountOld": 24,
+    "txCount": 130,
+    "createdAtTimestamp": "1618892814",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.8476803211502921,
     "isRugged": false
   },
   {
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 18,
     "createdAtTimestamp": "1618675806",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x8f62949f13c98a165b304c85259bd80a674013d4",
-    "tokenName": "DOODLE",
-    "idPair": "0x3bce3238d925d2d99e7392aab2f9a6d664efb1e0",
-    "idToken": "0x8f62949f13c98a165b304c85259bd80a674013d4",
-    "dateCreationToken": "2021-04-17T15:29:26Z",
-    "initialInfos": {
-      "initialPoolToken": 49005000000,
-      "initialPriceUSD": 3.699661054994388e-7,
-      "initialPoolEth": 7.7,
-      "initialMarketCap": 18130.189
-    },
-    "currentInfos": {
-      "currentPoolToken": 5.4154662e-11,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 12,
-    "holderCountOld": 0,
-    "txCount": 30,
-    "createdAtTimestamp": "1618673366",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
