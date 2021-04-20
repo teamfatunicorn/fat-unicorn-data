@@ -1,21 +1,52 @@
 [
   {
-    "_id": "0x7b9b74d6520a3244c9e612ce60b196ac311b7726",
-    "tokenName": "Neko",
-    "idPair": "0xa545eca20e847e4b603059097bc146f2cf58f451",
-    "idToken": "0x7b9b74d6520a3244c9e612ce60b196ac311b7726",
-    "dateCreationToken": "2021-04-20T19:48:18Z",
+    "_id": "0xa5b26bcc236d2ce471f24a9e5c940ede58200261",
+    "tokenName": "DOGELAUNCH",
+    "idPair": "0xc487bd21ecff2ffd3c7c9b5302154dec8d571482",
+    "idToken": "0xa5b26bcc236d2ce471f24a9e5c940ede58200261",
+    "dateCreationToken": "2021-04-20T19:50:37Z",
     "initialInfos": {
-      "initialPoolToken": 72000000000,
-      "initialPriceUSD": 3.5125444444444446e-9,
-      "initialPoolEth": 0.11,
-      "initialMarketCap": 252.9032
+      "initialPoolToken": 39965550000000,
+      "initialPriceUSD": 5.786783867605976e-11,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2312.72
     },
     "currentInfos": {
-      "currentPoolToken": 23446371770.90541,
-      "currentPriceUSD": 3.340498019784085e-8,
-      "currentPoolEth": 0.3406632036246259,
-      "currentMarketCap": 783.22558471831
+      "currentPoolToken": 17930137427204.13,
+      "currentPriceUSD": 2.966656570032458e-10,
+      "currentPoolEth": 2.3,
+      "currentMarketCap": 5319.256
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1618948237",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 4.126606830159323,
+    "isRugged": false
+  },
+  {
+    "_id": "0x904d3e3c7be15b4bd92a6e995b72c6e128429c46",
+    "tokenName": "HDOGE",
+    "idPair": "0x84b0398d330e9bd5406db748381d794cc5025d22",
+    "idToken": "0x904d3e3c7be15b4bd92a6e995b72c6e128429c46",
+    "dateCreationToken": "2021-04-20T19:50:28Z",
+    "initialInfos": {
+      "initialPoolToken": 50000000,
+      "initialPriceUSD": 0.000231272,
+      "initialPoolEth": 5,
+      "initialMarketCap": 11563.6
+    },
+    "currentInfos": {
+      "currentPoolToken": 39545857.15607899,
+      "currentPriceUSD": 0.00037040244046728925,
+      "currentPoolEth": 6.333616694188138,
+      "currentMarketCap": 14647.882000982472
     },
     "trustScore": null,
     "contractId": null,
@@ -23,11 +54,42 @@
     "holderCount": 1,
     "holderCountOld": 0,
     "txCount": 8,
+    "createdAtTimestamp": "1618948228",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.6015879158189891,
+    "isRugged": false
+  },
+  {
+    "_id": "0x7b9b74d6520a3244c9e612ce60b196ac311b7726",
+    "tokenName": "Neko",
+    "idPair": "0xa545eca20e847e4b603059097bc146f2cf58f451",
+    "idToken": "0x7b9b74d6520a3244c9e612ce60b196ac311b7726",
+    "dateCreationToken": "2021-04-20T19:48:18Z",
+    "initialInfos": {
+      "initialPoolToken": 72000000000,
+      "initialPriceUSD": 3.5333222222222223e-9,
+      "initialPoolEth": 0.11,
+      "initialMarketCap": 254.3992
+    },
+    "currentInfos": {
+      "currentPoolToken": 19591312539.490574,
+      "currentPriceUSD": 4.836393929953165e-8,
+      "currentPoolEth": 0.40969639664870083,
+      "currentMarketCap": 947.5130504580753
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 13,
     "createdAtTimestamp": "1618948098",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 8.510194312466355,
+    "priceChange": 12.68795039279321,
     "isRugged": false
   },
   {
@@ -38,27 +100,27 @@
     "dateCreationToken": "2021-04-20T19:05:02Z",
     "initialInfos": {
       "initialPoolToken": 4749596122778.675,
-      "initialPriceUSD": 1.4521992653061225e-9,
+      "initialPriceUSD": 1.460789469387755e-9,
       "initialPoolEth": 3,
-      "initialMarketCap": 6897.36
+      "initialMarketCap": 6938.16
     },
     "currentInfos": {
-      "currentPoolToken": 957402254881.3632,
-      "currentPriceUSD": 3.7505935758811654e-8,
-      "currentPoolEth": 15.618265887349128,
-      "currentMarketCap": 35908.26746692183
+      "currentPoolToken": 1008975744367.8268,
+      "currentPriceUSD": 3.3987591180850426e-8,
+      "currentPoolEth": 14.827845615105755,
+      "currentMarketCap": 34292.65511096795
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 98,
     "holderCountOld": 0,
-    "txCount": 176,
+    "txCount": 180,
     "createdAtTimestamp": "1618945502",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 24.826989900663136,
+    "priceChange": 22.266591040730383,
     "isRugged": false
   },
   {
@@ -69,9 +131,9 @@
     "dateCreationToken": "2021-04-20T19:01:32Z",
     "initialInfos": {
       "initialPoolToken": 50000000000000,
-      "initialPriceUSD": 2.069208e-10,
+      "initialPriceUSD": 2.081448e-10,
       "initialPoolEth": 4.5,
-      "initialMarketCap": 10346.04
+      "initialMarketCap": 10407.24
     },
     "currentInfos": {
       "currentPoolToken": 1.777166095e-9,
@@ -100,27 +162,27 @@
     "dateCreationToken": "2021-04-20T19:01:25Z",
     "initialInfos": {
       "initialPoolToken": 50000000000,
-      "initialPriceUSD": 0.000001839296,
+      "initialPriceUSD": 0.000001850176,
       "initialPoolEth": 40,
-      "initialMarketCap": 91964.8
+      "initialMarketCap": 92508.8
     },
     "currentInfos": {
-      "currentPoolToken": 27766521890.655823,
-      "currentPriceUSD": 0.0000059746314218170496,
-      "currentPoolEth": 72.15575270646315,
-      "currentMarketCap": 165894.73416248322
+      "currentPoolToken": 27617013296.873837,
+      "currentPriceUSD": 0.0000060753195817497655,
+      "currentPoolEth": 72.54755511775825,
+      "currentMarketCap": 167782.18167194127
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 156,
     "holderCountOld": 0,
-    "txCount": 154,
+    "txCount": 157,
     "createdAtTimestamp": "1618945285",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.2483251319075612,
+    "priceChange": 2.283644140746483,
     "isRugged": false
   },
   {
@@ -6135,68 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xccac36423def6c19ee6b5679144e2976e309ca45",
-    "tokenName": "HACHIKO",
-    "idPair": "0x1f2ddb972aeb9b3f7689013fe1890fa1a23bf353",
-    "idToken": "0xccac36423def6c19ee6b5679144e2976e309ca45",
-    "dateCreationToken": "2021-04-18T15:00:39Z",
-    "initialInfos": {
-      "initialPoolToken": 400000000000000,
-      "initialPriceUSD": 5.4059e-12,
-      "initialPoolEth": 1,
-      "initialMarketCap": 2133.5572413156656
-    },
-    "currentInfos": {
-      "currentPoolToken": 11334477000348.92,
-      "currentPriceUSD": 9.922489026602621e-9,
-      "currentPoolEth": 49.189431224875456,
-      "currentMarketCap": 112466.22365824196
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 733,
-    "holderCountOld": 705,
-    "txCount": 2478,
-    "createdAtTimestamp": "1618758039",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1834.4925223556895,
-    "isRugged": false
-  },
-  {
-    "_id": "0x69d4f519f52c395c3b84b13ea88ef53368634932",
-    "tokenName": "WIFE",
-    "idPair": "0x1468c1241c6ec4b504f50bdc20b3cb6a99cc2ad2",
-    "idToken": "0x69d4f519f52c395c3b84b13ea88ef53368634932",
-    "dateCreationToken": "2021-04-18T14:57:45Z",
-    "initialInfos": {
-      "initialPoolToken": 11.24,
-      "initialPriceUSD": 19.238078291814947,
-      "initialPoolEth": 0.1,
-      "initialMarketCap": 216.236
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.000011239999999927,
-      "currentPriceUSD": 20.341548042836738,
-      "currentPoolEth": 1e-7,
-      "currentMarketCap": 0.000228639
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1618757865",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.057358626692525436,
     "isRugged": true
   }
 ]
