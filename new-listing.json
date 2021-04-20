@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x19a31ed8089fef2844a837083931299255843fc3",
+    "tokenName": "CHOW",
+    "idPair": "0x838bc93b6bfb81cc290df387e364482d64785ff7",
+    "idToken": "0x19a31ed8089fef2844a837083931299255843fc3",
+    "dateCreationToken": "2021-04-20T16:57:03Z",
+    "initialInfos": {
+      "initialPoolToken": 500000000000000,
+      "initialPriceUSD": 2.661684e-11,
+      "initialPoolEth": 6,
+      "initialMarketCap": 13308.42
+    },
+    "currentInfos": {
+      "currentPoolToken": 461645384676617.75,
+      "currentPriceUSD": 3.123058407721203e-11,
+      "currentPoolEth": 6.5,
+      "currentMarketCap": 14417.455
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1618937823",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.17333928735387188,
+    "isRugged": false
+  },
+  {
     "_id": "0xdef575aea01bfc170d1839b7ebd2e5b8ea58c13e",
     "tokenName": "AMD",
     "idPair": "0xf106c19086bedf385faa751db384061a2c4f2ea3",
@@ -12,22 +43,22 @@
       "initialMarketCap": 19897.4159897599
     },
     "currentInfos": {
-      "currentPoolToken": 6755083953938.665,
-      "currentPriceUSD": 8.856704772328069e-9,
-      "currentPoolEth": 26.972901798557224,
-      "currentMarketCap": 59827.78429232533
+      "currentPoolToken": 6387490648252.306,
+      "currentPriceUSD": 9.907070360978117e-9,
+      "currentPoolEth": 28.529901798557223,
+      "currentMarketCap": 63281.31928232533
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 24,
     "holderCountOld": 0,
-    "txCount": 53,
+    "txCount": 56,
     "createdAtTimestamp": "1618936469",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 7.873284504424586,
+    "priceChange": 8.925616375175132,
     "isRugged": false
   },
   {
@@ -1519,37 +1550,6 @@
     "isRugged": true
   },
   {
-    "_id": "0xe8a634e0adf969b716917a571392d9697d520cbc",
-    "tokenName": "Joint",
-    "idPair": "0xa288cfde1e175a4f3c3e9db399226e81a3ca962c",
-    "idToken": "0xe8a634e0adf969b716917a571392d9697d520cbc",
-    "dateCreationToken": "2021-04-20T04:26:54Z",
-    "initialInfos": {
-      "initialPoolToken": 95000,
-      "initialPriceUSD": 0.42458,
-      "initialPoolEth": 19,
-      "initialMarketCap": 40235.0247892601
-    },
-    "currentInfos": {
-      "currentPoolToken": 334693.4288842442,
-      "currentPriceUSD": 0.03639344433997662,
-      "currentPoolEth": 5.61628112884667,
-      "currentMarketCap": 12180.646675054662
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 50,
-    "holderCountOld": 51,
-    "txCount": 222,
-    "createdAtTimestamp": "1618892814",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9142836583447722,
-    "isRugged": false
-  },
-  {
     "_id": "0xe99d0a815823dcf7f9e439b4992ea56e01c2b571",
     "tokenName": "BONG",
     "idPair": "0x96a25763e819fb3b823f5f06c6e742d17de88763",
@@ -1578,6 +1578,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 1.6246584346469277,
+    "isRugged": false
+  },
+  {
+    "_id": "0xe8a634e0adf969b716917a571392d9697d520cbc",
+    "tokenName": "Joint",
+    "idPair": "0xa288cfde1e175a4f3c3e9db399226e81a3ca962c",
+    "idToken": "0xe8a634e0adf969b716917a571392d9697d520cbc",
+    "dateCreationToken": "2021-04-20T04:26:54Z",
+    "initialInfos": {
+      "initialPoolToken": 95000,
+      "initialPriceUSD": 0.42458,
+      "initialPoolEth": 19,
+      "initialMarketCap": 40235.0247892601
+    },
+    "currentInfos": {
+      "currentPoolToken": 334693.4288842442,
+      "currentPriceUSD": 0.03639344433997662,
+      "currentPoolEth": 5.61628112884667,
+      "currentMarketCap": 12180.646675054662
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 50,
+    "holderCountOld": 51,
+    "txCount": 222,
+    "createdAtTimestamp": "1618892814",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -0.9142836583447722,
     "isRugged": false
   },
   {
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 3,
     "createdAtTimestamp": "1618712893",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x6e45431f3f6426f2c4759cb7c76d3ff9ea8dd07b",
-    "tokenName": "GUM",
-    "idPair": "0x6800567e81733865619d103519dfa3cfe3ed40b5",
-    "idToken": "0x6e45431f3f6426f2c4759cb7c76d3ff9ea8dd07b",
-    "dateCreationToken": "2021-04-18T01:51:01Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 1.750976e-8,
-      "initialPoolEth": 8,
-      "initialMarketCap": 17509.76
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.00003019,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3.32e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 11,
-    "holderCountOld": 0,
-    "txCount": 11,
-    "createdAtTimestamp": "1618710661",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
