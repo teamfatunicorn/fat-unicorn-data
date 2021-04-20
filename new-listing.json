@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x99a7d500fdab2e81851c15415d39904c6aa9ad3c",
+    "tokenName": "DAY",
+    "idPair": "0xaf1f1c9e29b7e17a4ce1981bf2517ffeacfa3208",
+    "idToken": "0x99a7d500fdab2e81851c15415d39904c6aa9ad3c",
+    "dateCreationToken": "2021-04-20T10:14:20Z",
+    "initialInfos": {
+      "initialPoolToken": 50000000,
+      "initialPriceUSD": 0.0000430284,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2151.42
+    },
+    "currentInfos": {
+      "currentPoolToken": 27819493.107692763,
+      "currentPriceUSD": 0.000139202967682008,
+      "currentPoolEth": 1.8,
+      "currentMarketCap": 3872.556
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1618913660",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.2351416200000003,
+    "isRugged": false
+  },
+  {
     "_id": "0x0e95945ef1a30a04e9fe7d9d509762746a17ffae",
     "tokenName": "SWEED",
     "idPair": "0x7d12851abd61cbe4674290160fec997390f35189",
@@ -7,9 +38,9 @@
     "dateCreationToken": "2021-04-20T10:04:40Z",
     "initialInfos": {
       "initialPoolToken": 197500000000000,
-      "initialPriceUSD": 1.625179746835443e-11,
+      "initialPriceUSD": 1.6339898734177214e-11,
       "initialPoolEth": 1.5,
-      "initialMarketCap": 3209.73
+      "initialMarketCap": 3227.13
     },
     "currentInfos": {
       "currentPoolToken": 8.778218425e-9,
@@ -38,9 +69,9 @@
     "dateCreationToken": "2021-04-20T09:53:06Z",
     "initialInfos": {
       "initialPoolToken": 395161290322580.6,
-      "initialPriceUSD": 2.1660218775510203e-11,
+      "initialPriceUSD": 2.177763918367347e-11,
       "initialPoolEth": 4,
-      "initialMarketCap": 8559.28
+      "initialMarketCap": 8605.68
     },
     "currentInfos": {
       "currentPoolToken": 0.000203216,
@@ -69,15 +100,15 @@
     "dateCreationToken": "2021-04-20T09:42:05Z",
     "initialInfos": {
       "initialPoolToken": 5000000,
-      "initialPriceUSD": 0.000427964,
+      "initialPriceUSD": 0.000430284,
       "initialPoolEth": 1,
-      "initialMarketCap": 2139.82
+      "initialMarketCap": 2151.42
     },
     "currentInfos": {
       "currentPoolToken": 4271988.715015257,
-      "currentPriceUSD": 0.0005892489076004854,
+      "currentPriceUSD": 0.0005924432357814379,
       "currentPoolEth": 1.1763908569902537,
-      "currentMarketCap": 2517.264683604342
+      "currentMarketCap": 2530.9108175454257
     },
     "trustScore": null,
     "contractId": null,
@@ -89,7 +120,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.3768655952381168,
+    "priceChange": 0.37686559523811686,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xe2d4ea9fd5eccc15ae06b3bc5c6b8778408d42c3",
-    "tokenName": "SMPay",
-    "idPair": "0xbce6354f22ee5a04f254138a9f1390180cac11f0",
-    "idToken": "0xe2d4ea9fd5eccc15ae06b3bc5c6b8778408d42c3",
-    "dateCreationToken": "2021-04-17T12:47:06Z",
-    "initialInfos": {
-      "initialPoolToken": 500000000,
-      "initialPriceUSD": 0.00000482222,
-      "initialPoolEth": 1,
-      "initialMarketCap": 2411.074707957941
-    },
-    "currentInfos": {
-      "currentPoolToken": 353767923.4156898,
-      "currentPriceUSD": 0.000008590897061636173,
-      "currentPoolEth": 1.421208732387289,
-      "currentMarketCap": 3039.18381377298
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2598,
-    "holderCountOld": 2597,
-    "txCount": 16,
-    "createdAtTimestamp": "1618663626",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.7815232531149913,
-    "isRugged": false
   }
 ]
