@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x2220bb9f5f1a42333c3c328b0ff916667b80de46",
+    "tokenName": "DOGEE",
+    "idPair": "0x43b910b7da623fd921ff4616fa26b95523bd33f4",
+    "idToken": "0x2220bb9f5f1a42333c3c328b0ff916667b80de46",
+    "dateCreationToken": "2021-04-20T09:42:05Z",
+    "initialInfos": {
+      "initialPoolToken": 5000000,
+      "initialPriceUSD": 0.000430056,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2150.28
+    },
+    "currentInfos": {
+      "currentPoolToken": 2178031.0847289595,
+      "currentPriceUSD": 0.00227069486504388,
+      "currentPoolEth": 2.3,
+      "currentMarketCap": 4945.644
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1618911725",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 4.279998105,
+    "isRugged": false
+  },
+  {
     "_id": "0x5a545797e347734edbb2104e90b9771448e2d7cb",
     "tokenName": "COKEGE",
     "idPair": "0x5894ce4ea4f4926848ad98ed764cfa62f91d1471",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.8231871222506082,
     "isRugged": false
-  },
-  {
-    "_id": "0x1af1ba8ca87ee952b2f4c79d9c4b6a55a2b71baf",
-    "tokenName": "ALN",
-    "idPair": "0x133c754701ac634e242eaf57e74dd22c29a7d5e7",
-    "idToken": "0x1af1ba8ca87ee952b2f4c79d9c4b6a55a2b71baf",
-    "dateCreationToken": "2021-04-17T11:13:46Z",
-    "initialInfos": {
-      "initialPoolToken": 20100000,
-      "initialPriceUSD": 0.006818589552238806,
-      "initialPoolEth": 57,
-      "initialMarketCap": 137053.65
-    },
-    "currentInfos": {
-      "currentPoolToken": 1,
-      "currentPriceUSD": 0.00000361259688,
-      "currentPoolEth": 1.698422879e-9,
-      "currentMarketCap": 0.00000361259688
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 4,
-    "holderCountOld": 0,
-    "txCount": 6,
-    "createdAtTimestamp": "1618658026",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9994701841411154,
-    "isRugged": true
   }
 ]
