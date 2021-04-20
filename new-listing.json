@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xd90d77b0c7cdace43f5a4bca0c7d1d323eb7c06a",
+    "tokenName": "BORDER",
+    "idPair": "0xa5fa16e678f81ef0b73a85fe222e915a634d5565",
+    "idToken": "0xd90d77b0c7cdace43f5a4bca0c7d1d323eb7c06a",
+    "dateCreationToken": "2021-04-20T06:24:35Z",
+    "initialInfos": {
+      "initialPoolToken": 500000000000000,
+      "initialPriceUSD": 2.537256e-11,
+      "initialPoolEth": 6,
+      "initialMarketCap": 12698.968006122097
+    },
+    "currentInfos": {
+      "currentPoolToken": 391179548216456.4,
+      "currentPriceUSD": 4.1531410468028656e-11,
+      "currentPoolEth": 7.683689016958271,
+      "currentMarketCap": 16246.238383675656
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 8,
+    "createdAtTimestamp": "1618899875",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.6368632281499642,
+    "isRugged": false
+  },
+  {
     "_id": "0x092a392b8f806623220079a7da3c9b6cb076737d",
     "tokenName": "STONED",
     "idPair": "0xdc0a33fde589a3de0e87e59321ab400e3a760ed7",
@@ -20,7 +51,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 1,
+    "holderCount": 2,
     "holderCountOld": 0,
     "txCount": 2,
     "createdAtTimestamp": "1618899695",
@@ -51,7 +82,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 0,
+    "holderCount": 4,
     "holderCountOld": 0,
     "txCount": 3,
     "createdAtTimestamp": "1618899674",
@@ -82,7 +113,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 1,
+    "holderCount": 8,
     "holderCountOld": 0,
     "txCount": 7,
     "createdAtTimestamp": "1618899081",
@@ -113,7 +144,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 1,
+    "holderCount": 10,
     "holderCountOld": 0,
     "txCount": 13,
     "createdAtTimestamp": "1618899034",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 11.372892790491829,
     "isRugged": false
-  },
-  {
-    "_id": "0x6e85b6161a41b62c7bb52afea2bce69e4b720888",
-    "tokenName": "KEL",
-    "idPair": "0xab75dabf7a4102e184ef7ef5242abe531c5fa563",
-    "idToken": "0x6e85b6161a41b62c7bb52afea2bce69e4b720888",
-    "dateCreationToken": "2021-04-17T07:06:46Z",
-    "initialInfos": {
-      "initialPoolToken": 15045999,
-      "initialPriceUSD": 0.09209331995834906,
-      "initialPoolEth": 560,
-      "initialMarketCap": 1385636
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.63746e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 7e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 2,
-    "txCount": 4,
-    "createdAtTimestamp": "1618643206",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
