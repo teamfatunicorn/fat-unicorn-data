@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x412f69d7c129248cc9733055bbe238bffab7470e",
+    "tokenName": "KISHU",
+    "idPair": "0xea0e7749150fe094b7c3359945043ecb05ea6a89",
+    "idToken": "0x412f69d7c129248cc9733055bbe238bffab7470e",
+    "dateCreationToken": "2021-04-20T05:09:47Z",
+    "initialInfos": {
+      "initialPoolToken": 990000000000000,
+      "initialPriceUSD": 6.493757575757576e-12,
+      "initialPoolEth": 3,
+      "initialMarketCap": 6428.82
+    },
+    "currentInfos": {
+      "currentPoolToken": 743117701169160.6,
+      "currentPriceUSD": 1.1534861821369474e-11,
+      "currentPoolEth": 4,
+      "currentMarketCap": 8571.76
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 5,
+    "createdAtTimestamp": "1618895387",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.7763000368894727,
+    "isRugged": false
+  },
+  {
+    "_id": "0x0e685b78279d58109e1f6b428cab3fa37aea8285",
+    "tokenName": "420DOGE",
+    "idPair": "0x798de3403b949bffde1d799d77345642967c5c70",
+    "idToken": "0x0e685b78279d58109e1f6b428cab3fa37aea8285",
+    "dateCreationToken": "2021-04-20T05:09:12Z",
+    "initialInfos": {
+      "initialPoolToken": 500000000000000,
+      "initialPriceUSD": 1.714352e-11,
+      "initialPoolEth": 4,
+      "initialMarketCap": 8571.76
+    },
+    "currentInfos": {
+      "currentPoolToken": 342255898807885,
+      "currentPriceUSD": 3.662814590972708e-11,
+      "currentPoolEth": 5.85,
+      "currentMarketCap": 12536.199
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 9,
+    "createdAtTimestamp": "1618895352",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.1365592311104766,
+    "isRugged": false
+  },
+  {
     "_id": "0x229b239b7d00aa2a41c8b74b1db50a821f58d31a",
     "tokenName": "FRTS",
     "idPair": "0x4455e4d15380e751958a2064ebf50f563fd6a5dd",
@@ -20,7 +82,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 16,
+    "holderCount": 17,
     "holderCountOld": 0,
     "txCount": 7,
     "createdAtTimestamp": "1618893477",
@@ -74,53 +136,22 @@
       "initialMarketCap": 9643.23
     },
     "currentInfos": {
-      "currentPoolToken": 889959461906148,
-      "currentPriceUSD": 5.509475264600847e-12,
-      "currentPoolEth": 2.288076027266246,
-      "currentMarketCap": 4903.209641869402
+      "currentPoolToken": 884563340900917.9,
+      "currentPriceUSD": 5.57700118664762e-12,
+      "currentPoolEth": 2.302076027266246,
+      "currentMarketCap": 4933.210801869402
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 6,
+    "holderCount": 8,
     "holderCountOld": 0,
-    "txCount": 28,
+    "txCount": 29,
     "createdAtTimestamp": "1618893055",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.7429010954762687,
-    "isRugged": false
-  },
-  {
-    "_id": "0xe99d0a815823dcf7f9e439b4992ea56e01c2b571",
-    "tokenName": "BONG",
-    "idPair": "0x96a25763e819fb3b823f5f06c6e742d17de88763",
-    "idToken": "0xe99d0a815823dcf7f9e439b4992ea56e01c2b571",
-    "dateCreationToken": "2021-04-20T04:26:54Z",
-    "initialInfos": {
-      "initialPoolToken": 430000000000,
-      "initialPriceUSD": 1.2458953488372093e-8,
-      "initialPoolEth": 2.5,
-      "initialMarketCap": 5294.08220911317
-    },
-    "currentInfos": {
-      "currentPoolToken": 127743740921.76465,
-      "currentPriceUSD": 1.4466700323426628e-7,
-      "currentPoolEth": 8.623808497244758,
-      "currentMarketCap": 18480.3041810862
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 26,
-    "holderCountOld": 0,
-    "txCount": 84,
-    "createdAtTimestamp": "1618892814",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 10.611489148690023,
+    "priceChange": -0.7397500076228163,
     "isRugged": false
   },
   {
@@ -136,22 +167,53 @@
       "initialMarketCap": 40235.0247892601
     },
     "currentInfos": {
-      "currentPoolToken": 77995.52928771023,
-      "currentPriceUSD": 0.6475170909628372,
-      "currentPoolEth": 23.567359903909804,
-      "currentMarketCap": 50503.43823248489
+      "currentPoolToken": 75094.72603941783,
+      "currentPriceUSD": 0.6987139381794756,
+      "currentPoolEth": 24.48492807428584,
+      "currentMarketCap": 52469.73176751044
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 60,
+    "holderCount": 72,
     "holderCountOld": 0,
-    "txCount": 132,
+    "txCount": 135,
     "createdAtTimestamp": "1618892814",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.5108147940745824,
+    "priceChange": 0.6302694853320101,
+    "isRugged": false
+  },
+  {
+    "_id": "0xe99d0a815823dcf7f9e439b4992ea56e01c2b571",
+    "tokenName": "BONG",
+    "idPair": "0x96a25763e819fb3b823f5f06c6e742d17de88763",
+    "idToken": "0xe99d0a815823dcf7f9e439b4992ea56e01c2b571",
+    "dateCreationToken": "2021-04-20T04:26:54Z",
+    "initialInfos": {
+      "initialPoolToken": 430000000000,
+      "initialPriceUSD": 1.2458953488372093e-8,
+      "initialPoolEth": 2.5,
+      "initialMarketCap": 5294.08220911317
+    },
+    "currentInfos": {
+      "currentPoolToken": 120906184818.87796,
+      "currentPriceUSD": 1.6151865595005272e-7,
+      "currentPoolEth": 9.1129963825369,
+      "currentMarketCap": 19528.60446799384
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 33,
+    "holderCountOld": 0,
+    "txCount": 87,
+    "createdAtTimestamp": "1618892814",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 11.964062840494398,
     "isRugged": false
   },
   {
@@ -175,7 +237,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 9,
+    "holderCount": 7,
     "holderCountOld": 0,
     "txCount": 20,
     "createdAtTimestamp": "1618891902",
@@ -260,22 +322,22 @@
       "initialMarketCap": 8571.76
     },
     "currentInfos": {
-      "currentPoolToken": 4651374.489324042,
-      "currentPriceUSD": 0.011266525718192318,
-      "currentPoolEth": 24.454641898006447,
-      "currentMarketCap": 52404.83030891298
+      "currentPoolToken": 4846146.758525342,
+      "currentPriceUSD": 0.010380346944661039,
+      "currentPoolEth": 23.474611840853466,
+      "currentMarketCap": 50304.68469823753
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 136,
-    "holderCountOld": 0,
-    "txCount": 222,
+    "holderCount": 141,
+    "holderCountOld": 136,
+    "txCount": 223,
     "createdAtTimestamp": "1618890844",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 34.27923442736944,
+    "priceChange": 31.504314325293386,
     "isRugged": false
   },
   {
@@ -322,22 +384,22 @@
       "initialMarketCap": 3000.116
     },
     "currentInfos": {
-      "currentPoolToken": 4483429818762615,
-      "currentPriceUSD": 1.0292044546507248e-11,
-      "currentPoolEth": 21.53287512288917,
-      "currentMarketCap": 46143.65941584375
+      "currentPoolToken": 4311368331893463,
+      "currentPriceUSD": 1.1139271725365478e-11,
+      "currentPoolEth": 22.41103500662476,
+      "currentMarketCap": 48025.503357096975
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 101,
-    "holderCountOld": 0,
-    "txCount": 246,
+    "holderCount": 116,
+    "holderCountOld": 101,
+    "txCount": 253,
     "createdAtTimestamp": "1618890602",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 136.28763253778126,
+    "priceChange": 147.58896465712024,
     "isRugged": false
   },
   {
@@ -6135,68 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 1.3021284337550418,
-    "isRugged": false
-  },
-  {
-    "_id": "0xecf308d118b78be09860f69f30fdc0733c9dac6c",
-    "tokenName": "HUSKY",
-    "idPair": "0x384e8fdcca55ee9c7ca9c974b04fbc22700776fa",
-    "idToken": "0xecf308d118b78be09860f69f30fdc0733c9dac6c",
-    "dateCreationToken": "2021-04-17T00:46:53Z",
-    "initialInfos": {
-      "initialPoolToken": 9800000,
-      "initialPriceUSD": 0.0010121142857142857,
-      "initialPoolEth": 4,
-      "initialMarketCap": 9790.431459723612
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.76298e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 29,
-    "holderCountOld": 28,
-    "txCount": 33,
-    "createdAtTimestamp": "1618620413",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xda629b1ec99f3fe6b10bfdd8da2f6fb12becb986",
-    "tokenName": "HSBG",
-    "idPair": "0xc8b73a23a44cf74819978e31ee10741b68c11b87",
-    "idToken": "0xda629b1ec99f3fe6b10bfdd8da2f6fb12becb986",
-    "dateCreationToken": "2021-04-16T23:30:37Z",
-    "initialInfos": {
-      "initialPoolToken": 814382228565312.1,
-      "initialPriceUSD": 1.3535327286572757e-11,
-      "initialPoolEth": 4.5,
-      "initialMarketCap": 10937.545355730972
-    },
-    "currentInfos": {
-      "currentPoolToken": 289429728655029.7,
-      "currentPriceUSD": 1.0429296985182851e-10,
-      "currentPoolEth": 14.074981099142285,
-      "currentMarketCap": 30185.485964841915
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 95,
-    "holderCountOld": 93,
-    "txCount": 291,
-    "createdAtTimestamp": "1618615837",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 6.705241819700117,
     "isRugged": false
   }
 ]
