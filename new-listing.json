@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x3b394fe0cb5dad0a2eecd439dc108d769b1b2b72",
+    "tokenName": "ASS",
+    "idPair": "0x35ec8692362f0062c0136f31934cfe28b8822f31",
+    "idToken": "0x3b394fe0cb5dad0a2eecd439dc108d769b1b2b72",
+    "dateCreationToken": "2021-04-20T18:39:51Z",
+    "initialInfos": {
+      "initialPoolToken": 2000000000,
+      "initialPriceUSD": 0.0000457056,
+      "initialPoolEth": 40,
+      "initialMarketCap": 91411.2
+    },
+    "currentInfos": {
+      "currentPoolToken": 2000000000,
+      "currentPriceUSD": 0.0000457056,
+      "currentPoolEth": 40,
+      "currentMarketCap": 91411.2
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618943991",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x3322ce66fb4b657333e2140c00934a618848bdca",
     "tokenName": "HINU",
     "idPair": "0xeff927aa91e114ea9366d79672be0132cbf66625",
@@ -7,9 +38,9 @@
     "dateCreationToken": "2021-04-20T18:31:02Z",
     "initialInfos": {
       "initialPoolToken": 48592085336,
-      "initialPriceUSD": 1.27479649353734e-7,
+      "initialPriceUSD": 1.2698067920597545e-7,
       "initialPoolEth": 2.7,
-      "initialMarketCap": 6194.502
+      "initialMarketCap": 6170.256
     },
     "currentInfos": {
       "currentPoolToken": 5.8758614e-11,
@@ -38,27 +69,27 @@
     "dateCreationToken": "2021-04-20T17:48:49Z",
     "initialInfos": {
       "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 1.14713e-8,
+      "initialPriceUSD": 1.14264e-8,
       "initialPoolEth": 5,
-      "initialMarketCap": 11471.3
+      "initialMarketCap": 11426.4
     },
     "currentInfos": {
-      "currentPoolToken": 574359395805.726,
-      "currentPriceUSD": 3.4830006967119525e-8,
-      "currentPoolEth": 8.719561757405295,
-      "currentMarketCap": 20004.941757543995
+      "currentPoolToken": 561518521874.5679,
+      "currentPriceUSD": 3.630102178092678e-8,
+      "currentPoolEth": 8.919561757405294,
+      "currentMarketCap": 20383.6960929625
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 17,
     "holderCountOld": 0,
-    "txCount": 20,
+    "txCount": 21,
     "createdAtTimestamp": "1618940929",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.0362737411731473,
+    "priceChange": 2.1769430250058446,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 4.7687856916534646,
-    "isRugged": false
-  },
-  {
-    "_id": "0x1e7c660d4934aba3a1c523ea1b71e35ae4d6e5c0",
-    "tokenName": "UFARM",
-    "idPair": "0xa464fdb815a80df04174f0b1e9b99160fde9d9d8",
-    "idToken": "0x1e7c660d4934aba3a1c523ea1b71e35ae4d6e5c0",
-    "dateCreationToken": "2021-04-18T10:51:47Z",
-    "initialInfos": {
-      "initialPoolToken": 13200000,
-      "initialPriceUSD": 0.0341645,
-      "initialPoolEth": 220,
-      "initialMarketCap": 450971.4
-    },
-    "currentInfos": {
-      "currentPoolToken": 10935165.55308471,
-      "currentPriceUSD": 0.05494173861677433,
-      "currentPoolEth": 265.7147565959044,
-      "currentMarketCap": 600797.0075487347
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 25,
-    "holderCountOld": 24,
-    "txCount": 24,
-    "createdAtTimestamp": "1618743107",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.6081528667703121,
     "isRugged": false
   }
 ]
