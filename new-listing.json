@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x1e1eed62f8d82ecfd8230b8d283d5b5c1ba81b55",
+    "tokenName": "GAMMA",
+    "idPair": "0xe46456153cf0e767528f4a4cd3b613d5c4101e48",
+    "idToken": "0x1e1eed62f8d82ecfd8230b8d283d5b5c1ba81b55",
+    "dateCreationToken": "2021-04-20T22:39:45Z",
+    "initialInfos": {
+      "initialPoolToken": 500,
+      "initialPriceUSD": 2.3246,
+      "initialPoolEth": 0.5,
+      "initialMarketCap": 1162.3
+    },
+    "currentInfos": {
+      "currentPoolToken": 431.5673552138793,
+      "currentPriceUSD": 3.1403184782055567,
+      "currentPoolEth": 0.5830073733842603,
+      "currentMarketCap": 1355.2589401684463
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 80,
+    "holderCountOld": 0,
+    "txCount": 6,
+    "createdAtTimestamp": "1618958385",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.35090702839437166,
+    "isRugged": false
+  },
+  {
     "_id": "0xebb7514629b2edebb8ae9a76732b3029b2e0609c",
     "tokenName": "CORSO",
     "idPair": "0x57894f8f28f93fb29c5e4356d5c2b07cfe2c467b",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-20T22:29:50Z",
     "initialInfos": {
       "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 1.16862e-8,
+      "initialPriceUSD": 1.1623e-8,
       "initialPoolEth": 5,
       "initialMarketCap": 11670.368679809331
     },
     "currentInfos": {
       "currentPoolToken": 524509228179.4028,
-      "currentPriceUSD": 4.255528940353641e-8,
+      "currentPriceUSD": 4.2325146646241184e-8,
       "currentPoolEth": 9.55,
-      "currentMarketCap": 22320.642
+      "currentMarketCap": 22199.93
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.6414993242915927,
+    "priceChange": 2.641499324291593,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-20T22:18:59Z",
     "initialInfos": {
       "initialPoolToken": 10,
-      "initialPriceUSD": 2337.24,
+      "initialPriceUSD": 2324.6,
       "initialPoolEth": 10,
-      "initialMarketCap": 23372.4
+      "initialMarketCap": 23246
     },
     "currentInfos": {
       "currentPoolToken": 10,
-      "currentPriceUSD": 2337.24,
+      "currentPriceUSD": 2324.6,
       "currentPoolEth": 10,
-      "currentMarketCap": 23372.4
+      "currentMarketCap": 23246
     },
     "trustScore": null,
     "contractId": null,
@@ -69,27 +100,58 @@
     "dateCreationToken": "2021-04-20T22:06:38Z",
     "initialInfos": {
       "initialPoolToken": 900000000,
-      "initialPriceUSD": 0.0000025969333333333335,
+      "initialPriceUSD": 0.000002582888888888889,
       "initialPoolEth": 1,
-      "initialMarketCap": 2337.24
+      "initialMarketCap": 2324.6
     },
     "currentInfos": {
-      "currentPoolToken": 226446309.86688453,
-      "currentPriceUSD": 0.000041803689852491754,
-      "currentPoolEth": 4.05020079491872,
-      "currentMarketCap": 9466.291305916484
+      "currentPoolToken": 170135215.52886063,
+      "currentPriceUSD": 0.00007371574385413998,
+      "currentPoolEth": 5.395183673963207,
+      "currentMarketCap": 12541.643968494389
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 12,
     "holderCountOld": 0,
-    "txCount": 50,
+    "txCount": 54,
     "createdAtTimestamp": "1618956398",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 15.097328843953798,
+    "priceChange": 27.54003676706788,
+    "isRugged": false
+  },
+  {
+    "_id": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
+    "tokenName": "HACHI",
+    "idPair": "0x9636a2fdf331d843c6d8cac72acd38274301b74d",
+    "idToken": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
+    "dateCreationToken": "2021-04-20T21:55:20Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 9.2984e-9,
+      "initialPoolEth": 4,
+      "initialMarketCap": 9298.4
+    },
+    "currentInfos": {
+      "currentPoolToken": 903014464829.2822,
+      "currentPriceUSD": 1.1406434849486015e-8,
+      "currentPoolEth": 4.4309453932800436,
+      "currentMarketCap": 10300.175661218687
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 6,
+    "holderCountOld": 0,
+    "txCount": 6,
+    "createdAtTimestamp": "1618955720",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.22670941769401348,
     "isRugged": false
   },
   {
@@ -100,15 +162,15 @@
     "dateCreationToken": "2021-04-20T21:55:20Z",
     "initialInfos": {
       "initialPoolToken": 990000000000000,
-      "initialPriceUSD": 9.44339393939394e-12,
+      "initialPriceUSD": 9.392323232323232e-12,
       "initialPoolEth": 4,
-      "initialMarketCap": 9348.96
+      "initialMarketCap": 9298.4
     },
     "currentInfos": {
       "currentPoolToken": 563746229904869.9,
-      "currentPriceUSD": 2.917060863143157e-11,
+      "currentPriceUSD": 2.9012851407910965e-11,
       "currentPoolEth": 7.036,
-      "currentMarketCap": 16444.82064
+      "currentMarketCap": 16355.8856
     },
     "trustScore": null,
     "contractId": null,
@@ -121,37 +183,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 2.0889962675118143,
-    "isRugged": false
-  },
-  {
-    "_id": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
-    "tokenName": "HACHI",
-    "idPair": "0x9636a2fdf331d843c6d8cac72acd38274301b74d",
-    "idToken": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
-    "dateCreationToken": "2021-04-20T21:55:20Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 9.34896e-9,
-      "initialPoolEth": 4,
-      "initialMarketCap": 9348.96
-    },
-    "currentInfos": {
-      "currentPoolToken": 903014464829.2822,
-      "currentPriceUSD": 1.1468457277644624e-8,
-      "currentPoolEth": 4.4309453932800436,
-      "currentMarketCap": 10356.182810989747
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6,
-    "holderCountOld": 0,
-    "txCount": 6,
-    "createdAtTimestamp": "1618955720",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.22670941769401343,
     "isRugged": false
   },
   {
@@ -6162,37 +6193,6 @@
     "holderCountOld": 36,
     "txCount": 60,
     "createdAtTimestamp": "1618777299",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xf69c00edd59142088dc36403c17566354b0a502a",
-    "tokenName": "HYPNO",
-    "idPair": "0xf353b7e374cb9ce7fc39ccfd615faabe96321fad",
-    "idToken": "0xf69c00edd59142088dc36403c17566354b0a502a",
-    "dateCreationToken": "2021-04-18T20:20:13Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 6.65142e-9,
-      "initialPoolEth": 3,
-      "initialMarketCap": 6576.729304110709
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.00005588,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.79e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 3,
-    "createdAtTimestamp": "1618777213",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
