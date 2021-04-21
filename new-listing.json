@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x5e3346444010135322268a4630d2ed5f8d09446c",
+    "tokenName": "LOC",
+    "idPair": "0xeb38323f2e78385672aa10a6cde896d17710dc1c",
+    "idToken": "0x5e3346444010135322268a4630d2ed5f8d09446c",
+    "dateCreationToken": "2021-04-21T10:23:59Z",
+    "initialInfos": {
+      "initialPoolToken": 764,
+      "initialPriceUSD": 6.009816753926701,
+      "initialPoolEth": 2,
+      "initialMarketCap": 4591.5
+    },
+    "currentInfos": {
+      "currentPoolToken": 764,
+      "currentPriceUSD": 6.009816753926701,
+      "currentPoolEth": 2,
+      "currentMarketCap": 4591.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 34415,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619000639",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x59aa91d7ea29040012061cd10a5c4956d2d1d5ae",
     "tokenName": "AINU",
     "idPair": "0x129334f68d93739e6582c4973e9c31a05c998a25",
@@ -12,22 +43,22 @@
       "initialMarketCap": 6887.25
     },
     "currentInfos": {
-      "currentPoolToken": 296032782482081.5,
-      "currentPriceUSD": 3.978335540876619e-11,
-      "currentPoolEth": 5.129991243877062,
-      "currentMarketCap": 11777.177398130623
+      "currentPoolToken": 267470407645781.94,
+      "currentPriceUSD": 4.876740967641105e-11,
+      "currentPoolEth": 5.681733179125777,
+      "currentMarketCap": 13043.838945978514
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 23,
     "holderCountOld": 0,
-    "txCount": 51,
+    "txCount": 55,
     "createdAtTimestamp": "1618999236",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.8881887116604008,
+    "priceChange": 2.5404123326734944,
     "isRugged": false
   },
   {
@@ -2015,37 +2046,6 @@
     "isRugged": false
   },
   {
-    "_id": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
-    "tokenName": "HACHI",
-    "idPair": "0x9636a2fdf331d843c6d8cac72acd38274301b74d",
-    "idToken": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
-    "dateCreationToken": "2021-04-20T21:55:20Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 9.29168e-9,
-      "initialPoolEth": 4,
-      "initialMarketCap": 9291.68
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.51507233e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6,
-    "holderCountOld": 0,
-    "txCount": 7,
-    "createdAtTimestamp": "1618955720",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0x069131a539e523f89e760299e5b485632a1f9e4d",
     "tokenName": "SAFECAT",
     "idPair": "0x04ca55d74feb53e611b4f49254ecc31c149561f9",
@@ -2075,6 +2075,37 @@
     "officialSite": null,
     "priceChange": 3.972416116233926,
     "isRugged": false
+  },
+  {
+    "_id": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
+    "tokenName": "HACHI",
+    "idPair": "0x9636a2fdf331d843c6d8cac72acd38274301b74d",
+    "idToken": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
+    "dateCreationToken": "2021-04-20T21:55:20Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 9.29168e-9,
+      "initialPoolEth": 4,
+      "initialMarketCap": 9291.68
+    },
+    "currentInfos": {
+      "currentPoolToken": 4.51507233e-10,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 6,
+    "holderCountOld": 0,
+    "txCount": 7,
+    "createdAtTimestamp": "1618955720",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
   },
   {
     "_id": "0xb77ae8fcc5e36e7bdf96ca73f257ddf65ae40c88",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 8.90972419710123,
     "isRugged": false
-  },
-  {
-    "_id": "0xc7eb14f5e7618a67126c9e507c097ef325d17fac",
-    "tokenName": "YOGE",
-    "idPair": "0x3216e3d8c2b221b22f3f16cf8245d25ab60ddce5",
-    "idToken": "0xc7eb14f5e7618a67126c9e507c097ef325d17fac",
-    "dateCreationToken": "2021-04-19T17:45:45Z",
-    "initialInfos": {
-      "initialPoolToken": 494949494949.49493,
-      "initialPriceUSD": 1.749511836734694e-8,
-      "initialPoolEth": 4,
-      "initialMarketCap": 8523.477776381469
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.000005916,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.72e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 22,
-    "holderCountOld": 0,
-    "txCount": 25,
-    "createdAtTimestamp": "1618854345",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
