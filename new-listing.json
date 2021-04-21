@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x8e59c81c80090a47a71b2c1a96871f5f78d8103f",
+    "tokenName": "DALMA",
+    "idPair": "0x44cc6f3a4845b686d7e427f01355bfeded0ddff6",
+    "idToken": "0x8e59c81c80090a47a71b2c1a96871f5f78d8103f",
+    "dateCreationToken": "2021-04-21T19:55:56Z",
+    "initialInfos": {
+      "initialPoolToken": 440000000000000,
+      "initialPriceUSD": 9.673125e-12,
+      "initialPoolEth": 1.75,
+      "initialMarketCap": 4256.175
+    },
+    "currentInfos": {
+      "currentPoolToken": 49017939072254.67,
+      "currentPriceUSD": 7.951675956884912e-10,
+      "currentPoolEth": 16.02626403424612,
+      "currentMarketCap": 38977.4767576897
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 37,
+    "createdAtTimestamp": "1619034956",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 81.20379615568818,
+    "isRugged": false
+  },
+  {
     "_id": "0x7b29811f6d30cd6fe729b56247ae6e0a8e6f5d88",
     "tokenName": "DOOGE",
     "idPair": "0x16dc5f7d91f325d535e096ae1e12625fda35a764",
@@ -12,22 +43,22 @@
       "initialMarketCap": 12160.5
     },
     "currentInfos": {
-      "currentPoolToken": 863156342.3024982,
-      "currentPriceUSD": 0.000016348591853661668,
-      "currentPoolEth": 5.802142488467885,
-      "currentMarketCap": 14111.390746203022
+      "currentPoolToken": 806578354.1048783,
+      "currentPriceUSD": 0.00001872629271865499,
+      "currentPoolEth": 6.210362386209314,
+      "currentMarketCap": 15104.222359498908
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 7,
+    "txCount": 8,
     "createdAtTimestamp": "1619034617",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.3444012872547731,
+    "priceChange": 0.5399278581189088,
     "isRugged": false
   },
   {
@@ -74,22 +105,22 @@
       "initialMarketCap": 19456.8
     },
     "currentInfos": {
-      "currentPoolToken": 50062388.80180594,
-      "currentPriceUSD": 0.003116989539527936,
-      "currentPoolEth": 64.16016702397539,
-      "currentMarketCap": 156043.9422190096
+      "currentPoolToken": 51024664.84547432,
+      "currentPriceUSD": 0.0030055938584954522,
+      "currentPoolEth": 63.05637896934598,
+      "currentMarketCap": 153359.4192913464
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 407,
     "holderCountOld": 0,
-    "txCount": 664,
+    "txCount": 682,
     "createdAtTimestamp": "1619031755",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 57.24436890556771,
+    "priceChange": 55.162818403628734,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 5.578788667674462,
     "isRugged": false
-  },
-  {
-    "_id": "0xa755953a88f559eff1b7059004bad064913835b8",
-    "tokenName": "FLOGE",
-    "idPair": "0x55743b46a2f5c95d607ae3b1c4aa70a568620d99",
-    "idToken": "0xa755953a88f559eff1b7059004bad064913835b8",
-    "dateCreationToken": "2021-04-20T03:51:01Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000000,
-      "initialPriceUSD": 1.7572108e-11,
-      "initialPoolEth": 8.2,
-      "initialMarketCap": 17572.108
-    },
-    "currentInfos": {
-      "currentPoolToken": 10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.22493e-13,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 16,
-    "holderCountOld": 0,
-    "txCount": 21,
-    "createdAtTimestamp": "1618890661",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
