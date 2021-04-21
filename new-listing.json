@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x3776535f44c59e2ab1a7443caed5c27e2289ceb9",
+    "tokenName": "SDOGE",
+    "idPair": "0x866bbfa2668841b5aae6e0b928c793cb94e6f7ba",
+    "idToken": "0x3776535f44c59e2ab1a7443caed5c27e2289ceb9",
+    "dateCreationToken": "2021-04-21T07:16:29Z",
+    "initialInfos": {
+      "initialPoolToken": 80000000000,
+      "initialPriceUSD": 5.73755e-8,
+      "initialPoolEth": 2,
+      "initialMarketCap": 4590.04
+    },
+    "currentInfos": {
+      "currentPoolToken": 36494928204.09193,
+      "currentPriceUSD": 2.779346691958388e-7,
+      "currentPoolEth": 4.419658999804495,
+      "currentMarketCap": 10143.205797730176
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 11,
+    "createdAtTimestamp": "1618989389",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 3.844135026201754,
+    "isRugged": false
+  },
+  {
     "_id": "0x448e32533d442ef1209284682880832beb4e5c7a",
     "tokenName": "KUTTA",
     "idPair": "0xd27774785d5da48186fb0a209219155e1f260656",
@@ -20,7 +51,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 1,
+    "holderCount": 5,
     "holderCountOld": 0,
     "txCount": 4,
     "createdAtTimestamp": "1618988552",
@@ -82,7 +113,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 11,
+    "holderCount": 12,
     "holderCountOld": 0,
     "txCount": 12,
     "createdAtTimestamp": "1618987276",
@@ -113,7 +144,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 4,
+    "holderCount": 7,
     "holderCountOld": 0,
     "txCount": 7,
     "createdAtTimestamp": "1618986408",
@@ -1643,37 +1674,6 @@
     "isRugged": false
   },
   {
-    "_id": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
-    "tokenName": "HACHI",
-    "idPair": "0x9636a2fdf331d843c6d8cac72acd38274301b74d",
-    "idToken": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
-    "dateCreationToken": "2021-04-20T21:55:20Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 9.29168e-9,
-      "initialPoolEth": 4,
-      "initialMarketCap": 9291.68
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.51507233e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6,
-    "holderCountOld": 0,
-    "txCount": 7,
-    "createdAtTimestamp": "1618955720",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0x069131a539e523f89e760299e5b485632a1f9e4d",
     "tokenName": "SAFECAT",
     "idPair": "0x04ca55d74feb53e611b4f49254ecc31c149561f9",
@@ -1703,6 +1703,37 @@
     "officialSite": null,
     "priceChange": 4.02269773816171,
     "isRugged": false
+  },
+  {
+    "_id": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
+    "tokenName": "HACHI",
+    "idPair": "0x9636a2fdf331d843c6d8cac72acd38274301b74d",
+    "idToken": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
+    "dateCreationToken": "2021-04-20T21:55:20Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 9.29168e-9,
+      "initialPoolEth": 4,
+      "initialMarketCap": 9291.68
+    },
+    "currentInfos": {
+      "currentPoolToken": 4.51507233e-10,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 6,
+    "holderCountOld": 0,
+    "txCount": 7,
+    "createdAtTimestamp": "1618955720",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
   },
   {
     "_id": "0xb77ae8fcc5e36e7bdf96ca73f257ddf65ae40c88",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xec2874391589a273658b073326f572c831e93eec",
-    "tokenName": "TMTF",
-    "idPair": "0x3bb34ec67fefdd9ce8a276be0e811d869d9e8798",
-    "idToken": "0xec2874391589a273658b073326f572c831e93eec",
-    "dateCreationToken": "2021-04-19T12:32:40Z",
-    "initialInfos": {
-      "initialPoolToken": 400000000000000,
-      "initialPriceUSD": 5.53945e-12,
-      "initialPoolEth": 1,
-      "initialMarketCap": 2244.054577040474
-    },
-    "currentInfos": {
-      "currentPoolToken": 174301274250806.06,
-      "currentPriceUSD": 3.093408551715903e-11,
-      "currentPoolEth": 2.338558451887478,
-      "currentMarketCap": 5391.850523424224
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 16,
-    "holderCountOld": 17,
-    "txCount": 73,
-    "createdAtTimestamp": "1618835560",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 4.58432434937747,
-    "isRugged": false
   }
 ]
