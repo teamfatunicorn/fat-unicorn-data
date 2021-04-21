@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x752563f11c843514df2136c613f21211c590c8f1",
+    "tokenName": "DDOGE",
+    "idPair": "0xb897402df9089a28b60a030817abc6a955c767f1",
+    "idToken": "0x752563f11c843514df2136c613f21211c590c8f1",
+    "dateCreationToken": "2021-04-21T01:40:04Z",
+    "initialInfos": {
+      "initialPoolToken": 100000000000000000,
+      "initialPriceUSD": 1.851984e-14,
+      "initialPoolEth": 0.8,
+      "initialMarketCap": 1851.984
+    },
+    "currentInfos": {
+      "currentPoolToken": 96898725498356780,
+      "currentPriceUSD": 1.97386616475756e-14,
+      "currentPoolEth": 0.8262063416066997,
+      "currentMarketCap": 1912.651156693373
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 8,
+    "createdAtTimestamp": "1618969204",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.0658116726481222,
+    "isRugged": false
+  },
+  {
     "_id": "0xb30d2890fe322cba8155d60185d343752df47d59",
     "tokenName": "WEED",
     "idPair": "0xe35a12b8fa4c824609d7643eaaaf4bc8b3a1e528",
@@ -43,22 +74,22 @@
       "initialMarketCap": 9259.92
     },
     "currentInfos": {
-      "currentPoolToken": 1435281135.5479062,
-      "currentPriceUSD": 0.00000935488084351809,
-      "currentPoolEth": 5.8,
-      "currentMarketCap": 13426.884
+      "currentPoolToken": 1494105644.3340135,
+      "currentPriceUSD": 0.000008633790731357545,
+      "currentPoolEth": 5.572314,
+      "currentMarketCap": 12899.79546372
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 10,
     "holderCountOld": 0,
-    "txCount": 6,
+    "txCount": 9,
     "createdAtTimestamp": "1618968635",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.1003202267054262,
+    "priceChange": 0.9384239745583479,
     "isRugged": false
   },
   {
@@ -322,22 +353,22 @@
       "initialMarketCap": 23149.8
     },
     "currentInfos": {
-      "currentPoolToken": 103534322183.1155,
-      "currentPriceUSD": 0.0000011051406649503417,
-      "currentPoolEth": 49.425908501426456,
-      "currentMarketCap": 114419.98966263117
+      "currentPoolToken": 102296240696.24184,
+      "currentPriceUSD": 0.0000011320941695845307,
+      "currentPoolEth": 50.02590850142645,
+      "currentMarketCap": 115808.97766263117
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 244,
     "holderCountOld": 0,
-    "txCount": 500,
+    "txCount": 502,
     "createdAtTimestamp": "1618965067",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 22.383701490976044,
+    "priceChange": 22.95401143114084,
     "isRugged": false
   },
   {
@@ -837,37 +868,6 @@
     "isRugged": false
   },
   {
-    "_id": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
-    "tokenName": "HACHI",
-    "idPair": "0x9636a2fdf331d843c6d8cac72acd38274301b74d",
-    "idToken": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
-    "dateCreationToken": "2021-04-20T21:55:20Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 9.29168e-9,
-      "initialPoolEth": 4,
-      "initialMarketCap": 9291.68
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.51507233e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6,
-    "holderCountOld": 0,
-    "txCount": 7,
-    "createdAtTimestamp": "1618955720",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0x069131a539e523f89e760299e5b485632a1f9e4d",
     "tokenName": "SAFECAT",
     "idPair": "0x04ca55d74feb53e611b4f49254ecc31c149561f9",
@@ -897,6 +897,37 @@
     "officialSite": null,
     "priceChange": 3.584542328848686,
     "isRugged": false
+  },
+  {
+    "_id": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
+    "tokenName": "HACHI",
+    "idPair": "0x9636a2fdf331d843c6d8cac72acd38274301b74d",
+    "idToken": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
+    "dateCreationToken": "2021-04-20T21:55:20Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 9.29168e-9,
+      "initialPoolEth": 4,
+      "initialMarketCap": 9291.68
+    },
+    "currentInfos": {
+      "currentPoolToken": 4.51507233e-10,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 6,
+    "holderCountOld": 0,
+    "txCount": 7,
+    "createdAtTimestamp": "1618955720",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
   },
   {
     "_id": "0xb77ae8fcc5e36e7bdf96ca73f257ddf65ae40c88",
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 29,
     "createdAtTimestamp": "1618806167",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x0bea926edbb10e921d50a18db509b58f97b49c45",
-    "tokenName": "RCAT",
-    "idPair": "0x3089d1a6731651bf14904f2ede6b7119c37cc856",
-    "idToken": "0x0bea926edbb10e921d50a18db509b58f97b49c45",
-    "dateCreationToken": "2021-04-19T04:05:57Z",
-    "initialInfos": {
-      "initialPoolToken": 990000000000000,
-      "initialPriceUSD": 9.102303030303031e-12,
-      "initialPoolEth": 4,
-      "initialMarketCap": 9011.28
-    },
-    "currentInfos": {
-      "currentPoolToken": 3.732348586e-9,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 41,
-    "holderCountOld": 40,
-    "txCount": 47,
-    "createdAtTimestamp": "1618805157",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
