@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x6c2d71b85e73276fae0e9bd37b4a1271ed8c57dd",
+    "tokenName": "AMSB",
+    "idPair": "0xf83485e3d3dd6f9e80df84b006f464ef6205dc59",
+    "idToken": "0x6c2d71b85e73276fae0e9bd37b4a1271ed8c57dd",
+    "dateCreationToken": "2021-04-21T15:56:50Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 1.458498e-8,
+      "initialPoolEth": 6,
+      "initialMarketCap": 14584.98
+    },
+    "currentInfos": {
+      "currentPoolToken": 869917639184.0598,
+      "currentPriceUSD": 1.9280821820939275e-8,
+      "currentPoolEth": 6.9,
+      "currentMarketCap": 16772.727
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1619020610",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.3219642276464743,
+    "isRugged": false
+  },
+  {
     "_id": "0xd880f6a89e5af0e6e48ce37969f478be51c0e91e",
     "tokenName": "ShiCo",
     "idPair": "0xec2021406ea0e4914ecddc9de2f8b10c1b8e6752",
@@ -43,22 +74,22 @@
       "initialMarketCap": 9723.32
     },
     "currentInfos": {
-      "currentPoolToken": 294990216125.02356,
-      "currentPriceUSD": 4.417350050073456e-8,
-      "currentPoolEth": 5.360617755955668,
-      "currentMarketCap": 13030.750459710524
+      "currentPoolToken": 293897001410.8014,
+      "currentPriceUSD": 4.4503234115779676e-8,
+      "currentPoolEth": 5.380617755955668,
+      "currentMarketCap": 13079.367059710523
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 8,
     "holderCountOld": 0,
-    "txCount": 7,
+    "txCount": 8,
     "createdAtTimestamp": "1619019588",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.7945035952524602,
+    "priceChange": 0.8078986884863372,
     "isRugged": false
   },
   {
@@ -105,22 +136,22 @@
       "initialMarketCap": 24.3083
     },
     "currentInfos": {
-      "currentPoolToken": 21277362517283.88,
-      "currentPriceUSD": 2.7206299123127926e-11,
-      "currentPoolEth": 0.2381401781271289,
-      "currentMarketCap": 578.8782891964554
+      "currentPoolToken": 20422358075714.277,
+      "currentPriceUSD": 2.9535599511094106e-11,
+      "currentPoolEth": 0.24814017812712888,
+      "currentMarketCap": 603.1865891964554
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 14,
     "holderCountOld": 0,
-    "txCount": 20,
+    "txCount": 21,
     "createdAtTimestamp": "1619018389",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 558.6092512254647,
+    "priceChange": 606.5208778708118,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.22708947779244015,
     "isRugged": false
-  },
-  {
-    "_id": "0x2ad950d5d091592daea2c25c0ea91a7a812fc23b",
-    "tokenName": "YUKI",
-    "idPair": "0x9e1e25a9da7412170dc32ad44cf1558ba1b875d9",
-    "idToken": "0x2ad950d5d091592daea2c25c0ea91a7a812fc23b",
-    "dateCreationToken": "2021-04-19T22:20:28Z",
-    "initialInfos": {
-      "initialPoolToken": 50000000000,
-      "initialPriceUSD": 8.66876e-8,
-      "initialPoolEth": 2,
-      "initialMarketCap": 4334.38
-    },
-    "currentInfos": {
-      "currentPoolToken": 5.6051487e-11,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 46,
-    "holderCountOld": 0,
-    "txCount": 84,
-    "createdAtTimestamp": "1618870828",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
