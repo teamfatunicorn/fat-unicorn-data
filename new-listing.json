@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x115e731bbbae905761ee5511b2d0def472e9b0f4",
+    "tokenName": "NBDOGE",
+    "idPair": "0xcbe990fe7c449f9e03b4366fd94b0620d6ea3b31",
+    "idToken": "0x115e731bbbae905761ee5511b2d0def472e9b0f4",
+    "dateCreationToken": "2021-04-21T08:26:59Z",
+    "initialInfos": {
+      "initialPoolToken": 100000000000000000,
+      "initialPriceUSD": 1.7116875e-14,
+      "initialPoolEth": 0.75,
+      "initialMarketCap": 1711.6875
+    },
+    "currentInfos": {
+      "currentPoolToken": 100000000000000000,
+      "currentPriceUSD": 1.7116875e-14,
+      "currentPoolEth": 0.75,
+      "currentMarketCap": 1711.6875
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1618993619",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xb913c80b8b8814597691ffbb8675f646f975d174",
     "tokenName": "MLM",
     "idPair": "0xb68dce8fd8762360d49e10091e13234161b412af",
@@ -12,22 +43,22 @@
       "initialMarketCap": 11411.25
     },
     "currentInfos": {
-      "currentPoolToken": 595581827671.967,
-      "currentPriceUSD": 3.221875375589826e-8,
-      "currentPoolEth": 8.407888814657001,
-      "currentMarketCap": 19188.90424725094
+      "currentPoolToken": 585173425782.3986,
+      "currentPriceUSD": 3.337684331980206e-8,
+      "currentPoolEth": 8.557888814657,
+      "currentMarketCap": 19531.241747250937
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 14,
     "holderCountOld": 0,
-    "txCount": 14,
+    "txCount": 15,
     "createdAtTimestamp": "1618990557",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.823420199881543,
+    "priceChange": 1.9249068524308957,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.9388920980708902,
-    "isRugged": true
-  },
-  {
-    "_id": "0xa6b4252431e6d2878737705900483bf23e8f8f95",
-    "tokenName": "CORG",
-    "idPair": "0xac488d0173108a2b03f558ef35e6f98de83fedbe",
-    "idToken": "0xa6b4252431e6d2878737705900483bf23e8f8f95",
-    "dateCreationToken": "2021-04-19T15:13:57Z",
-    "initialInfos": {
-      "initialPoolToken": 100000000,
-      "initialPriceUSD": 0.0000213516,
-      "initialPoolEth": 1,
-      "initialMarketCap": 2135.16
-    },
-    "currentInfos": {
-      "currentPoolToken": 9.17e-8,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.098e-15,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 5,
-    "holderCountOld": 6,
-    "txCount": 22,
-    "createdAtTimestamp": "1618845237",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
