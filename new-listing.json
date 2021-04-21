@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0xcb712e3d51f03240d5eac94af269d6c209bd3393",
+    "tokenName": "HDS",
+    "idPair": "0xe00ad049c30938db33c274155218c8f6cd5e3de9",
+    "idToken": "0xcb712e3d51f03240d5eac94af269d6c209bd3393",
+    "dateCreationToken": "2021-04-21T16:49:36Z",
+    "initialInfos": {
+      "initialPoolToken": 750000000000,
+      "initialPriceUSD": 1.2950506666666667e-8,
+      "initialPoolEth": 4,
+      "initialMarketCap": 9748.761879543732
+    },
+    "currentInfos": {
+      "currentPoolToken": 750000000000,
+      "currentPriceUSD": 1.2950506666666667e-8,
+      "currentPoolEth": 4,
+      "currentMarketCap": 9712.88
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619023776",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
+    "_id": "0x1880627ef248ed129953510d3eb3563e1e10de4c",
+    "tokenName": "KIT",
+    "idPair": "0x3335eec653ba6d3db08cd2ca9324c7c0bf911b99",
+    "idToken": "0x1880627ef248ed129953510d3eb3563e1e10de4c",
+    "dateCreationToken": "2021-04-21T16:48:45Z",
+    "initialInfos": {
+      "initialPoolToken": 10000000000,
+      "initialPriceUSD": 0.000005342084,
+      "initialPoolEth": 22,
+      "initialMarketCap": 53420.84
+    },
+    "currentInfos": {
+      "currentPoolToken": 10000000000,
+      "currentPriceUSD": 0.000005342084,
+      "currentPoolEth": 22,
+      "currentMarketCap": 53420.84
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619023725",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x77fba179c79de5b7653f68b5039af940ada60ce0",
     "tokenName": "FORTH",
     "idPair": "0xf6048f2a7e1c44012265fab271c8eb89bb74bd4e",
@@ -12,22 +74,22 @@
       "initialMarketCap": 12141.1
     },
     "currentInfos": {
-      "currentPoolToken": 252.0486203456368,
-      "currentPriceUSD": 38.25585679218219,
-      "currentPoolEth": 3.970948235584214,
-      "currentMarketCap": 9642.33592460978
+      "currentPoolToken": 264.2272292918374,
+      "currentPriceUSD": 34.81545737719897,
+      "currentPoolEth": 3.788450733172506,
+      "currentMarketCap": 9199.191839305342
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 212,
+    "holderCount": 317,
     "holderCountOld": 0,
-    "txCount": 6,
+    "txCount": 8,
     "createdAtTimestamp": "1619023367",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.36981234332668056,
+    "priceChange": -0.4264859464595635,
     "isRugged": false
   },
   {
@@ -144,7 +206,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 9,
+    "holderCount": 10,
     "holderCountOld": 0,
     "txCount": 10,
     "createdAtTimestamp": "1619020610",
@@ -6135,68 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 1.5552945101708628,
-    "isRugged": false
-  },
-  {
-    "_id": "0x1c31137f412a421d11ad092c7847993ba351eda9",
-    "tokenName": "PUP",
-    "idPair": "0xe9c6551dfb495381f665499ddc80fb0a1041877c",
-    "idToken": "0x1c31137f412a421d11ad092c7847993ba351eda9",
-    "dateCreationToken": "2021-04-20T00:33:56Z",
-    "initialInfos": {
-      "initialPoolToken": 425000000000000,
-      "initialPriceUSD": 6.2047941176470585e-12,
-      "initialPoolEth": 1.25,
-      "initialMarketCap": 2637.0375
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.3763105682e-8,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 21,
-    "holderCountOld": 22,
-    "txCount": 59,
-    "createdAtTimestamp": "1618878836",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x236d53148f83706c3d670064809577385f923a75",
-    "tokenName": "SHUSKY",
-    "idPair": "0xf9446f3fca6db27aacfb15479ab11469fd7fe292",
-    "idToken": "0x236d53148f83706c3d670064809577385f923a75",
-    "dateCreationToken": "2021-04-20T00:25:13Z",
-    "initialInfos": {
-      "initialPoolToken": 39491144587831980,
-      "initialPriceUSD": 5.87623636696269e-14,
-      "initialPoolEth": 1.1,
-      "initialMarketCap": 2320.593
-    },
-    "currentInfos": {
-      "currentPoolToken": 3290503731728368,
-      "currentPriceUSD": 1.4821853839652862e-11,
-      "currentPoolEth": 20.144716288598,
-      "currentMarketCap": 48771.36537051019
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 953,
-    "holderCountOld": 952,
-    "txCount": 2682,
-    "createdAtTimestamp": "1618878313",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 251.23379241488854,
     "isRugged": false
   }
 ]
