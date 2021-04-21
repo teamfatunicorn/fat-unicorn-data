@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xa3d813ee903abf5d177fa354eadfc0731b8e6bca",
+    "tokenName": "RINU",
+    "idPair": "0xcca3ceb043ce1765e83b4d0182b6390c014d8e22",
+    "idToken": "0xa3d813ee903abf5d177fa354eadfc0731b8e6bca",
+    "dateCreationToken": "2021-04-21T21:25:46Z",
+    "initialInfos": {
+      "initialPoolToken": 990000000000000,
+      "initialPriceUSD": 9.672080808080808e-12,
+      "initialPoolEth": 4,
+      "initialMarketCap": 9575.36
+    },
+    "currentInfos": {
+      "currentPoolToken": 727258012886228.1,
+      "currentPriceUSD": 1.7939201450972497e-11,
+      "currentPoolEth": 5.45,
+      "currentMarketCap": 13046.428
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 9,
+    "createdAtTimestamp": "1619040346",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.8547406506348348,
+    "isRugged": false
+  },
+  {
     "_id": "0xf8ab74ed4f1b73a6a76c027c9361ebdf42636af9",
     "tokenName": "FROGGY",
     "idPair": "0x5b7cd76cdfe09289140675dc104a21bc8401541c",
@@ -12,22 +43,22 @@
       "initialMarketCap": 14323.106053928259
     },
     "currentInfos": {
-      "currentPoolToken": 902397225060.4167,
-      "currentPriceUSD": 1.7643432403507216e-8,
-      "currentPoolEth": 6.650981035267937,
-      "currentMarketCap": 15921.384441465949
+      "currentPoolToken": 882552958598.4369,
+      "currentPriceUSD": 1.844700681454923e-8,
+      "currentPoolEth": 6.800981035267936,
+      "currentMarketCap": 16280.46044146595
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 6,
+    "txCount": 8,
     "createdAtTimestamp": "1619040013",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.22839123218393986,
+    "priceChange": 0.2843386089956742,
     "isRugged": false
   },
   {
@@ -136,22 +167,22 @@
       "initialMarketCap": 3590.76
     },
     "currentInfos": {
-      "currentPoolToken": 23393359014214.902,
-      "currentPriceUSD": 5.597423610659941e-10,
-      "currentPoolEth": 5.469978782158009,
-      "currentMarketCap": 13094.254007881107
+      "currentPoolToken": 23322091782407.27,
+      "currentPriceUSD": 5.631939356071647e-10,
+      "currentPoolEth": 5.486941757814204,
+      "currentMarketCap": 13134.860657525465
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 63,
     "holderCountOld": 0,
-    "txCount": 143,
+    "txCount": 145,
     "createdAtTimestamp": "1619036588",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 11.78995386207423,
+    "priceChange": 11.868821359343883,
     "isRugged": false
   },
   {
@@ -3813,37 +3844,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x069131a539e523f89e760299e5b485632a1f9e4d",
-    "tokenName": "SAFECAT",
-    "idPair": "0x04ca55d74feb53e611b4f49254ecc31c149561f9",
-    "idToken": "0x069131a539e523f89e760299e5b485632a1f9e4d",
-    "dateCreationToken": "2021-04-20T21:55:20Z",
-    "initialInfos": {
-      "initialPoolToken": 990000000000000,
-      "initialPriceUSD": 9.385535353535353e-12,
-      "initialPoolEth": 4,
-      "initialMarketCap": 9291.68
-    },
-    "currentInfos": {
-      "currentPoolToken": 7.031847183e-9,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 29,
-    "holderCountOld": 28,
-    "txCount": 29,
-    "createdAtTimestamp": "1618955720",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
     "tokenName": "HACHI",
     "idPair": "0x9636a2fdf331d843c6d8cac72acd38274301b74d",
@@ -3867,6 +3867,37 @@
     "holderCount": 6,
     "holderCountOld": 0,
     "txCount": 7,
+    "createdAtTimestamp": "1618955720",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0x069131a539e523f89e760299e5b485632a1f9e4d",
+    "tokenName": "SAFECAT",
+    "idPair": "0x04ca55d74feb53e611b4f49254ecc31c149561f9",
+    "idToken": "0x069131a539e523f89e760299e5b485632a1f9e4d",
+    "dateCreationToken": "2021-04-20T21:55:20Z",
+    "initialInfos": {
+      "initialPoolToken": 990000000000000,
+      "initialPriceUSD": 9.385535353535353e-12,
+      "initialPoolEth": 4,
+      "initialMarketCap": 9291.68
+    },
+    "currentInfos": {
+      "currentPoolToken": 7.031847183e-9,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 29,
+    "holderCountOld": 28,
+    "txCount": 29,
     "createdAtTimestamp": "1618955720",
     "isCodeGenerator": false,
     "linksSocial": [],
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 29,
     "createdAtTimestamp": "1618893238",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xb7b37649456a95d313c2ba221fc6360430085e4f",
-    "tokenName": "CoShi",
-    "idPair": "0xe4c3394745b60f6be85a4b4cd306b8588ba40f14",
-    "idToken": "0xb7b37649456a95d313c2ba221fc6360430085e4f",
-    "dateCreationToken": "2021-04-20T04:30:55Z",
-    "initialInfos": {
-      "initialPoolToken": 450000000000000,
-      "initialPriceUSD": 2.1229e-11,
-      "initialPoolEth": 4.5,
-      "initialMarketCap": 9553.05
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.8391627909e-8,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 12,
-    "holderCountOld": 0,
-    "txCount": 33,
-    "createdAtTimestamp": "1618893055",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
