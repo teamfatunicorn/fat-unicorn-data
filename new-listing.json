@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xbdb84d00d489cace7b9c9fadc64397cce606f322",
+    "tokenName": "SPITZ",
+    "idPair": "0x26256e6e2628e0216b7d6ab7afca53b4839c8865",
+    "idToken": "0xbdb84d00d489cace7b9c9fadc64397cce606f322",
+    "dateCreationToken": "2021-04-21T18:28:48Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 9.69404e-9,
+      "initialPoolEth": 4,
+      "initialMarketCap": 9694.04
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000000,
+      "currentPriceUSD": 9.69404e-9,
+      "currentPoolEth": 4,
+      "currentMarketCap": 9694.04
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619029728",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xc9e74f3933c3b8c814cc269afa6357954b0981c8",
     "tokenName": "FSMN",
     "idPair": "0x3af560418df769d454e2cdef0c752be76d0b1aba",
@@ -7,7 +38,7 @@
     "dateCreationToken": "2021-04-21T17:52:24Z",
     "initialInfos": {
       "initialPoolToken": 100000000000,
-      "initialPriceUSD": 1.939192e-8,
+      "initialPriceUSD": 1.938808e-8,
       "initialPoolEth": 0.8,
       "initialMarketCap": 1928.604010937088
     },
@@ -38,27 +69,27 @@
     "dateCreationToken": "2021-04-21T17:52:13Z",
     "initialInfos": {
       "initialPoolToken": 100000000000000,
-      "initialPriceUSD": 4.363182e-11,
+      "initialPriceUSD": 4.362318e-11,
       "initialPoolEth": 1.8,
-      "initialMarketCap": 4363.182
+      "initialMarketCap": 4362.318
     },
     "currentInfos": {
-      "currentPoolToken": 36552833159896.48,
-      "currentPriceUSD": 3.337576926567181e-10,
-      "currentPoolEth": 5.032937122476722,
-      "currentMarketCap": 12199.789255513024
+      "currentPoolToken": 32928478316396.062,
+      "currentPriceUSD": 4.1131736741674907e-10,
+      "currentPoolEth": 5.588611152476722,
+      "currentMarketCap": 13544.055014139534
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 14,
     "holderCountOld": 0,
-    "txCount": 50,
+    "txCount": 53,
     "createdAtTimestamp": "1619027533",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 6.649410284895706,
+    "priceChange": 8.428871701163214,
     "isRugged": false
   },
   {
@@ -69,15 +100,15 @@
     "dateCreationToken": "2021-04-21T17:03:27Z",
     "initialInfos": {
       "initialPoolToken": 500000,
-      "initialPriceUSD": 0.00242399,
+      "initialPriceUSD": 0.00242351,
       "initialPoolEth": 0.5,
-      "initialMarketCap": 1211.995
+      "initialMarketCap": 1211.755
     },
     "currentInfos": {
       "currentPoolToken": 250375.56334501752,
-      "currentPriceUSD": 0.00968141606,
+      "currentPriceUSD": 0.00967949894,
       "currentPoolEth": 1,
-      "currentMarketCap": 2423.99
+      "currentMarketCap": 2423.51
     },
     "trustScore": null,
     "contractId": null,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 81.33536050866351,
     "isRugged": false
-  },
-  {
-    "_id": "0xdafa1e4e7409e830b71c83c806debf44e48230ab",
-    "tokenName": "STOGE",
-    "idPair": "0x78c857b2f20eb50e7c6a5e16fe1ba1acb70803c2",
-    "idToken": "0xdafa1e4e7409e830b71c83c806debf44e48230ab",
-    "dateCreationToken": "2021-04-20T02:04:44Z",
-    "initialInfos": {
-      "initialPoolToken": 50000000000000,
-      "initialPriceUSD": 2.715531e-10,
-      "initialPoolEth": 6.5,
-      "initialMarketCap": 13646.21935017652
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.188223278e-9,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 24,
-    "holderCountOld": 0,
-    "txCount": 34,
-    "createdAtTimestamp": "1618884284",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
