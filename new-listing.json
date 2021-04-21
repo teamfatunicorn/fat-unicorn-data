@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x34dc9eceea0fc416a561821fcc43b8d06d301d95",
+    "tokenName": "TOSA",
+    "idPair": "0xad982ee65a4cb9104868df6e4b89835a8dbdd9e4",
+    "idToken": "0x34dc9eceea0fc416a561821fcc43b8d06d301d95",
+    "dateCreationToken": "2021-04-21T19:18:25Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 4.82758e-9,
+      "initialPoolEth": 2,
+      "initialMarketCap": 4827.58
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000000,
+      "currentPriceUSD": 4.82758e-9,
+      "currentPoolEth": 2,
+      "currentMarketCap": 4827.58
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619032705",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x550a903dcab8ce2a1e464a70a5a1f73a156ad3a8",
     "tokenName": "COVINU",
     "idPair": "0x291bbf56b67a2185126f99a3bbb97850fd568685",
@@ -12,22 +43,22 @@
       "initialMarketCap": 19310.32
     },
     "currentInfos": {
-      "currentPoolToken": 68037958.08390084,
-      "currentPriceUSD": 0.0016126173123857516,
-      "currentPoolEth": 45.45515107174804,
-      "currentMarketCap": 109719.18910547461
+      "currentPoolToken": 65813629.91421193,
+      "currentPriceUSD": 0.0017294892690488482,
+      "currentPoolEth": 47.15570397332939,
+      "currentMarketCap": 113823.96669378181
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 106,
     "holderCountOld": 0,
-    "txCount": 228,
+    "txCount": 259,
     "createdAtTimestamp": "1619031755",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 29.3621038235368,
+    "priceChange": 31.56255054763597,
     "isRugged": false
   },
   {
@@ -136,22 +167,22 @@
       "initialMarketCap": 13275.845
     },
     "currentInfos": {
-      "currentPoolToken": 243740063468939,
-      "currentPriceUSD": 1.1421956244647609e-10,
-      "currentPoolEth": 11.53368080905889,
-      "currentMarketCap": 27839.883400098523
+      "currentPoolToken": 239564333791556.84,
+      "currentPriceUSD": 1.1825495323872147e-10,
+      "currentPoolEth": 11.736592284409738,
+      "currentMarketCap": 28329.669090186013
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 43,
     "holderCountOld": 0,
-    "txCount": 98,
+    "txCount": 100,
     "createdAtTimestamp": "1619029941",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 3.301781259365264,
+    "priceChange": 3.4537637053882997,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 75.78055509292662,
     "isRugged": false
-  },
-  {
-    "_id": "0x5c3316cb1d1d3e6de9c5243960557f14a29b880f",
-    "tokenName": "420GE",
-    "idPair": "0xc25fdf04b5be913031995255ddcdc44b417762a6",
-    "idToken": "0x5c3316cb1d1d3e6de9c5243960557f14a29b880f",
-    "dateCreationToken": "2021-04-20T03:32:34Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000000,
-      "initialPriceUSD": 8.859606e-12,
-      "initialPoolEth": 4.2,
-      "initialMarketCap": 8859.606
-    },
-    "currentInfos": {
-      "currentPoolToken": 11500427685205,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 5.4946e-14,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 22,
-    "holderCountOld": 23,
-    "txCount": 30,
-    "createdAtTimestamp": "1618889554",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
