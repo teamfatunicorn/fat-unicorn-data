@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x81dbc1c8e40c3095071949eda9800c2209a7279a",
+    "tokenName": "PUP",
+    "idPair": "0x517df5a818164e68adc986809286e0fedadd8597",
+    "idToken": "0x81dbc1c8e40c3095071949eda9800c2209a7279a",
+    "dateCreationToken": "2021-04-21T18:32:21Z",
+    "initialInfos": {
+      "initialPoolToken": 500000000000000,
+      "initialPriceUSD": 2.66288e-11,
+      "initialPoolEth": 5.5,
+      "initialMarketCap": 13314.4
+    },
+    "currentInfos": {
+      "currentPoolToken": 340850636630339,
+      "currentPriceUSD": 5.749659707733968e-11,
+      "currentPoolEth": 8.095568290602136,
+      "currentMarketCap": 19597.75171788932
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 14,
+    "createdAtTimestamp": "1619029941",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.1591884379821726,
+    "isRugged": false
+  },
+  {
     "_id": "0xbdb84d00d489cace7b9c9fadc64397cce606f322",
     "tokenName": "SPITZ",
     "idPair": "0x26256e6e2628e0216b7d6ab7afca53b4839c8865",
@@ -12,22 +43,22 @@
       "initialMarketCap": 9683.2
     },
     "currentInfos": {
-      "currentPoolToken": 800514977601.7369,
-      "currentPriceUSD": 1.512026675161329e-8,
-      "currentPoolEth": 5,
-      "currentMarketCap": 12104
+      "currentPoolToken": 782472604070.825,
+      "currentPriceUSD": 1.5826676068133546e-8,
+      "currentPoolEth": 5.11563963847417,
+      "currentMarketCap": 12383.940436817858
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 5,
+    "txCount": 7,
     "createdAtTimestamp": "1619029728",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.561494831420738,
+    "priceChange": 0.6344468841016963,
     "isRugged": false
   },
   {
@@ -74,22 +105,22 @@
       "initialMarketCap": 4357.44
     },
     "currentInfos": {
-      "currentPoolToken": 31255743541902.934,
-      "currentPriceUSD": 4.560809714478618e-10,
-      "currentPoolEth": 5.888611152476722,
-      "currentMarketCap": 14255.149877916321
+      "currentPoolToken": 30254901043976.176,
+      "currentPriceUSD": 4.869527381103095e-10,
+      "currentPoolEth": 6.0858835528014295,
+      "currentMarketCap": 14732.706904620662
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 22,
     "holderCountOld": 0,
-    "txCount": 55,
+    "txCount": 60,
     "createdAtTimestamp": "1619027533",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 9.466718335716886,
+    "priceChange": 10.175202369058656,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x8866fef71d3e71edb20aec2529953db76354a9d4",
-    "tokenName": "TORA",
-    "idPair": "0x79ef20d5feae64abb48191bcadd838764175bffc",
-    "idToken": "0x8866fef71d3e71edb20aec2529953db76354a9d4",
-    "dateCreationToken": "2021-04-20T02:17:03Z",
-    "initialInfos": {
-      "initialPoolToken": 438909281594131,
-      "initialPriceUSD": 2.7163451537634154e-11,
-      "initialPoolEth": 5.7,
-      "initialMarketCap": 11922.291
-    },
-    "currentInfos": {
-      "currentPoolToken": 54968059774617,
-      "currentPriceUSD": 2.2365125750107184e-9,
-      "currentPoolEth": 50.86378741647474,
-      "currentMarketCap": 122936.75690987175
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 327,
-    "holderCountOld": 324,
-    "txCount": 725,
-    "createdAtTimestamp": "1618885023",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 81.33536050866351,
-    "isRugged": false
   }
 ]
