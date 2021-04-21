@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xa52817aba4fa2533e6be9f4e82c47de738649d09",
+    "tokenName": "AINU",
+    "idPair": "0x0f16e959ef35e68fdefb9b128705d347e74c2908",
+    "idToken": "0xa52817aba4fa2533e6be9f4e82c47de738649d09",
+    "dateCreationToken": "2021-04-21T13:40:18Z",
+    "initialInfos": {
+      "initialPoolToken": 500000000000000,
+      "initialPriceUSD": 9.53748e-12,
+      "initialPoolEth": 2,
+      "initialMarketCap": 4768.74
+    },
+    "currentInfos": {
+      "currentPoolToken": 266279826574235.9,
+      "currentPriceUSD": 3.3844131866612445e-11,
+      "currentPoolEth": 3.779618752121623,
+      "currentMarketCap": 9012.009563997133
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 10,
+    "createdAtTimestamp": "1619012418",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.548540271288899,
+    "isRugged": false
+  },
+  {
     "_id": "0x34fdba419126f539f7bd714289b5f6c0b0a90064",
     "tokenName": "MOAR",
     "idPair": "0x500067b8ad287c695c974709ddb30a015df7af78",
@@ -12,22 +43,22 @@
       "initialMarketCap": 1072966.5
     },
     "currentInfos": {
-      "currentPoolToken": 1450000,
-      "currentPriceUSD": 0.7399768965517242,
-      "currentPoolEth": 450,
-      "currentMarketCap": 1072966.5
+      "currentPoolToken": 1449165.2164814458,
+      "currentPriceUSD": 0.7408309445948846,
+      "currentPoolEth": 450.26,
+      "currentMarketCap": 1073586.4362
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 1,
+    "txCount": 3,
     "createdAtTimestamp": "1619012079",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.0011541550109744184,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 2.38437
     },
     "currentInfos": {
-      "currentPoolToken": 12497351059725.271,
-      "currentPriceUSD": 1.5616068659463415e-11,
-      "currentPoolEth": 0.08184949995558656,
-      "currentMarketCap": 195.15949221008773
+      "currentPoolToken": 42497351059725.27,
+      "currentPriceUSD": 1.3533329103609934e-12,
+      "currentPoolEth": 0.0241208637051465,
+      "currentMarketCap": 57.51306379229085
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 1,
+    "holderCount": 13,
     "holderCountOld": 0,
-    "txCount": 19,
+    "txCount": 20,
     "createdAtTimestamp": "1619011660",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 6548.347902994675,
+    "priceChange": 566.5851106837417,
     "isRugged": true
   },
   {
@@ -82,7 +113,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 4,
+    "holderCount": 6,
     "holderCountOld": 0,
     "txCount": 4,
     "createdAtTimestamp": "1619011612",
@@ -113,7 +144,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 20,
+    "holderCount": 27,
     "holderCountOld": 0,
     "txCount": 50,
     "createdAtTimestamp": "1619011534",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xa54379f46f7071a6a9fa8edce35b5a00393d0654",
-    "tokenName": "BDOGE",
-    "idPair": "0x91827da64c50150916ab3d1c0bb6e397885c428f",
-    "idToken": "0xa54379f46f7071a6a9fa8edce35b5a00393d0654",
-    "dateCreationToken": "2021-04-19T20:22:04Z",
-    "initialInfos": {
-      "initialPoolToken": 485000000000000,
-      "initialPriceUSD": 1.5920092783505156e-11,
-      "initialPoolEth": 3.5,
-      "initialMarketCap": 7721.245
-    },
-    "currentInfos": {
-      "currentPoolToken": 1,
-      "currentPriceUSD": 235.26426625,
-      "currentPoolEth": 0.0991250000001764,
-      "currentMarketCap": 235.26426625
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 21,
-    "holderCountOld": 20,
-    "txCount": 20,
-    "createdAtTimestamp": "1618863724",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 14777820044726.24,
     "isRugged": true
   }
 ]
