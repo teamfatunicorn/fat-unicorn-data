@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xe68a89e7698a8e17571e7ef1bd76a7b337cf0642",
+    "tokenName": "Snoopy",
+    "idPair": "0x56f4add48d4b4c820e83ebc0f7ae2b26bfe2a315",
+    "idToken": "0xe68a89e7698a8e17571e7ef1bd76a7b337cf0642",
+    "dateCreationToken": "2021-04-21T11:19:50Z",
+    "initialInfos": {
+      "initialPoolToken": 10000000000000,
+      "initialPriceUSD": 4.55326e-10,
+      "initialPoolEth": 2,
+      "initialMarketCap": 4532.101071746732
+    },
+    "currentInfos": {
+      "currentPoolToken": 8004802881729.037,
+      "currentPriceUSD": 7.11020006875e-10,
+      "currentPoolEth": 2.5,
+      "currentMarketCap": 5691.575
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619003990",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.5615625,
+    "isRugged": false
+  },
+  {
     "_id": "0xc5cc0b62d066e1162946acb3a64e7a118d47e819",
     "tokenName": "KYNU",
     "idPair": "0x83e36d7b891160b608f3504b394268b05efdfe61",
@@ -12,22 +43,22 @@
       "initialMarketCap": 8623.623990129896
     },
     "currentInfos": {
-      "currentPoolToken": 224029553419.02664,
-      "currentPriceUSD": 1.210762780241038e-7,
-      "currentPoolEth": 11.914392982337379,
-      "currentMarketCap": 27124.664495377885
+      "currentPoolToken": 213830467857.34497,
+      "currentPriceUSD": 1.3291998974785758e-7,
+      "currentPoolEth": 12.48439298233738,
+      "currentMarketCap": 28422.343595377883
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 29,
+    "holderCount": 31,
     "holderCountOld": 0,
-    "txCount": 33,
+    "txCount": 35,
     "createdAtTimestamp": "1619002275",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 8.796728014291745,
+    "priceChange": 9.75504639284477,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 27.823260532167684,
-    "isRugged": false
-  },
-  {
-    "_id": "0xc3b3643bb5846d289598b5aef29f7203e95cccd6",
-    "tokenName": "SHIKO",
-    "idPair": "0xa87a6aa45050588e6b7b3edc104f33e79ec86f9f",
-    "idToken": "0xc3b3643bb5846d289598b5aef29f7203e95cccd6",
-    "dateCreationToken": "2021-04-19T18:46:26Z",
-    "initialInfos": {
-      "initialPoolToken": 45000000,
-      "initialPriceUSD": 0.000217858,
-      "initialPoolEth": 4.5,
-      "initialMarketCap": 9747.321993848465
-    },
-    "currentInfos": {
-      "currentPoolToken": 33880077.856786616,
-      "currentPriceUSD": 0.0004072575375143695,
-      "currentPoolEth": 6.087173130669004,
-      "currentMarketCap": 13797.917078750035
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 23,
-    "holderCountOld": 24,
-    "txCount": 137,
-    "createdAtTimestamp": "1618857986",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.8693715058174109,
     "isRugged": false
   }
 ]
