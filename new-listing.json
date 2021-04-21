@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc5cc0b62d066e1162946acb3a64e7a118d47e819",
+    "tokenName": "KYNU",
+    "idPair": "0x83e36d7b891160b608f3504b394268b05efdfe61",
+    "idToken": "0xc5cc0b62d066e1162946acb3a64e7a118d47e819",
+    "dateCreationToken": "2021-04-21T10:51:15Z",
+    "initialInfos": {
+      "initialPoolToken": 700000000000,
+      "initialPriceUSD": 1.2332737142857143e-8,
+      "initialPoolEth": 3.8,
+      "initialMarketCap": 8623.623990129896
+    },
+    "currentInfos": {
+      "currentPoolToken": 466670268670.7686,
+      "currentPriceUSD": 2.7780574170552604e-8,
+      "currentPoolEth": 5.7066,
+      "currentMarketCap": 12964.368012
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 7,
+    "createdAtTimestamp": "1619002275",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.2525878763776714,
+    "isRugged": false
+  },
+  {
     "_id": "0xb1498eb7bba78de3bfef57ae0bc1e3c70358a594",
     "tokenName": "CPC",
     "idPair": "0xbe526cd5c2febc43fe63b945a53696abd21e3366",
@@ -43,22 +74,22 @@
       "initialMarketCap": 4543.64
     },
     "currentInfos": {
-      "currentPoolToken": 463.2910329112378,
-      "currentPriceUSD": 16.239174253200975,
-      "currentPoolEth": 3.31164608701006,
-      "currentMarketCap": 7523.4638133910585
+      "currentPoolToken": 527.1291608003241,
+      "currentPriceUSD": 12.54860536144141,
+      "currentPoolEth": 2.91164608701006,
+      "currentMarketCap": 6614.735813391058
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 34423,
     "holderCountOld": 0,
-    "txCount": 15,
+    "txCount": 16,
     "createdAtTimestamp": "1619000639",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.7305704522025391,
+    "priceChange": 1.1100119059039089,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.9633777202475065,
     "isRugged": false
-  },
-  {
-    "_id": "0xc9aeecab9af105216f55cb2c245208ee365c5163",
-    "tokenName": "SINU",
-    "idPair": "0xf73c722d94eb9f5dd244be60e1dc18dccd2d1565",
-    "idToken": "0xc9aeecab9af105216f55cb2c245208ee365c5163",
-    "dateCreationToken": "2021-04-19T18:34:14Z",
-    "initialInfos": {
-      "initialPoolToken": 990000000000000,
-      "initialPriceUSD": 8.802343434343434e-12,
-      "initialPoolEth": 4,
-      "initialMarketCap": 8644.759011620172
-    },
-    "currentInfos": {
-      "currentPoolToken": 5.817651183e-9,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 34,
-    "holderCountOld": 32,
-    "txCount": 35,
-    "createdAtTimestamp": "1618857254",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
