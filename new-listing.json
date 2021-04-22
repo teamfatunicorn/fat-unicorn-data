@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xa38af17d9b909cc989acc349195d4b5258639725",
+    "tokenName": "EARTH",
+    "idPair": "0x125a8210b855395215b37c48b3eabb0ea96c037e",
+    "idToken": "0xa38af17d9b909cc989acc349195d4b5258639725",
+    "dateCreationToken": "2021-04-22T21:52:21Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000,
+      "initialPriceUSD": 0.0000779058,
+      "initialPoolEth": 31.5,
+      "initialMarketCap": 77905.8
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000,
+      "currentPriceUSD": 0.0000779058,
+      "currentPoolEth": 31.5,
+      "currentMarketCap": 77905.8
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619128341",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xc6bdd054e7fa38a4af3596dab2591354af3ec397",
     "tokenName": "COINDEV",
     "idPair": "0x6588cf045885eec5d51c6e18b3c13a6d5bbe042c",
@@ -167,22 +198,22 @@
       "initialMarketCap": 98976.80944678166
     },
     "currentInfos": {
-      "currentPoolToken": 2616296.96885552,
-      "currentPriceUSD": 0.05535272719196417,
-      "currentPoolEth": 58.55538265009776,
-      "currentMarketCap": 144819.17237022237
+      "currentPoolToken": 2655146.2826489317,
+      "currentPriceUSD": 0.05378473160149544,
+      "currentPoolEth": 57.74152117701009,
+      "currentMarketCap": 142806.33017498112
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1841,
     "holderCountOld": 0,
-    "txCount": 242,
+    "txCount": 254,
     "createdAtTimestamp": "1619125445",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.9106977661902519,
+    "priceChange": -0.9132274610388378,
     "isRugged": false
   },
   {
@@ -2139,37 +2170,6 @@
     "isRugged": true
   },
   {
-    "_id": "0x647e75d46265f93bfe6a8db4c70f882d97f28d34",
-    "tokenName": "M2",
-    "idPair": "0x213f34ed109416b5ad6b980b233b911eecd61ce1",
-    "idToken": "0x647e75d46265f93bfe6a8db4c70f882d97f28d34",
-    "dateCreationToken": "2021-04-22T11:27:03Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000,
-      "initialPriceUSD": 0.0103158,
-      "initialPoolEth": 4,
-      "initialMarketCap": 10315.8
-    },
-    "currentInfos": {
-      "currentPoolToken": 5e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 1,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1619090823",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0xdb6371d1065db76903870f38cd8ab9dfd0264334",
     "tokenName": "LODOGE",
     "idPair": "0x9ec6061330ec8f8abf224b931bf4aed2ce6b6769",
@@ -2193,6 +2193,37 @@
     "holderCount": 14,
     "holderCountOld": 0,
     "txCount": 21,
+    "createdAtTimestamp": "1619090823",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0x647e75d46265f93bfe6a8db4c70f882d97f28d34",
+    "tokenName": "M2",
+    "idPair": "0x213f34ed109416b5ad6b980b233b911eecd61ce1",
+    "idToken": "0x647e75d46265f93bfe6a8db4c70f882d97f28d34",
+    "dateCreationToken": "2021-04-22T11:27:03Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000,
+      "initialPriceUSD": 0.0103158,
+      "initialPoolEth": 4,
+      "initialMarketCap": 10315.8
+    },
+    "currentInfos": {
+      "currentPoolToken": 5e-13,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 2e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
     "createdAtTimestamp": "1619090823",
     "isCodeGenerator": false,
     "linksSocial": [],
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.42774141300767604,
-    "isRugged": true
-  },
-  {
-    "_id": "0xd019403e1cc2f0d993008adf0f30d1acaf9315ae",
-    "tokenName": "REDO",
-    "idPair": "0x850d5b5b0493c9a6d0bb76b7a03b76a7dd0097fd",
-    "idToken": "0xd019403e1cc2f0d993008adf0f30d1acaf9315ae",
-    "dateCreationToken": "2021-04-21T09:04:05Z",
-    "initialInfos": {
-      "initialPoolToken": 989000000000,
-      "initialPriceUSD": 7.892366026289181e-9,
-      "initialPoolEth": 3.4,
-      "initialMarketCap": 7796.644634223288
-    },
-    "currentInfos": {
-      "currentPoolToken": 3.44713207e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 13,
-    "holderCountOld": 0,
-    "txCount": 19,
-    "createdAtTimestamp": "1618995845",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
