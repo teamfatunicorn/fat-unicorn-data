@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x2ded1eb5ec9542a60d2d075a276b247a4ea65aba",
+    "tokenName": "FOIL",
+    "idPair": "0xc87e392d56a6d78a566671acaa13adc8a65485c1",
+    "idToken": "0x2ded1eb5ec9542a60d2d075a276b247a4ea65aba",
+    "dateCreationToken": "2021-04-22T06:45:17Z",
+    "initialInfos": {
+      "initialPoolToken": 1800000,
+      "initialPriceUSD": 0.00028653888067218554,
+      "initialPoolEth": 0.2078896183,
+      "initialMarketCap": 515.769985209934
+    },
+    "currentInfos": {
+      "currentPoolToken": 1573599.3001802056,
+      "currentPriceUSD": 0.00037506332466107826,
+      "currentPoolEth": 0.2378896183,
+      "currentMarketCap": 590.199385209934
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619073917",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.30894391637611307,
+    "isRugged": false
+  },
+  {
     "_id": "0xdf027e9453669c2e961b66034555f451238f6b01",
     "tokenName": "KiKi",
     "idPair": "0x0d9cc38ff2f74fbc5ccb13ab2492b39e85ad3a75",
@@ -43,22 +74,22 @@
       "initialMarketCap": 7452.525784863594
     },
     "currentInfos": {
-      "currentPoolToken": 170009022132.32428,
-      "currentPriceUSD": 1.292217537379732e-7,
-      "currentPoolEth": 8.854913780528587,
-      "currentMarketCap": 21968.86399121684
+      "currentPoolToken": 168116154397.09604,
+      "currentPriceUSD": 1.3215245180269604e-7,
+      "currentPoolEth": 8.954913780528587,
+      "currentMarketCap": 22216.96199121684
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 9,
     "holderCountOld": 0,
-    "txCount": 14,
+    "txCount": 15,
     "createdAtTimestamp": "1619073055",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 7.680827316757436,
+    "priceChange": 7.877705033407231,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x106d3c66d22d2dd0446df23d7f5960752994d600",
-    "tokenName": "LABRA",
-    "idPair": "0x1636a5dfcf7a21945c06d1bea40b52ce975ea614",
-    "idToken": "0x106d3c66d22d2dd0446df23d7f5960752994d600",
-    "dateCreationToken": "2021-04-20T15:16:47Z",
-    "initialInfos": {
-      "initialPoolToken": 247172495387258.03,
-      "initialPriceUSD": 5.3587515792353045e-11,
-      "initialPoolEth": 6,
-      "initialMarketCap": 13245.36
-    },
-    "currentInfos": {
-      "currentPoolToken": 47241421576549.58,
-      "currentPriceUSD": 1.6670293716773894e-9,
-      "currentPoolEth": 31.95113471245123,
-      "currentMarketCap": 78752.8373279021
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 121,
-    "holderCountOld": 114,
-    "txCount": 237,
-    "createdAtTimestamp": "1618931807",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 30.10853987217812,
-    "isRugged": false
   }
 ]
