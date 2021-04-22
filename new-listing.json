@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc2e3460f65ae7254bc8e6137e533e749d667575d",
+    "tokenName": "Kimochi",
+    "idPair": "0x82fdfe1f9a2f0448d85b20ecfaba2007a4ac11e9",
+    "idToken": "0xc2e3460f65ae7254bc8e6137e533e749d667575d",
+    "dateCreationToken": "2021-04-22T12:32:41Z",
+    "initialInfos": {
+      "initialPoolToken": 920000000000,
+      "initialPriceUSD": 7.848978260869565e-9,
+      "initialPoolEth": 2.8,
+      "initialMarketCap": 7237.818593569112
+    },
+    "currentInfos": {
+      "currentPoolToken": 920000000000,
+      "currentPriceUSD": 7.848978260869565e-9,
+      "currentPoolEth": 2.8,
+      "currentMarketCap": 7221.06
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619094761",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xc55a34ed7f6eac0403555b6ebbdae0b55d9dd307",
     "tokenName": "ETM",
     "idPair": "0x8feef473686ee14fb9534cedabc91c462b673334",
@@ -12,22 +43,22 @@
       "initialMarketCap": 1274.9786616647375
     },
     "currentInfos": {
-      "currentPoolToken": 2314.0045400743434,
-      "currentPriceUSD": 1.3304375011582283,
-      "currentPoolEth": 1.1937565357862006,
-      "currentMarketCap": 3078.6384179653046
+      "currentPoolToken": 2087.371842081223,
+      "currentPriceUSD": 1.6355025248215762,
+      "currentPoolEth": 1.3237565357862005,
+      "currentMarketCap": 3413.9019179653046
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 378,
     "holderCountOld": 0,
-    "txCount": 12,
+    "txCount": 13,
     "createdAtTimestamp": "1619092941",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 4.6747174286979245,
+    "priceChange": 5.9759118141248715,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 773685
     },
     "currentInfos": {
-      "currentPoolToken": 7598232.397869842,
-      "currentPriceUSD": 0.10184809913381335,
-      "currentPoolEth": 300.07,
-      "currentMarketCap": 773865.5265
+      "currentPoolToken": 7573070.4315943085,
+      "currentPriceUSD": 0.1025270375488295,
+      "currentPoolEth": 301.07,
+      "currentMarketCap": 776444.4765
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 3,
     "holderCountOld": 0,
-    "txCount": 2,
+    "txCount": 3,
     "createdAtTimestamp": "1619092761",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.0004660209477777513,
+    "priceChange": 0.007135313947025174,
     "isRugged": false
   },
   {
@@ -93,37 +124,6 @@
     "isRugged": false
   },
   {
-    "_id": "0xdb6371d1065db76903870f38cd8ab9dfd0264334",
-    "tokenName": "LODOGE",
-    "idPair": "0x9ec6061330ec8f8abf224b931bf4aed2ce6b6769",
-    "idToken": "0xdb6371d1065db76903870f38cd8ab9dfd0264334",
-    "dateCreationToken": "2021-04-22T11:27:03Z",
-    "initialInfos": {
-      "initialPoolToken": 39516129032258.06,
-      "initialPriceUSD": 1.4684225510204082e-10,
-      "initialPoolEth": 2.25,
-      "initialMarketCap": 5741.992512429316
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.00010193,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 14,
-    "holderCountOld": 0,
-    "txCount": 21,
-    "createdAtTimestamp": "1619090823",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0x647e75d46265f93bfe6a8db4c70f882d97f28d34",
     "tokenName": "M2",
     "idPair": "0x213f34ed109416b5ad6b980b233b911eecd61ce1",
@@ -153,6 +153,37 @@
     "officialSite": null,
     "priceChange": 0,
     "isRugged": false
+  },
+  {
+    "_id": "0xdb6371d1065db76903870f38cd8ab9dfd0264334",
+    "tokenName": "LODOGE",
+    "idPair": "0x9ec6061330ec8f8abf224b931bf4aed2ce6b6769",
+    "idToken": "0xdb6371d1065db76903870f38cd8ab9dfd0264334",
+    "dateCreationToken": "2021-04-22T11:27:03Z",
+    "initialInfos": {
+      "initialPoolToken": 39516129032258.06,
+      "initialPriceUSD": 1.4684225510204082e-10,
+      "initialPoolEth": 2.25,
+      "initialMarketCap": 5741.992512429316
+    },
+    "currentInfos": {
+      "currentPoolToken": 0.00010193,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-17,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 14,
+    "holderCountOld": 0,
+    "txCount": 21,
+    "createdAtTimestamp": "1619090823",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
   },
   {
     "_id": "0xa9cb88a2c405b384b336cd93db6ca5dc2da7ca57",
@@ -198,22 +229,22 @@
       "initialMarketCap": 131526.45
     },
     "currentInfos": {
-      "currentPoolToken": 874469.6981262818,
-      "currentPriceUSD": 0.18699251958382676,
-      "currentPoolEth": 63.405375114810994,
-      "currentMarketCap": 163519.29215234183
+      "currentPoolToken": 868921.6113203521,
+      "currentPriceUSD": 0.1893916626519846,
+      "currentPoolEth": 63.81143825285631,
+      "currentMarketCap": 164566.50868220298
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 122,
     "holderCountOld": 0,
-    "txCount": 149,
+    "txCount": 150,
     "createdAtTimestamp": "1619090628",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.5178393303817385,
+    "priceChange": 0.5373134447268859,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 56.42276349335665,
     "isRugged": false
-  },
-  {
-    "_id": "0x1a1fa080bdcdf598d5ada28126c3c391d29c3c7e",
-    "tokenName": "MOON",
-    "idPair": "0xc87da6787f021309b5286a84b45952bb2f87ae15",
-    "idToken": "0x1a1fa080bdcdf598d5ada28126c3c391d29c3c7e",
-    "dateCreationToken": "2021-04-20T21:23:37Z",
-    "initialInfos": {
-      "initialPoolToken": 100000000000,
-      "initialPriceUSD": 5.387474e-8,
-      "initialPoolEth": 2.3,
-      "initialMarketCap": 5387.474
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.43988579e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 7,
-    "holderCountOld": 5,
-    "txCount": 8,
-    "createdAtTimestamp": "1618953817",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
