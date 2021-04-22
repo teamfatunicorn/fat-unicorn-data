@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7858d93c8562a494d07eea201459e80a7cb59a2a",
+    "tokenName": "PSCT",
+    "idPair": "0x6c9cfe7e94380aa3605cdf3dede4053208cfbe92",
+    "idToken": "0x7858d93c8562a494d07eea201459e80a7cb59a2a",
+    "dateCreationToken": "2021-04-22T18:07:06Z",
+    "initialInfos": {
+      "initialPoolToken": 10000000000000,
+      "initialPriceUSD": 8.850275e-10,
+      "initialPoolEth": 3.5,
+      "initialMarketCap": 8850.275
+    },
+    "currentInfos": {
+      "currentPoolToken": 10000000000000,
+      "currentPriceUSD": 8.850275e-10,
+      "currentPoolEth": 3.5,
+      "currentMarketCap": 8850.275
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619114826",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xa4cf2afd3b165975afffbf7e487cdd40c894ab6b",
     "tokenName": "SHIBAKEN",
     "idPair": "0x420cf323d2c19ed37b3a24093fd29da3733e7e58",
@@ -12,22 +43,22 @@
       "initialMarketCap": 44251.375
     },
     "currentInfos": {
-      "currentPoolToken": 31870689819145880,
-      "currentPriceUSD": 1.5060105532851917e-12,
-      "currentPoolEth": 18.98150997888661,
-      "currentMarketCap": 47997.595208112616
+      "currentPoolToken": 29237890691209210,
+      "currentPriceUSD": 1.7908621603468066e-12,
+      "currentPoolEth": 20.707109361612886,
+      "currentMarketCap": 52361.03208724271
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 0,
     "holderCountOld": 0,
-    "txCount": 35,
+    "txCount": 68,
     "createdAtTimestamp": "1619114664",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.17556356398930126,
+    "priceChange": 0.3979133806456124,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 12643.25
     },
     "currentInfos": {
-      "currentPoolToken": 9210302487664.756,
-      "currentPriceUSD": 1.4907837737565278e-9,
-      "currentPoolEth": 5.43,
-      "currentMarketCap": 13730.5695
+      "currentPoolToken": 9152410290079.166,
+      "currentPriceUSD": 1.5097314318915307e-9,
+      "currentPoolEth": 5.46445,
+      "currentMarketCap": 13817.6814925
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 3,
+    "txCount": 4,
     "createdAtTimestamp": "1619113099",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.17911436834400002,
+    "priceChange": 0.19410075090782097,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 5.959982305210338,
     "isRugged": false
-  },
-  {
-    "_id": "0x6357865d91ebc7d772c53d90c3c3ae750197acbc",
-    "tokenName": "SAFEINU",
-    "idPair": "0x4d37ddae9109640d5ae3cb3a2b20445c0378e970",
-    "idToken": "0x6357865d91ebc7d772c53d90c3c3ae750197acbc",
-    "dateCreationToken": "2021-04-21T04:02:20Z",
-    "initialInfos": {
-      "initialPoolToken": 990000000000000,
-      "initialPriceUSD": 9.33179797979798e-12,
-      "initialPoolEth": 4,
-      "initialMarketCap": 9238.48
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.064809093e-9,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 29,
-    "holderCountOld": 28,
-    "txCount": 32,
-    "createdAtTimestamp": "1618977740",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
