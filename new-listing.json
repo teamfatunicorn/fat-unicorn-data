@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x3fcbaa7dcc15d99df96927a85880bbd9e7b643e0",
+    "tokenName": "SafeSex",
+    "idPair": "0x06473e3e4bb179372bfe8376b758e5f67921f5cd",
+    "idToken": "0x3fcbaa7dcc15d99df96927a85880bbd9e7b643e0",
+    "dateCreationToken": "2021-04-22T15:53:40Z",
+    "initialInfos": {
+      "initialPoolToken": 80000000,
+      "initialPriceUSD": 0.000064678,
+      "initialPoolEth": 2,
+      "initialMarketCap": 5174.24
+    },
+    "currentInfos": {
+      "currentPoolToken": 56195294.9808659,
+      "currentPriceUSD": 0.00013120835120645873,
+      "currentPoolEth": 2.85,
+      "currentMarketCap": 7373.292
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1619106820",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.0286395869763862,
+    "isRugged": false
+  },
+  {
     "_id": "0x6d3ef9877d90829d646ef5146be9b80278fb0bf1",
     "tokenName": "DRAGON",
     "idPair": "0x066e3ce0fe89db97c42811a94eac68894dc84c4e",
@@ -136,22 +167,22 @@
       "initialMarketCap": 465681.6
     },
     "currentInfos": {
-      "currentPoolToken": 7422752.345400869,
-      "currentPriceUSD": 0.10167930286100443,
-      "currentPoolEth": 291.7299096254699,
-      "currentMarketCap": 754740.283790246
+      "currentPoolToken": 7476216.358912466,
+      "currentPriceUSD": 0.10027455493091703,
+      "currentPoolEth": 289.77174153390155,
+      "currentMarketCap": 749674.2679571885
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 989,
     "holderCountOld": 0,
-    "txCount": 844,
+    "txCount": 877,
     "createdAtTimestamp": "1619103845",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.576472366011138,
+    "priceChange": 1.5408771748439727,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.8608523523469737,
     "isRugged": false
-  },
-  {
-    "_id": "0x07897897a45c558290302b869d16085884780b67",
-    "tokenName": "HAKKA",
-    "idPair": "0xac7793b5d74439c65270b53c833b6300bfad8cfd",
-    "idToken": "0x07897897a45c558290302b869d16085884780b67",
-    "dateCreationToken": "2021-04-21T00:49:07Z",
-    "initialInfos": {
-      "initialPoolToken": 5000000000,
-      "initialPriceUSD": 4.6732094e-7,
-      "initialPoolEth": 1.01,
-      "initialMarketCap": 2336.6047
-    },
-    "currentInfos": {
-      "currentPoolToken": 5.2295977e-11,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 5,
-    "holderCountOld": 0,
-    "txCount": 5,
-    "createdAtTimestamp": "1618966147",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
