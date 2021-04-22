@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xe41391887182fc360192f424628e8c5fb64cdd28",
+    "tokenName": "AKITA",
+    "idPair": "0xcb00e5b604169517b5676f8a50e8edc2f96f8683",
+    "idToken": "0xe41391887182fc360192f424628e8c5fb64cdd28",
+    "dateCreationToken": "2021-04-22T00:21:30Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 9.40628e-9,
+      "initialPoolEth": 4,
+      "initialMarketCap": 9420.93187431712
+    },
+    "currentInfos": {
+      "currentPoolToken": 934767010287.6101,
+      "currentPriceUSD": 1.0767089006385962e-8,
+      "currentPoolEth": 4.28,
+      "currentMarketCap": 10064.7196
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1619050890",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.14467026352457737,
+    "isRugged": false
+  },
+  {
     "_id": "0xe7e9adc235360c2b6c53f68f6fba58d0955790fd",
     "tokenName": "DBR",
     "idPair": "0x4c608ab8ab7e593ba96d9bbe201783d36f726523",
@@ -7,7 +38,7 @@
     "dateCreationToken": "2021-04-22T00:07:01Z",
     "initialInfos": {
       "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 1.642053e-8,
+      "initialPriceUSD": 1.646099e-8,
       "initialPoolEth": 7,
       "initialMarketCap": 16469.98984805034
     },
@@ -38,27 +69,27 @@
     "dateCreationToken": "2021-04-21T23:56:12Z",
     "initialInfos": {
       "initialPoolToken": 3793919610143257,
-      "initialPriceUSD": 5.2555712953673006e-12,
+      "initialPriceUSD": 5.268520963533344e-12,
       "initialPoolEth": 8.5,
-      "initialMarketCap": 19939.215
+      "initialMarketCap": 19988.345
     },
     "currentInfos": {
-      "currentPoolToken": 1696486942498337.5,
-      "currentPriceUSD": 2.8417583628933416e-11,
-      "currentPoolEth": 20.55173718186187,
-      "currentMarketCap": 48210.05956384006
+      "currentPoolToken": 1682040351523997.8,
+      "currentPriceUSD": 2.9023227345713896e-11,
+      "currentPoolEth": 20.759849601307142,
+      "currentMarketCap": 48818.2395269455
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 133,
+    "holderCount": 142,
     "holderCountOld": 0,
-    "txCount": 197,
+    "txCount": 203,
     "createdAtTimestamp": "1619049372",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 4.407135025260346,
+    "priceChange": 4.508799821923725,
     "isRugged": false
   },
   {
@@ -69,7 +100,7 @@
     "dateCreationToken": "2021-04-21T23:40:43Z",
     "initialInfos": {
       "initialPoolToken": 10000000000000,
-      "initialPriceUSD": 1.172895e-9,
+      "initialPriceUSD": 1.175785e-9,
       "initialPoolEth": 5,
       "initialMarketCap": 11811.500031576363
     },
@@ -113,7 +144,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 14,
+    "holderCount": 15,
     "holderCountOld": 0,
     "txCount": 13,
     "createdAtTimestamp": "1619046793",
@@ -4247,37 +4278,6 @@
     "isRugged": false
   },
   {
-    "_id": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
-    "tokenName": "HACHI",
-    "idPair": "0x9636a2fdf331d843c6d8cac72acd38274301b74d",
-    "idToken": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
-    "dateCreationToken": "2021-04-20T21:55:20Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 9.29168e-9,
-      "initialPoolEth": 4,
-      "initialMarketCap": 9291.68
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.51507233e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6,
-    "holderCountOld": 0,
-    "txCount": 7,
-    "createdAtTimestamp": "1618955720",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0x069131a539e523f89e760299e5b485632a1f9e4d",
     "tokenName": "SAFECAT",
     "idPair": "0x04ca55d74feb53e611b4f49254ecc31c149561f9",
@@ -4301,6 +4301,37 @@
     "holderCount": 29,
     "holderCountOld": 28,
     "txCount": 29,
+    "createdAtTimestamp": "1618955720",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
+    "tokenName": "HACHI",
+    "idPair": "0x9636a2fdf331d843c6d8cac72acd38274301b74d",
+    "idToken": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
+    "dateCreationToken": "2021-04-20T21:55:20Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 9.29168e-9,
+      "initialPoolEth": 4,
+      "initialMarketCap": 9291.68
+    },
+    "currentInfos": {
+      "currentPoolToken": 4.51507233e-10,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 6,
+    "holderCountOld": 0,
+    "txCount": 7,
     "createdAtTimestamp": "1618955720",
     "isCodeGenerator": false,
     "linksSocial": [],
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 4.61733428887691,
     "isRugged": true
-  },
-  {
-    "_id": "0xadc4b357fcfbdd3021d9faace39b61893b7c504a",
-    "tokenName": "PMOON",
-    "idPair": "0x8ee506bed900ae431ec36e551c1e3ba9fb6e35ed",
-    "idToken": "0xadc4b357fcfbdd3021d9faace39b61893b7c504a",
-    "dateCreationToken": "2021-04-20T07:11:48Z",
-    "initialInfos": {
-      "initialPoolToken": 402142844911349.75,
-      "initialPriceUSD": 3.7050267556754654e-10,
-      "initialPoolEth": 70,
-      "initialMarketCap": 148995
-    },
-    "currentInfos": {
-      "currentPoolToken": 276734370329378.34,
-      "currentPriceUSD": 9.30942313650789e-10,
-      "currentPoolEth": 108.76578878799168,
-      "currentMarketCap": 257623.73498112574
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 160,
-    "holderCountOld": 158,
-    "txCount": 277,
-    "createdAtTimestamp": "1618902708",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.5126466690820655,
-    "isRugged": false
   }
 ]
