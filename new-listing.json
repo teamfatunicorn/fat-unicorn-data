@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xda784cf3b7eaf61a32788f6933d8933a8075556e",
+    "tokenName": "Huskydoodle",
+    "idPair": "0x9d4c9c976f566a362ffe46a7e8c0a6f20d9f81a5",
+    "idToken": "0xda784cf3b7eaf61a32788f6933d8933a8075556e",
+    "dateCreationToken": "2021-04-22T03:24:59Z",
+    "initialInfos": {
+      "initialPoolToken": 850000000000,
+      "initialPriceUSD": 7.988992941176471e-9,
+      "initialPoolEth": 2.8,
+      "initialMarketCap": 6780.27983884425
+    },
+    "currentInfos": {
+      "currentPoolToken": 681225237452.5653,
+      "currentPriceUSD": 1.2519678895239633e-8,
+      "currentPoolEth": 3.5166649052829393,
+      "currentMarketCap": 8528.72122823949
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": null,
+    "txCount": 6,
+    "createdAtTimestamp": "1619061899",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.5671160291945341,
+    "isRugged": false
+  },
+  {
     "_id": "0xfc50b445b22a1da3770435c9a84b2efbff96b911",
     "tokenName": "NOS",
     "idPair": "0x0479a90fecd190297faf709ea7b55007fdc34f1c",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-22T02:43:52Z",
     "initialInfos": {
       "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 6.547797e-8,
+      "initialPriceUSD": 6.548121e-8,
       "initialPoolEth": 27,
       "initialMarketCap": 64810.836800152596
     },
     "currentInfos": {
       "currentPoolToken": 977092657891.1099,
-      "currentPriceUSD": 6.858890482111757e-8,
+      "currentPriceUSD": 6.85922987573013e-8,
       "currentPoolEth": 27.634917720641777,
-      "currentMarketCap": 67017.71531350612
+      "currentMarketCap": 67021.03150363259
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.04751116781900187,
+    "priceChange": 0.047511167819001866,
     "isRugged": false
   },
   {
@@ -4495,37 +4526,6 @@
     "isRugged": false
   },
   {
-    "_id": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
-    "tokenName": "HACHI",
-    "idPair": "0x9636a2fdf331d843c6d8cac72acd38274301b74d",
-    "idToken": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
-    "dateCreationToken": "2021-04-20T21:55:20Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 9.29168e-9,
-      "initialPoolEth": 4,
-      "initialMarketCap": 9291.68
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.51507233e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6,
-    "holderCountOld": 0,
-    "txCount": 7,
-    "createdAtTimestamp": "1618955720",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0x069131a539e523f89e760299e5b485632a1f9e4d",
     "tokenName": "SAFECAT",
     "idPair": "0x04ca55d74feb53e611b4f49254ecc31c149561f9",
@@ -4549,6 +4549,37 @@
     "holderCount": 29,
     "holderCountOld": 28,
     "txCount": 29,
+    "createdAtTimestamp": "1618955720",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
+    "tokenName": "HACHI",
+    "idPair": "0x9636a2fdf331d843c6d8cac72acd38274301b74d",
+    "idToken": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
+    "dateCreationToken": "2021-04-20T21:55:20Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 9.29168e-9,
+      "initialPoolEth": 4,
+      "initialMarketCap": 9291.68
+    },
+    "currentInfos": {
+      "currentPoolToken": 4.51507233e-10,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 6,
+    "holderCountOld": 0,
+    "txCount": 7,
     "createdAtTimestamp": "1618955720",
     "isCodeGenerator": false,
     "linksSocial": [],
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 4.260021396450193,
     "isRugged": false
-  },
-  {
-    "_id": "0x70d571da68fb0bf11d61f4bec2df1a72d6290aab",
-    "tokenName": "DAY",
-    "idPair": "0x9957d77c9eb230e19e755bae960d8c01799b0fd3",
-    "idToken": "0x70d571da68fb0bf11d61f4bec2df1a72d6290aab",
-    "dateCreationToken": "2021-04-20T10:15:29Z",
-    "initialInfos": {
-      "initialPoolToken": 450000000000000,
-      "initialPriceUSD": 4.850111111111111e-12,
-      "initialPoolEth": 1,
-      "initialMarketCap": 2182.55
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.4645095825e-8,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6,
-    "holderCountOld": 0,
-    "txCount": 5,
-    "createdAtTimestamp": "1618913729",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
