@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x2b5addbdc03b7ea1dbd21f3abe05016baeaba253",
+    "tokenName": "o3",
+    "idPair": "0x83cf9e2a61635163885b6c24af8995bd0c234f61",
+    "idToken": "0x2b5addbdc03b7ea1dbd21f3abe05016baeaba253",
+    "dateCreationToken": "2021-04-22T22:09:10Z",
+    "initialInfos": {
+      "initialPoolToken": 200000,
+      "initialPriceUSD": 0.6197825,
+      "initialPoolEth": 50,
+      "initialMarketCap": 123956.5
+    },
+    "currentInfos": {
+      "currentPoolToken": 200000,
+      "currentPriceUSD": 0.6197825,
+      "currentPoolEth": 50,
+      "currentMarketCap": 123956.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619129350",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x29369b868132c892b5a1a975e3507e7351965608",
     "tokenName": "KITTEN",
     "idPair": "0xe5f4fbb00c53fe8f0d05c62bac9fb68d8a3541fa",
@@ -20,7 +51,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 1,
+    "holderCount": 3,
     "holderCountOld": 0,
     "txCount": 2,
     "createdAtTimestamp": "1619129064",
@@ -51,7 +82,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 2,
+    "holderCount": 3,
     "holderCountOld": 0,
     "txCount": 2,
     "createdAtTimestamp": "1619128592",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.3513110644437987,
     "isRugged": false
-  },
-  {
-    "_id": "0x59aa91d7ea29040012061cd10a5c4956d2d1d5ae",
-    "tokenName": "AINU",
-    "idPair": "0x129334f68d93739e6582c4973e9c31a05c998a25",
-    "idToken": "0x59aa91d7ea29040012061cd10a5c4956d2d1d5ae",
-    "dateCreationToken": "2021-04-21T10:00:36Z",
-    "initialInfos": {
-      "initialPoolToken": 500000000000000,
-      "initialPriceUSD": 1.365978e-11,
-      "initialPoolEth": 3,
-      "initialMarketCap": 6829.89
-    },
-    "currentInfos": {
-      "currentPoolToken": 7.535171481e-9,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 21,
-    "holderCountOld": 0,
-    "txCount": 60,
-    "createdAtTimestamp": "1618999236",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
