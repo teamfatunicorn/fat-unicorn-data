@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xe60ce41fbb36833c3b727abfd094ba05bab6f908",
+    "tokenName": "BDOGE",
+    "idPair": "0x86c1d54f7388a3ebbc8945e916d2b40df5e0513e",
+    "idToken": "0xe60ce41fbb36833c3b727abfd094ba05bab6f908",
+    "dateCreationToken": "2021-04-22T18:17:07Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000000,
+      "initialPriceUSD": 7.58214e-12,
+      "initialPoolEth": 3,
+      "initialMarketCap": 7653.000731980078
+    },
+    "currentInfos": {
+      "currentPoolToken": 836531672762194.1,
+      "currentPriceUSD": 1.0876537370016e-11,
+      "currentPoolEth": 3.6,
+      "currentMarketCap": 9098.568
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": null,
+    "txCount": 2,
+    "createdAtTimestamp": "1619115427",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.4344943999999999,
+    "isRugged": false
+  },
+  {
     "_id": "0x7858d93c8562a494d07eea201459e80a7cb59a2a",
     "tokenName": "PSCT",
     "idPair": "0x6c9cfe7e94380aa3605cdf3dede4053208cfbe92",
@@ -43,22 +74,22 @@
       "initialMarketCap": 44229.15
     },
     "currentInfos": {
-      "currentPoolToken": 19140008879780600,
-      "currentPriceUSD": 4.1907184108529926e-12,
-      "currentPoolEth": 31.736576057571998,
-      "currentMarketCap": 80210.38759638632
+      "currentPoolToken": 16263672506981552,
+      "currentPriceUSD": 5.810418323476489e-12,
+      "currentPoolEth": 37.390001005621116,
+      "currentMarketCap": 94498.7407415864
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 33,
     "holderCountOld": 0,
-    "txCount": 197,
+    "txCount": 238,
     "createdAtTimestamp": "1619114664",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.2728398798999345,
+    "priceChange": 3.537782533592963,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x64702deb5eb35b0c3b39ad10c6b5038b52c2246f",
-    "tokenName": "WEED",
-    "idPair": "0x9c5ef15800c58ed07c941236609920744b3b75cd",
-    "idToken": "0x64702deb5eb35b0c3b39ad10c6b5038b52c2246f",
-    "dateCreationToken": "2021-04-21T04:06:52Z",
-    "initialInfos": {
-      "initialPoolToken": 1000,
-      "initialPriceUSD": 2.30962,
-      "initialPoolEth": 1,
-      "initialMarketCap": 2309.62
-    },
-    "currentInfos": {
-      "currentPoolToken": 465.21555975144736,
-      "currentPriceUSD": 16.0749143317599,
-      "currentPoolEth": 2.9873648364788967,
-      "currentMarketCap": 7478.300268806245
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 17,
-    "holderCountOld": 18,
-    "txCount": 73,
-    "createdAtTimestamp": "1618978012",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 5.959982305210338,
-    "isRugged": false
   }
 ]
