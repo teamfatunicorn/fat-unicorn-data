@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x2b1fe2cea92436e8c34b7c215af66aaa2932a8b2",
+    "tokenName": "SAHU",
+    "idPair": "0xca4c92f756450060c0f78883434344254140ffb2",
+    "idToken": "0x2b1fe2cea92436e8c34b7c215af66aaa2932a8b2",
+    "dateCreationToken": "2021-04-22T23:57:45Z",
+    "initialInfos": {
+      "initialPoolToken": 500000000000000000,
+      "initialPriceUSD": 1.492734e-14,
+      "initialPoolEth": 3,
+      "initialMarketCap": 7463.67
+    },
+    "currentInfos": {
+      "currentPoolToken": 445514138660243100,
+      "currentPriceUSD": 1.88501457690777e-14,
+      "currentPoolEth": 3.375553764808859,
+      "currentMarketCap": 8398.006455930663
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1619135865",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.2627933556198024,
+    "isRugged": false
+  },
+  {
+    "_id": "0xf5fc83dc35d736443530971efaa874ce91d8feb5",
+    "tokenName": "DeFi",
+    "idPair": "0x473edb9172c346eb07b4f62d23cc1095878832fb",
+    "idToken": "0xf5fc83dc35d736443530971efaa874ce91d8feb5",
+    "dateCreationToken": "2021-04-22T23:56:40Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000,
+      "initialPriceUSD": 0.0000746367,
+      "initialPoolEth": 30,
+      "initialMarketCap": 72168.34012236935
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000,
+      "currentPriceUSD": 0.0000746367,
+      "currentPoolEth": 30,
+      "currentMarketCap": 74636.7
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619135800",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x89827f78290870b90b8a04aca8341e36ffc6b376",
     "tokenName": "FAIRDOGE",
     "idPair": "0x8880299b52a54e081d4476775f536029fec347a8",
@@ -12,22 +74,22 @@
       "initialMarketCap": 5970.936
     },
     "currentInfos": {
-      "currentPoolToken": 703247463.3683196,
-      "currentPriceUSD": 0.00001025937721188945,
-      "currentPoolEth": 2.9,
-      "currentMarketCap": 7214.881
+      "currentPoolToken": 566444931.1435744,
+      "currentPriceUSD": 0.000015959175762869907,
+      "currentPoolEth": 3.633598839220367,
+      "currentMarketCap": 9039.994216107047
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 2,
+    "txCount": 5,
     "createdAtTimestamp": "1619135779",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.44663560125424423,
+    "priceChange": 1.2503424280458404,
     "isRugged": false
   },
   {
@@ -2480,37 +2542,6 @@
     "isRugged": true
   },
   {
-    "_id": "0xdb6371d1065db76903870f38cd8ab9dfd0264334",
-    "tokenName": "LODOGE",
-    "idPair": "0x9ec6061330ec8f8abf224b931bf4aed2ce6b6769",
-    "idToken": "0xdb6371d1065db76903870f38cd8ab9dfd0264334",
-    "dateCreationToken": "2021-04-22T11:27:03Z",
-    "initialInfos": {
-      "initialPoolToken": 39516129032258.06,
-      "initialPriceUSD": 1.4684225510204082e-10,
-      "initialPoolEth": 2.25,
-      "initialMarketCap": 5741.992512429316
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.00010193,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 14,
-    "holderCountOld": 0,
-    "txCount": 21,
-    "createdAtTimestamp": "1619090823",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0x647e75d46265f93bfe6a8db4c70f882d97f28d34",
     "tokenName": "M2",
     "idPair": "0x213f34ed109416b5ad6b980b233b911eecd61ce1",
@@ -2534,6 +2565,37 @@
     "holderCount": 1,
     "holderCountOld": 0,
     "txCount": 2,
+    "createdAtTimestamp": "1619090823",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0xdb6371d1065db76903870f38cd8ab9dfd0264334",
+    "tokenName": "LODOGE",
+    "idPair": "0x9ec6061330ec8f8abf224b931bf4aed2ce6b6769",
+    "idToken": "0xdb6371d1065db76903870f38cd8ab9dfd0264334",
+    "dateCreationToken": "2021-04-22T11:27:03Z",
+    "initialInfos": {
+      "initialPoolToken": 39516129032258.06,
+      "initialPriceUSD": 1.4684225510204082e-10,
+      "initialPoolEth": 2.25,
+      "initialMarketCap": 5741.992512429316
+    },
+    "currentInfos": {
+      "currentPoolToken": 0.00010193,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-17,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 14,
+    "holderCountOld": 0,
+    "txCount": 21,
     "createdAtTimestamp": "1619090823",
     "isCodeGenerator": false,
     "linksSocial": [],
@@ -6136,67 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xdbddf072d7aae7b9288e31a4eebe6c54e3a143b1",
-    "tokenName": "CRWNY",
-    "idPair": "0x06441d79d21ff7ab135e7a4052025834a43a6fe3",
-    "idToken": "0xdbddf072d7aae7b9288e31a4eebe6c54e3a143b1",
-    "dateCreationToken": "2021-04-21T12:13:24Z",
-    "initialInfos": {
-      "initialPoolToken": 3378378,
-      "initialPriceUSD": 0.005820847755934949,
-      "initialPoolEth": 8.3,
-      "initialMarketCap": 18919.78998626148
-    },
-    "currentInfos": {
-      "currentPoolToken": 4004185.95942697,
-      "currentPriceUSD": 0.04690569568667676,
-      "currentPoolEth": 75.53949254766819,
-      "currentMarketCap": 187819.1280857453
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 614,
-    "holderCountOld": 608,
-    "txCount": 1178,
-    "createdAtTimestamp": "1619007204",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 7.058224102984245,
-    "isRugged": false
-  },
-  {
-    "_id": "0x537edd52ebcb9f48ff2f8a28c51fcdb9d6a6e0d4",
-    "tokenName": "SDOG",
-    "idPair": "0xbeea2d0cc63a5b321448a36376f7b578cbcf303a",
-    "idToken": "0x537edd52ebcb9f48ff2f8a28c51fcdb9d6a6e0d4",
-    "dateCreationToken": "2021-04-21T12:09:11Z",
-    "initialInfos": {
-      "initialPoolToken": 6437848887300,
-      "initialPriceUSD": 1.840117748549441e-8,
-      "initialPoolEth": 50,
-      "initialMarketCap": 118464
-    },
-    "currentInfos": {
-      "currentPoolToken": 5322733623626.327,
-      "currentPriceUSD": 2.8450901911451228e-8,
-      "currentPoolEth": 60.906692176376296,
-      "currentMarketCap": 151436.57222657598
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 50,
-    "holderCountOld": 52,
-    "txCount": 208,
-    "createdAtTimestamp": "1619006951",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.5461457253960504,
-    "isRugged": false
   }
 ]
