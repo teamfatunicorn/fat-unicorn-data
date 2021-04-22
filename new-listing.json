@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xe7e9adc235360c2b6c53f68f6fba58d0955790fd",
+    "tokenName": "DBR",
+    "idPair": "0x4c608ab8ab7e593ba96d9bbe201783d36f726523",
+    "idToken": "0xe7e9adc235360c2b6c53f68f6fba58d0955790fd",
+    "dateCreationToken": "2021-04-22T00:07:01Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 1.649452e-8,
+      "initialPoolEth": 7,
+      "initialMarketCap": 16469.98984805034
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000000,
+      "currentPriceUSD": 1.649452e-8,
+      "currentPoolEth": 7,
+      "currentMarketCap": 16494.52
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619050021",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x5ed2636788a73aa81520ad20cb58af34fff60962",
     "tokenName": "AOGE",
     "idPair": "0xae1a38d2532b7fb2ecdab7c80ee0ae3338598601",
@@ -12,22 +43,22 @@
       "initialMarketCap": 20029.06
     },
     "currentInfos": {
-      "currentPoolToken": 1415347861726935.2,
-      "currentPriceUSD": 4.04610711082552e-11,
-      "currentPoolEth": 24.30294627147367,
-      "currentMarketCap": 57266.490476250474
+      "currentPoolToken": 1336191844685564.2,
+      "currentPriceUSD": 4.547839477360653e-11,
+      "currentPoolEth": 25.788869360320327,
+      "currentMarketCap": 60767.86020588363
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 66,
+    "holderCount": 122,
     "holderCountOld": 0,
-    "txCount": 129,
+    "txCount": 140,
     "createdAtTimestamp": "1619049372",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 6.664166522293615,
+    "priceChange": 7.614551744785946,
     "isRugged": false
   },
   {
@@ -74,22 +105,22 @@
       "initialMarketCap": 58632.14544467961
     },
     "currentInfos": {
-      "currentPoolToken": 413217784.8153107,
-      "currentPriceUSD": 0.00015529125999836862,
-      "currentPoolEth": 27.23230340767255,
-      "currentMarketCap": 64169.11045770435
+      "currentPoolToken": 398623796.238572,
+      "currentPriceUSD": 0.00016688785538003753,
+      "currentPoolEth": 28.23230340767255,
+      "currentMarketCap": 66525.47045770434
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 12,
+    "holderCount": 14,
     "holderCountOld": 0,
-    "txCount": 12,
+    "txCount": 13,
     "createdAtTimestamp": "1619046793",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.18625451118277128,
+    "priceChange": 0.2748397514983599,
     "isRugged": false
   },
   {
@@ -1036,7 +1067,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 2247.27062134027,
-      "currentPriceUSD": 63.2217454781076,
+      "currentPriceUSD": 64.2094615191418,
       "currentPoolEth": 52.47945951729677,
       "currentMarketCap": 124303.37260726484
     },
@@ -1050,7 +1081,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.048123236096546645,
+    "priceChange": 0.06449811036558621,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 1.5126466690820655,
     "isRugged": false
-  },
-  {
-    "_id": "0x329a60e901b326bca60fc04f782c01b5246a7611",
-    "tokenName": "DOGED",
-    "idPair": "0x3b0989276f02dba5be04e1ba1fa041d1aeb02088",
-    "idToken": "0x329a60e901b326bca60fc04f782c01b5246a7611",
-    "dateCreationToken": "2021-04-20T07:06:21Z",
-    "initialInfos": {
-      "initialPoolToken": 50000000000000,
-      "initialPriceUSD": 2.5542e-10,
-      "initialPoolEth": 6,
-      "initialMarketCap": 12771
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.012817642e-9,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 15,
-    "holderCountOld": 14,
-    "txCount": 14,
-    "createdAtTimestamp": "1618902381",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
