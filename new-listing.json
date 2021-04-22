@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x66dc52237213ddda0b7fdc433b9d51bb8133e9b4",
+    "tokenName": "MEL",
+    "idPair": "0x63d801fd191cc4025fa08de6fa216583d397b622",
+    "idToken": "0x66dc52237213ddda0b7fdc433b9d51bb8133e9b4",
+    "dateCreationToken": "2021-04-22T12:38:33Z",
+    "initialInfos": {
+      "initialPoolToken": 10000000,
+      "initialPriceUSD": 0.099129975,
+      "initialPoolEth": 383,
+      "initialMarketCap": 991299.75
+    },
+    "currentInfos": {
+      "currentPoolToken": 10000000,
+      "currentPriceUSD": 0.099129975,
+      "currentPoolEth": 383,
+      "currentMarketCap": 991299.75
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619095113",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x6d85dd21d470e5c1e6af3a5198f0d5ac4dcdd7ef",
     "tokenName": "CERE",
     "idPair": "0x1e631ceff4a1b12f12928d4765f568898efda6a5",
@@ -20,7 +51,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 0,
+    "holderCount": 2,
     "holderCountOld": 0,
     "txCount": 1,
     "createdAtTimestamp": "1619094971",
@@ -43,22 +74,22 @@
       "initialMarketCap": 7237.818593569112
     },
     "currentInfos": {
-      "currentPoolToken": 632120259704.6361,
-      "currentPriceUSD": 1.6730196927206023e-8,
-      "currentPoolEth": 4.085964040002425,
-      "currentMarketCap": 10575.496426535177
+      "currentPoolToken": 538087286271.01306,
+      "currentPriceUSD": 2.3099249910567304e-8,
+      "currentPoolEth": 4.802245802868314,
+      "currentMarketCap": 12429.412699273102
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 1,
+    "holderCount": 10,
     "holderCountOld": 0,
-    "txCount": 9,
+    "txCount": 12,
     "createdAtTimestamp": "1619094761",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.1238538412647183,
+    "priceChange": 1.932388116311617,
     "isRugged": false
   },
   {
@@ -82,7 +113,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 378,
+    "holderCount": 379,
     "holderCountOld": 0,
     "txCount": 14,
     "createdAtTimestamp": "1619092941",
@@ -105,22 +136,22 @@
       "initialMarketCap": 776475
     },
     "currentInfos": {
-      "currentPoolToken": 7377458.607955742,
-      "currentPriceUSD": 0.10843416218349418,
-      "currentPoolEth": 309.07699920683416,
-      "currentMarketCap": 799968.5431970881
+      "currentPoolToken": 7318152.228929656,
+      "currentPriceUSD": 0.11020145228518177,
+      "currentPoolEth": 311.5892992068342,
+      "currentMarketCap": 806471.0036720881
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 3,
+    "holderCount": 8,
     "holderCountOld": 0,
-    "txCount": 6,
+    "txCount": 7,
     "createdAtTimestamp": "1619092761",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.06133440560810816,
+    "priceChange": 0.0786323286227908,
     "isRugged": false
   },
   {
@@ -144,7 +175,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 5,
+    "holderCount": 7,
     "holderCountOld": 0,
     "txCount": 6,
     "createdAtTimestamp": "1619092744",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xb77ae8fcc5e36e7bdf96ca73f257ddf65ae40c88",
-    "tokenName": "Lassie",
-    "idPair": "0x75aa726b0b9a103cff083a8b76a3a9c3f13e14b5",
-    "idToken": "0xb77ae8fcc5e36e7bdf96ca73f257ddf65ae40c88",
-    "dateCreationToken": "2021-04-20T21:37:29Z",
-    "initialInfos": {
-      "initialPoolToken": 500000000000000,
-      "initialPriceUSD": 2.33724e-12,
-      "initialPoolEth": 0.5,
-      "initialMarketCap": 1168.62
-    },
-    "currentInfos": {
-      "currentPoolToken": 108016957178844.72,
-      "currentPriceUSD": 5.922909439561037e-11,
-      "currentPoolEth": 2.5101900777536623,
-      "currentMarketCap": 6397.746553072398
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 48,
-    "holderCountOld": 45,
-    "txCount": 150,
-    "createdAtTimestamp": "1618954649",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 24.341468739029953,
-    "isRugged": false
   }
 ]
