@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x3cbf23c081faa5419810ce0f6bc1ecb73006d848",
+    "tokenName": "DIGI",
+    "idPair": "0x76ad8bc4f1c51c1d2525a4f45fa31a66b933273a",
+    "idToken": "0x3cbf23c081faa5419810ce0f6bc1ecb73006d848",
+    "dateCreationToken": "2021-04-22T15:04:05Z",
+    "initialInfos": {
+      "initialPoolToken": 11800000,
+      "initialPriceUSD": 0.03971440677966102,
+      "initialPoolEth": 180,
+      "initialMarketCap": 468630
+    },
+    "currentInfos": {
+      "currentPoolToken": 10826442.907115512,
+      "currentPriceUSD": 0.0472072462835623,
+      "currentPoolEth": 196.30749248746994,
+      "currentMarketCap": 511086.5566911281
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 919,
+    "holderCountOld": 0,
+    "txCount": 20,
+    "createdAtTimestamp": "1619103845",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.18866804546451388,
+    "isRugged": false
+  },
+  {
+    "_id": "0x3cbf7233a24fc073cf702bf7331c9f7c4dd2d848",
+    "tokenName": "DIGI",
+    "idPair": "0x08479eb2eaee169db17181c3afd035888c90dc89",
+    "idToken": "0x3cbf7233a24fc073cf702bf7331c9f7c4dd2d848",
+    "dateCreationToken": "2021-04-22T15:03:37Z",
+    "initialInfos": {
+      "initialPoolToken": 6500000,
+      "initialPriceUSD": 0.032043076923076924,
+      "initialPoolEth": 80,
+      "initialMarketCap": 208280
+    },
+    "currentInfos": {
+      "currentPoolToken": 6341927.458106691,
+      "currentPriceUSD": 0.03366279438076923,
+      "currentPoolEth": 82,
+      "currentMarketCap": 213487
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619103817",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.050548124999999985,
+    "isRugged": false
+  },
+  {
     "_id": "0xfe8ef0890bba89f350053333e4f8fe1d76678b54",
     "tokenName": "PIZZA",
     "idPair": "0xfa759710857d3e0ae8fe4991c9cc1acf35575458",
@@ -7,15 +69,15 @@
     "dateCreationToken": "2021-04-22T14:20:01Z",
     "initialInfos": {
       "initialPoolToken": 1000000000,
-      "initialPriceUSD": 0.00006999831,
+      "initialPriceUSD": 0.0000702945,
       "initialPoolEth": 27,
       "initialMarketCap": 69545.11368064996
     },
     "currentInfos": {
       "currentPoolToken": 1000000000,
-      "currentPriceUSD": 0.00006999831,
+      "currentPriceUSD": 0.0000702945,
       "currentPoolEth": 27,
-      "currentMarketCap": 69998.31
+      "currentMarketCap": 70294.5
     },
     "trustScore": null,
     "contractId": null,
@@ -38,27 +100,27 @@
     "dateCreationToken": "2021-04-22T14:12:52Z",
     "initialInfos": {
       "initialPoolToken": 60950000,
-      "initialPriceUSD": 0.004253535684987695,
+      "initialPriceUSD": 0.004271534044298605,
       "initialPoolEth": 100,
       "initialMarketCap": 257035.1402323637
     },
     "currentInfos": {
-      "currentPoolToken": 28355430.90316553,
-      "currentPriceUSD": 0.021480895149251666,
-      "currentPoolEth": 234.94425836644083,
-      "currentMarketCap": 609100.0381427493
+      "currentPoolToken": 29298252.211527474,
+      "currentPriceUSD": 0.020210557910970147,
+      "currentPoolEth": 227.43768888468787,
+      "currentMarketCap": 592134.0230112852
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 978,
     "holderCountOld": 0,
-    "txCount": 1006,
+    "txCount": 1029,
     "createdAtTimestamp": "1619100772",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 4.050126939116959,
+    "priceChange": 3.7314519096356085,
     "isRugged": false
   },
   {
@@ -682,37 +744,6 @@
     "isRugged": true
   },
   {
-    "_id": "0x647e75d46265f93bfe6a8db4c70f882d97f28d34",
-    "tokenName": "M2",
-    "idPair": "0x213f34ed109416b5ad6b980b233b911eecd61ce1",
-    "idToken": "0x647e75d46265f93bfe6a8db4c70f882d97f28d34",
-    "dateCreationToken": "2021-04-22T11:27:03Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000,
-      "initialPriceUSD": 0.0103158,
-      "initialPoolEth": 4,
-      "initialMarketCap": 10315.8
-    },
-    "currentInfos": {
-      "currentPoolToken": 5e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 1,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1619090823",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0xdb6371d1065db76903870f38cd8ab9dfd0264334",
     "tokenName": "LODOGE",
     "idPair": "0x9ec6061330ec8f8abf224b931bf4aed2ce6b6769",
@@ -736,6 +767,37 @@
     "holderCount": 14,
     "holderCountOld": 0,
     "txCount": 21,
+    "createdAtTimestamp": "1619090823",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0x647e75d46265f93bfe6a8db4c70f882d97f28d34",
+    "tokenName": "M2",
+    "idPair": "0x213f34ed109416b5ad6b980b233b911eecd61ce1",
+    "idToken": "0x647e75d46265f93bfe6a8db4c70f882d97f28d34",
+    "dateCreationToken": "2021-04-22T11:27:03Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000,
+      "initialPriceUSD": 0.0103158,
+      "initialPoolEth": 4,
+      "initialMarketCap": 10315.8
+    },
+    "currentInfos": {
+      "currentPoolToken": 5e-13,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 2e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
     "createdAtTimestamp": "1619090823",
     "isCodeGenerator": false,
     "linksSocial": [],
@@ -6135,68 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 7.896958772043257,
-    "isRugged": false
-  },
-  {
-    "_id": "0x0e7f502e5e4fba9c65c59989b68d31e5f5093f50",
-    "tokenName": "vZAR",
-    "idPair": "0xcc821dea237e94c14c9862bd279888ee370fc48b",
-    "idToken": "0x0e7f502e5e4fba9c65c59989b68d31e5f5093f50",
-    "dateCreationToken": "2021-04-21T00:14:53Z",
-    "initialInfos": {
-      "initialPoolToken": 9256,
-      "initialPriceUSD": 0.0822696845289542,
-      "initialPoolEth": 0.33,
-      "initialMarketCap": 761.4882
-    },
-    "currentInfos": {
-      "currentPoolToken": 9256,
-      "currentPriceUSD": 0.0908680099394987,
-      "currentPoolEth": 0.33,
-      "currentMarketCap": 841.0743
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 1,
-    "createdAtTimestamp": "1618964093",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.10451389791726245,
-    "isRugged": false
-  },
-  {
-    "_id": "0x36efd50912e8bbdcfddb71344ca1c28b53347bc0",
-    "tokenName": "vINR",
-    "idPair": "0x47b244282bdc884fe0bfd4f8087c615663e8cbd7",
-    "idToken": "0x36efd50912e8bbdcfddb71344ca1c28b53347bc0",
-    "dateCreationToken": "2021-04-21T00:06:31Z",
-    "initialInfos": {
-      "initialPoolToken": 49841,
-      "initialPriceUSD": 0.015278349150297948,
-      "initialPoolEth": 0.33,
-      "initialMarketCap": 761.4882
-    },
-    "currentInfos": {
-      "currentPoolToken": 49841,
-      "currentPriceUSD": 0.016875148973736483,
-      "currentPoolEth": 0.33,
-      "currentMarketCap": 841.0743
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 1,
-    "createdAtTimestamp": "1618963591",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.10451389791726261,
     "isRugged": false
   }
 ]
