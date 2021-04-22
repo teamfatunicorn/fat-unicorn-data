@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x98f994a379f967dcee73025b93e18dd6709aa94b",
+    "tokenName": "FOX",
+    "idPair": "0x2088ea325866795cdaf3b5d0e75c6d03571d8832",
+    "idToken": "0x98f994a379f967dcee73025b93e18dd6709aa94b",
+    "dateCreationToken": "2021-04-22T15:40:44Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 1.550286e-8,
+      "initialPoolEth": 6,
+      "initialMarketCap": 15502.86
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000000,
+      "currentPriceUSD": 1.550286e-8,
+      "currentPoolEth": 6,
+      "currentMarketCap": 15502.86
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619106044",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x8c6666f807d610601cc2da8f447c9799817b3fb1",
     "tokenName": "SOME",
     "idPair": "0xdf04950214a9bc73e9b5d590a8ae3157ddb31c6a",
@@ -20,7 +51,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 4,
+    "holderCount": 5,
     "holderCountOld": 0,
     "txCount": 4,
     "createdAtTimestamp": "1619105055",
@@ -43,22 +74,22 @@
       "initialMarketCap": 465085.8
     },
     "currentInfos": {
-      "currentPoolToken": 7518582.986511929,
-      "currentPriceUSD": 0.09836916049075524,
-      "currentPoolEth": 286.2426790140349,
-      "currentMarketCap": 739596.6964632538
+      "currentPoolToken": 7783737.515153406,
+      "currentPriceUSD": 0.09187141449980464,
+      "currentPoolEth": 276.7629878405684,
+      "currentMarketCap": 715102.975612338
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 920,
+    "holderCount": 962,
     "holderCountOld": 0,
-    "txCount": 562,
+    "txCount": 613,
     "createdAtTimestamp": "1619103845",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.4957891507135068,
+    "priceChange": 1.3309305317377886,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.8692143293437381,
     "isRugged": false
-  },
-  {
-    "_id": "0x2af8b6e9d551ca4005c8381b0677e1ef173022d4",
-    "tokenName": "KAI",
-    "idPair": "0xc75eb89a6f21d4e092087cbaeab1cebd3d38f250",
-    "idToken": "0x2af8b6e9d551ca4005c8381b0677e1ef173022d4",
-    "dateCreationToken": "2021-04-21T00:40:06Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 9.25388e-9,
-      "initialPoolEth": 4,
-      "initialMarketCap": 9253.88
-    },
-    "currentInfos": {
-      "currentPoolToken": 5e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 1,
-    "txCount": 2,
-    "createdAtTimestamp": "1618965606",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
