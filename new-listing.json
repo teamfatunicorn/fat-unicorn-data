@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xce9f106d565d71e7198c5c51dcdc89716c9c0a44",
+    "tokenName": "KIRKY",
+    "idPair": "0xc675b5cf4bd5fb2f73565f3762653d63a3952d0c",
+    "idToken": "0xce9f106d565d71e7198c5c51dcdc89716c9c0a44",
+    "dateCreationToken": "2021-04-22T06:30:55Z",
+    "initialInfos": {
+      "initialPoolToken": 500000000000,
+      "initialPriceUSD": 1.49517e-8,
+      "initialPoolEth": 3,
+      "initialMarketCap": 7452.525784863594
+    },
+    "currentInfos": {
+      "currentPoolToken": 428755180791.7679,
+      "currentPriceUSD": 2.0342203175e-8,
+      "currentPoolEth": 3.5,
+      "currentMarketCap": 8721.825
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619073055",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.3605277777777778,
+    "isRugged": false
+  },
+  {
     "_id": "0x15016190610be195c1f97a419926c31ceb169e14",
     "tokenName": "ALI",
     "idPair": "0xda0c4bfae28b2aee0b8206c9a98c092bde46af9d",
@@ -167,22 +198,22 @@
       "initialMarketCap": 647907
     },
     "currentInfos": {
-      "currentPoolToken": 137481134.8062705,
-      "currentPriceUSD": 0.005349522718817423,
-      "currentPoolEth": 295.13371217518153,
-      "currentMarketCap": 735458.4540549448
+      "currentPoolToken": 135983587.90180886,
+      "currentPriceUSD": 0.005468176141902295,
+      "currentPoolEth": 298.3937121751815,
+      "currentMarketCap": 743582.2110549448
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 15,
     "holderCountOld": 0,
-    "txCount": 16,
+    "txCount": 17,
     "createdAtTimestamp": "1619069461",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.288032918513796,
+    "priceChange": 0.3166017316324073,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 85.88275224980136,
-    "isRugged": false
-  },
-  {
-    "_id": "0x98ddc72bd02d448f68c4226f26122c66c5bd711e",
-    "tokenName": "TOKE",
-    "idPair": "0x09fd13b785ac94e42eca73b6a0781ca3762e9a42",
-    "idToken": "0x98ddc72bd02d448f68c4226f26122c66c5bd711e",
-    "dateCreationToken": "2021-04-20T15:02:43Z",
-    "initialInfos": {
-      "initialPoolToken": 336000000,
-      "initialPriceUSD": 0.00012483226190476192,
-      "initialPoolEth": 19,
-      "initialMarketCap": 41943.64
-    },
-    "currentInfos": {
-      "currentPoolToken": 69303086.53207476,
-      "currentPriceUSD": 0.003362328476097506,
-      "currentPoolEth": 94.53938929005948,
-      "currentMarketCap": 233019.74132824453
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 116,
-    "holderCountOld": 118,
-    "txCount": 383,
-    "createdAtTimestamp": "1618930963",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 25.93477170719475,
     "isRugged": false
   }
 ]
