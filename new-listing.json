@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xcd438934ccaf12858e9284471e272b3b14e15dfc",
+    "tokenName": "DETH",
+    "idPair": "0xbe2cb300719a444db4f3cd2bd1c4284c63fe40ba",
+    "idToken": "0xcd438934ccaf12858e9284471e272b3b14e15dfc",
+    "dateCreationToken": "2021-04-22T23:20:08Z",
+    "initialInfos": {
+      "initialPoolToken": 490000000000000,
+      "initialPriceUSD": 8.107689795918367e-12,
+      "initialPoolEth": 1.6,
+      "initialMarketCap": 3886.8105897908704
+    },
+    "currentInfos": {
+      "currentPoolToken": 490000000000000,
+      "currentPriceUSD": 8.107689795918367e-12,
+      "currentPoolEth": 1.6,
+      "currentMarketCap": 3972.768
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619133608",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xe2fbacae21214737837f5f85defd5917353f7ee0",
     "tokenName": "TACOCAT",
     "idPair": "0x5cfef454ff66effb66f0cd9dc8b0b8f64aff5997",
@@ -20,7 +51,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 4,
+    "holderCount": 5,
     "holderCountOld": 0,
     "txCount": 6,
     "createdAtTimestamp": "1619131415",
@@ -81,7 +112,7 @@
     },
     "trustScore": null,
     "contractId": null,
-    "contractVerified": true,
+    "contractVerified": false,
     "holderCount": 4,
     "holderCountOld": 0,
     "txCount": 3,
@@ -105,22 +136,22 @@
       "initialMarketCap": 124149
     },
     "currentInfos": {
-      "currentPoolToken": 171596.7915951849,
-      "currentPriceUSD": 0.8439613653358892,
-      "currentPoolEth": 58.32550504713298,
-      "currentMarketCap": 144821.0625219303
+      "currentPoolToken": 168373.29013481678,
+      "currentPriceUSD": 0.8766354806260845,
+      "currentPoolEth": 59.44550504713298,
+      "currentMarketCap": 147602.0001219303
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 27,
+    "holderCount": 31,
     "holderCountOld": 0,
-    "txCount": 27,
+    "txCount": 28,
     "createdAtTimestamp": "1619129350",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.3595943025491775,
+    "priceChange": 0.412231239278745,
     "isRugged": false
   },
   {
@@ -206,7 +237,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 3,
+    "holderCount": 4,
     "holderCountOld": 0,
     "txCount": 4,
     "createdAtTimestamp": "1619128341",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9829022662625412,
-    "isRugged": false
-  },
-  {
-    "_id": "0xe68a89e7698a8e17571e7ef1bd76a7b337cf0642",
-    "tokenName": "Snoopy",
-    "idPair": "0x56f4add48d4b4c820e83ebc0f7ae2b26bfe2a315",
-    "idToken": "0xe68a89e7698a8e17571e7ef1bd76a7b337cf0642",
-    "dateCreationToken": "2021-04-21T11:19:50Z",
-    "initialInfos": {
-      "initialPoolToken": 10000000000000,
-      "initialPriceUSD": 4.59004e-10,
-      "initialPoolEth": 2,
-      "initialMarketCap": 4532.101071746732
-    },
-    "currentInfos": {
-      "currentPoolToken": 3098558297316.327,
-      "currentPriceUSD": 8.83109072145001e-9,
-      "currentPoolEth": 11.005461548081026,
-      "currentMarketCap": 27363.649429302157
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 268,
-    "holderCountOld": 269,
-    "txCount": 956,
-    "createdAtTimestamp": "1619003990",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 18.239681400271042,
     "isRugged": false
   }
 ]
