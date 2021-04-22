@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xeaf34484deea92c3ac17b12027308dca8a01a000",
+    "tokenName": "SDOG",
+    "idPair": "0xe19e17eecc435808864f61a49b1af9c58960d08e",
+    "idToken": "0xeaf34484deea92c3ac17b12027308dca8a01a000",
+    "dateCreationToken": "2021-04-22T04:08:16Z",
+    "initialInfos": {
+      "initialPoolToken": 1,
+      "initialPriceUSD": 4.0802036586e-8,
+      "initialPoolEth": 1.69341e-11,
+      "initialMarketCap": 4.078050046659812e-8
+    },
+    "currentInfos": {
+      "currentPoolToken": 1,
+      "currentPriceUSD": 4.096082e-8,
+      "currentPoolEth": 1.69341e-11,
+      "currentMarketCap": 4.096082e-8
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619064496",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.003891556090964406,
+    "isRugged": true
+  },
+  {
     "_id": "0xda784cf3b7eaf61a32788f6933d8933a8075556e",
     "tokenName": "Huskydoodle",
     "idPair": "0x9d4c9c976f566a362ffe46a7e8c0a6f20d9f81a5",
@@ -7,7 +38,7 @@
     "dateCreationToken": "2021-04-22T03:24:59Z",
     "initialInfos": {
       "initialPoolToken": 850000000000,
-      "initialPriceUSD": 7.893430588235295e-9,
+      "initialPriceUSD": 7.937044705882352e-9,
       "initialPoolEth": 2.8,
       "initialMarketCap": 6780.27983884425
     },
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x1508d55a63897caeba94631d438e869a33c89124",
-    "tokenName": "GSID",
-    "idPair": "0xfe25b65effe327b49503a9360c5dd5e35b06bc65",
-    "idToken": "0x1508d55a63897caeba94631d438e869a33c89124",
-    "dateCreationToken": "2021-04-20T10:26:19Z",
-    "initialInfos": {
-      "initialPoolToken": 460040000,
-      "initialPriceUSD": 0.000016130488653160595,
-      "initialPoolEth": 3.4,
-      "initialMarketCap": 7420.67
-    },
-    "currentInfos": {
-      "currentPoolToken": 229180237.69859216,
-      "currentPriceUSD": 0.00008484671545082178,
-      "currentPoolEth": 8.135280042072699,
-      "currentMarketCap": 19445.190414964145
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 193,
-    "holderCountOld": 194,
-    "txCount": 563,
-    "createdAtTimestamp": "1618914379",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 4.260021396450193,
-    "isRugged": false
   }
 ]
