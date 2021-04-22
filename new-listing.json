@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc5e43025dbc4572dd334439e33b933b99fa8f20e",
+    "tokenName": "EARTH",
+    "idPair": "0xedbabd9ed3e0aa453f1a8b795b1539abf9571ee3",
+    "idToken": "0xc5e43025dbc4572dd334439e33b933b99fa8f20e",
+    "dateCreationToken": "2021-04-22T21:15:30Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000,
+      "initialPriceUSD": 0.0000830733,
+      "initialPoolEth": 33.5,
+      "initialMarketCap": 78743.81934975754
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000,
+      "currentPriceUSD": 0.0000830733,
+      "currentPoolEth": 33.5,
+      "currentMarketCap": 83073.3
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619126130",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x27d9284c5e829aa5a433b7adf519e100a3aa78a2",
     "tokenName": "NINU",
     "idPair": "0xe1978541ec8db809ce28eaf0fa95feb4adcab1cf",
@@ -43,22 +74,22 @@
       "initialMarketCap": 98976.80944678166
     },
     "currentInfos": {
-      "currentPoolToken": 796523.8987618265,
-      "currentPriceUSD": 0.10679632583120222,
-      "currentPoolEth": 34.303502631061804,
-      "currentMarketCap": 85065.82582450754
+      "currentPoolToken": 850832.516345033,
+      "currentPriceUSD": 0.09392916910957456,
+      "currentPoolEth": 32.22759549628887,
+      "currentMarketCap": 79917.99131169746
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1600,
     "holderCountOld": 0,
-    "txCount": 75,
+    "txCount": 88,
     "createdAtTimestamp": "1619125445",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.8281608193728124,
+    "priceChange": -0.848864543502244,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x115e731bbbae905761ee5511b2d0def472e9b0f4",
-    "tokenName": "NBDOGE",
-    "idPair": "0xcbe990fe7c449f9e03b4366fd94b0620d6ea3b31",
-    "idToken": "0x115e731bbbae905761ee5511b2d0def472e9b0f4",
-    "dateCreationToken": "2021-04-21T08:26:59Z",
-    "initialInfos": {
-      "initialPoolToken": 100000000000000000,
-      "initialPriceUSD": 1.726455e-14,
-      "initialPoolEth": 0.75,
-      "initialMarketCap": 1726.455
-    },
-    "currentInfos": {
-      "currentPoolToken": 48938257430768664,
-      "currentPriceUSD": 7.03184803370873e-14,
-      "currentPoolEth": 1.383789826799466,
-      "currentMarketCap": 3441.263892876825
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 43,
-    "holderCountOld": 44,
-    "txCount": 159,
-    "createdAtTimestamp": "1618993619",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 3.0729981573274316,
-    "isRugged": false
   }
 ]
