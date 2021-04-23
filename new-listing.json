@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xb508623fda378f788cd9b0bd6a20ff9d294c34ca",
+    "tokenName": "TYPER",
+    "idPair": "0x6667a69926b1d56917da40b3af0f291479c12c14",
+    "idToken": "0xb508623fda378f788cd9b0bd6a20ff9d294c34ca",
+    "dateCreationToken": "2021-04-23T09:04:54Z",
+    "initialInfos": {
+      "initialPoolToken": 50000000000000,
+      "initialPriceUSD": 1.4681174e-10,
+      "initialPoolEth": 3.35,
+      "initialMarketCap": 7340.587
+    },
+    "currentInfos": {
+      "currentPoolToken": 50000000000000,
+      "currentPriceUSD": 1.4681174e-10,
+      "currentPoolEth": 3.35,
+      "currentMarketCap": 7340.587
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619168694",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x9e0ce6e867a72addd53fa76d3a420c9c0b28d16b",
     "tokenName": "$REFINE",
     "idPair": "0x0314ae0a77244a0947b63808e1ec6c4095226db1",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-23T08:28:11Z",
     "initialInfos": {
       "initialPoolToken": 10,
-      "initialPriceUSD": 19.74294,
+      "initialPriceUSD": 19.72098,
       "initialPoolEth": 0.09,
-      "initialMarketCap": 197.4294
+      "initialMarketCap": 197.2098
     },
     "currentInfos": {
       "currentPoolToken": 9,
-      "currentPriceUSD": 24.38133420265354,
+      "currentPriceUSD": 24.354214933735623,
       "currentPoolEth": 0.10003009027081244,
-      "currentMarketCap": 219.43200782388186
+      "currentMarketCap": 219.18793440362063
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.2349393860617284,
+    "priceChange": 0.23493938606172826,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-23T07:37:25Z",
     "initialInfos": {
       "initialPoolToken": 130000000,
-      "initialPriceUSD": 0.005062292307692308,
+      "initialPriceUSD": 0.005056661538461539,
       "initialPoolEth": 300,
       "initialMarketCap": 650279.2152609128
     },
     "currentInfos": {
       "currentPoolToken": 124311609.18679705,
-      "currentPriceUSD": 0.005536926231975039,
+      "currentPriceUSD": 0.005530767529165114,
       "currentPoolEth": 313.7697773790859,
-      "currentMarketCap": 688304.2098454058
+      "currentMarketCap": 687538.6115886008
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.0937586957516283,
+    "priceChange": 0.09375869575162817,
     "isRugged": false
   },
   {
@@ -527,37 +558,6 @@
     "isRugged": false
   },
   {
-    "_id": "0xb59d3c230c6d389cb70543b2f46f9239eec5ab92",
-    "tokenName": "ElonTrust",
-    "idPair": "0x4388f33ee35e1740ba9938917f11f342b12d4d40",
-    "idToken": "0xb59d3c230c6d389cb70543b2f46f9239eec5ab92",
-    "dateCreationToken": "2021-04-23T03:59:09Z",
-    "initialInfos": {
-      "initialPoolToken": 490000000000000,
-      "initialPriceUSD": 1.1004938775510203e-11,
-      "initialPoolEth": 2.2,
-      "initialMarketCap": 5392.42
-    },
-    "currentInfos": {
-      "currentPoolToken": 14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 7.6144e-14,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6,
-    "holderCountOld": 5,
-    "txCount": 5,
-    "createdAtTimestamp": "1619150349",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0x1f5cd9a8191a1d9a200f2e784c399fda555e78bb",
     "tokenName": "HOKINU",
     "idPair": "0xec39958d5be83b595a4e6153c81bc8d85a794c55",
@@ -587,6 +587,37 @@
     "officialSite": null,
     "priceChange": 2.67902166373594e+28,
     "isRugged": false
+  },
+  {
+    "_id": "0xb59d3c230c6d389cb70543b2f46f9239eec5ab92",
+    "tokenName": "ElonTrust",
+    "idPair": "0x4388f33ee35e1740ba9938917f11f342b12d4d40",
+    "idToken": "0xb59d3c230c6d389cb70543b2f46f9239eec5ab92",
+    "dateCreationToken": "2021-04-23T03:59:09Z",
+    "initialInfos": {
+      "initialPoolToken": 490000000000000,
+      "initialPriceUSD": 1.1004938775510203e-11,
+      "initialPoolEth": 2.2,
+      "initialMarketCap": 5392.42
+    },
+    "currentInfos": {
+      "currentPoolToken": 14,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 7.6144e-14,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 6,
+    "holderCountOld": 5,
+    "txCount": 5,
+    "createdAtTimestamp": "1619150349",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
   },
   {
     "_id": "0x706fe0b05c9f491fdac2f1e98723f20d05264e8b",
@@ -6162,37 +6193,6 @@
     "holderCountOld": 1,
     "txCount": 3,
     "createdAtTimestamp": "1619031120",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xd37d54a5ab85a35b9ba81fac8fcb407a3965e989",
-    "tokenName": "Doge2",
-    "idPair": "0x8e2ab07faba4cc48c8cc0561d6e3f0549a783599",
-    "idToken": "0xd37d54a5ab85a35b9ba81fac8fcb407a3965e989",
-    "dateCreationToken": "2021-04-21T18:39:06Z",
-    "initialInfos": {
-      "initialPoolToken": 5000000000000,
-      "initialPriceUSD": 7.33314e-9,
-      "initialPoolEth": 15,
-      "initialMarketCap": 36143.59569839943
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.67405472e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 17,
-    "holderCountOld": 0,
-    "txCount": 17,
-    "createdAtTimestamp": "1619030346",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
