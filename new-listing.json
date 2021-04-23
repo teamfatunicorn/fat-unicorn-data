@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x2097e16a1c1f5581ad6041c97493957271244ca0",
+    "tokenName": "Vita Dog",
+    "idPair": "0xef2e2f9d0e99bfeca7587b0245c1ec88b5ab509d",
+    "idToken": "0x2097e16a1c1f5581ad6041c97493957271244ca0",
+    "dateCreationToken": "2021-04-23T05:38:49Z",
+    "initialInfos": {
+      "initialPoolToken": 80000000000000,
+      "initialPriceUSD": 5.477625e-11,
+      "initialPoolEth": 1.8,
+      "initialMarketCap": 4382.1
+    },
+    "currentInfos": {
+      "currentPoolToken": 62649554056993.695,
+      "currentPriceUSD": 8.93757359375e-11,
+      "currentPoolEth": 2.3,
+      "currentMarketCap": 5599.35
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619156329",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.6316512345679014,
+    "isRugged": false
+  },
+  {
     "_id": "0x92ab022899eebec5f14f62ad79d9c553483774f1",
     "tokenName": "STACK",
     "idPair": "0x13e324ed78f7aea892a137b672303d4f40a0da0d",
@@ -20,7 +51,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 1,
+    "holderCount": 2,
     "holderCountOld": 0,
     "txCount": 1,
     "createdAtTimestamp": "1619155937",
@@ -51,7 +82,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 1,
+    "holderCount": 3,
     "holderCountOld": 0,
     "txCount": 4,
     "createdAtTimestamp": "1619155558",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 19.71493390684218,
-    "isRugged": true
-  },
-  {
-    "_id": "0xa65216c601ff5f6bff914e561efe0ec8be5ad8b8",
-    "tokenName": "GINU",
-    "idPair": "0xa3d0458ae4fe7c0cd9c02dcc648161b687956098",
-    "idToken": "0xa65216c601ff5f6bff914e561efe0ec8be5ad8b8",
-    "dateCreationToken": "2021-04-21T16:18:07Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 4.82552e-9,
-      "initialPoolEth": 2,
-      "initialMarketCap": 4825.52
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.11642742e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 21,
-    "holderCountOld": 20,
-    "txCount": 23,
-    "createdAtTimestamp": "1619021887",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
