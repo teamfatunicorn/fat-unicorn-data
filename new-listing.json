@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x9b611795e434ad8fb0d6158b53b39c0f4bc59def",
+    "tokenName": "ROSN",
+    "idPair": "0x2adc1e486444f2ab1dfefd8cf600f073b32592ff",
+    "idToken": "0x9b611795e434ad8fb0d6158b53b39c0f4bc59def",
+    "dateCreationToken": "2021-04-23T13:39:52Z",
+    "initialInfos": {
+      "initialPoolToken": 10000000,
+      "initialPriceUSD": 0.01233705,
+      "initialPoolEth": 55,
+      "initialMarketCap": 123370.5
+    },
+    "currentInfos": {
+      "currentPoolToken": 10000000,
+      "currentPriceUSD": 0.01233705,
+      "currentPoolEth": 55,
+      "currentMarketCap": 123370.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619185192",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
+    "_id": "0xe17b4561c6c4294ed270dfed56261fbf8289d14f",
+    "tokenName": "ELNG",
+    "idPair": "0x6aac293320ff16280a8b2385feb82eaf9885ffb7",
+    "idToken": "0xe17b4561c6c4294ed270dfed56261fbf8289d14f",
+    "dateCreationToken": "2021-04-23T13:39:32Z",
+    "initialInfos": {
+      "initialPoolToken": 990000000000000,
+      "initialPriceUSD": 7.023848484848485e-12,
+      "initialPoolEth": 3.1,
+      "initialMarketCap": 6876.862743912046
+    },
+    "currentInfos": {
+      "currentPoolToken": 990000000000000,
+      "currentPriceUSD": 7.023848484848485e-12,
+      "currentPoolEth": 3.1,
+      "currentMarketCap": 6953.61
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619185172",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xd6670cbcced027081d0adf5861fe504a8b7944e7",
     "tokenName": "YUGIGT",
     "idPair": "0x2e1b73c6b2897dfc4eff2f85b3bcb921b7049760",
@@ -12,22 +74,22 @@
       "initialMarketCap": 14437.0029653252
     },
     "currentInfos": {
-      "currentPoolToken": 481534985.3687447,
-      "currentPriceUSD": 0.000031443042478846155,
-      "currentPoolEth": 6.75,
-      "currentMarketCap": 15140.925
+      "currentPoolToken": 474526059.7163418,
+      "currentPriceUSD": 0.00003238017108941267,
+      "currentPoolEth": 6.85,
+      "currentMarketCap": 15365.235
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 2,
+    "txCount": 3,
     "createdAtTimestamp": "1619184424",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.07828254437869829,
+    "priceChange": 0.11041968324786335,
     "isRugged": false
   },
   {
@@ -144,7 +206,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 6,
+    "holderCount": 8,
     "holderCountOld": 0,
     "txCount": 13,
     "createdAtTimestamp": "1619181650",
@@ -1302,37 +1364,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x1f5cd9a8191a1d9a200f2e784c399fda555e78bb",
-    "tokenName": "HOKINU",
-    "idPair": "0xec39958d5be83b595a4e6153c81bc8d85a794c55",
-    "idToken": "0x1f5cd9a8191a1d9a200f2e784c399fda555e78bb",
-    "dateCreationToken": "2021-04-23T03:59:09Z",
-    "initialInfos": {
-      "initialPoolToken": 389999999999,
-      "initialPriceUSD": 2.451100000006285e-8,
-      "initialPoolEth": 3.9,
-      "initialMarketCap": 9559.29
-    },
-    "currentInfos": {
-      "currentPoolToken": 1e-18,
-      "currentPriceUSD": 678696000000000000000,
-      "currentPoolEth": 0.3,
-      "currentMarketCap": 678.696
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 11,
-    "holderCountOld": 0,
-    "txCount": 20,
-    "createdAtTimestamp": "1619150349",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 2.7689445554985915e+28,
-    "isRugged": false
-  },
-  {
     "_id": "0xb59d3c230c6d389cb70543b2f46f9239eec5ab92",
     "tokenName": "ElonTrust",
     "idPair": "0x4388f33ee35e1740ba9938917f11f342b12d4d40",
@@ -1362,6 +1393,37 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
+  },
+  {
+    "_id": "0x1f5cd9a8191a1d9a200f2e784c399fda555e78bb",
+    "tokenName": "HOKINU",
+    "idPair": "0xec39958d5be83b595a4e6153c81bc8d85a794c55",
+    "idToken": "0x1f5cd9a8191a1d9a200f2e784c399fda555e78bb",
+    "dateCreationToken": "2021-04-23T03:59:09Z",
+    "initialInfos": {
+      "initialPoolToken": 389999999999,
+      "initialPriceUSD": 2.451100000006285e-8,
+      "initialPoolEth": 3.9,
+      "initialMarketCap": 9559.29
+    },
+    "currentInfos": {
+      "currentPoolToken": 1e-18,
+      "currentPriceUSD": 678696000000000000000,
+      "currentPoolEth": 0.3,
+      "currentMarketCap": 678.696
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 11,
+    "holderCountOld": 0,
+    "txCount": 20,
+    "createdAtTimestamp": "1619150349",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.7689445554985915e+28,
+    "isRugged": false
   },
   {
     "_id": "0x706fe0b05c9f491fdac2f1e98723f20d05264e8b",
@@ -6136,67 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xe7e9adc235360c2b6c53f68f6fba58d0955790fd",
-    "tokenName": "DBR",
-    "idPair": "0x4c608ab8ab7e593ba96d9bbe201783d36f726523",
-    "idToken": "0xe7e9adc235360c2b6c53f68f6fba58d0955790fd",
-    "dateCreationToken": "2021-04-22T00:07:01Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 1.702932e-8,
-      "initialPoolEth": 7,
-      "initialMarketCap": 16469.98984805034
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.00003958,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2.67e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 0,
-    "txCount": 6,
-    "createdAtTimestamp": "1619050021",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x5ed2636788a73aa81520ad20cb58af34fff60962",
-    "tokenName": "AOGE",
-    "idPair": "0xae1a38d2532b7fb2ecdab7c80ee0ae3338598601",
-    "idToken": "0x5ed2636788a73aa81520ad20cb58af34fff60962",
-    "dateCreationToken": "2021-04-21T23:56:12Z",
-    "initialInfos": {
-      "initialPoolToken": 3793919610143257,
-      "initialPriceUSD": 5.4427365684799766e-12,
-      "initialPoolEth": 8.5,
-      "initialMarketCap": 20649.305
-    },
-    "currentInfos": {
-      "currentPoolToken": 2868120999126793.5,
-      "currentPriceUSD": 9.994062570940008e-12,
-      "currentPoolEth": 12.670259170365263,
-      "currentMarketCap": 28664.180726300146
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 141,
-    "holderCountOld": 142,
-    "txCount": 420,
-    "createdAtTimestamp": "1619049372",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.8362201523435306,
-    "isRugged": false
   }
 ]
