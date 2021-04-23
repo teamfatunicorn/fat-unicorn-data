@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x024946259b9ca66e90815ac97a727fd847307756",
+    "tokenName": "OSINU",
+    "idPair": "0x6a61e1b8485cf676efebf103d87de70900d04a48",
+    "idToken": "0x024946259b9ca66e90815ac97a727fd847307756",
+    "dateCreationToken": "2021-04-23T10:13:57Z",
+    "initialInfos": {
+      "initialPoolToken": 800000000000,
+      "initialPriceUSD": 5.567125e-9,
+      "initialPoolEth": 2,
+      "initialMarketCap": 4453.7
+    },
+    "currentInfos": {
+      "currentPoolToken": 640384230538.323,
+      "currentPriceUSD": 8.6934136328125e-9,
+      "currentPoolEth": 2.5,
+      "currentMarketCap": 5567.125
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619172837",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.5615625000000001,
+    "isRugged": false
+  },
+  {
     "_id": "0x43a96962254855f16b925556f9e97be436a43448",
     "tokenName": "HORD",
     "idPair": "0xbaa48ef52fe0cf3a2682c1247b18d4274a988132",
@@ -12,22 +43,22 @@
       "initialMarketCap": 310645.575
     },
     "currentInfos": {
-      "currentPoolToken": 1377421.1348268872,
-      "currentPriceUSD": 0.2481612218208433,
-      "currentPoolEth": 153.50046558164772,
-      "currentMarketCap": 341822.51178049284
+      "currentPoolToken": 1535382.8397179388,
+      "currentPriceUSD": 0.2002621070964281,
+      "currentPoolEth": 138.07800376388735,
+      "currentMarketCap": 307479.00268161175
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 469,
     "holderCountOld": 0,
-    "txCount": 129,
+    "txCount": 156,
     "createdAtTimestamp": "1619172018",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.2022789600024696,
+    "priceChange": -0.029780253009802866,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 572155.0178643458
     },
     "currentInfos": {
-      "currentPoolToken": 7405304.369858023,
-      "currentPriceUSD": 0.08236450313678245,
-      "currentPoolEth": 273.9,
-      "currentMarketCap": 609934.215
+      "currentPoolToken": 7383802.697170748,
+      "currentPriceUSD": 0.08284561764284291,
+      "currentPoolEth": 274.7,
+      "currentMarketCap": 611715.695
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 4,
+    "txCount": 6,
     "createdAtTimestamp": "1619171913",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.10961002946021231,
+    "priceChange": 0.1160915774683017,
     "isRugged": false
   },
   {
@@ -713,37 +744,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x1f5cd9a8191a1d9a200f2e784c399fda555e78bb",
-    "tokenName": "HOKINU",
-    "idPair": "0xec39958d5be83b595a4e6153c81bc8d85a794c55",
-    "idToken": "0x1f5cd9a8191a1d9a200f2e784c399fda555e78bb",
-    "dateCreationToken": "2021-04-23T03:59:09Z",
-    "initialInfos": {
-      "initialPoolToken": 389999999999,
-      "initialPriceUSD": 2.451100000006285e-8,
-      "initialPoolEth": 3.9,
-      "initialMarketCap": 9559.29
-    },
-    "currentInfos": {
-      "currentPoolToken": 1e-18,
-      "currentPriceUSD": 654951000000000000000,
-      "currentPoolEth": 0.3,
-      "currentMarketCap": 654.951
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 11,
-    "holderCountOld": 0,
-    "txCount": 20,
-    "createdAtTimestamp": "1619150349",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 2.6720696829926184e+28,
-    "isRugged": false
-  },
-  {
     "_id": "0xb59d3c230c6d389cb70543b2f46f9239eec5ab92",
     "tokenName": "ElonTrust",
     "idPair": "0x4388f33ee35e1740ba9938917f11f342b12d4d40",
@@ -773,6 +773,37 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
+  },
+  {
+    "_id": "0x1f5cd9a8191a1d9a200f2e784c399fda555e78bb",
+    "tokenName": "HOKINU",
+    "idPair": "0xec39958d5be83b595a4e6153c81bc8d85a794c55",
+    "idToken": "0x1f5cd9a8191a1d9a200f2e784c399fda555e78bb",
+    "dateCreationToken": "2021-04-23T03:59:09Z",
+    "initialInfos": {
+      "initialPoolToken": 389999999999,
+      "initialPriceUSD": 2.451100000006285e-8,
+      "initialPoolEth": 3.9,
+      "initialMarketCap": 9559.29
+    },
+    "currentInfos": {
+      "currentPoolToken": 1e-18,
+      "currentPriceUSD": 654951000000000000000,
+      "currentPoolEth": 0.3,
+      "currentMarketCap": 654.951
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 11,
+    "holderCountOld": 0,
+    "txCount": 20,
+    "createdAtTimestamp": "1619150349",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.6720696829926184e+28,
+    "isRugged": false
   },
   {
     "_id": "0x706fe0b05c9f491fdac2f1e98723f20d05264e8b",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x8e59c81c80090a47a71b2c1a96871f5f78d8103f",
-    "tokenName": "DALMA",
-    "idPair": "0x44cc6f3a4845b686d7e427f01355bfeded0ddff6",
-    "idToken": "0x8e59c81c80090a47a71b2c1a96871f5f78d8103f",
-    "dateCreationToken": "2021-04-21T19:55:56Z",
-    "initialInfos": {
-      "initialPoolToken": 440000000000000,
-      "initialPriceUSD": 9.542232954545454e-12,
-      "initialPoolEth": 1.75,
-      "initialMarketCap": 4198.5825
-    },
-    "currentInfos": {
-      "currentPoolToken": 90600785764830.52,
-      "currentPriceUSD": 2.2674305890467477e-10,
-      "currentPoolEth": 9.539267761992502,
-      "currentMarketCap": 20543.099303484785
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 114,
-    "holderCountOld": 115,
-    "txCount": 332,
-    "createdAtTimestamp": "1619034956",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 22.762054435766572,
-    "isRugged": false
   }
 ]
