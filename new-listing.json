@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x125b4ca2cdbff487e77ad193bbb84ffe54f4dc1e",
+    "tokenName": "SPUP",
+    "idPair": "0x31e37859e515d221155f08d68b4ca7e13407c892",
+    "idToken": "0x125b4ca2cdbff487e77ad193bbb84ffe54f4dc1e",
+    "dateCreationToken": "2021-04-23T04:29:26Z",
+    "initialInfos": {
+      "initialPoolToken": 48495253484144616,
+      "initialPriceUSD": 2.023505249479384e-13,
+      "initialPoolEth": 4,
+      "initialMarketCap": 9813.04
+    },
+    "currentInfos": {
+      "currentPoolToken": 48495253484144616,
+      "currentPriceUSD": 2.023505249479384e-13,
+      "currentPoolEth": 4,
+      "currentMarketCap": 9813.04
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619152166",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x1f5cd9a8191a1d9a200f2e784c399fda555e78bb",
     "tokenName": "HOKINU",
     "idPair": "0xec39958d5be83b595a4e6153c81bc8d85a794c55",
@@ -43,22 +74,22 @@
       "initialMarketCap": 5397.172
     },
     "currentInfos": {
-      "currentPoolToken": 449279431644886,
-      "currentPriceUSD": 1.3105037945858564e-11,
-      "currentPoolEth": 2.4,
-      "currentMarketCap": 5887.824
+      "currentPoolToken": 431360017581201,
+      "currentPriceUSD": 1.4218169858186893e-11,
+      "currentPoolEth": 2.5,
+      "currentMarketCap": 6133.15
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 5,
     "holderCountOld": 0,
-    "txCount": 3,
+    "txCount": 4,
     "createdAtTimestamp": "1619150349",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.1897839449012735,
+    "priceChange": 0.29084328431844997,
     "isRugged": false
   },
   {
@@ -82,7 +113,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 15,
+    "holderCount": 16,
     "holderCountOld": 0,
     "txCount": 33,
     "createdAtTimestamp": "1619148957",
@@ -113,7 +144,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 80,
+    "holderCount": 63,
     "holderCountOld": 0,
     "txCount": 269,
     "createdAtTimestamp": "1619148237",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 216.71207549106148,
     "isRugged": false
-  },
-  {
-    "_id": "0xdeb5a4e23f8517f5dd64fb6e4b6600c0e994e969",
-    "tokenName": "KIRKY",
-    "idPair": "0xa1cecd83a695e8a60066b8f626fd949c1bcf3a7e",
-    "idToken": "0xdeb5a4e23f8517f5dd64fb6e4b6600c0e994e969",
-    "dateCreationToken": "2021-04-21T15:16:38Z",
-    "initialInfos": {
-      "initialPoolToken": 500000000000,
-      "initialPriceUSD": 1.9598e-8,
-      "initialPoolEth": 4,
-      "initialMarketCap": 9754.881721112923
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.2941008e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 12,
-    "holderCountOld": 0,
-    "txCount": 20,
-    "createdAtTimestamp": "1619018198",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
