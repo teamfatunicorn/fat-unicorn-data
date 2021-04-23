@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xe19238a7a10aa462a2d1bca9438ed379ecbc81be",
+    "tokenName": "PAP",
+    "idPair": "0x01831a9a844145802ace32814dd5b8701df0774e",
+    "idToken": "0xe19238a7a10aa462a2d1bca9438ed379ecbc81be",
+    "dateCreationToken": "2021-04-23T00:31:46Z",
+    "initialInfos": {
+      "initialPoolToken": 4000000000,
+      "initialPriceUSD": 0.000006237875,
+      "initialPoolEth": 10,
+      "initialMarketCap": 24322.27642198224
+    },
+    "currentInfos": {
+      "currentPoolToken": 3494845689.3628,
+      "currentPriceUSD": 0.000008174743619426855,
+      "currentPoolEth": 11.45,
+      "currentMarketCap": 28569.4675
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 6,
+    "createdAtTimestamp": "1619137906",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.3105013517306543,
+    "isRugged": false
+  },
+  {
     "_id": "0xef59a1f4963082ff255cc63c44583cda2d07c368",
     "tokenName": "BEAGLE",
     "idPair": "0x21dd96499bb363a4efc3d2b09e4dad19f77a61e8",
@@ -74,22 +105,22 @@
       "initialMarketCap": 14970.9
     },
     "currentInfos": {
-      "currentPoolToken": 15747318147830.98,
-      "currentPriceUSD": 3.964809312765654e-9,
-      "currentPoolEth": 25.022589280645857,
-      "currentMarketCap": 62435.113643603865
+      "currentPoolToken": 15169227251217.822,
+      "currentPriceUSD": 4.2744872527164096e-9,
+      "currentPoolEth": 25.986681569800947,
+      "currentMarketCap": 64840.66851888897
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 132,
     "holderCountOld": 0,
-    "txCount": 228,
+    "txCount": 232,
     "createdAtTimestamp": "1619135965",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 15.195048663421582,
+    "priceChange": 16.45998952485036,
     "isRugged": false
   },
   {
@@ -105,22 +136,22 @@
       "initialMarketCap": 7485.45
     },
     "currentInfos": {
-      "currentPoolToken": 120856431230350160,
-      "currentPriceUSD": 2.613232516119319e-13,
-      "currentPoolEth": 12.657593967228463,
-      "currentMarketCap": 31582.595587328946
+      "currentPoolToken": 121701039710212560,
+      "currentPriceUSD": 2.578042737440432e-13,
+      "currentPoolEth": 12.574413624987283,
+      "currentMarketCap": 31375.048156386314
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 26,
     "holderCountOld": 0,
-    "txCount": 32,
+    "txCount": 34,
     "createdAtTimestamp": "1619135865",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 16.455413609865268,
+    "priceChange": 16.22035907955054,
     "isRugged": false
   },
   {
@@ -2635,37 +2666,6 @@
     "isRugged": true
   },
   {
-    "_id": "0xdb6371d1065db76903870f38cd8ab9dfd0264334",
-    "tokenName": "LODOGE",
-    "idPair": "0x9ec6061330ec8f8abf224b931bf4aed2ce6b6769",
-    "idToken": "0xdb6371d1065db76903870f38cd8ab9dfd0264334",
-    "dateCreationToken": "2021-04-22T11:27:03Z",
-    "initialInfos": {
-      "initialPoolToken": 39516129032258.06,
-      "initialPriceUSD": 1.4684225510204082e-10,
-      "initialPoolEth": 2.25,
-      "initialMarketCap": 5741.992512429316
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.00010193,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 14,
-    "holderCountOld": 0,
-    "txCount": 21,
-    "createdAtTimestamp": "1619090823",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0x647e75d46265f93bfe6a8db4c70f882d97f28d34",
     "tokenName": "M2",
     "idPair": "0x213f34ed109416b5ad6b980b233b911eecd61ce1",
@@ -2689,6 +2689,37 @@
     "holderCount": 1,
     "holderCountOld": 0,
     "txCount": 2,
+    "createdAtTimestamp": "1619090823",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0xdb6371d1065db76903870f38cd8ab9dfd0264334",
+    "tokenName": "LODOGE",
+    "idPair": "0x9ec6061330ec8f8abf224b931bf4aed2ce6b6769",
+    "idToken": "0xdb6371d1065db76903870f38cd8ab9dfd0264334",
+    "dateCreationToken": "2021-04-22T11:27:03Z",
+    "initialInfos": {
+      "initialPoolToken": 39516129032258.06,
+      "initialPriceUSD": 1.4684225510204082e-10,
+      "initialPoolEth": 2.25,
+      "initialMarketCap": 5741.992512429316
+    },
+    "currentInfos": {
+      "currentPoolToken": 0.00010193,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-17,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 14,
+    "holderCountOld": 0,
+    "txCount": 21,
     "createdAtTimestamp": "1619090823",
     "isCodeGenerator": false,
     "linksSocial": [],
@@ -6162,37 +6193,6 @@
     "holderCountOld": 27,
     "txCount": 50,
     "createdAtTimestamp": "1619011534",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xab0aa8bda39690103328e6ed352aa9c20697d211",
-    "tokenName": "SHIBARE",
-    "idPair": "0xfd34a0ad7faf21f02204f808e0e9cbe2b1bffaf7",
-    "idToken": "0xab0aa8bda39690103328e6ed352aa9c20697d211",
-    "dateCreationToken": "2021-04-21T13:07:36Z",
-    "initialInfos": {
-      "initialPoolToken": 850000000000,
-      "initialPriceUSD": 7.848465882352942e-9,
-      "initialPoolEth": 2.8,
-      "initialMarketCap": 6671.196
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.74235118e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 18,
-    "holderCountOld": 0,
-    "txCount": 19,
-    "createdAtTimestamp": "1619010456",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
