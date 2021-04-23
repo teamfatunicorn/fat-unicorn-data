@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x706fe0b05c9f491fdac2f1e98723f20d05264e8b",
+    "tokenName": "ROTDOG",
+    "idPair": "0x7311bd60578b8280dbc15d8b04305b675b1ed56a",
+    "idToken": "0x706fe0b05c9f491fdac2f1e98723f20d05264e8b",
+    "dateCreationToken": "2021-04-23T03:35:57Z",
+    "initialInfos": {
+      "initialPoolToken": 1050000000,
+      "initialPriceUSD": 0.0000046875428571428576,
+      "initialPoolEth": 2,
+      "initialMarketCap": 4921.92
+    },
+    "currentInfos": {
+      "currentPoolToken": 778443984.3107698,
+      "currentPriceUSD": 0.00000853573556212023,
+      "currentPoolEth": 2.7,
+      "currentMarketCap": 6644.592
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1619148957",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.8209402713222158,
+    "isRugged": false
+  },
+  {
     "_id": "0x997be9f68df07ee507a772c09cfb86a0d0b16f8c",
     "tokenName": "SCOOBY",
     "idPair": "0x55098109be0e7840b45d8cddb361665f983fbba7",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-23T03:23:57Z",
     "initialInfos": {
       "initialPoolToken": 375000000000,
-      "initialPriceUSD": 6.563546666666667e-8,
+      "initialPriceUSD": 6.56256e-8,
       "initialPoolEth": 10,
-      "initialMarketCap": 24613.3
+      "initialMarketCap": 24609.6
     },
     "currentInfos": {
-      "currentPoolToken": 165292459638.51157,
-      "currentPriceUSD": 3.459331915314244e-7,
-      "currentPoolEth": 23.231402574554743,
-      "currentMarketCap": 57180.14809882946
+      "currentPoolToken": 148936114884.7418,
+      "currentPriceUSD": 4.2796820990482574e-7,
+      "currentPoolEth": 25.900430107519703,
+      "currentMarketCap": 63739.92247740242
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 72,
     "holderCountOld": 0,
-    "txCount": 106,
+    "txCount": 122,
     "createdAtTimestamp": "1619148237",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 4.270522312094849,
+    "priceChange": 5.52136071753745,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 136.03872950790887,
     "isRugged": false
-  },
-  {
-    "_id": "0x8bb0f25c5f285e40010c5dc3d1490321ea36c91f",
-    "tokenName": "WHODOGE",
-    "idPair": "0x1ad9bab09db19dd4843c79e3df4f1052cb98cdc8",
-    "idToken": "0x8bb0f25c5f285e40010c5dc3d1490321ea36c91f",
-    "dateCreationToken": "2021-04-21T14:45:37Z",
-    "initialInfos": {
-      "initialPoolToken": 494949494949.49493,
-      "initialPriceUSD": 1.2209932653061224e-8,
-      "initialPoolEth": 2.5,
-      "initialMarketCap": 6043.3
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.000005986,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.7e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 12,
-    "holderCountOld": 0,
-    "txCount": 11,
-    "createdAtTimestamp": "1619016337",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
