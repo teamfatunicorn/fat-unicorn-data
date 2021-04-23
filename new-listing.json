@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x99c1e1edf835fd8687819ed9caaad072996627e7",
+    "tokenName": "ELONINU",
+    "idPair": "0x265260ceaad0c6a77f49fe1c75f89a796f0351c4",
+    "idToken": "0x99c1e1edf835fd8687819ed9caaad072996627e7",
+    "dateCreationToken": "2021-04-23T09:43:58Z",
+    "initialInfos": {
+      "initialPoolToken": 100000000000000,
+      "initialPriceUSD": 4.34438e-11,
+      "initialPoolEth": 2,
+      "initialMarketCap": 4344.38
+    },
+    "currentInfos": {
+      "currentPoolToken": 81045627376425.86,
+      "currentPriceUSD": 6.700515716631481e-11,
+      "currentPoolEth": 2.5,
+      "currentMarketCap": 5430.475
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619171038",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.542341074360779,
+    "isRugged": false
+  },
+  {
     "_id": "0x503ab01a178a839e211264ea55bd58ba24fa0e6b",
     "tokenName": "HORD",
     "idPair": "0x9bcae9e85da6d14f9fa5257cb3742aefc53eee05",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-23T09:32:49Z",
     "initialInfos": {
       "initialPoolToken": 50000000,
-      "initialPriceUSD": 0.02398605,
+      "initialPriceUSD": 0.02389409,
       "initialPoolEth": 550,
-      "initialMarketCap": 1199302.5
+      "initialMarketCap": 1194704.5
     },
     "currentInfos": {
       "currentPoolToken": 50000000,
-      "currentPriceUSD": 0.02398605,
+      "currentPriceUSD": 0.02389409,
       "currentPoolEth": 550,
-      "currentMarketCap": 1199302.5
+      "currentMarketCap": 1194704.5
     },
     "trustScore": null,
     "contractId": null,
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-04-23T09:04:54Z",
     "initialInfos": {
       "initialPoolToken": 50000000000000,
-      "initialPriceUSD": 1.4609685e-10,
+      "initialPriceUSD": 1.4553673e-10,
       "initialPoolEth": 3.35,
-      "initialMarketCap": 7304.8425
+      "initialMarketCap": 7276.8365
     },
     "currentInfos": {
       "currentPoolToken": 46281338466460.52,
-      "currentPriceUSD": 1.7055667060537545e-10,
+      "currentPriceUSD": 1.6990277421856434e-10,
       "currentPoolEth": 3.62,
-      "currentMarketCap": 7893.591
+      "currentMarketCap": 7863.3278
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.16742195745750474,
+    "priceChange": 0.1674219574575046,
     "isRugged": false
   },
   {
@@ -589,37 +620,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x1f5cd9a8191a1d9a200f2e784c399fda555e78bb",
-    "tokenName": "HOKINU",
-    "idPair": "0xec39958d5be83b595a4e6153c81bc8d85a794c55",
-    "idToken": "0x1f5cd9a8191a1d9a200f2e784c399fda555e78bb",
-    "dateCreationToken": "2021-04-23T03:59:09Z",
-    "initialInfos": {
-      "initialPoolToken": 389999999999,
-      "initialPriceUSD": 2.451100000006285e-8,
-      "initialPoolEth": 3.9,
-      "initialMarketCap": 9559.29
-    },
-    "currentInfos": {
-      "currentPoolToken": 1e-18,
-      "currentPriceUSD": 656655000000000000000,
-      "currentPoolEth": 0.3,
-      "currentMarketCap": 656.655
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 11,
-    "holderCountOld": 0,
-    "txCount": 20,
-    "createdAtTimestamp": "1619150349",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 2.67902166373594e+28,
-    "isRugged": false
-  },
-  {
     "_id": "0xb59d3c230c6d389cb70543b2f46f9239eec5ab92",
     "tokenName": "ElonTrust",
     "idPair": "0x4388f33ee35e1740ba9938917f11f342b12d4d40",
@@ -649,6 +649,37 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
+  },
+  {
+    "_id": "0x1f5cd9a8191a1d9a200f2e784c399fda555e78bb",
+    "tokenName": "HOKINU",
+    "idPair": "0xec39958d5be83b595a4e6153c81bc8d85a794c55",
+    "idToken": "0x1f5cd9a8191a1d9a200f2e784c399fda555e78bb",
+    "dateCreationToken": "2021-04-23T03:59:09Z",
+    "initialInfos": {
+      "initialPoolToken": 389999999999,
+      "initialPriceUSD": 2.451100000006285e-8,
+      "initialPoolEth": 3.9,
+      "initialMarketCap": 9559.29
+    },
+    "currentInfos": {
+      "currentPoolToken": 1e-18,
+      "currentPriceUSD": 656655000000000000000,
+      "currentPoolEth": 0.3,
+      "currentMarketCap": 656.655
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 11,
+    "holderCountOld": 0,
+    "txCount": 20,
+    "createdAtTimestamp": "1619150349",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 2.67902166373594e+28,
+    "isRugged": false
   },
   {
     "_id": "0x706fe0b05c9f491fdac2f1e98723f20d05264e8b",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 2.8897967885413416,
     "isRugged": false
-  },
-  {
-    "_id": "0xc4706f665464d41f7b5f5eed8dfdd929dcbad44b",
-    "tokenName": "CORGE",
-    "idPair": "0x82e1a31afc9fcd3797285998cde40700084630e4",
-    "idToken": "0xc4706f665464d41f7b5f5eed8dfdd929dcbad44b",
-    "dateCreationToken": "2021-04-21T18:52:11Z",
-    "initialInfos": {
-      "initialPoolToken": 50000000000000,
-      "initialPriceUSD": 4.8642e-10,
-      "initialPoolEth": 10,
-      "initialMarketCap": 24084.561927840263
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.941079747e-9,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 15,
-    "holderCountOld": 0,
-    "txCount": 21,
-    "createdAtTimestamp": "1619031131",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
