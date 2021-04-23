@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x8d8ecb30acde40dd5a518a380f5dd7e35107672f",
+    "tokenName": "KINU",
+    "idPair": "0xb2388d4e9e6e79f0390a10e09a784fc426d01d1e",
+    "idToken": "0x8d8ecb30acde40dd5a518a380f5dd7e35107672f",
+    "dateCreationToken": "2021-04-23T05:10:33Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000000,
+      "initialPriceUSD": 1.955416e-11,
+      "initialPoolEth": 8,
+      "initialMarketCap": 19554.16
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000000000,
+      "currentPriceUSD": 1.955416e-11,
+      "currentPoolEth": 8,
+      "currentMarketCap": 19554.16
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619154633",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xb5a3480e3b8acdef976094b6cb064fb2a773897b",
     "tokenName": "Lucky Cat",
     "idPair": "0xdc0fdfd26df4a0253358e766e0c757aeb2154497",
@@ -12,22 +43,22 @@
       "initialMarketCap": 3666.405
     },
     "currentInfos": {
-      "currentPoolToken": 341262132972910.56,
-      "currentPriceUSD": 1.5757370890097724e-11,
-      "currentPoolEth": 2.2,
-      "currentMarketCap": 5377.394
+      "currentPoolToken": 371569612447235.5,
+      "currentPriceUSD": 1.3301295158085154e-11,
+      "currentPoolEth": 2.0220176522788793,
+      "currentMarketCap": 4942.357086935991
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 4,
     "holderCountOld": 0,
-    "txCount": 3,
+    "txCount": 5,
     "createdAtTimestamp": "1619154506",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.1488857464052284,
+    "priceChange": 0.8139424256301682,
     "isRugged": false
   },
   {
@@ -62,37 +93,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x1f5cd9a8191a1d9a200f2e784c399fda555e78bb",
-    "tokenName": "HOKINU",
-    "idPair": "0xec39958d5be83b595a4e6153c81bc8d85a794c55",
-    "idToken": "0x1f5cd9a8191a1d9a200f2e784c399fda555e78bb",
-    "dateCreationToken": "2021-04-23T03:59:09Z",
-    "initialInfos": {
-      "initialPoolToken": 389999999999,
-      "initialPriceUSD": 2.451100000006285e-8,
-      "initialPoolEth": 3.9,
-      "initialMarketCap": 9559.29
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.32934009e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 11,
-    "holderCountOld": 0,
-    "txCount": 19,
-    "createdAtTimestamp": "1619150349",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0xb59d3c230c6d389cb70543b2f46f9239eec5ab92",
     "tokenName": "ElonTrust",
     "idPair": "0x4388f33ee35e1740ba9938917f11f342b12d4d40",
@@ -122,6 +122,37 @@
     "officialSite": null,
     "priceChange": 0.2908432843184501,
     "isRugged": false
+  },
+  {
+    "_id": "0x1f5cd9a8191a1d9a200f2e784c399fda555e78bb",
+    "tokenName": "HOKINU",
+    "idPair": "0xec39958d5be83b595a4e6153c81bc8d85a794c55",
+    "idToken": "0x1f5cd9a8191a1d9a200f2e784c399fda555e78bb",
+    "dateCreationToken": "2021-04-23T03:59:09Z",
+    "initialInfos": {
+      "initialPoolToken": 389999999999,
+      "initialPriceUSD": 2.451100000006285e-8,
+      "initialPoolEth": 3.9,
+      "initialMarketCap": 9559.29
+    },
+    "currentInfos": {
+      "currentPoolToken": 2.32934009e-10,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 11,
+    "holderCountOld": 0,
+    "txCount": 19,
+    "createdAtTimestamp": "1619150349",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
   },
   {
     "_id": "0x706fe0b05c9f491fdac2f1e98723f20d05264e8b",
@@ -6162,37 +6193,6 @@
     "holderCountOld": 12,
     "txCount": 13,
     "createdAtTimestamp": "1619019588",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xf0d34cac738828b7ca360e88acf6b30a9224a495",
-    "tokenName": "MEL",
-    "idPair": "0x888bb639e82eb04e5b481e01bdf6ec24aab307c1",
-    "idToken": "0xf0d34cac738828b7ca360e88acf6b30a9224a495",
-    "dateCreationToken": "2021-04-21T15:37:48Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000,
-      "initialPriceUSD": 0.05608021,
-      "initialPoolEth": 23,
-      "initialMarketCap": 55685.08854630063
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.02052e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 5e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 8,
-    "holderCountOld": 0,
-    "txCount": 9,
-    "createdAtTimestamp": "1619019468",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
