@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xb5a3480e3b8acdef976094b6cb064fb2a773897b",
+    "tokenName": "Lucky Cat",
+    "idPair": "0xdc0fdfd26df4a0253358e766e0c757aeb2154497",
+    "idToken": "0xb5a3480e3b8acdef976094b6cb064fb2a773897b",
+    "dateCreationToken": "2021-04-23T05:08:26Z",
+    "initialInfos": {
+      "initialPoolToken": 500000000000000,
+      "initialPriceUSD": 7.33281e-12,
+      "initialPoolEth": 1.5,
+      "initialMarketCap": 3666.405
+    },
+    "currentInfos": {
+      "currentPoolToken": 341262132972910.56,
+      "currentPriceUSD": 1.5757370890097724e-11,
+      "currentPoolEth": 2.2,
+      "currentMarketCap": 5377.394
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1619154506",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.1488857464052284,
+    "isRugged": false
+  },
+  {
     "_id": "0x125b4ca2cdbff487e77ad193bbb84ffe54f4dc1e",
     "tokenName": "SPUP",
     "idPair": "0x31e37859e515d221155f08d68b4ca7e13407c892",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-23T04:29:26Z",
     "initialInfos": {
       "initialPoolToken": 48495253484144616,
-      "initialPriceUSD": 2.021723631820075e-13,
+      "initialPriceUSD": 2.016090090795502e-13,
       "initialPoolEth": 4,
-      "initialMarketCap": 9804.4
+      "initialMarketCap": 9777.08
     },
     "currentInfos": {
-      "currentPoolToken": 47090913027271040,
-      "currentPriceUSD": 2.144904317374737e-13,
-      "currentPoolEth": 4.120823412399383,
-      "currentMarketCap": 10100.55026613119
+      "currentPoolToken": 47000799843843130,
+      "currentPriceUSD": 2.147188740856472e-13,
+      "currentPoolEth": 4.128823257493663,
+      "currentMarketCap": 10091.95882359486
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 5,
+    "holderCount": 6,
     "holderCountOld": 0,
-    "txCount": 17,
+    "txCount": 18,
     "createdAtTimestamp": "1619152166",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.060928548104157806,
+    "priceChange": 0.0650261864087837,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xbb1ee07d6c7baeb702949904080eb61f5d5e7732",
-    "tokenName": "DINU",
-    "idPair": "0x76d3142ac9891aa69bdb1a96eabb907561596ad3",
-    "idToken": "0xbb1ee07d6c7baeb702949904080eb61f5d5e7732",
-    "dateCreationToken": "2021-04-21T15:19:49Z",
-    "initialInfos": {
-      "initialPoolToken": 500000000000000,
-      "initialPriceUSD": 4.90718e-14,
-      "initialPoolEth": 0.01,
-      "initialMarketCap": 24.5359
-    },
-    "currentInfos": {
-      "currentPoolToken": 47395232355825.83,
-      "currentPriceUSD": 1.0610927818885871e-11,
-      "currentPoolEth": 0.20553677843989993,
-      "currentMarketCap": 502.907389486992
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 29,
-    "holderCountOld": 28,
-    "txCount": 55,
-    "createdAtTimestamp": "1619018389",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 215.23270022468856,
-    "isRugged": false
   }
 ]
