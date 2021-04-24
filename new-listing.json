@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x4cf72112934a7b81e137c85c477dccd2ac7cdc4f",
+    "tokenName": "DOGEEV",
+    "idPair": "0x3bddfcb21dfa77040ed9238d0fbf7d9b3ee26d98",
+    "idToken": "0x4cf72112934a7b81e137c85c477dccd2ac7cdc4f",
+    "dateCreationToken": "2021-04-24T05:50:48Z",
+    "initialInfos": {
+      "initialPoolToken": 900000000000,
+      "initialPriceUSD": 6.4145e-9,
+      "initialPoolEth": 2.5,
+      "initialMarketCap": 5773.05
+    },
+    "currentInfos": {
+      "currentPoolToken": 750375187593.7969,
+      "currentPriceUSD": 9.23226156e-9,
+      "currentPoolEth": 3,
+      "currentMarketCap": 6927.66
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619243448",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.43927999999999984,
+    "isRugged": false
+  },
+  {
+    "_id": "0x7ae0354d6e64bf5508299983665780ddcfc41cd4",
+    "tokenName": "ELONMUSK",
+    "idPair": "0x3a9ea2bc94873d2c5f0d14350c40ff46b3141ae8",
+    "idToken": "0x7ae0354d6e64bf5508299983665780ddcfc41cd4",
+    "dateCreationToken": "2021-04-24T05:48:52Z",
+    "initialInfos": {
+      "initialPoolToken": 11500000000000,
+      "initialPriceUSD": 1.8072156521739131e-9,
+      "initialPoolEth": 9,
+      "initialMarketCap": 20782.98
+    },
+    "currentInfos": {
+      "currentPoolToken": 11500000000000,
+      "currentPriceUSD": 1.8055252173913045e-9,
+      "currentPoolEth": 9,
+      "currentMarketCap": 20763.54
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619243332",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -0.0009353807779249931,
+    "isRugged": false
+  },
+  {
     "_id": "0xfba23c1a5103a435c15b782f708e3e05b62ca7ff",
     "tokenName": "STN",
     "idPair": "0x1cf14a4a6d8515fd41009e24dd51c419406efdbd",
@@ -82,7 +144,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 1,
+    "holderCount": 2,
     "holderCountOld": 0,
     "txCount": 2,
     "createdAtTimestamp": "1619241846",
@@ -106,21 +168,21 @@
     },
     "currentInfos": {
       "currentPoolToken": 1,
-      "currentPriceUSD": 0.00001679033862,
+      "currentPriceUSD": 0.00001677463326,
       "currentPoolEth": 7.271368056e-9,
-      "currentMarketCap": 0.00001679033862
+      "currentMarketCap": 0.00001677463326
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 1,
+    "holderCount": 4,
     "holderCountOld": 0,
     "txCount": 7,
     "createdAtTimestamp": "1619241844",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.99985458,
+    "priceChange": -0.9998547160230727,
     "isRugged": true
   },
   {
@@ -137,9 +199,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 10000,
-      "currentPriceUSD": 0.00409317622272855,
+      "currentPriceUSD": 0.00408934754436915,
       "currentPoolEth": 0.017725362775424136,
-      "currentMarketCap": 40.9317622272855
+      "currentMarketCap": 40.8934754436915
     },
     "trustScore": null,
     "contractId": null,
@@ -151,7 +213,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -2.392844810081373e-11,
+    "priceChange": -0.0009353808018310537,
     "isRugged": true
   },
   {
@@ -229,22 +291,22 @@
       "initialMarketCap": 4618.44
     },
     "currentInfos": {
-      "currentPoolToken": 19509709977637310,
-      "currentPriceUSD": 1.2748561508243827e-12,
-      "currentPoolEth": 10.77076838317307,
-      "currentMarketCap": 24872.073765790756
+      "currentPoolToken": 17208349000790134,
+      "currentPriceUSD": 1.6402753472784468e-12,
+      "currentPoolEth": 12.223361409202681,
+      "currentMarketCap": 28226.430633359752
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 44,
+    "holderCount": 61,
     "holderCountOld": 0,
-    "txCount": 121,
+    "txCount": 124,
     "createdAtTimestamp": "1619240890",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 26.603609678254617,
+    "priceChange": 34.51578773954943,
     "isRugged": false
   },
   {
@@ -6136,67 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
-    "tokenName": "ELON",
-    "idPair": "0x7b73644935b8e68019ac6356c40661e1bc315860",
-    "idToken": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
-    "dateCreationToken": "2021-04-23T01:09:59Z",
-    "initialInfos": {
-      "initialPoolToken": 500000000000000,
-      "initialPriceUSD": 1.980656e-10,
-      "initialPoolEth": 40,
-      "initialMarketCap": 99032.8
-    },
-    "currentInfos": {
-      "currentPoolToken": 22215933635370.863,
-      "currentPriceUSD": 1.27515115610302e-7,
-      "currentPoolEth": 1216.1101159236491,
-      "currentMarketCap": 2814674.7022041264
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 7774,
-    "holderCountOld": 7267,
-    "txCount": 18711,
-    "createdAtTimestamp": "1619140199",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 642.8024352048109,
-    "isRugged": false
-  },
-  {
-    "_id": "0xc0844fdf1bcbde59a3af0859455d964d350a2cb6",
-    "tokenName": "ROYAL",
-    "idPair": "0x182894a0af62f56f39e66e7dc2c09c13ac270118",
-    "idToken": "0xc0844fdf1bcbde59a3af0859455d964d350a2cb6",
-    "dateCreationToken": "2021-04-23T00:58:48Z",
-    "initialInfos": {
-      "initialPoolToken": 10,
-      "initialPriceUSD": 58.9244293463,
-      "initialPoolEth": 0.23799965,
-      "initialMarketCap": 564.0932582349723
-    },
-    "currentInfos": {
-      "currentPoolToken": 4438.936162444451,
-      "currentPriceUSD": 0.6119817784406822,
-      "currentPoolEth": 1.1737134518091934,
-      "currentMarketCap": 2716.5480470774123
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 420,
-    "holderCountOld": 408,
-    "txCount": 62,
-    "createdAtTimestamp": "1619139528",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9896141246469431,
-    "isRugged": false
   }
 ]
