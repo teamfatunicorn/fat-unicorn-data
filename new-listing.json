@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0xa9215aca9821c6c2d6801ae6ed63cd7817ca4faf",
+    "tokenName": "AIA",
+    "idPair": "0x579ac2ad39813235c730fdabe0d26286c9070146",
+    "idToken": "0xa9215aca9821c6c2d6801ae6ed63cd7817ca4faf",
+    "dateCreationToken": "2021-04-24T11:49:39Z",
+    "initialInfos": {
+      "initialPoolToken": 2000,
+      "initialPriceUSD": 1.106555,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2213.11
+    },
+    "currentInfos": {
+      "currentPoolToken": 2306.547,
+      "currentPriceUSD": 0.8323032121709502,
+      "currentPoolEth": 0.8674428641701419,
+      "currentMarketCap": 1919.7464771232687
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 5,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619264979",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -0.2478428888117173,
+    "isRugged": false
+  },
+  {
+    "_id": "0xc4f1788affcdc50585005e12a1d1af141731043f",
+    "tokenName": "GTY",
+    "idPair": "0x3b88ea34b75d7c35380e096886cc4481296c7cb7",
+    "idToken": "0xc4f1788affcdc50585005e12a1d1af141731043f",
+    "dateCreationToken": "2021-04-24T11:49:10Z",
+    "initialInfos": {
+      "initialPoolToken": 10,
+      "initialPriceUSD": 0.442622,
+      "initialPoolEth": 0.002,
+      "initialMarketCap": 4.37661335320104
+    },
+    "currentInfos": {
+      "currentPoolToken": 10,
+      "currentPriceUSD": 0.442622,
+      "currentPoolEth": 0.002,
+      "currentMarketCap": 4.42622
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619264950",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x66be57e2f7b7af632c97c9052c4e02ea24a40d1d",
     "tokenName": "BIS",
     "idPair": "0x7000e7bfa4c648a61c9d76ed2652144ea120b915",
@@ -43,22 +105,22 @@
       "initialMarketCap": 11065.55
     },
     "currentInfos": {
-      "currentPoolToken": 892701841585734.5,
-      "currentPriceUSD": 1.2497215744713525e-11,
-      "currentPoolEth": 5.041,
-      "currentMarketCap": 11156.28751
+      "currentPoolToken": 888494915088596.9,
+      "currentPriceUSD": 1.2616020724735619e-11,
+      "currentPoolEth": 5.064940406296787,
+      "currentMarketCap": 11209.270262579954
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 2,
+    "holderCount": 6,
     "holderCountOld": 0,
-    "txCount": 4,
+    "txCount": 5,
     "createdAtTimestamp": "1619264066",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.016442397372220273,
+    "priceChange": 0.026105223171198608,
     "isRugged": false
   },
   {
@@ -6131,68 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 5,
     "createdAtTimestamp": "1619185172",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xd6670cbcced027081d0adf5861fe504a8b7944e7",
-    "tokenName": "YUGIGT",
-    "idPair": "0x2e1b73c6b2897dfc4eff2f85b3bcb921b7049760",
-    "idToken": "0xd6670cbcced027081d0adf5861fe504a8b7944e7",
-    "dateCreationToken": "2021-04-23T13:27:04Z",
-    "initialInfos": {
-      "initialPoolToken": 500000000,
-      "initialPriceUSD": 0.0000293839,
-      "initialPoolEth": 6.5,
-      "initialMarketCap": 14437.0029653252
-    },
-    "currentInfos": {
-      "currentPoolToken": 8.306197e-12,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1,
-    "holderCountOld": 0,
-    "txCount": 5,
-    "createdAtTimestamp": "1619184424",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x9f5eec80dafa620d859c33ad4136f521f7ee66f2",
-    "tokenName": "BULLT",
-    "idPair": "0x236f8674a17fc1a085dfc0aa6b490045fae51999",
-    "idToken": "0x9f5eec80dafa620d859c33ad4136f521f7ee66f2",
-    "dateCreationToken": "2021-04-23T13:17:36Z",
-    "initialInfos": {
-      "initialPoolToken": 45000000000,
-      "initialPriceUSD": 1.351638e-7,
-      "initialPoolEth": 2.7,
-      "initialMarketCap": 6082.371
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.000003261,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3.11e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 11,
-    "holderCountOld": 0,
-    "txCount": 20,
-    "createdAtTimestamp": "1619183856",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
