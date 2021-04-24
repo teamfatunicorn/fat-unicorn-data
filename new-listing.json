@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x2119a26903a4f2ab0f91d3dc1192db7050b381ef",
+    "tokenName": "SHIT",
+    "idPair": "0xf0a1088b98532a53983e1958fc1941561fbe5ba5",
+    "idToken": "0x2119a26903a4f2ab0f91d3dc1192db7050b381ef",
+    "dateCreationToken": "2021-04-24T04:42:52Z",
+    "initialInfos": {
+      "initialPoolToken": 600000,
+      "initialPriceUSD": 0.0115188,
+      "initialPoolEth": 3,
+      "initialMarketCap": 6911.28
+    },
+    "currentInfos": {
+      "currentPoolToken": 514506.21695012145,
+      "currentPriceUSD": 0.015671647366666666,
+      "currentPoolEth": 3.5,
+      "currentMarketCap": 8063.16
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619239372",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.36052777777777784,
+    "isRugged": false
+  },
+  {
     "_id": "0x39f36c9b84b4e3307dc4959bd1448400c2734112",
     "tokenName": "TACOCAT",
     "idPair": "0xe3075918b21bb25fd4d0a3e58c8c85c56dc2289b",
@@ -12,22 +43,22 @@
       "initialMarketCap": 230376
     },
     "currentInfos": {
-      "currentPoolToken": 8876109.505592361,
-      "currentPriceUSD": 0.026317979048458152,
-      "currentPoolEth": 101.4,
-      "currentMarketCap": 233601.264
+      "currentPoolToken": 8863037.835884703,
+      "currentPriceUSD": 0.02639578351485708,
+      "currentPoolEth": 101.55,
+      "currentMarketCap": 233946.828
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 4,
     "holderCountOld": 0,
-    "txCount": 10,
+    "txCount": 11,
     "createdAtTimestamp": "1619238803",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.02815315586746612,
+    "priceChange": 0.03119270945633972,
     "isRugged": false
   },
   {
@@ -162,15 +193,15 @@
     "dateCreationToken": "2021-04-24T03:39:03Z",
     "initialInfos": {
       "initialPoolToken": 206222,
-      "initialPriceUSD": 4.469920765000825,
+      "initialPriceUSD": 4.468504815199155,
       "initialPoolEth": 400,
       "initialMarketCap": 926129.5305591838
     },
     "currentInfos": {
       "currentPoolToken": 193071.3007330812,
-      "currentPriceUSD": 5.10099742147761,
+      "currentPriceUSD": 5.099381563687956,
       "currentPoolEth": 427.3640619836823,
-      "currentMarketCap": 984856.2072007754
+      "currentMarketCap": 984544.2314355272
     },
     "trustScore": null,
     "contractId": null,
@@ -182,7 +213,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.14118296266414215,
+    "priceChange": 0.1411829626641421,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x9f841194df3c74939ee2cf750eadd9f1a6c372d6",
-    "tokenName": "SMP",
-    "idPair": "0x57d640ef9a726c4de051a4ef3026cdf3ab4c4eae",
-    "idToken": "0x9f841194df3c74939ee2cf750eadd9f1a6c372d6",
-    "dateCreationToken": "2021-04-22T23:55:28Z",
-    "initialInfos": {
-      "initialPoolToken": 1200,
-      "initialPriceUSD": 0.041654166666666666,
-      "initialPoolEth": 0.02,
-      "initialMarketCap": 49.985
-    },
-    "currentInfos": {
-      "currentPoolToken": 1200,
-      "currentPriceUSD": 0.03802783333333333,
-      "currentPoolEth": 0.02,
-      "currentMarketCap": 45.6334
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 1,
-    "createdAtTimestamp": "1619135728",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.08705811743523062,
     "isRugged": true
   }
 ]
