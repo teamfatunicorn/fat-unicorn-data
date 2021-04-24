@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0xc4dbe4c468bbb1cdb099eced5f6c3fc9ccb82d32",
+    "tokenName": "LUSTTOKEN",
+    "idPair": "0x4e7bfee8d724a7b73dc6ad0e07bd7ecc8a719024",
+    "idToken": "0xc4dbe4c468bbb1cdb099eced5f6c3fc9ccb82d32",
+    "dateCreationToken": "2021-04-24T07:33:33Z",
+    "initialInfos": {
+      "initialPoolToken": 100000000000000,
+      "initialPriceUSD": 2.28499e-10,
+      "initialPoolEth": 10,
+      "initialMarketCap": 22752.45274245699
+    },
+    "currentInfos": {
+      "currentPoolToken": 95478382500722.06,
+      "currentPriceUSD": 2.51286148462125e-10,
+      "currentPoolEth": 10.5,
+      "currentMarketCap": 23992.395
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619249613",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.09972537500000006,
+    "isRugged": false
+  },
+  {
+    "_id": "0x63627c380a002b37d9f2841a7567ee182c7e3920",
+    "tokenName": "MAKOTO",
+    "idPair": "0x0adceddcd4ead6a2ad987fdf8b66162101a36220",
+    "idToken": "0x63627c380a002b37d9f2841a7567ee182c7e3920",
+    "dateCreationToken": "2021-04-24T07:32:15Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000000,
+      "initialPriceUSD": 3.3132355e-11,
+      "initialPoolEth": 14.5,
+      "initialMarketCap": 33132.355
+    },
+    "currentInfos": {
+      "currentPoolToken": 986434820468862.6,
+      "currentPriceUSD": 3.4051264516427585e-11,
+      "currentPoolEth": 14.7,
+      "currentMarketCap": 33589.353
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619249535",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.027734506539833437,
+    "isRugged": false
+  },
+  {
     "_id": "0x72ac6ca60027af1328290c5192960c0a27ded6f7",
     "tokenName": "RUN",
     "idPair": "0x775eb7489f578f020babf6ba36d0604457538317",
@@ -7,15 +69,15 @@
     "dateCreationToken": "2021-04-24T07:31:42Z",
     "initialInfos": {
       "initialPoolToken": 100000000,
-      "initialPriceUSD": 2.28172e-7,
+      "initialPriceUSD": 2.28499e-7,
       "initialPoolEth": 0.01,
-      "initialMarketCap": 22.8172
+      "initialMarketCap": 22.8499
     },
     "currentInfos": {
       "currentPoolToken": 100000000,
-      "currentPriceUSD": 2.28172e-7,
+      "currentPriceUSD": 2.28499e-7,
       "currentPoolEth": 0.01,
-      "currentMarketCap": 22.8172
+      "currentMarketCap": 22.8499
     },
     "trustScore": null,
     "contractId": null,
@@ -38,27 +100,27 @@
     "dateCreationToken": "2021-04-24T07:27:01Z",
     "initialInfos": {
       "initialPoolToken": 220000,
-      "initialPriceUSD": 2.074290909090909,
+      "initialPriceUSD": 2.0772636363636363,
       "initialPoolEth": 200,
       "initialMarketCap": 454646.891193928
     },
     "currentInfos": {
-      "currentPoolToken": 218908.73993144176,
-      "currentPriceUSD": 2.095054405519091,
-      "currentPoolEth": 201,
-      "currentMarketCap": 458625.72
+      "currentPoolToken": 216598.83725680583,
+      "currentPriceUSD": 2.143112698013407,
+      "currentPoolEth": 203.15,
+      "currentMarketCap": 464195.7185
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 2,
+    "txCount": 3,
     "createdAtTimestamp": "1619249221",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.010009924999999972,
+    "priceChange": 0.03169990582661094,
     "isRugged": false
   },
   {
@@ -75,9 +137,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 7506026,
-      "currentPriceUSD": 0.0000607970182890387,
+      "currentPriceUSD": 0.000060884148282992895,
       "currentPoolEth": 0.2,
-      "currentMarketCap": 456.344
+      "currentMarketCap": 456.998
     },
     "trustScore": null,
     "contractId": null,
@@ -89,7 +151,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.7763505393311099,
+    "priceChange": 0.7788962795023898,
     "isRugged": false
   },
   {
@@ -105,23 +167,23 @@
       "initialMarketCap": 12480.145147357076
     },
     "currentInfos": {
-      "currentPoolToken": 736836629711.9501,
-      "currentPriceUSD": 2.1276264297545376e-8,
-      "currentPoolEth": 6.8707513971316265,
-      "currentMarketCap": 15677.130877864027
+      "currentPoolToken": 3.2774199e-10,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-18,
+      "currentMarketCap": 0
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 5,
     "holderCountOld": 0,
-    "txCount": 9,
+    "txCount": 10,
     "createdAtTimestamp": "1619248892",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.558066149750516,
-    "isRugged": false
+    "priceChange": -1,
+    "isRugged": true
   },
   {
     "_id": "0x26dced214ac5991c2e991e6d9cd1ab6448242961",
@@ -168,9 +230,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 697242616927507.6,
-      "currentPriceUSD": 1.1747562696169466e-11,
+      "currentPriceUSD": 1.1764398473572685e-11,
       "currentPoolEth": 3.5897925060026186,
-      "currentMarketCap": 8190.901356797165
+      "currentMarketCap": 8202.639978291794
     },
     "trustScore": null,
     "contractId": null,
@@ -182,7 +244,7 @@
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.0594223123204363,
+    "priceChange": 1.06237373097009,
     "isRugged": false
   },
   {
@@ -199,9 +261,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 12100000000000,
-      "currentPriceUSD": 9.428595041322315e-10,
+      "currentPriceUSD": 9.442107438016528e-10,
       "currentPoolEth": 5,
-      "currentMarketCap": 11408.6
+      "currentMarketCap": 11424.95
     },
     "trustScore": null,
     "contractId": null,
@@ -213,7 +275,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.0014331293936151914,
     "isRugged": false
   },
   {
@@ -230,9 +292,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 3186849325.4133863,
-      "currentPriceUSD": 0.000004496353651153955,
+      "currentPriceUSD": 0.000004502797507735514,
       "currentPoolEth": 6.28,
-      "currentMarketCap": 14329.2016
+      "currentMarketCap": 14349.7372
     },
     "trustScore": null,
     "contractId": null,
@@ -244,7 +306,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.5764786743873764,
+    "priceChange": 0.5787379723140488,
     "isRugged": false
   },
   {
@@ -261,9 +323,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 25558953.0016642,
-      "currentPriceUSD": 0.031450421197714844,
+      "currentPriceUSD": 0.03149549372077487,
       "currentPoolEth": 352.29556530816086,
-      "currentMarketCap": 803839.8372749371
+      "currentMarketCap": 804991.8437734948
     },
     "trustScore": null,
     "contractId": null,
@@ -275,7 +337,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.3783646195727278,
+    "priceChange": 0.38033999442415684,
     "isRugged": false
   },
   {
@@ -292,9 +354,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 4375043.776708256,
-      "currentPriceUSD": 0.1192534248753717,
+      "currentPriceUSD": 0.1194243304638499,
       "currentPoolEth": 228.66037653705976,
-      "currentMarketCap": 521738.95435214054
+      "currentMarketCap": 522486.67378341674
     },
     "trustScore": null,
     "contractId": null,
@@ -306,7 +368,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.3066176489158585,
+    "priceChange": 0.3084902010747364,
     "isRugged": false
   },
   {
@@ -6131,68 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 5,
     "createdAtTimestamp": "1619160727",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xf2617bd32c0fc2b56f76281d0cd0910d424cba2d",
-    "tokenName": "MOMA",
-    "idPair": "0x189426fe13fe161f3ade182a92ef4ada3ed4970f",
-    "idToken": "0xf2617bd32c0fc2b56f76281d0cd0910d424cba2d",
-    "dateCreationToken": "2021-04-23T06:05:39Z",
-    "initialInfos": {
-      "initialPoolToken": 100000000,
-      "initialPriceUSD": 0.0001562547,
-      "initialPoolEth": 7,
-      "initialMarketCap": 15418.395309624964
-    },
-    "currentInfos": {
-      "currentPoolToken": 89771919.25377116,
-      "currentPriceUSD": 0.00020189464757643157,
-      "currentPoolEth": 7.8,
-      "currentMarketCap": 18124.47
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 0,
-    "txCount": 4,
-    "createdAtTimestamp": "1619157939",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.29208687851585624,
-    "isRugged": false
-  },
-  {
-    "_id": "0x6c09fcad3b1a5269c6d058a49aac68c1a7bbd5b9",
-    "tokenName": "BATMAN",
-    "idPair": "0x297c21a19b8aad51e77ebeacc4dc101429608069",
-    "idToken": "0x6c09fcad3b1a5269c6d058a49aac68c1a7bbd5b9",
-    "dateCreationToken": "2021-04-23T05:59:30Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 8.85868e-9,
-      "initialPoolEth": 4,
-      "initialMarketCap": 8858.68
-    },
-    "currentInfos": {
-      "currentPoolToken": 5e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1619157570",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
