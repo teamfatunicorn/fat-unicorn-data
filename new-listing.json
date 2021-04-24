@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x96b9cee0e1badd998309a568d4591cd650b71f69",
+    "tokenName": "DUMB",
+    "idPair": "0x708d9880042f4012ce37c2b18166dc939b1a6fba",
+    "idToken": "0x96b9cee0e1badd998309a568d4591cd650b71f69",
+    "dateCreationToken": "2021-04-24T07:25:12Z",
+    "initialInfos": {
+      "initialPoolToken": 10000000,
+      "initialPriceUSD": 0.00003433035,
+      "initialPoolEth": 0.15,
+      "initialMarketCap": 343.3035
+    },
+    "currentInfos": {
+      "currentPoolToken": 10000000,
+      "currentPriceUSD": 0.00003433035,
+      "currentPoolEth": 0.15,
+      "currentMarketCap": 343.3035
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619249112",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xdf4af7aae4423c4637422ab1dc30c6a3c1f52e6c",
     "tokenName": "KiShi",
     "idPair": "0x6081d633b697efc995627c3e9772a98c767ff671",
@@ -12,22 +43,22 @@
       "initialMarketCap": 12480.145147357076
     },
     "currentInfos": {
-      "currentPoolToken": 909367856754.7963,
-      "currentPriceUSD": 1.4002207246262892e-8,
-      "currentPoolEth": 5.563513273257301,
-      "currentMarketCap": 12733.157193370564
+      "currentPoolToken": 917589835266.9556,
+      "currentPriceUSD": 1.3752770203698669e-8,
+      "currentPoolEth": 5.513810147147675,
+      "currentMarketCap": 12619.402145676157
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 4,
+    "txCount": 5,
     "createdAtTimestamp": "1619248892",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.02226241627244924,
+    "priceChange": 0.004051707820921973,
     "isRugged": false
   },
   {
@@ -74,22 +105,22 @@
       "initialMarketCap": 5721.725
     },
     "currentInfos": {
-      "currentPoolToken": 767613380627152.8,
-      "currentPriceUSD": 9.719286686311445e-12,
-      "currentPoolEth": 3.2597925060026185,
-      "currentMarketCap": 7460.654510564006
+      "currentPoolToken": 760634233980103.4,
+      "currentPriceUSD": 9.898733023316641e-12,
+      "currentPoolEth": 3.2897925060026183,
+      "currentMarketCap": 7529.3152105640065
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 4,
     "holderCountOld": 0,
-    "txCount": 7,
+    "txCount": 8,
     "createdAtTimestamp": "1619247667",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.6986637222710714,
+    "priceChange": 0.730026001479736,
     "isRugged": false
   },
   {
@@ -198,22 +229,22 @@
       "initialMarketCap": 457738
     },
     "currentInfos": {
-      "currentPoolToken": 4446982.136962378,
-      "currentPriceUSD": 0.11577327306924586,
-      "currentPoolEth": 224.95037653705975,
-      "currentMarketCap": 514841.6772766039
+      "currentPoolToken": 4427359.686555992,
+      "currentPriceUSD": 0.11680333288639475,
+      "currentPoolEth": 225.95037653705975,
+      "currentMarketCap": 517130.3672766039
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 4,
     "holderCountOld": 0,
-    "txCount": 16,
+    "txCount": 17,
     "createdAtTimestamp": "1619246437",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.26462379209554204,
+    "priceChange": 0.2758754231284571,
     "isRugged": false
   },
   {
@@ -260,23 +291,23 @@
       "initialMarketCap": 5721.725
     },
     "currentInfos": {
-      "currentPoolToken": 313373643581928,
-      "currentPriceUSD": 2.7415412848263067e-11,
-      "currentPoolEth": 3.7537927,
-      "currentMarketCap": 8591.267814563
+      "currentPoolToken": 10,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1.0951e-13,
+      "currentMarketCap": 0
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 10,
     "holderCountOld": 0,
-    "txCount": 8,
+    "txCount": 9,
     "createdAtTimestamp": "1619245700",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.25198590262266,
-    "isRugged": false
+    "priceChange": -1,
+    "isRugged": true
   },
   {
     "_id": "0x9c3f440c4c1a5d915ab2c483db10f51db0f69301",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 6.173314626397073,
     "isRugged": false
-  },
-  {
-    "_id": "0x2097e16a1c1f5581ad6041c97493957271244ca0",
-    "tokenName": "Vita Dog",
-    "idPair": "0xef2e2f9d0e99bfeca7587b0245c1ec88b5ab509d",
-    "idToken": "0x2097e16a1c1f5581ad6041c97493957271244ca0",
-    "dateCreationToken": "2021-04-23T05:38:49Z",
-    "initialInfos": {
-      "initialPoolToken": 80000000000000,
-      "initialPriceUSD": 4.9980375e-11,
-      "initialPoolEth": 1.8,
-      "initialMarketCap": 3998.43
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.319576906e-9,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 5,
-    "holderCountOld": 0,
-    "txCount": 8,
-    "createdAtTimestamp": "1619156329",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
