@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x66be57e2f7b7af632c97c9052c4e02ea24a40d1d",
+    "tokenName": "BIS",
+    "idPair": "0x7000e7bfa4c648a61c9d76ed2652144ea120b915",
+    "idToken": "0x66be57e2f7b7af632c97c9052c4e02ea24a40d1d",
+    "dateCreationToken": "2021-04-24T11:35:51Z",
+    "initialInfos": {
+      "initialPoolToken": 200000,
+      "initialPriceUSD": 0.4676217,
+      "initialPoolEth": 42,
+      "initialMarketCap": 93524.34
+    },
+    "currentInfos": {
+      "currentPoolToken": 195362.46714887084,
+      "currentPriceUSD": 0.4901202948416667,
+      "currentPoolEth": 43,
+      "currentMarketCap": 95751.11
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619264151",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.04811281179138333,
+    "isRugged": false
+  },
+  {
     "_id": "0x697e0b254ce125c0b02ca6f301eb59349c8de059",
     "tokenName": "KISHU",
     "idPair": "0x7c627293ae144140929e34c48a15e45ad5cf5f6a",
@@ -43,22 +74,22 @@
       "initialMarketCap": 13270.207584492606
     },
     "currentInfos": {
-      "currentPoolToken": 132648879530962.58,
-      "currentPriceUSD": 1.537684545253843e-11,
-      "currentPoolEth": 0.916,
-      "currentMarketCap": 2039.72132
+      "currentPoolToken": 145391332627958.72,
+      "currentPriceUSD": 1.5713907966207466e-11,
+      "currentPoolEth": 1.026,
+      "currentMarketCap": 2284.66602
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 4,
+    "txCount": 6,
     "createdAtTimestamp": "1619263498",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.03581726800736683,
+    "priceChange": 0.058522521379001734,
     "isRugged": false
   },
   {
@@ -162,9 +193,9 @@
     "dateCreationToken": "2021-04-24T10:45:38Z",
     "initialInfos": {
       "initialPoolToken": 1000000000000000,
-      "initialPriceUSD": 6.67722e-12,
+      "initialPriceUSD": 6.68031e-12,
       "initialPoolEth": 3,
-      "initialMarketCap": 6677.22
+      "initialMarketCap": 6680.31
     },
     "currentInfos": {
       "currentPoolToken": 1.8251737453e-8,
@@ -193,9 +224,9 @@
     "dateCreationToken": "2021-04-24T10:41:50Z",
     "initialInfos": {
       "initialPoolToken": 100000000000,
-      "initialPriceUSD": 4.45148e-8,
+      "initialPriceUSD": 4.45354e-8,
       "initialPoolEth": 2,
-      "initialMarketCap": 4451.48
+      "initialMarketCap": 4453.54
     },
     "currentInfos": {
       "currentPoolToken": 2.03334362e-10,
@@ -224,9 +255,9 @@
     "dateCreationToken": "2021-04-24T10:37:34Z",
     "initialInfos": {
       "initialPoolToken": 100000,
-      "initialPriceUSD": 0.1780592,
+      "initialPriceUSD": 0.1781416,
       "initialPoolEth": 8,
-      "initialMarketCap": 17805.92
+      "initialMarketCap": 17814.16
     },
     "currentInfos": {
       "currentPoolToken": 98769.09021321777,
@@ -244,7 +275,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.025592672611833598,
+    "priceChange": 0.025118281249999944,
     "isRugged": false
   },
   {
@@ -558,37 +589,6 @@
     "isRugged": true
   },
   {
-    "_id": "0x185ef02c8b9a264eab3b2cce7dfaf62036a5acd8",
-    "tokenName": "MOONCAT",
-    "idPair": "0x9e2855ec6b44a1e03834eec336a570894ba1718d",
-    "idToken": "0x185ef02c8b9a264eab3b2cce7dfaf62036a5acd8",
-    "dateCreationToken": "2021-04-24T09:09:48Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000000,
-      "initialPriceUSD": 1.29358488e-11,
-      "initialPoolEth": 5.81,
-      "initialMarketCap": 12935.8488
-    },
-    "currentInfos": {
-      "currentPoolToken": 906654373122981.5,
-      "currentPriceUSD": 1.5582308560798907e-11,
-      "currentPoolEth": 6.41,
-      "currentMarketCap": 14127.7682
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 0,
-    "txCount": 4,
-    "createdAtTimestamp": "1619255388",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.20458338696714715,
-    "isRugged": false
-  },
-  {
     "_id": "0x6061425d292b4a0b067aab0d99ff3a5f91c13b23",
     "tokenName": "ELONGATE",
     "idPair": "0x4dadbd481531e38aaf2dd4d127d9c3966e4752d2",
@@ -617,6 +617,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.01835432638631988,
+    "isRugged": false
+  },
+  {
+    "_id": "0x185ef02c8b9a264eab3b2cce7dfaf62036a5acd8",
+    "tokenName": "MOONCAT",
+    "idPair": "0x9e2855ec6b44a1e03834eec336a570894ba1718d",
+    "idToken": "0x185ef02c8b9a264eab3b2cce7dfaf62036a5acd8",
+    "dateCreationToken": "2021-04-24T09:09:48Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000000,
+      "initialPriceUSD": 1.29358488e-11,
+      "initialPoolEth": 5.81,
+      "initialMarketCap": 12935.8488
+    },
+    "currentInfos": {
+      "currentPoolToken": 906654373122981.5,
+      "currentPriceUSD": 1.5582308560798907e-11,
+      "currentPoolEth": 6.41,
+      "currentMarketCap": 14127.7682
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1619255388",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.20458338696714715,
     "isRugged": false
   },
   {
@@ -6163,37 +6194,6 @@
     "txCount": 20,
     "createdAtTimestamp": "1619183856",
     "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x1d820996785ce3f7d117cfe20d123de2d70675c3",
-    "tokenName": "MAC",
-    "idPair": "0x653419ed59a369872210f9ac7a02024cd26a5fe3",
-    "idToken": "0x1d820996785ce3f7d117cfe20d123de2d70675c3",
-    "dateCreationToken": "2021-04-23T12:59:35Z",
-    "initialInfos": {
-      "initialPoolToken": 3000000,
-      "initialPriceUSD": 0.00014933533333333333,
-      "initialPoolEth": 0.2,
-      "initialMarketCap": 448.006
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.519805e-12,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 7,
-    "holderCountOld": 1,
-    "txCount": 17,
-    "createdAtTimestamp": "1619182775",
-    "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
