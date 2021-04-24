@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xe017794b370ec11937ff9e94b910a7c0bfe9b54e",
+    "tokenName": "ReInu",
+    "idPair": "0x6f4af69590e702c5f2588c18f71f021e31e25b38",
+    "idToken": "0xe017794b370ec11937ff9e94b910a7c0bfe9b54e",
+    "dateCreationToken": "2021-04-24T05:19:35Z",
+    "initialInfos": {
+      "initialPoolToken": 929999999919,
+      "initialPriceUSD": 4.948129032689031e-9,
+      "initialPoolEth": 2,
+      "initialMarketCap": 4612.751825727997
+    },
+    "currentInfos": {
+      "currentPoolToken": 806963952270.2783,
+      "currentPriceUSD": 6.5930884198411114e-9,
+      "currentPoolEth": 2.3123260182806837,
+      "currentMarketCap": 5320.384688942388
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 6,
+    "createdAtTimestamp": "1619241575",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.33244068137369026,
+    "isRugged": false
+  },
+  {
     "_id": "0x0640ac24b96323b989bc71bba18aa676d1cd352c",
     "tokenName": "TSLA",
     "idPair": "0x5a4bbfa8848dabf5f7d085e7245ad98a0b1d2000",
@@ -12,22 +43,22 @@
       "initialMarketCap": 6902.64
     },
     "currentInfos": {
-      "currentPoolToken": 1000000000000000,
-      "currentPriceUSD": 6.90264e-12,
-      "currentPoolEth": 3,
-      "currentMarketCap": 6902.64
+      "currentPoolToken": 968458594844055.6,
+      "currentPriceUSD": 7.365031440656e-12,
+      "currentPoolEth": 3.1,
+      "currentMarketCap": 7132.728
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 0,
+    "holderCount": 2,
     "holderCountOld": 0,
-    "txCount": 1,
+    "txCount": 2,
     "createdAtTimestamp": "1619241354",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.06698762222222232,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 4601.76
     },
     "currentInfos": {
-      "currentPoolToken": 42879658076688940,
-      "currentPriceUSD": 2.552489949908537e-13,
-      "currentPoolEth": 4.756871123060232,
-      "currentMarketCap": 10944.989629626292
+      "currentPoolToken": 32354171907846336,
+      "currentPriceUSD": 4.496647308465663e-13,
+      "currentPoolEth": 6.323028581545157,
+      "currentMarketCap": 14548.53000270526
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 2,
+    "holderCount": 17,
     "holderCountOld": 0,
-    "txCount": 19,
+    "txCount": 26,
     "createdAtTimestamp": "1619240890",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 4.54676895341899,
+    "priceChange": 8.771581543726017,
     "isRugged": false
   },
   {
@@ -74,22 +105,22 @@
       "initialMarketCap": 230.088
     },
     "currentInfos": {
-      "currentPoolToken": 164244934309859.56,
-      "currentPriceUSD": 4.279598501846696e-12,
-      "currentPoolEth": 0.30549284395850557,
-      "currentMarketCap": 702.9023748083839
+      "currentPoolToken": 141203496682646.25,
+      "currentPriceUSD": 5.792677901218778e-12,
+      "currentPoolEth": 0.35549284395850556,
+      "currentMarketCap": 817.9463748083839
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 8,
+    "holderCount": 12,
     "holderCountOld": 0,
-    "txCount": 16,
+    "txCount": 17,
     "createdAtTimestamp": "1619240323",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 8.299916774987604,
+    "priceChange": 11.587961782489261,
     "isRugged": false
   },
   {
@@ -113,7 +144,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 6,
+    "holderCount": 7,
     "holderCountOld": 0,
     "txCount": 7,
     "createdAtTimestamp": "1619239624",
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 19,
     "createdAtTimestamp": "1619137906",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xef59a1f4963082ff255cc63c44583cda2d07c368",
-    "tokenName": "BEAGLE",
-    "idPair": "0x21dd96499bb363a4efc3d2b09e4dad19f77a61e8",
-    "idToken": "0xef59a1f4963082ff255cc63c44583cda2d07c368",
-    "dateCreationToken": "2021-04-23T00:27:41Z",
-    "initialInfos": {
-      "initialPoolToken": 475658322104787,
-      "initialPriceUSD": 1.1013537988400683e-11,
-      "initialPoolEth": 2.1,
-      "initialMarketCap": 5093.224658223167
-    },
-    "currentInfos": {
-      "currentPoolToken": 12,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 8.6937e-14,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 8,
-    "holderCountOld": 0,
-    "txCount": 7,
-    "createdAtTimestamp": "1619137661",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
