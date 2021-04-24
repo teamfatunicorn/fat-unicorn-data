@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x72ac6ca60027af1328290c5192960c0a27ded6f7",
+    "tokenName": "RUN",
+    "idPair": "0x775eb7489f578f020babf6ba36d0604457538317",
+    "idToken": "0x72ac6ca60027af1328290c5192960c0a27ded6f7",
+    "dateCreationToken": "2021-04-24T07:31:42Z",
+    "initialInfos": {
+      "initialPoolToken": 100000000,
+      "initialPriceUSD": 2.28172e-7,
+      "initialPoolEth": 0.01,
+      "initialMarketCap": 22.8172
+    },
+    "currentInfos": {
+      "currentPoolToken": 100000000,
+      "currentPriceUSD": 2.28172e-7,
+      "currentPoolEth": 0.01,
+      "currentMarketCap": 22.8172
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619249502",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0xfabe953a843f6af6470f1cd6960034a2c56bc177",
     "tokenName": "SIENNA",
     "idPair": "0xf05c1036cff31e2c31c82170e68b9496b122c470",
@@ -12,22 +43,22 @@
       "initialMarketCap": 454646.891193928
     },
     "currentInfos": {
-      "currentPoolToken": 220000,
-      "currentPriceUSD": 2.074290909090909,
-      "currentPoolEth": 200,
-      "currentMarketCap": 456344
+      "currentPoolToken": 218908.73993144176,
+      "currentPriceUSD": 2.095054405519091,
+      "currentPoolEth": 201,
+      "currentMarketCap": 458625.72
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 1,
+    "txCount": 2,
     "createdAtTimestamp": "1619249221",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.010009924999999972,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 342.258
     },
     "currentInfos": {
-      "currentPoolToken": 8826645,
-      "currentPriceUSD": 0.000043945621467726415,
-      "currentPoolEth": 0.17,
-      "currentMarketCap": 387.8924
+      "currentPoolToken": 7506026,
+      "currentPriceUSD": 0.0000607970182890387,
+      "currentPoolEth": 0.2,
+      "currentMarketCap": 456.344
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 3,
     "holderCountOld": 0,
-    "txCount": 2,
+    "txCount": 3,
     "createdAtTimestamp": "1619249112",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.28399106719861666,
+    "priceChange": 0.7763505393311099,
     "isRugged": false
   },
   {
@@ -145,7 +176,7 @@
     "contractId": null,
     "contractVerified": true,
     "holderCount": 6,
-    "holderCountOld": 4,
+    "holderCountOld": 0,
     "txCount": 9,
     "createdAtTimestamp": "1619247667",
     "isCodeGenerator": true,
@@ -269,7 +300,7 @@
     "contractId": null,
     "contractVerified": true,
     "holderCount": 18,
-    "holderCountOld": 4,
+    "holderCountOld": 0,
     "txCount": 18,
     "createdAtTimestamp": "1619246437",
     "isCodeGenerator": false,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x7891b6cba5522b3aea7a84f4d36a7eee1f619961",
-    "tokenName": "GBERN",
-    "idPair": "0x03f6f851a62b246b5debce2d4f6a933f92803471",
-    "idToken": "0x7891b6cba5522b3aea7a84f4d36a7eee1f619961",
-    "dateCreationToken": "2021-04-23T05:59:20Z",
-    "initialInfos": {
-      "initialPoolToken": 2350000000,
-      "initialPriceUSD": 0.00002638755744680851,
-      "initialPoolEth": 28,
-      "initialMarketCap": 62010.76
-    },
-    "currentInfos": {
-      "currentPoolToken": 2533835691.7879124,
-      "currentPriceUSD": 0.000023846001648666726,
-      "currentPoolEth": 26.002991020087375,
-      "currentMarketCap": 60421.85008382516
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 81,
-    "holderCountOld": 79,
-    "txCount": 24,
-    "createdAtTimestamp": "1619157560",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.0963164477525061,
-    "isRugged": false
   }
 ]
