@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x43b7d7fda7c14a37a97ca5f8bc67dbc7a8aa5f90",
+    "tokenName": "THUNDER",
+    "idPair": "0x50290650b50a08136d7170f7a088457b97c50bb6",
+    "idToken": "0x43b7d7fda7c14a37a97ca5f8bc67dbc7a8aa5f90",
+    "dateCreationToken": "2021-04-25T07:44:06Z",
+    "initialInfos": {
+      "initialPoolToken": 1000,
+      "initialPriceUSD": 0.021582,
+      "initialPoolEth": 0.01,
+      "initialMarketCap": 21.582
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000,
+      "currentPriceUSD": 0.021582,
+      "currentPoolEth": 0.01,
+      "currentMarketCap": 21.582
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619336646",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
+    "_id": "0xd19ffe6831be59bfb2b1e8ac18192c81e29654a7",
+    "tokenName": "TCP",
+    "idPair": "0xd14c25972b18908425ea92c2bca41ef3e42c7263",
+    "idToken": "0xd19ffe6831be59bfb2b1e8ac18192c81e29654a7",
+    "dateCreationToken": "2021-04-25T07:42:31Z",
+    "initialInfos": {
+      "initialPoolToken": 40000000,
+      "initialPriceUSD": 0.0161865,
+      "initialPoolEth": 300,
+      "initialMarketCap": 653035.1143121502
+    },
+    "currentInfos": {
+      "currentPoolToken": 40000000,
+      "currentPriceUSD": 0.0161865,
+      "currentPoolEth": 300,
+      "currentMarketCap": 647460
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619336551",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x874cc9c42a035a8fbda5fcaa38286e7033b5a3e4",
     "tokenName": "Grimes",
     "idPair": "0x2b8c80ef234e9bea4dfd2fe709c6a08bdbef71a0",
@@ -12,22 +74,22 @@
       "initialMarketCap": 49.6386
     },
     "currentInfos": {
-      "currentPoolToken": 263881254614.30374,
-      "currentPriceUSD": 2.1393663905267072e-10,
-      "currentPoolEth": 0.02615784854135968,
-      "currentMarketCap": 56.4538687211862
+      "currentPoolToken": 254192759742.0253,
+      "currentPriceUSD": 2.3058118878236465e-10,
+      "currentPoolEth": 0.02715784854135968,
+      "currentMarketCap": 58.6120687211862
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 3,
     "holderCountOld": 0,
-    "txCount": 3,
+    "txCount": 4,
     "createdAtTimestamp": "1619335830",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.2929653881415111,
+    "priceChange": 0.39355978280429726,
     "isRugged": true
   },
   {
@@ -6135,68 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 2046507993.5962374,
-    "isRugged": true
-  },
-  {
-    "_id": "0x9e547061a345015869d26c7b6ee4ab5b63424441",
-    "tokenName": "CC",
-    "idPair": "0xf4d4e16c9a93d88990e0b98820c363369ca91c01",
-    "idToken": "0x9e547061a345015869d26c7b6ee4ab5b63424441",
-    "dateCreationToken": "2021-04-24T12:12:28Z",
-    "initialInfos": {
-      "initialPoolToken": 231997.5,
-      "initialPriceUSD": 0.9850888888888889,
-      "initialPoolEth": 103.11,
-      "initialMarketCap": 228538.1595
-    },
-    "currentInfos": {
-      "currentPoolToken": 82869.55534292969,
-      "currentPriceUSD": 8.275118393458952,
-      "currentPoolEth": 316.78417808884274,
-      "currentMarketCap": 685755.381676042
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 686,
-    "holderCountOld": 688,
-    "txCount": 2783,
-    "createdAtTimestamp": "1619266348",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 7.400377353553043,
-    "isRugged": false
-  },
-  {
-    "_id": "0xdc8690027f1ac47291787eb2e2f55a97d53a74df",
-    "tokenName": "INVADERS",
-    "idPair": "0x53de2c8d09036a081dca3d544647240a540a1c41",
-    "idToken": "0xdc8690027f1ac47291787eb2e2f55a97d53a74df",
-    "dateCreationToken": "2021-04-24T12:07:35Z",
-    "initialInfos": {
-      "initialPoolToken": 950000000000,
-      "initialPriceUSD": 9.642917790526316e-9,
-      "initialPoolEth": 4.1323,
-      "initialMarketCap": 9048.157958756223
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.79474905e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1619266055",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
