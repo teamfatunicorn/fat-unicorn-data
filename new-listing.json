@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x6cc40968403a70efb967bd090e3ea65b50b013bb",
+    "tokenName": "O3",
+    "idPair": "0x951bf03ab95ccfbcedd64d399c3469de5da0d16e",
+    "idToken": "0x6cc40968403a70efb967bd090e3ea65b50b013bb",
+    "dateCreationToken": "2021-04-25T15:40:26Z",
+    "initialInfos": {
+      "initialPoolToken": 5000000,
+      "initialPriceUSD": 0.0468198,
+      "initialPoolEth": 100,
+      "initialMarketCap": 234099
+    },
+    "currentInfos": {
+      "currentPoolToken": 5000000,
+      "currentPriceUSD": 0.0468198,
+      "currentPoolEth": 100,
+      "currentMarketCap": 234099
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619365226",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xea2cf5a670d7f2bc7142e637d9e90b24adf96892",
     "tokenName": "DOGELON",
     "idPair": "0x243523dd7439578e0ad87d9945b16dc40de983c4",
@@ -198,22 +229,22 @@
       "initialMarketCap": 608657.4
     },
     "currentInfos": {
-      "currentPoolToken": 51080727.38854988,
-      "currentPriceUSD": 0.015173443819265144,
-      "currentPoolEth": 331.0866544826591,
-      "currentMarketCap": 775070.5472773599
+      "currentPoolToken": 50790133.52547904,
+      "currentPriceUSD": 0.015347831836006335,
+      "currentPoolEth": 332.9866544826591,
+      "currentMarketCap": 779518.4282773599
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 32,
     "holderCountOld": 0,
-    "txCount": 30,
+    "txCount": 31,
     "createdAtTimestamp": "1619361833",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.6204088675373608,
+    "priceChange": 0.6390321868105305,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.03964267012221647,
     "isRugged": false
-  },
-  {
-    "_id": "0x3ac2719910b30374eb5ecd28a75b750d751b5893",
-    "tokenName": "Doge2",
-    "idPair": "0x1203481bb9e2d39151ba8d110cbd87760ae8300c",
-    "idToken": "0x3ac2719910b30374eb5ecd28a75b750d751b5893",
-    "dateCreationToken": "2021-04-24T17:06:00Z",
-    "initialInfos": {
-      "initialPoolToken": 100000000000,
-      "initialPriceUSD": 4.731279e-7,
-      "initialPoolEth": 21,
-      "initialMarketCap": 47312.79
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.8680488e-11,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 3,
-    "createdAtTimestamp": "1619283960",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
