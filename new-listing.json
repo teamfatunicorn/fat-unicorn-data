@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xf2ef2ac3f6b01dd495a579ba5601f34f14619fc8",
+    "tokenName": "HORGI",
+    "idPair": "0xdf5ced59c7a012c8377e6870f59fa0643fd00ad0",
+    "idToken": "0xf2ef2ac3f6b01dd495a579ba5601f34f14619fc8",
+    "dateCreationToken": "2021-04-25T14:24:52Z",
+    "initialInfos": {
+      "initialPoolToken": 200000000000,
+      "initialPriceUSD": 2.888375e-8,
+      "initialPoolEth": 2.5,
+      "initialMarketCap": 5796.345087593407
+    },
+    "currentInfos": {
+      "currentPoolToken": 200000000000,
+      "currentPriceUSD": 2.888375e-8,
+      "currentPoolEth": 2.5,
+      "currentMarketCap": 5776.75
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": null,
+    "txCount": 1,
+    "createdAtTimestamp": "1619360692",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x6d1b82802fd9c2fcfbe07810debb448119ec572b",
     "tokenName": "PAPELON",
     "idPair": "0x0582d58d42a0fca0374a91a9e0bacd33452cee5f",
@@ -1364,37 +1395,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x785dd471d5c7ef260482cc959c9b26e7941edd07",
-    "tokenName": "EGPL",
-    "idPair": "0xa025a06d3a2515ba18ec9733b69ea19de7171e96",
-    "idToken": "0x785dd471d5c7ef260482cc959c9b26e7941edd07",
-    "dateCreationToken": "2021-04-25T07:30:30Z",
-    "initialInfos": {
-      "initialPoolToken": 2088582.815697,
-      "initialPriceUSD": 0.021895138491187426,
-      "initialPoolEth": 21,
-      "initialMarketCap": 45729.81
-    },
-    "currentInfos": {
-      "currentPoolToken": 3.13877e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 4e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1,
-    "holderCountOld": 0,
-    "txCount": 3,
-    "createdAtTimestamp": "1619335830",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0x874cc9c42a035a8fbda5fcaa38286e7033b5a3e4",
     "tokenName": "Grimes",
     "idPair": "0x2b8c80ef234e9bea4dfd2fe709c6a08bdbef71a0",
@@ -1423,6 +1423,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 1.3350392197277439,
+    "isRugged": true
+  },
+  {
+    "_id": "0x785dd471d5c7ef260482cc959c9b26e7941edd07",
+    "tokenName": "EGPL",
+    "idPair": "0xa025a06d3a2515ba18ec9733b69ea19de7171e96",
+    "idToken": "0x785dd471d5c7ef260482cc959c9b26e7941edd07",
+    "dateCreationToken": "2021-04-25T07:30:30Z",
+    "initialInfos": {
+      "initialPoolToken": 2088582.815697,
+      "initialPriceUSD": 0.021895138491187426,
+      "initialPoolEth": 21,
+      "initialMarketCap": 45729.81
+    },
+    "currentInfos": {
+      "currentPoolToken": 3.13877e-13,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 4e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1619335830",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
     "isRugged": true
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 1.662620258555995,
-    "isRugged": true
-  },
-  {
-    "_id": "0x8fca0d842b3706608161dd55d9d55dcf354b9be1",
-    "tokenName": "MOONBULL",
-    "idPair": "0x1bd8b76f7345489e7e93b644db5f3e0615830475",
-    "idToken": "0x8fca0d842b3706608161dd55d9d55dcf354b9be1",
-    "dateCreationToken": "2021-04-24T16:26:43Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000000,
-      "initialPriceUSD": 1.116555e-11,
-      "initialPoolEth": 5,
-      "initialMarketCap": 11165.55
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.3255232214e-8,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 5,
-    "holderCountOld": 4,
-    "txCount": 5,
-    "createdAtTimestamp": "1619281603",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
