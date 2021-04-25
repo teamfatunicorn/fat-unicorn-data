@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x1f7885cd73feb87bcb49217e6fa92afba120ab7a",
+    "tokenName": "MEL",
+    "idPair": "0x918e2ac6cd28f1785b174cf89e5a7452a8e611be",
+    "idToken": "0x1f7885cd73feb87bcb49217e6fa92afba120ab7a",
+    "dateCreationToken": "2021-04-25T13:37:51Z",
+    "initialInfos": {
+      "initialPoolToken": 2100000000000,
+      "initialPriceUSD": 1.3210114285714285e-8,
+      "initialPoolEth": 12,
+      "initialMarketCap": 27741.24
+    },
+    "currentInfos": {
+      "currentPoolToken": 2034501579331.724,
+      "currentPriceUSD": 1.4075779114603667e-8,
+      "currentPoolEth": 12.387562274354778,
+      "currentMarketCap": 28637.19483898566
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1619357871",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.06553045720622808,
+    "isRugged": false
+  },
+  {
     "_id": "0x1355b0fa2b67695814dcf1e0c36e796bfbe7dabf",
     "tokenName": "SHU",
     "idPair": "0x7f11dc5ee8cf356cf7b3ac82e1893a60de66f11a",
@@ -74,22 +105,22 @@
       "initialMarketCap": 87847.26
     },
     "currentInfos": {
-      "currentPoolToken": 148568731.44329286,
-      "currentPriceUSD": 0.0005970038684120841,
-      "currentPoolEth": 38.36718505591948,
-      "currentMarketCap": 88696.10739672187
+      "currentPoolToken": 148260518.6060263,
+      "currentPriceUSD": 0.000599492365414599,
+      "currentPoolEth": 38.44718505591948,
+      "currentMarketCap": 88881.04899672186
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 3,
     "holderCountOld": 0,
-    "txCount": 5,
+    "txCount": 6,
     "createdAtTimestamp": "1619356446",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.0193895661835398,
+    "priceChange": 0.023638697577930894,
     "isRugged": false
   },
   {
@@ -1178,37 +1209,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x874cc9c42a035a8fbda5fcaa38286e7033b5a3e4",
-    "tokenName": "Grimes",
-    "idPair": "0x2b8c80ef234e9bea4dfd2fe709c6a08bdbef71a0",
-    "idToken": "0x874cc9c42a035a8fbda5fcaa38286e7033b5a3e4",
-    "dateCreationToken": "2021-04-25T07:30:30Z",
-    "initialInfos": {
-      "initialPoolToken": 300000000000,
-      "initialPriceUSD": 1.669501e-10,
-      "initialPoolEth": 0.023,
-      "initialMarketCap": 50.08503
-    },
-    "currentInfos": {
-      "currentPoolToken": 321173129498.0887,
-      "currentPriceUSD": 3.900523916354168e-10,
-      "currentPoolEth": 0.05411652654135968,
-      "currentMarketCap": 125.2743472897609
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 7,
-    "holderCountOld": 0,
-    "txCount": 7,
-    "createdAtTimestamp": "1619335830",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.3363411680221622,
-    "isRugged": true
-  },
-  {
     "_id": "0x785dd471d5c7ef260482cc959c9b26e7941edd07",
     "tokenName": "EGPL",
     "idPair": "0xa025a06d3a2515ba18ec9733b69ea19de7171e96",
@@ -1237,6 +1237,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0x874cc9c42a035a8fbda5fcaa38286e7033b5a3e4",
+    "tokenName": "Grimes",
+    "idPair": "0x2b8c80ef234e9bea4dfd2fe709c6a08bdbef71a0",
+    "idToken": "0x874cc9c42a035a8fbda5fcaa38286e7033b5a3e4",
+    "dateCreationToken": "2021-04-25T07:30:30Z",
+    "initialInfos": {
+      "initialPoolToken": 300000000000,
+      "initialPriceUSD": 1.669501e-10,
+      "initialPoolEth": 0.023,
+      "initialMarketCap": 50.08503
+    },
+    "currentInfos": {
+      "currentPoolToken": 321173129498.0887,
+      "currentPriceUSD": 3.900523916354168e-10,
+      "currentPoolEth": 0.05411652654135968,
+      "currentMarketCap": 125.2743472897609
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 7,
+    "holderCountOld": 0,
+    "txCount": 7,
+    "createdAtTimestamp": "1619335830",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.3363411680221622,
     "isRugged": true
   },
   {
@@ -3937,37 +3968,6 @@
     "isRugged": true
   },
   {
-    "_id": "0x41afc4220b08d1f336eacf231cd8ce5c7e7fb9c9",
-    "tokenName": "PISS",
-    "idPair": "0xc54b45f1ccf1f8d0fefd83872c39670790a70e40",
-    "idToken": "0x41afc4220b08d1f336eacf231cd8ce5c7e7fb9c9",
-    "dateCreationToken": "2021-04-24T20:17:56Z",
-    "initialInfos": {
-      "initialPoolToken": 4056521.85,
-      "initialPriceUSD": 0.000028043359362158987,
-      "initialPoolEth": 0.05,
-      "initialMarketCap": 113.7585
-    },
-    "currentInfos": {
-      "currentPoolToken": 351335.385,
-      "currentPriceUSD": 0.005265699262312269,
-      "currentPoolEth": 0.7972018519026813,
-      "currentMarketCap": 1850.0264776186968
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 46,
-    "holderCountOld": 47,
-    "txCount": 65,
-    "createdAtTimestamp": "1619295476",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 186.76991708838108,
-    "isRugged": false
-  },
-  {
     "_id": "0x493495ba108f3644ecacb08041a445e5736022ff",
     "tokenName": "GUETTA",
     "idPair": "0xd866856b8a844090b636ca14380833d656f2019f",
@@ -3997,6 +3997,37 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
+  },
+  {
+    "_id": "0x41afc4220b08d1f336eacf231cd8ce5c7e7fb9c9",
+    "tokenName": "PISS",
+    "idPair": "0xc54b45f1ccf1f8d0fefd83872c39670790a70e40",
+    "idToken": "0x41afc4220b08d1f336eacf231cd8ce5c7e7fb9c9",
+    "dateCreationToken": "2021-04-24T20:17:56Z",
+    "initialInfos": {
+      "initialPoolToken": 4056521.85,
+      "initialPriceUSD": 0.000028043359362158987,
+      "initialPoolEth": 0.05,
+      "initialMarketCap": 113.7585
+    },
+    "currentInfos": {
+      "currentPoolToken": 351335.385,
+      "currentPriceUSD": 0.005265699262312269,
+      "currentPoolEth": 0.7972018519026813,
+      "currentMarketCap": 1850.0264776186968
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 46,
+    "holderCountOld": 47,
+    "txCount": 65,
+    "createdAtTimestamp": "1619295476",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 186.76991708838108,
+    "isRugged": false
   },
   {
     "_id": "0x54b78884f869ecd23e90ecbfa1e99669fa38ec5e",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xa4ef4b0b23c1fc81d3f9ecf93510e64f58a4a016",
-    "tokenName": "1MIL",
-    "idPair": "0xbee12364ecc0450a663da84ecba39fbf9e74600a",
-    "idToken": "0xa4ef4b0b23c1fc81d3f9ecf93510e64f58a4a016",
-    "dateCreationToken": "2021-04-24T15:59:58Z",
-    "initialInfos": {
-      "initialPoolToken": 15000,
-      "initialPriceUSD": 5.107613793333333,
-      "initialPoolEth": 34.09,
-      "initialMarketCap": 76614.2069
-    },
-    "currentInfos": {
-      "currentPoolToken": 10754.714406871997,
-      "currentPriceUSD": 10.943725594147262,
-      "currentPoolEth": 51.45478377542443,
-      "currentMarketCap": 117696.64331222935
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 481,
-    "holderCountOld": 479,
-    "txCount": 1281,
-    "createdAtTimestamp": "1619279998",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.1426298144216505,
-    "isRugged": false
   }
 ]
