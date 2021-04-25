@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x15a252d4da6ebde753a0e743cf54e144454ba14a",
+    "tokenName": "ELONINU",
+    "idPair": "0x0fae5b38131119316f3716fa4803a2997be776c3",
+    "idToken": "0x15a252d4da6ebde753a0e743cf54e144454ba14a",
+    "dateCreationToken": "2021-04-25T14:32:49Z",
+    "initialInfos": {
+      "initialPoolToken": 80000000000000000,
+      "initialPriceUSD": 2.892825e-13,
+      "initialPoolEth": 10,
+      "initialMarketCap": 23142.6
+    },
+    "currentInfos": {
+      "currentPoolToken": 80000000000000000,
+      "currentPriceUSD": 2.892825e-13,
+      "currentPoolEth": 10,
+      "currentMarketCap": 23142.6
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619361169",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xf2ef2ac3f6b01dd495a579ba5601f34f14619fc8",
     "tokenName": "HORGI",
     "idPair": "0xdf5ced59c7a012c8377e6870f59fa0643fd00ad0",
@@ -105,22 +136,22 @@
       "initialMarketCap": 22911.174
     },
     "currentInfos": {
-      "currentPoolToken": 337622465038517.25,
-      "currentPriceUSD": 1.0179370825566202e-10,
-      "currentPoolEth": 14.850467409318172,
-      "currentMarketCap": 34367.84270668827
+      "currentPoolToken": 330317542711918.3,
+      "currentPriceUSD": 1.063568959076683e-10,
+      "currentPoolEth": 15.180467409318172,
+      "currentMarketCap": 35131.548506688276
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 308,
     "holderCountOld": 0,
-    "txCount": 48,
+    "txCount": 51,
     "createdAtTimestamp": "1619359847",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.2214848186486587,
+    "priceChange": 1.3210690883180283,
     "isRugged": false
   },
   {
@@ -1395,37 +1426,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x874cc9c42a035a8fbda5fcaa38286e7033b5a3e4",
-    "tokenName": "Grimes",
-    "idPair": "0x2b8c80ef234e9bea4dfd2fe709c6a08bdbef71a0",
-    "idToken": "0x874cc9c42a035a8fbda5fcaa38286e7033b5a3e4",
-    "dateCreationToken": "2021-04-25T07:30:30Z",
-    "initialInfos": {
-      "initialPoolToken": 300000000000,
-      "initialPriceUSD": 1.669501e-10,
-      "initialPoolEth": 0.023,
-      "initialMarketCap": 50.08503
-    },
-    "currentInfos": {
-      "currentPoolToken": 321173129498.0887,
-      "currentPriceUSD": 3.898350312374688e-10,
-      "currentPoolEth": 0.05411652654135968,
-      "currentMarketCap": 125.20453697052301
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 7,
-    "holderCountOld": 0,
-    "txCount": 7,
-    "createdAtTimestamp": "1619335830",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.3350392197277439,
-    "isRugged": true
-  },
-  {
     "_id": "0x785dd471d5c7ef260482cc959c9b26e7941edd07",
     "tokenName": "EGPL",
     "idPair": "0xa025a06d3a2515ba18ec9733b69ea19de7171e96",
@@ -1454,6 +1454,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0x874cc9c42a035a8fbda5fcaa38286e7033b5a3e4",
+    "tokenName": "Grimes",
+    "idPair": "0x2b8c80ef234e9bea4dfd2fe709c6a08bdbef71a0",
+    "idToken": "0x874cc9c42a035a8fbda5fcaa38286e7033b5a3e4",
+    "dateCreationToken": "2021-04-25T07:30:30Z",
+    "initialInfos": {
+      "initialPoolToken": 300000000000,
+      "initialPriceUSD": 1.669501e-10,
+      "initialPoolEth": 0.023,
+      "initialMarketCap": 50.08503
+    },
+    "currentInfos": {
+      "currentPoolToken": 321173129498.0887,
+      "currentPriceUSD": 3.898350312374688e-10,
+      "currentPoolEth": 0.05411652654135968,
+      "currentMarketCap": 125.20453697052301
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 7,
+    "holderCountOld": 0,
+    "txCount": 7,
+    "createdAtTimestamp": "1619335830",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.3350392197277439,
     "isRugged": true
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x2ec1c89915b76d8dc0b2e47994932bf816b850d4",
-    "tokenName": "EW20",
-    "idPair": "0x4310b2889b8df5d84da2cba50eed31d4aa3eeef0",
-    "idToken": "0x2ec1c89915b76d8dc0b2e47994932bf816b850d4",
-    "dateCreationToken": "2021-04-24T16:27:11Z",
-    "initialInfos": {
-      "initialPoolToken": 95,
-      "initialPriceUSD": 0.2350642105263158,
-      "initialPoolEth": 0.01,
-      "initialMarketCap": 22.3311
-    },
-    "currentInfos": {
-      "currentPoolToken": 58.9618592623631,
-      "currentPriceUSD": 0.6258867290088398,
-      "currentPoolEth": 0.0161335,
-      "currentMarketCap": 36.90344523
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 4,
-    "createdAtTimestamp": "1619281631",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.662620258555995,
     "isRugged": true
   }
 ]
