@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xedee6cfc693b52e0419796bf36e923810a0a2cde",
+    "tokenName": "HCAT",
+    "idPair": "0x24dfa4a7d255fb19f334ab037681639e6f3fcd6e",
+    "idToken": "0xedee6cfc693b52e0419796bf36e923810a0a2cde",
+    "dateCreationToken": "2021-04-25T15:46:24Z",
+    "initialInfos": {
+      "initialPoolToken": 25000000000000,
+      "initialPriceUSD": 1.3106016e-9,
+      "initialPoolEth": 14,
+      "initialMarketCap": 32775.58663948917
+    },
+    "currentInfos": {
+      "currentPoolToken": 25000000000000,
+      "currentPriceUSD": 1.3106016e-9,
+      "currentPoolEth": 14,
+      "currentMarketCap": 32765.04
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619365584",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x1217ba8d93d82a8ed86f96844537363118291cc2",
     "tokenName": "KET",
     "idPair": "0x2534996514298980150cf54123a6695e0193bfa7",
@@ -43,22 +74,22 @@
       "initialMarketCap": 234036
     },
     "currentInfos": {
-      "currentPoolToken": 4534378.521218578,
-      "currentPriceUSD": 0.056930227061330205,
-      "currentPoolEth": 110.30063699387837,
-      "currentMarketCap": 258143.19879499232
+      "currentPoolToken": 4471329.49109846,
+      "currentPriceUSD": 0.058549512156546094,
+      "currentPoolEth": 111.86063699387837,
+      "currentMarketCap": 261794.16039499233
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 6,
+    "txCount": 7,
     "createdAtTimestamp": "1619365226",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.2162707246177982,
+    "priceChange": 0.25086551121507145,
     "isRugged": false
   },
   {
@@ -1767,37 +1798,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x785dd471d5c7ef260482cc959c9b26e7941edd07",
-    "tokenName": "EGPL",
-    "idPair": "0xa025a06d3a2515ba18ec9733b69ea19de7171e96",
-    "idToken": "0x785dd471d5c7ef260482cc959c9b26e7941edd07",
-    "dateCreationToken": "2021-04-25T07:30:30Z",
-    "initialInfos": {
-      "initialPoolToken": 2088582.815697,
-      "initialPriceUSD": 0.021895138491187426,
-      "initialPoolEth": 21,
-      "initialMarketCap": 45729.81
-    },
-    "currentInfos": {
-      "currentPoolToken": 3.13877e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 4e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1,
-    "holderCountOld": 0,
-    "txCount": 3,
-    "createdAtTimestamp": "1619335830",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0x874cc9c42a035a8fbda5fcaa38286e7033b5a3e4",
     "tokenName": "Grimes",
     "idPair": "0x2b8c80ef234e9bea4dfd2fe709c6a08bdbef71a0",
@@ -1826,6 +1826,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 1.3704946023501543,
+    "isRugged": true
+  },
+  {
+    "_id": "0x785dd471d5c7ef260482cc959c9b26e7941edd07",
+    "tokenName": "EGPL",
+    "idPair": "0xa025a06d3a2515ba18ec9733b69ea19de7171e96",
+    "idToken": "0x785dd471d5c7ef260482cc959c9b26e7941edd07",
+    "dateCreationToken": "2021-04-25T07:30:30Z",
+    "initialInfos": {
+      "initialPoolToken": 2088582.815697,
+      "initialPriceUSD": 0.021895138491187426,
+      "initialPoolEth": 21,
+      "initialMarketCap": 45729.81
+    },
+    "currentInfos": {
+      "currentPoolToken": 3.13877e-13,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 4e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1619335830",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
     "isRugged": true
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x6e87921e2ed8f8fe2469ef66ef4ce176282d8977",
-    "tokenName": "Lambo",
-    "idPair": "0xa2cf37c2d435abae1dfaf13928cef750747b5147",
-    "idToken": "0x6e87921e2ed8f8fe2469ef66ef4ce176282d8977",
-    "dateCreationToken": "2021-04-24T17:11:47Z",
-    "initialInfos": {
-      "initialPoolToken": 10000000,
-      "initialPriceUSD": 0.0000450984,
-      "initialPoolEth": 0.2,
-      "initialMarketCap": 450.984
-    },
-    "currentInfos": {
-      "currentPoolToken": 3988947.5370230568,
-      "currentPriceUSD": 0.0002964643748283937,
-      "currentPoolEth": 0.504791817078417,
-      "currentMarketCap": 1182.5808377868013
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 9,
-    "holderCountOld": 1,
-    "txCount": 17,
-    "createdAtTimestamp": "1619284307",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 5.573722678152522,
-    "isRugged": false
   }
 ]
