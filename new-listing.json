@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x0ce831d6d39d631ae5c4276af619b841832d4384",
+    "tokenName": "FINE",
+    "idPair": "0x3aed6f4f89b0327e58020b477277ccf620bb32e8",
+    "idToken": "0x0ce831d6d39d631ae5c4276af619b841832d4384",
+    "dateCreationToken": "2021-04-25T05:40:09Z",
+    "initialInfos": {
+      "initialPoolToken": 12000000,
+      "initialPriceUSD": 0.03641716666666667,
+      "initialPoolEth": 200,
+      "initialMarketCap": 437006
+    },
+    "currentInfos": {
+      "currentPoolToken": 11964215.032836786,
+      "currentPriceUSD": 0.036635668683403164,
+      "currentPoolEth": 200.6,
+      "currentMarketCap": 438317.018
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619329209",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.005999972999999903,
+    "isRugged": false
+  },
+  {
     "_id": "0x93afc3049554db0445e4c7966da918b3a9c719db",
     "tokenName": "SHIBT",
     "idPair": "0xaefaef9c4ec5a9ac4690485510e06c8d55f6c8ac",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-25T05:27:57Z",
     "initialInfos": {
       "initialPoolToken": 248208826001.881,
-      "initialPriceUSD": 3.0146358130625245e-8,
+      "initialPriceUSD": 3.013808234063409e-8,
       "initialPoolEth": 3.4235401965725,
-      "initialMarketCap": 7482.592159834753
+      "initialMarketCap": 7480.53803571681
     },
     "currentInfos": {
-      "currentPoolToken": 132797093226.01988,
-      "currentPriceUSD": 1.0625464413504758e-7,
-      "currentPoolEth": 6.455945371768556,
-      "currentMarketCap": 14110.30788289948
+      "currentPoolToken": 130790687012.32466,
+      "currentPriceUSD": 1.0952566763661507e-7,
+      "currentPoolEth": 6.555945371768556,
+      "currentMarketCap": 14324.937315676418
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 9,
+    "holderCount": 16,
     "holderCountOld": 0,
-    "txCount": 17,
+    "txCount": 18,
     "createdAtTimestamp": "1619328477",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.5246262143719793,
+    "priceChange": 2.634128621678943,
     "isRugged": false
   },
   {
@@ -38,27 +69,27 @@
     "dateCreationToken": "2021-04-25T05:21:28Z",
     "initialInfos": {
       "initialPoolToken": 22000000,
-      "initialPriceUSD": 0.029804045454545455,
+      "initialPriceUSD": 0.029795863636363638,
       "initialPoolEth": 300,
-      "initialMarketCap": 655689
+      "initialMarketCap": 655509
     },
     "currentInfos": {
       "currentPoolToken": 20418929.413782742,
-      "currentPriceUSD": 0.03460583876268443,
+      "currentPriceUSD": 0.03459633875433095,
       "currentPoolEth": 323.3,
-      "currentMarketCap": 706614.179
+      "currentMarketCap": 706420.199
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 2,
+    "holderCount": 4,
     "holderCountOld": 0,
     "txCount": 3,
     "createdAtTimestamp": "1619328088",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.16111213209167372,
+    "priceChange": 0.16111213209167358,
     "isRugged": false
   },
   {
@@ -75,9 +106,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 702674028052.5869,
-      "currentPriceUSD": 2.2281422276295078e-8,
+      "currentPriceUSD": 2.227530557156199e-8,
       "currentPoolEth": 7.163415922011452,
-      "currentMarketCap": 15656.576741624902
+      "currentMarketCap": 15652.278692071695
     },
     "trustScore": null,
     "contractId": null,
@@ -89,7 +120,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.038901577695683,
+    "priceChange": 1.0383418576393983,
     "isRugged": false
   },
   {
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 2,
     "createdAtTimestamp": "1619260544",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xdd3b6a478d64a993b44f010b1de0a277e10a8868",
-    "tokenName": "ELONA",
-    "idPair": "0x64d24f44bc9a691ba8a0fa0abbb8b2c5bef350f8",
-    "idToken": "0xdd3b6a478d64a993b44f010b1de0a277e10a8868",
-    "dateCreationToken": "2021-04-24T10:24:39Z",
-    "initialInfos": {
-      "initialPoolToken": 50000000000000,
-      "initialPriceUSD": 2.665728e-10,
-      "initialPoolEth": 6,
-      "initialMarketCap": 13345.119216728384
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.064,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.5701e-14,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 13,
-    "holderCountOld": 6,
-    "txCount": 19,
-    "createdAtTimestamp": "1619259879",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
