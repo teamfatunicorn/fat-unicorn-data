@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x2c5369ed06cfc6f3a9100f9f4099826f4a211ff0",
+    "tokenName": "PDELON",
+    "idPair": "0xc742ca61adf9c2ed9d2eb8c1ad8229c51210abf5",
+    "idToken": "0x2c5369ed06cfc6f3a9100f9f4099826f4a211ff0",
+    "dateCreationToken": "2021-04-25T18:21:08Z",
+    "initialInfos": {
+      "initialPoolToken": 500000000,
+      "initialPriceUSD": 0.00000695409,
+      "initialPoolEth": 1.5,
+      "initialMarketCap": 3477.045
+    },
+    "currentInfos": {
+      "currentPoolToken": 500000000,
+      "currentPriceUSD": 0.00000695409,
+      "currentPoolEth": 1.5,
+      "currentMarketCap": 3477.045
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619374868",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xadfe69f839c7fc1b9d1abd35861d6a02dc35780f",
     "tokenName": "VITALIK",
     "idPair": "0x49193f775e91cab7c9311045c02a10bffa43b3e3",
@@ -12,22 +43,22 @@
       "initialMarketCap": 9272.12
     },
     "currentInfos": {
-      "currentPoolToken": 385366714470.76355,
-      "currentPriceUSD": 6.259943400438697e-8,
-      "currentPoolEth": 10.407,
-      "currentMarketCap": 24123.73821
+      "currentPoolToken": 364420145424.2864,
+      "currentPriceUSD": 7.001412114660664e-8,
+      "currentPoolEth": 11.007,
+      "currentMarketCap": 25514.55621
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 8,
     "holderCountOld": 0,
-    "txCount": 14,
+    "txCount": 16,
     "createdAtTimestamp": "1619374584",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 5.751361501402804,
+    "priceChange": 6.551036995488263,
     "isRugged": false
   },
   {
@@ -167,22 +198,22 @@
       "initialMarketCap": 2439.1702478
     },
     "currentInfos": {
-      "currentPoolToken": 11340887636.303646,
-      "currentPriceUSD": 0.0000011379081507538907,
-      "currentPoolEth": 5.5671792332862555,
-      "currentMarketCap": 12904.888478133946
+      "currentPoolToken": 10948746105.186773,
+      "currentPriceUSD": 0.0000012210068942781365,
+      "currentPoolEth": 5.767179233286255,
+      "currentMarketCap": 13368.494478133947
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 40,
     "holderCountOld": 0,
-    "txCount": 86,
+    "txCount": 88,
     "createdAtTimestamp": "1619372045",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 26.524352166493145,
+    "priceChange": 28.534390568836148,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 1.1298907114197796,
     "isRugged": false
-  },
-  {
-    "_id": "0x68935e39315239928a371f27cec3aefa22e2e387",
-    "tokenName": "BUFF",
-    "idPair": "0x8e83d65666c839a47c2005400d1ebfbea2c1a55a",
-    "idToken": "0x68935e39315239928a371f27cec3aefa22e2e387",
-    "dateCreationToken": "2021-04-24T18:10:17Z",
-    "initialInfos": {
-      "initialPoolToken": 210000000000000,
-      "initialPriceUSD": 3.249757142857143e-11,
-      "initialPoolEth": 3,
-      "initialMarketCap": 6824.49
-    },
-    "currentInfos": {
-      "currentPoolToken": 10000000000000.066,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 6,
-    "holderCountOld": 0,
-    "txCount": 19,
-    "createdAtTimestamp": "1619287817",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
