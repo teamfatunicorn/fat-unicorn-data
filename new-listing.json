@@ -137,9 +137,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 472965772066404.3,
-      "currentPriceUSD": 8.312448621436432e-11,
+      "currentPriceUSD": 8.243504604922226e-11,
       "currentPoolEth": 15.86,
-      "currentMarketCap": 39315.0368
+      "currentMarketCap": 38988.9552
     },
     "trustScore": null,
     "contractId": null,
@@ -151,7 +151,7 @@
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.11776939873873575,
+    "priceChange": 0.10849854301434868,
     "isRugged": false
   },
   {
@@ -168,9 +168,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 663944932685.1881,
-      "currentPriceUSD": 2.8159694127362525e-8,
+      "currentPriceUSD": 2.7926135701275512e-8,
       "currentPoolEth": 7.54231194,
-      "currentMarketCap": 18696.4862218272
+      "currentMarketCap": 18541.4162883408
     },
     "trustScore": null,
     "contractId": null,
@@ -182,7 +182,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.2719691253600436,
+    "priceChange": 1.2531252582840244,
     "isRugged": false
   },
   {
@@ -2790,37 +2790,6 @@
     "isRugged": false
   },
   {
-    "_id": "0xf855a5e6407ddca7a00d86876a837dfc74812a43",
-    "tokenName": "ALPHR",
-    "idPair": "0xc607ff20688eaf073d6e65ab346fc4e642bf1aad",
-    "idToken": "0xf855a5e6407ddca7a00d86876a837dfc74812a43",
-    "dateCreationToken": "2021-04-26T10:28:01Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000,
-      "initialPriceUSD": 0.3259997,
-      "initialPoolEth": 130,
-      "initialMarketCap": 323567.6497532471
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.6759e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.5e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 23,
-    "holderCountOld": 21,
-    "txCount": 24,
-    "createdAtTimestamp": "1619432881",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0xaf10fc22a34170453d2ba3bb714b8db0092ce1e3",
     "tokenName": "PINKM",
     "idPair": "0x70e173131f26f012ed239669979569a5b03abe88",
@@ -2844,6 +2813,37 @@
     "holderCount": 2,
     "holderCountOld": 1,
     "txCount": 2,
+    "createdAtTimestamp": "1619432881",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0xf855a5e6407ddca7a00d86876a837dfc74812a43",
+    "tokenName": "ALPHR",
+    "idPair": "0xc607ff20688eaf073d6e65ab346fc4e642bf1aad",
+    "idToken": "0xf855a5e6407ddca7a00d86876a837dfc74812a43",
+    "dateCreationToken": "2021-04-26T10:28:01Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000,
+      "initialPriceUSD": 0.3259997,
+      "initialPoolEth": 130,
+      "initialMarketCap": 323567.6497532471
+    },
+    "currentInfos": {
+      "currentPoolToken": 6.6759e-14,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1.5e-17,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 23,
+    "holderCountOld": 21,
+    "txCount": 24,
     "createdAtTimestamp": "1619432881",
     "isCodeGenerator": false,
     "linksSocial": [],
