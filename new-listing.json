@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x63d5826b55d44bd03a340d83c8b3516106bb75f0",
+    "tokenName": "$ALCATRAZ",
+    "idPair": "0xdc8979f0b4ac3cf70f836637101c2cdab4e006ea",
+    "idToken": "0x63d5826b55d44bd03a340d83c8b3516106bb75f0",
+    "dateCreationToken": "2021-04-26T06:45:20Z",
+    "initialInfos": {
+      "initialPoolToken": 10000000000000000,
+      "initialPriceUSD": 2.48347e-12,
+      "initialPoolEth": 10,
+      "initialMarketCap": 24834.7
+    },
+    "currentInfos": {
+      "currentPoolToken": 10000000000000000,
+      "currentPriceUSD": 2.48347e-12,
+      "currentPoolEth": 10,
+      "currentMarketCap": 24834.7
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619419520",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xda7141829103b16e1c74acdd6bd131cd0452480d",
     "tokenName": "AUTO",
     "idPair": "0x2f15a81bc5abd0d7d5e5ec4addea07a92ee15b4b",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x36b15a56fc03a425476fd66eb080a70e5da47064",
-    "tokenName": "EFED",
-    "idPair": "0x26bf95fd39fe823e4248a71831c192469795c277",
-    "idToken": "0x36b15a56fc03a425476fd66eb080a70e5da47064",
-    "dateCreationToken": "2021-04-25T06:57:21Z",
-    "initialInfos": {
-      "initialPoolToken": 3,
-      "initialPriceUSD": 0.000361975,
-      "initialPoolEth": 5e-7,
-      "initialMarketCap": 0.001085925
-    },
-    "currentInfos": {
-      "currentPoolToken": 73703,
-      "currentPriceUSD": 0.00044508182240214915,
-      "currentPoolEth": 0.013305751039561118,
-      "currentMarketCap": 32.8038655565056
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6,
-    "holderCountOld": 3,
-    "txCount": 3,
-    "createdAtTimestamp": "1619333841",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.22959271331486747,
     "isRugged": true
   }
 ]
