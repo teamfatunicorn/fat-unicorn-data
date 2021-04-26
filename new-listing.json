@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc029aad1d65f9053222959d19aebb5e39eb05656",
+    "tokenName": "SHIB2",
+    "idPair": "0xbe6601fe68fb84d3b59423b395cdcfb4c2217886",
+    "idToken": "0xc029aad1d65f9053222959d19aebb5e39eb05656",
+    "dateCreationToken": "2021-04-26T11:27:50Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000,
+      "initialPriceUSD": 0.00011773782,
+      "initialPoolEth": 47,
+      "initialMarketCap": 117737.82
+    },
+    "currentInfos": {
+      "currentPoolToken": 979227868.4084421,
+      "currentPriceUSD": 0.00012279356407148936,
+      "currentPoolEth": 48,
+      "currentMarketCap": 120242.88
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619436470",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.04294069714803074,
+    "isRugged": false
+  },
+  {
     "_id": "0xaedec9e6e9f4aa40623afbf7d459b95f9a28280a",
     "tokenName": "$GODFATHER",
     "idPair": "0x284f687f6420718988786195f9565de9ca9895bf",
@@ -12,22 +43,22 @@
       "initialMarketCap": 10020.24
     },
     "currentInfos": {
-      "currentPoolToken": 963959947464182900,
-      "currentPriceUSD": 1.07846794126125e-14,
-      "currentPoolEth": 4.15,
-      "currentMarketCap": 10395.999
+      "currentPoolToken": 930430808334909200,
+      "currentPriceUSD": 1.15771725350293e-14,
+      "currentPoolEth": 4.3,
+      "currentMarketCap": 10771.758
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 1,
+    "holderCount": 2,
     "holderCountOld": 0,
-    "txCount": 2,
+    "txCount": 3,
     "createdAtTimestamp": "1619436096",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.07628953124999993,
+    "priceChange": 0.15537876687876728,
     "isRugged": false
   },
   {
@@ -74,22 +105,22 @@
       "initialMarketCap": 751518
     },
     "currentInfos": {
-      "currentPoolToken": 26890534.042915825,
-      "currentPriceUSD": 0.031189136660931295,
-      "currentPoolEth": 334.79938250977085,
-      "currentMarketCap": 838692.541149927
+      "currentPoolToken": 26650021.196125977,
+      "currentPriceUSD": 0.031755487080944285,
+      "currentPoolEth": 337.8299936131148,
+      "currentMarketCap": 846284.4038004698
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 14,
-    "holderCountOld": 0,
-    "txCount": 18,
+    "holderCount": 19,
+    "holderCountOld": 14,
+    "txCount": 19,
     "createdAtTimestamp": "1619434886",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.24504549435667394,
+    "priceChange": 0.2676537520436351,
     "isRugged": false
   },
   {
@@ -186,37 +217,6 @@
     "isRugged": false
   },
   {
-    "_id": "0xf855a5e6407ddca7a00d86876a837dfc74812a43",
-    "tokenName": "ALPHR",
-    "idPair": "0xc607ff20688eaf073d6e65ab346fc4e642bf1aad",
-    "idToken": "0xf855a5e6407ddca7a00d86876a837dfc74812a43",
-    "dateCreationToken": "2021-04-26T10:28:01Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000,
-      "initialPriceUSD": 0.3256578,
-      "initialPoolEth": 130,
-      "initialMarketCap": 323567.6497532471
-    },
-    "currentInfos": {
-      "currentPoolToken": 764848.6282244113,
-      "currentPriceUSD": 0.5571275223036346,
-      "currentPoolEth": 170.103,
-      "currentMarketCap": 426118.22118
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 21,
-    "holderCountOld": 0,
-    "txCount": 21,
-    "createdAtTimestamp": "1619432881",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.7107759197035496,
-    "isRugged": false
-  },
-  {
     "_id": "0xaf10fc22a34170453d2ba3bb714b8db0092ce1e3",
     "tokenName": "PINKM",
     "idPair": "0x70e173131f26f012ed239669979569a5b03abe88",
@@ -245,6 +245,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0,
+    "isRugged": false
+  },
+  {
+    "_id": "0xf855a5e6407ddca7a00d86876a837dfc74812a43",
+    "tokenName": "ALPHR",
+    "idPair": "0xc607ff20688eaf073d6e65ab346fc4e642bf1aad",
+    "idToken": "0xf855a5e6407ddca7a00d86876a837dfc74812a43",
+    "dateCreationToken": "2021-04-26T10:28:01Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000,
+      "initialPriceUSD": 0.3256578,
+      "initialPoolEth": 130,
+      "initialMarketCap": 323567.6497532471
+    },
+    "currentInfos": {
+      "currentPoolToken": 761279.0487971196,
+      "currentPriceUSD": 0.5623723257016814,
+      "currentPoolEth": 170.903,
+      "currentMarketCap": 428122.26918
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 21,
+    "holderCountOld": 0,
+    "txCount": 22,
+    "createdAtTimestamp": "1619432881",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.7268811792675667,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 2.7271700111623347,
-    "isRugged": true
-  },
-  {
-    "_id": "0x9ce1551414751b693cde8160cce89d2491f3b24b",
-    "tokenName": "MSDN",
-    "idPair": "0x68f7443568a4978422b5ece6bb0698a7c5f3ec4c",
-    "idToken": "0x9ce1551414751b693cde8160cce89d2491f3b24b",
-    "dateCreationToken": "2021-04-25T11:31:47Z",
-    "initialInfos": {
-      "initialPoolToken": 200000000000000,
-      "initialPriceUSD": 2.1802025e-11,
-      "initialPoolEth": 1.9,
-      "initialMarketCap": 4360.405
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.0184808226e-8,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 3,
-    "createdAtTimestamp": "1619350307",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
