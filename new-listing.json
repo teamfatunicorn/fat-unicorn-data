@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xe0e4abf649f22d96102aa8426b438bb11e105486",
+    "tokenName": "GELON",
+    "idPair": "0x410363bccf2b93387b5c46457441886e88c087d6",
+    "idToken": "0xe0e4abf649f22d96102aa8426b438bb11e105486",
+    "dateCreationToken": "2021-04-26T13:51:15Z",
+    "initialInfos": {
+      "initialPoolToken": 500000000000000000,
+      "initialPriceUSD": 2.999772e-14,
+      "initialPoolEth": 6,
+      "initialMarketCap": 15025.136552174932
+    },
+    "currentInfos": {
+      "currentPoolToken": 424066165559845950,
+      "currentPriceUSD": 4.1900224332549e-14,
+      "currentPoolEth": 7.1079271899873095,
+      "currentMarketCap": 17768.467468801402
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 9,
+    "createdAtTimestamp": "1619445075",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.3967802997210788,
+    "isRugged": false
+  },
+  {
     "_id": "0xc7f61b2eb42e9591748efc62ec2971e157d35646",
     "tokenName": "ELON2024",
     "idPair": "0x89f18aa3c7cbababac9f6ec48be9e0947030e5d3",
@@ -105,22 +136,22 @@
       "initialMarketCap": 4999.62
     },
     "currentInfos": {
-      "currentPoolToken": 394047945866104.8,
-      "currentPriceUSD": 1.61174516933542e-11,
-      "currentPoolEth": 2.540612579500831,
-      "currentMarketCap": 6351.048732362395
+      "currentPoolToken": 379988352877579.44,
+      "currentPriceUSD": 1.7336307119591223e-11,
+      "currentPoolEth": 2.635238193043743,
+      "currentMarketCap": 6587.594787353321
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 9,
     "holderCountOld": 0,
-    "txCount": 12,
+    "txCount": 14,
     "createdAtTimestamp": "1619444244",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.611867671278437,
+    "priceChange": 0.7337624779074432,
     "isRugged": false
   },
   {
@@ -651,37 +682,6 @@
     "isRugged": false
   },
   {
-    "_id": "0xf855a5e6407ddca7a00d86876a837dfc74812a43",
-    "tokenName": "ALPHR",
-    "idPair": "0xc607ff20688eaf073d6e65ab346fc4e642bf1aad",
-    "idToken": "0xf855a5e6407ddca7a00d86876a837dfc74812a43",
-    "dateCreationToken": "2021-04-26T10:28:01Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000,
-      "initialPriceUSD": 0.3259997,
-      "initialPoolEth": 130,
-      "initialMarketCap": 323567.6497532471
-    },
-    "currentInfos": {
-      "currentPoolToken": 761168.0377947263,
-      "currentPriceUSD": 0.5625411117899237,
-      "currentPoolEth": 170.928,
-      "currentMarketCap": 428188.31424
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 23,
-    "holderCountOld": 21,
-    "txCount": 23,
-    "createdAtTimestamp": "1619432881",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.7255878204486805,
-    "isRugged": false
-  },
-  {
     "_id": "0xaf10fc22a34170453d2ba3bb714b8db0092ce1e3",
     "tokenName": "PINKM",
     "idPair": "0x70e173131f26f012ed239669979569a5b03abe88",
@@ -711,6 +711,37 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
+  },
+  {
+    "_id": "0xf855a5e6407ddca7a00d86876a837dfc74812a43",
+    "tokenName": "ALPHR",
+    "idPair": "0xc607ff20688eaf073d6e65ab346fc4e642bf1aad",
+    "idToken": "0xf855a5e6407ddca7a00d86876a837dfc74812a43",
+    "dateCreationToken": "2021-04-26T10:28:01Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000,
+      "initialPriceUSD": 0.3259997,
+      "initialPoolEth": 130,
+      "initialMarketCap": 323567.6497532471
+    },
+    "currentInfos": {
+      "currentPoolToken": 761168.0377947263,
+      "currentPriceUSD": 0.5625411117899237,
+      "currentPoolEth": 170.928,
+      "currentMarketCap": 428188.31424
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 23,
+    "holderCountOld": 21,
+    "txCount": 23,
+    "createdAtTimestamp": "1619432881",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.7255878204486805,
+    "isRugged": false
   },
   {
     "_id": "0xcef12b5b0e63da7fc3af48915edfb7f2beb41456",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.3258494873285648,
     "isRugged": false
-  },
-  {
-    "_id": "0x88b4472e6646e0c04a6fe34f75fa333b51462e74",
-    "tokenName": "SFT",
-    "idPair": "0xfedc16a68c868d5160707fb19a97a46bb60e0337",
-    "idToken": "0x88b4472e6646e0c04a6fe34f75fa333b51462e74",
-    "dateCreationToken": "2021-04-25T13:53:50Z",
-    "initialInfos": {
-      "initialPoolToken": 8500000000,
-      "initialPriceUSD": 1.3816117647058823e-7,
-      "initialPoolEth": 0.5,
-      "initialMarketCap": 1174.37
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.12446572e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 3,
-    "createdAtTimestamp": "1619358830",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
