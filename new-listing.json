@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7abe01d095a2079b9ebeb1bf32a05c11a991b3c3",
+    "tokenName": "PINKM",
+    "idPair": "0xfb53aca814fe28fceb267872d0c3112c1ce513c4",
+    "idToken": "0x7abe01d095a2079b9ebeb1bf32a05c11a991b3c3",
+    "dateCreationToken": "2021-04-26T09:19:22Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000,
+      "initialPriceUSD": 0.3654885,
+      "initialPoolEth": 150,
+      "initialMarketCap": 365488.5
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000,
+      "currentPriceUSD": 0.3654885,
+      "currentPoolEth": 150,
+      "currentMarketCap": 365488.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619428762",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xe458c6c7b5909e40e6d3c02ad7eec5263d57d500",
     "tokenName": "DOGEFI",
     "idPair": "0x17b5e8e1b98786685a0daa54582e61b36f7f754c",
@@ -20,8 +51,8 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 0,
-    "holderCountOld": null,
+    "holderCount": 1,
+    "holderCountOld": 0,
     "txCount": 1,
     "createdAtTimestamp": "1619428410",
     "isCodeGenerator": false,
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 60.524631181752966,
-    "isRugged": true
-  },
-  {
-    "_id": "0xbea66a4775c3eba4031d39837d73913f6ebc96fd",
-    "tokenName": "ELIN",
-    "idPair": "0x4e0be0ff51dcad02cede6cec14788bb38e994899",
-    "idToken": "0xbea66a4775c3eba4031d39837d73913f6ebc96fd",
-    "dateCreationToken": "2021-04-25T09:18:06Z",
-    "initialInfos": {
-      "initialPoolToken": 989000000010,
-      "initialPriceUSD": 6.878159757261091e-9,
-      "initialPoolEth": 3,
-      "initialMarketCap": 6802.5
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.81339548e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 8,
-    "holderCountOld": 0,
-    "txCount": 11,
-    "createdAtTimestamp": "1619342286",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
