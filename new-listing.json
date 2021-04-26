@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x0087feb9d0884720347fdd360a51dbff799b3d1e",
+    "tokenName": "1MIL",
+    "idPair": "0x3ece98da2ddb96e5fed63d4c18b7487af3c45baf",
+    "idToken": "0x0087feb9d0884720347fdd360a51dbff799b3d1e",
+    "dateCreationToken": "2021-04-26T05:17:22Z",
+    "initialInfos": {
+      "initialPoolToken": 390000,
+      "initialPriceUSD": 1.6322466666666666,
+      "initialPoolEth": 260,
+      "initialMarketCap": 636576.2
+    },
+    "currentInfos": {
+      "currentPoolToken": 383471.2042722922,
+      "currentPriceUSD": 1.6883848267789776,
+      "currentPoolEth": 264.44,
+      "currentMarketCap": 647446.9628
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1619414242",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.03439318410553408,
+    "isRugged": false
+  },
+  {
+    "_id": "0x27262744a51d52566f5875ddf99b09edd67d6142",
+    "tokenName": "GRLC",
+    "idPair": "0x15f58cd3774405f4fa5caaab48ff73a1e8e16610",
+    "idToken": "0x27262744a51d52566f5875ddf99b09edd67d6142",
+    "dateCreationToken": "2021-04-26T05:17:19Z",
+    "initialInfos": {
+      "initialPoolToken": 70000,
+      "initialPriceUSD": 0.3147904285714286,
+      "initialPoolEth": 9,
+      "initialMarketCap": 22035.33
+    },
+    "currentInfos": {
+      "currentPoolToken": 70000,
+      "currentPriceUSD": 0.3147904285714286,
+      "currentPoolEth": 9,
+      "currentMarketCap": 22035.33
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619414239",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xd8af3b70abd26ef9e92c273060423904c34a8ed7",
     "tokenName": "ALPHR",
     "idPair": "0xb3187a7a9424485fe071053ed53e59ddafd521f0",
@@ -12,22 +74,22 @@
       "initialMarketCap": 588678.0038098489
     },
     "currentInfos": {
-      "currentPoolToken": 362415.85841556685,
-      "currentPriceUSD": 1.7182257022160785,
-      "currentPoolEth": 254.33747465470105,
-      "currentMarketCap": 622712.2428203303
+      "currentPoolToken": 349933.4055053832,
+      "currentPriceUSD": 1.843186159631759,
+      "currentPoolEth": 263.4374746547011,
+      "currentMarketCap": 644992.4098203303
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 2,
     "holderCountOld": 0,
-    "txCount": 10,
+    "txCount": 13,
     "createdAtTimestamp": "1619413665",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.12285362242868755,
+    "priceChange": 0.20451478143042692,
     "isRugged": false
   },
   {
@@ -6135,68 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.13895669428433138,
-    "isRugged": true
-  },
-  {
-    "_id": "0x3cd28801e50fada4824a1262cb79d6bf77fa832b",
-    "tokenName": "B&R",
-    "idPair": "0x1e9e7ac05fc65a25d449d16636ebe49c732176a0",
-    "idToken": "0x3cd28801e50fada4824a1262cb79d6bf77fa832b",
-    "dateCreationToken": "2021-04-25T05:46:43Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000,
-      "initialPriceUSD": 0.011919325,
-      "initialPoolEth": 5.5,
-      "initialMarketCap": 11919.325
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.0441e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 0,
-    "txCount": 4,
-    "createdAtTimestamp": "1619329603",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x6e66fa1b48fd68fdff8aa316ed083db645dd1f27",
-    "tokenName": "DogeFu",
-    "idPair": "0x19d3450069cd3a91e54a1041d896e77bc448c383",
-    "idToken": "0x6e66fa1b48fd68fdff8aa316ed083db645dd1f27",
-    "dateCreationToken": "2021-04-25T05:46:24Z",
-    "initialInfos": {
-      "initialPoolToken": 959999999999,
-      "initialPriceUSD": 6.320854166673251e-9,
-      "initialPoolEth": 2.8,
-      "initialMarketCap": 6068.02
-    },
-    "currentInfos": {
-      "currentPoolToken": 5.73126263e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 5,
-    "holderCountOld": 0,
-    "txCount": 7,
-    "createdAtTimestamp": "1619329584",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
