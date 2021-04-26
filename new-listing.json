@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x12565fd1436926beb0fff522d63be551240a4594",
+    "tokenName": "GOLD",
+    "idPair": "0x3e28915971a0c66070020f51bbd09bfc2190591d",
+    "idToken": "0x12565fd1436926beb0fff522d63be551240a4594",
+    "dateCreationToken": "2021-04-26T11:38:24Z",
+    "initialInfos": {
+      "initialPoolToken": 0.00001,
+      "initialPriceUSD": 2507.69,
+      "initialPoolEth": 0.00001,
+      "initialMarketCap": 0.0250769
+    },
+    "currentInfos": {
+      "currentPoolToken": 0.00001,
+      "currentPriceUSD": 2507.69,
+      "currentPoolEth": 0.00001,
+      "currentMarketCap": 0.0250769
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3821,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619437104",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0xc029aad1d65f9053222959d19aebb5e39eb05656",
     "tokenName": "SHIB2",
     "idPair": "0xbe6601fe68fb84d3b59423b395cdcfb4c2217886",
@@ -12,22 +43,22 @@
       "initialMarketCap": 117861.43
     },
     "currentInfos": {
-      "currentPoolToken": 977198146.4251384,
-      "currentPriceUSD": 0.00012343442263092801,
-      "currentPoolEth": 48.1,
-      "currentMarketCap": 120619.889
+      "currentPoolToken": 974169310.2432904,
+      "currentPriceUSD": 0.00012420432590899653,
+      "currentPoolEth": 48.25,
+      "currentMarketCap": 120996.0425
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 3,
     "holderCountOld": 0,
-    "txCount": 3,
+    "txCount": 4,
     "createdAtTimestamp": "1619436470",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.047284278079164736,
+    "priceChange": 0.05381655312511079,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x84c41f48c84927e7bda9a6b66dd36d00dabf25f0",
-    "tokenName": "ROBOT",
-    "idPair": "0x07ed10dd7bc8599a8e57c1deabc3bb71d8f2e832",
-    "idToken": "0x84c41f48c84927e7bda9a6b66dd36d00dabf25f0",
-    "dateCreationToken": "2021-04-25T11:33:18Z",
-    "initialInfos": {
-      "initialPoolToken": 999998000000000,
-      "initialPriceUSD": 2.29495458990918e-14,
-      "initialPoolEth": 0.01,
-      "initialMarketCap": 22.9495
-    },
-    "currentInfos": {
-      "currentPoolToken": 540444801765600.9,
-      "currentPriceUSD": 8.55368592448885e-14,
-      "currentPoolEth": 0.01853514574056379,
-      "currentMarketCap": 46.22795093825587
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 7,
-    "holderCountOld": 0,
-    "txCount": 7,
-    "createdAtTimestamp": "1619350398",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 2.7271700111623347,
     "isRugged": true
   }
 ]
