@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xc793804029b7a61cce14cd022bf7b6ea667be106",
+    "tokenName": "TAKURA",
+    "idPair": "0x36cfaf2514329b283aa1caf8c081058dd8e590e1",
+    "idToken": "0xc793804029b7a61cce14cd022bf7b6ea667be106",
+    "dateCreationToken": "2021-04-26T07:06:13Z",
+    "initialInfos": {
+      "initialPoolToken": 100000000000,
+      "initialPriceUSD": 7.43937e-8,
+      "initialPoolEth": 3,
+      "initialMarketCap": 7371.322927902855
+    },
+    "currentInfos": {
+      "currentPoolToken": 100000000000,
+      "currentPriceUSD": 7.43937e-8,
+      "currentPoolEth": 3,
+      "currentMarketCap": 7439.37
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619420773",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x4bfc44eee642bd8fb5804a3c08e9060fd12e1d12",
     "tokenName": "ALPHR",
     "idPair": "0xa4de24b85b0a587ce2caeb58f2b2c47a06e629b7",
@@ -12,22 +43,22 @@
       "initialMarketCap": 371968.5
     },
     "currentInfos": {
-      "currentPoolToken": 2803310.980344513,
-      "currentPriceUSD": 0.14202755472241452,
-      "currentPoolEth": 160.55690347361096,
-      "currentMarketCap": 398147.40366482583
+      "currentPoolToken": 2779032.5449216096,
+      "currentPriceUSD": 0.1445237555601045,
+      "currentPoolEth": 161.96380347361094,
+      "currentMarketCap": 401636.22021582583
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 6,
     "holderCountOld": 0,
-    "txCount": 12,
+    "txCount": 14,
     "createdAtTimestamp": "1619420128",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.1454805021587676,
+    "priceChange": 0.16561285883163082,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 2479.79
     },
     "currentInfos": {
-      "currentPoolToken": 729917963707326,
-      "currentPriceUSD": 4.658640171323429e-12,
-      "currentPoolEth": 1.3712552867369192,
-      "currentMarketCap": 3400.4251474975454
+      "currentPoolToken": 662487493958725.6,
+      "currentPriceUSD": 5.615930657681634e-12,
+      "currentPoolEth": 1.5112552867369193,
+      "currentMarketCap": 3720.4838276534833
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 6,
     "holderCountOld": 0,
-    "txCount": 6,
+    "txCount": 8,
     "createdAtTimestamp": "1619419998",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.8786430186924816,
+    "priceChange": 1.264679935672631,
     "isRugged": false
   },
   {
@@ -75,9 +106,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 77000,
-      "currentPriceUSD": 0.32205064935064937,
+      "currentPriceUSD": 0.31972077922077924,
       "currentPoolEth": 10,
-      "currentMarketCap": 24797.9
+      "currentMarketCap": 24618.5
     },
     "trustScore": null,
     "contractId": null,
@@ -89,7 +120,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": -0.007234483565140585,
     "isRugged": false
   },
   {
@@ -229,23 +260,23 @@
       "initialMarketCap": 22318.11
     },
     "currentInfos": {
-      "currentPoolToken": 982241943023835,
-      "currentPriceUSD": 2.3134403646016446e-11,
-      "currentPoolEth": 9.163510453692059,
-      "currentMarketCap": 22723.581587960885
+      "currentPoolToken": 1.0353739178e-8,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-18,
+      "currentMarketCap": 0
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 5,
     "holderCountOld": 0,
-    "txCount": 7,
+    "txCount": 8,
     "createdAtTimestamp": "1619417319",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.03657539307837648,
-    "isRugged": false
+    "priceChange": -1,
+    "isRugged": true
   },
   {
     "_id": "0x7ffce16b1ace5926a30c9145daeb050390f54464",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x43b7d7fda7c14a37a97ca5f8bc67dbc7a8aa5f90",
-    "tokenName": "THUNDER",
-    "idPair": "0x50290650b50a08136d7170f7a088457b97c50bb6",
-    "idToken": "0x43b7d7fda7c14a37a97ca5f8bc67dbc7a8aa5f90",
-    "dateCreationToken": "2021-04-25T07:44:06Z",
-    "initialInfos": {
-      "initialPoolToken": 1000,
-      "initialPriceUSD": 0.0219205,
-      "initialPoolEth": 0.01,
-      "initialMarketCap": 21.9205
-    },
-    "currentInfos": {
-      "currentPoolToken": 910,
-      "currentPriceUSD": 0.02995364760301154,
-      "currentPoolEth": 0.010991986949860571,
-      "currentMarketCap": 27.2578193187405
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 5,
-    "holderCountOld": 1,
-    "txCount": 2,
-    "createdAtTimestamp": "1619336646",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.36646735261565844,
     "isRugged": true
   }
 ]
