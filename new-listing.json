@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x815bcbb4112ff8268881b78c40af04f7f2f35894",
+    "tokenName": "RICKY",
+    "idPair": "0xbc501865bbd6c4c42fed83ddfc04ac524f5eb246",
+    "idToken": "0x815bcbb4112ff8268881b78c40af04f7f2f35894",
+    "dateCreationToken": "2021-04-26T19:23:18Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000000,
+      "initialPriceUSD": 5.241768e-12,
+      "initialPoolEth": 2.1,
+      "initialMarketCap": 5241.768
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000000000,
+      "currentPriceUSD": 5.241768e-12,
+      "currentPoolEth": 2.1,
+      "currentMarketCap": 5241.768
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619464998",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x7895f03ea6c063da6e2f53c369f3f01cfc828446",
     "tokenName": "MUSKINU",
     "idPair": "0x61d2fe23d535f2623c535e9a1d810c807f5d8f13",
@@ -12,22 +43,22 @@
       "initialMarketCap": 14976.48
     },
     "currentInfos": {
-      "currentPoolToken": 4688381681.636257,
-      "currentPriceUSD": 0.000003407340332927996,
-      "currentPoolEth": 6.4,
-      "currentMarketCap": 15974.912
+      "currentPoolToken": 4271810834.3739514,
+      "currentPriceUSD": 0.000004108715388431572,
+      "currentPoolEth": 7.031687650901298,
+      "currentMarketCap": 17551.654911660968
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 3,
+    "txCount": 8,
     "createdAtTimestamp": "1619464831",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.1375638110316964,
+    "priceChange": 0.37172265727045756,
     "isRugged": false
   },
   {
@@ -2356,37 +2387,6 @@
     "isRugged": false
   },
   {
-    "_id": "0xf855a5e6407ddca7a00d86876a837dfc74812a43",
-    "tokenName": "ALPHR",
-    "idPair": "0xc607ff20688eaf073d6e65ab346fc4e642bf1aad",
-    "idToken": "0xf855a5e6407ddca7a00d86876a837dfc74812a43",
-    "dateCreationToken": "2021-04-26T10:28:01Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000,
-      "initialPriceUSD": 0.3259997,
-      "initialPoolEth": 130,
-      "initialMarketCap": 323567.6497532471
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.6759e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.5e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 23,
-    "holderCountOld": 21,
-    "txCount": 24,
-    "createdAtTimestamp": "1619432881",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0xaf10fc22a34170453d2ba3bb714b8db0092ce1e3",
     "tokenName": "PINKM",
     "idPair": "0x70e173131f26f012ed239669979569a5b03abe88",
@@ -2410,6 +2410,37 @@
     "holderCount": 2,
     "holderCountOld": 1,
     "txCount": 2,
+    "createdAtTimestamp": "1619432881",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0xf855a5e6407ddca7a00d86876a837dfc74812a43",
+    "tokenName": "ALPHR",
+    "idPair": "0xc607ff20688eaf073d6e65ab346fc4e642bf1aad",
+    "idToken": "0xf855a5e6407ddca7a00d86876a837dfc74812a43",
+    "dateCreationToken": "2021-04-26T10:28:01Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000,
+      "initialPriceUSD": 0.3259997,
+      "initialPoolEth": 130,
+      "initialMarketCap": 323567.6497532471
+    },
+    "currentInfos": {
+      "currentPoolToken": 6.6759e-14,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1.5e-17,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 23,
+    "holderCountOld": 21,
+    "txCount": 24,
     "createdAtTimestamp": "1619432881",
     "isCodeGenerator": false,
     "linksSocial": [],
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 7,
     "createdAtTimestamp": "1619378732",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xcca7c9d9558be8c11cf8b3e0c9f150c83215e365",
-    "tokenName": "KOKUINU",
-    "idPair": "0x4d59eb0c29393b3140c92fd4e09e4100a0fdff21",
-    "idToken": "0xcca7c9d9558be8c11cf8b3e0c9f150c83215e365",
-    "dateCreationToken": "2021-04-25T19:24:38Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 5.72725e-9,
-      "initialPoolEth": 2.5,
-      "initialMarketCap": 5750.935195149853
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.19884911e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 0,
-    "txCount": 4,
-    "createdAtTimestamp": "1619378678",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
