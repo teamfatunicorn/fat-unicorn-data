@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x7c9329c192ed90a9300932949b1c875135b1198d",
+    "tokenName": "DFYN",
+    "idPair": "0xaf52aef8d65d47f2253b20565578ed66a2807850",
+    "idToken": "0x7c9329c192ed90a9300932949b1c875135b1198d",
+    "dateCreationToken": "2021-04-26T14:15:02Z",
+    "initialInfos": {
+      "initialPoolToken": 15000000,
+      "initialPriceUSD": 0.0499358,
+      "initialPoolEth": 300,
+      "initialMarketCap": 749037
+    },
+    "currentInfos": {
+      "currentPoolToken": 15000000,
+      "currentPriceUSD": 0.0499358,
+      "currentPoolEth": 300,
+      "currentMarketCap": 749037
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619446502",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x3f4e079fa6491c0682adc52c8b8be86b42648340",
     "tokenName": "MASTERMIND",
     "idPair": "0x2200c789a422611b33209df467eff9f4f2456197",
@@ -43,22 +74,22 @@
       "initialMarketCap": 249.679
     },
     "currentInfos": {
-      "currentPoolToken": 49617.93616581,
-      "currentPriceUSD": 0.05825150604055305,
-      "currentPoolEth": 1.157614179920381,
-      "currentMarketCap": 2890.319508282457
+      "currentPoolToken": 52180.0397928,
+      "currentPriceUSD": 0.052767732779703314,
+      "currentPoolEth": 1.1027849343440022,
+      "currentMarketCap": 2753.4223962207557
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 673,
     "holderCountOld": 0,
-    "txCount": 15,
+    "txCount": 19,
     "createdAtTimestamp": "1619445894",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 6.016646910830105,
+    "priceChange": 5.35610260346667,
     "isRugged": false
   },
   {
@@ -229,22 +260,22 @@
       "initialMarketCap": 4993.58
     },
     "currentInfos": {
-      "currentPoolToken": 365937325840326.2,
-      "currentPriceUSD": 1.8678399493535494e-11,
-      "currentPoolEth": 2.737564457420042,
-      "currentMarketCap": 6835.123561641682
+      "currentPoolToken": 354949388781614.4,
+      "currentPriceUSD": 1.9854522741487587e-11,
+      "currentPoolEth": 2.822564457420042,
+      "currentMarketCap": 7047.350711641682
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 10,
     "holderCountOld": 0,
-    "txCount": 17,
+    "txCount": 18,
     "createdAtTimestamp": "1619444244",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.8702413392331247,
+    "priceChange": 0.9880048724049267,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.3631104911313529,
     "isRugged": false
-  },
-  {
-    "_id": "0x6d1b82802fd9c2fcfbe07810debb448119ec572b",
-    "tokenName": "PAPELON",
-    "idPair": "0x0582d58d42a0fca0374a91a9e0bacd33452cee5f",
-    "idToken": "0x6d1b82802fd9c2fcfbe07810debb448119ec572b",
-    "dateCreationToken": "2021-04-25T14:16:03Z",
-    "initialInfos": {
-      "initialPoolToken": 900000000000000,
-      "initialPriceUSD": 1.0435155555555555e-11,
-      "initialPoolEth": 4,
-      "initialMarketCap": 9391.64
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.342302155e-8,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 2,
-    "txCount": 5,
-    "createdAtTimestamp": "1619360163",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
