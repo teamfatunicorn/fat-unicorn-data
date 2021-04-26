@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xcef12b5b0e63da7fc3af48915edfb7f2beb41456",
+    "tokenName": "SALADBOX",
+    "idPair": "0xb5f3e8e98d76c312c8912c2582bfa1d9fa511257",
+    "idToken": "0xcef12b5b0e63da7fc3af48915edfb7f2beb41456",
+    "dateCreationToken": "2021-04-26T10:18:15Z",
+    "initialInfos": {
+      "initialPoolToken": 10000000000000000,
+      "initialPriceUSD": 2.250315e-12,
+      "initialPoolEth": 9,
+      "initialMarketCap": 22302.10853374825
+    },
+    "currentInfos": {
+      "currentPoolToken": 10000000000000000,
+      "currentPriceUSD": 2.250315e-12,
+      "currentPoolEth": 9,
+      "currentMarketCap": 22503.15
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619432295",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x65552cee2a2d8671c5bc83c1eb1bce3a1cfe3171",
     "tokenName": "VSO",
     "idPair": "0x4690d1f2159df41f252b13636bef386c039cbbbd",
@@ -51,7 +82,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 14,
+    "holderCount": 17,
     "holderCountOld": 0,
     "txCount": 20,
     "createdAtTimestamp": "1619430073",
@@ -144,7 +175,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 24,
+    "holderCount": 26,
     "holderCountOld": 0,
     "txCount": 26,
     "createdAtTimestamp": "1619428762",
@@ -3131,37 +3162,6 @@
     "isRugged": true
   },
   {
-    "_id": "0xcbb3e0ea01203e4b764a5ddb3906c5cf4abbe904",
-    "tokenName": "LOCG",
-    "idPair": "0x44558f2dff4a64f7547ba3e99af4429010dabd9e",
-    "idToken": "0xcbb3e0ea01203e4b764a5ddb3906c5cf4abbe904",
-    "dateCreationToken": "2021-04-25T20:49:53Z",
-    "initialInfos": {
-      "initialPoolToken": 150000000,
-      "initialPriceUSD": 0.0006929398,
-      "initialPoolEth": 47,
-      "initialMarketCap": 105443.28769038817
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.785338e-12,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 3,
-    "txCount": 5,
-    "createdAtTimestamp": "1619383793",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0x06141f60ee56c8ecc869f46568e2cb1e66baaf41",
     "tokenName": "GMC24",
     "idPair": "0x28d068e58282db94d7dd6d17cdfa86dd5e14c63e",
@@ -3185,6 +3185,37 @@
     "holderCount": 146,
     "holderCountOld": 144,
     "txCount": 15,
+    "createdAtTimestamp": "1619383793",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0xcbb3e0ea01203e4b764a5ddb3906c5cf4abbe904",
+    "tokenName": "LOCG",
+    "idPair": "0x44558f2dff4a64f7547ba3e99af4429010dabd9e",
+    "idToken": "0xcbb3e0ea01203e4b764a5ddb3906c5cf4abbe904",
+    "dateCreationToken": "2021-04-25T20:49:53Z",
+    "initialInfos": {
+      "initialPoolToken": 150000000,
+      "initialPriceUSD": 0.0006929398,
+      "initialPoolEth": 47,
+      "initialMarketCap": 105443.28769038817
+    },
+    "currentInfos": {
+      "currentPoolToken": 1.785338e-12,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 3,
+    "txCount": 5,
     "createdAtTimestamp": "1619383793",
     "isCodeGenerator": false,
     "linksSocial": [],
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 4,
     "createdAtTimestamp": "1619347812",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x5a2e0fa35cbe73f2a9d490f8f258590a3dd60182",
-    "tokenName": "BGATES",
-    "idPair": "0xe9f849d29051ef771bc13649060659e66a5b47d1",
-    "idToken": "0x5a2e0fa35cbe73f2a9d490f8f258590a3dd60182",
-    "dateCreationToken": "2021-04-25T10:32:39Z",
-    "initialInfos": {
-      "initialPoolToken": 200000000000000,
-      "initialPriceUSD": 2.26176e-11,
-      "initialPoolEth": 2,
-      "initialMarketCap": 4523.52
-    },
-    "currentInfos": {
-      "currentPoolToken": 8.326415575e-9,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 7,
-    "holderCountOld": 0,
-    "txCount": 12,
-    "createdAtTimestamp": "1619346759",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
