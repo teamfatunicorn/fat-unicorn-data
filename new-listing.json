@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x679d9a69335c9cdb51322303656327d51ef795b1",
+    "tokenName": "Themis",
+    "idPair": "0xa8291fbd8ed81b8eb7fdd6141e58391db7be423a",
+    "idToken": "0x679d9a69335c9cdb51322303656327d51ef795b1",
+    "dateCreationToken": "2021-04-26T18:06:52Z",
+    "initialInfos": {
+      "initialPoolToken": 100000000000000000,
+      "initialPriceUSD": 4.786917e-13,
+      "initialPoolEth": 19,
+      "initialMarketCap": 47869.17
+    },
+    "currentInfos": {
+      "currentPoolToken": 100000000000000000,
+      "currentPriceUSD": 4.786917e-13,
+      "currentPoolEth": 19,
+      "currentMarketCap": 47869.17
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619460412",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x577651c794e2921b45dc4c6406f25a1dd6bb116a",
     "tokenName": "JIG",
     "idPair": "0x76224a4cda510dbc05d498b87c998fcf12dd684f",
@@ -105,22 +136,22 @@
       "initialMarketCap": 1254.67614
     },
     "currentInfos": {
-      "currentPoolToken": 80887179442601.98,
-      "currentPriceUSD": 9.636115974191509e-11,
-      "currentPoolEth": 3.093708664,
-      "currentMarketCap": 7794.38241934152
+      "currentPoolToken": 69279178314183.945,
+      "currentPriceUSD": 1.3141734992947373e-10,
+      "currentPoolEth": 3.613708664,
+      "currentMarketCap": 9104.48601934152
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 16,
     "holderCountOld": 0,
-    "txCount": 17,
+    "txCount": 20,
     "createdAtTimestamp": "1619458312",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 37.40080984640191,
+    "priceChange": 51.37102457749525,
     "isRugged": false
   },
   {
@@ -136,22 +167,22 @@
       "initialMarketCap": 100777.2
     },
     "currentInfos": {
-      "currentPoolToken": 17799905695481740,
-      "currentPriceUSD": 7.37819908797638e-12,
-      "currentPoolEth": 52.127365304242694,
-      "currentMarketCap": 131331.24796846893
+      "currentPoolToken": 16894788261263856,
+      "currentPriceUSD": 8.193223915434388e-12,
+      "currentPoolEth": 54.94210326478123,
+      "currentMarketCap": 138422.78322838718
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 601,
     "holderCountOld": 0,
-    "txCount": 1139,
+    "txCount": 1146,
     "createdAtTimestamp": "1619456472",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.6245827243218358,
+    "priceChange": 0.8040405078261329,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xd52a6506264e90945a2c82acb7b6ff3c5ad066ef",
-    "tokenName": "CrewDGN",
-    "idPair": "0x2d21eb7b0d5c0c230154e1164292ae4bddb07dff",
-    "idToken": "0xd52a6506264e90945a2c82acb7b6ff3c5ad066ef",
-    "dateCreationToken": "2021-04-25T18:46:25Z",
-    "initialInfos": {
-      "initialPoolToken": 950000000000000,
-      "initialPriceUSD": 8.253517894736843e-12,
-      "initialPoolEth": 3.4,
-      "initialMarketCap": 7835.401987989372
-    },
-    "currentInfos": {
-      "currentPoolToken": 673136782666939,
-      "currentPriceUSD": 1.8645722188708462e-11,
-      "currentPoolEth": 4.9725923490764234,
-      "currentMarketCap": 12551.121444608769
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 54,
-    "holderCountOld": 55,
-    "txCount": 153,
-    "createdAtTimestamp": "1619376385",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.2591242215151177,
-    "isRugged": false
   }
 ]
