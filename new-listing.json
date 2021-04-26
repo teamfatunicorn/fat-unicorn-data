@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x180ddf35c8dc7a3e67495795f647e3983087008f",
+    "tokenName": "AFI",
+    "idPair": "0x14ddedba5f24fee53d03ae29b31a660443aa0b73",
+    "idToken": "0x180ddf35c8dc7a3e67495795f647e3983087008f",
+    "dateCreationToken": "2021-04-26T07:31:29Z",
+    "initialInfos": {
+      "initialPoolToken": 100000000000000,
+      "initialPriceUSD": 2.207475e-10,
+      "initialPoolEth": 9,
+      "initialMarketCap": 22074.75
+    },
+    "currentInfos": {
+      "currentPoolToken": 100000000000000,
+      "currentPriceUSD": 2.207475e-10,
+      "currentPoolEth": 9,
+      "currentMarketCap": 22074.75
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619422289",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x5dd29e0a9760978ef4230764bd249b03b62355d8",
     "tokenName": "SPACE",
     "idPair": "0x56df8eb6deb24a978428a66b89740f3552056ec7",
@@ -2728,37 +2759,6 @@
     "isRugged": true
   },
   {
-    "_id": "0x06141f60ee56c8ecc869f46568e2cb1e66baaf41",
-    "tokenName": "GMC24",
-    "idPair": "0x28d068e58282db94d7dd6d17cdfa86dd5e14c63e",
-    "idToken": "0x06141f60ee56c8ecc869f46568e2cb1e66baaf41",
-    "dateCreationToken": "2021-04-25T20:49:53Z",
-    "initialInfos": {
-      "initialPoolToken": 20000,
-      "initialPriceUSD": 0.221151,
-      "initialPoolEth": 2,
-      "initialMarketCap": 4423.02
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.03339e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 144,
-    "holderCountOld": 141,
-    "txCount": 15,
-    "createdAtTimestamp": "1619383793",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0xcbb3e0ea01203e4b764a5ddb3906c5cf4abbe904",
     "tokenName": "LOCG",
     "idPair": "0x44558f2dff4a64f7547ba3e99af4429010dabd9e",
@@ -2782,6 +2782,37 @@
     "holderCount": 4,
     "holderCountOld": 3,
     "txCount": 5,
+    "createdAtTimestamp": "1619383793",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0x06141f60ee56c8ecc869f46568e2cb1e66baaf41",
+    "tokenName": "GMC24",
+    "idPair": "0x28d068e58282db94d7dd6d17cdfa86dd5e14c63e",
+    "idToken": "0x06141f60ee56c8ecc869f46568e2cb1e66baaf41",
+    "dateCreationToken": "2021-04-25T20:49:53Z",
+    "initialInfos": {
+      "initialPoolToken": 20000,
+      "initialPriceUSD": 0.221151,
+      "initialPoolEth": 2,
+      "initialMarketCap": 4423.02
+    },
+    "currentInfos": {
+      "currentPoolToken": 1.03339e-13,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-17,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 144,
+    "holderCountOld": 141,
+    "txCount": 15,
     "createdAtTimestamp": "1619383793",
     "isCodeGenerator": false,
     "linksSocial": [],
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x944fd50276599807625786fb8edc9876c54565e8",
-    "tokenName": "UNI-V2",
-    "idPair": "0xa00af2adb010db2b04088a2c9b348d4799bdf141",
-    "idToken": "0x944fd50276599807625786fb8edc9876c54565e8",
-    "dateCreationToken": "2021-04-25T07:59:08Z",
-    "initialInfos": {
-      "initialPoolToken": 0.000022323373643175,
-      "initialPriceUSD": 9942.135250146435,
-      "initialPoolEth": 0.0001,
-      "initialMarketCap": 0.221942
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.000020091036278905,
-      "currentPriceUSD": 11108.491214777887,
-      "currentPoolEth": 0.000090000000000212,
-      "currentMarketCap": 0.2231811
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 49,
-    "holderCountOld": 50,
-    "txCount": 2,
-    "createdAtTimestamp": "1619337548",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.11731443349800262,
     "isRugged": true
   }
 ]
