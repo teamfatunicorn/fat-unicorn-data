@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x2a363a8e460e20bc27411c4028d36ce5a0290ca6",
+    "tokenName": "SNELON",
+    "idPair": "0xc382f67886598b40b55ccc387eec57cace882eb2",
+    "idToken": "0x2a363a8e460e20bc27411c4028d36ce5a0290ca6",
+    "dateCreationToken": "2021-04-27T00:41:56Z",
+    "initialInfos": {
+      "initialPoolToken": 450000000000,
+      "initialPriceUSD": 6.419197777777778e-8,
+      "initialPoolEth": 11.5,
+      "initialMarketCap": 28886.39
+    },
+    "currentInfos": {
+      "currentPoolToken": 446132227557.60925,
+      "currentPriceUSD": 6.531152470090821e-8,
+      "currentPoolEth": 11.6,
+      "currentMarketCap": 29137.576
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619484116",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.01744060491493382,
+    "isRugged": false
+  },
+  {
     "_id": "0xdb38b446998e92841eb79f78565e14cacfba3006",
     "tokenName": "GATEMUSK",
     "idPair": "0x530f4c243d7246a0b99deaade9fef00c62474192",
@@ -12,22 +43,22 @@
       "initialMarketCap": 15077.26160028626
     },
     "currentInfos": {
-      "currentPoolToken": 385351548839366000,
-      "currentPriceUSD": 5.11142830081051e-14,
-      "currentPoolEth": 7.841586762393952,
-      "currentMarketCap": 19696.968124986994
+      "currentPoolToken": 358015208048923500,
+      "currentPriceUSD": 5.92969299842871e-14,
+      "currentPoolEth": 8.451586762393951,
+      "currentMarketCap": 21229.202724986993
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 4,
     "holderCountOld": 0,
-    "txCount": 13,
+    "txCount": 18,
     "createdAtTimestamp": "1619483916",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.6957647257445713,
+    "priceChange": 0.9672317852204841,
     "isRugged": false
   },
   {
@@ -2480,37 +2511,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x7849f2667f94889255996330168505826932636a",
-    "tokenName": "SAFEDOGE",
-    "idPair": "0x98b1fd989a3bc7fe34f76cdb6d502a2d44352014",
-    "idToken": "0x7849f2667f94889255996330168505826932636a",
-    "dateCreationToken": "2021-04-26T14:42:02Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 9.9528e-9,
-      "initialPoolEth": 4,
-      "initialMarketCap": 9952.8
-    },
-    "currentInfos": {
-      "currentPoolToken": 1000000000000,
-      "currentPriceUSD": 1.010536e-8,
-      "currentPoolEth": 4,
-      "currentMarketCap": 10105.36
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1,
-    "holderCountOld": 0,
-    "txCount": 1,
-    "createdAtTimestamp": "1619448122",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.015328349811108446,
-    "isRugged": false
-  },
-  {
     "_id": "0x79a8341cf7541fd2deff5a9cc2f925aaaed83199",
     "tokenName": "PAINAL",
     "idPair": "0x3cbc85ec4f4ab5ef8a951947b624ff9092ce82c7",
@@ -2539,6 +2539,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 4.494824133551357,
+    "isRugged": false
+  },
+  {
+    "_id": "0x7849f2667f94889255996330168505826932636a",
+    "tokenName": "SAFEDOGE",
+    "idPair": "0x98b1fd989a3bc7fe34f76cdb6d502a2d44352014",
+    "idToken": "0x7849f2667f94889255996330168505826932636a",
+    "dateCreationToken": "2021-04-26T14:42:02Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 9.9528e-9,
+      "initialPoolEth": 4,
+      "initialMarketCap": 9952.8
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000000,
+      "currentPriceUSD": 1.010536e-8,
+      "currentPoolEth": 4,
+      "currentMarketCap": 10105.36
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619448122",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.015328349811108446,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 8.46328650607918,
     "isRugged": false
-  },
-  {
-    "_id": "0x6713576638e34423e79d12be335439246b509a2c",
-    "tokenName": "CRONJE",
-    "idPair": "0x0bd4919d4d3b7ca2549bf30ddedce91379e25432",
-    "idToken": "0x6713576638e34423e79d12be335439246b509a2c",
-    "dateCreationToken": "2021-04-25T23:03:40Z",
-    "initialInfos": {
-      "initialPoolToken": 90000000,
-      "initialPriceUSD": 0.00006179011666666667,
-      "initialPoolEth": 2.35,
-      "initialMarketCap": 5561.1105
-    },
-    "currentInfos": {
-      "currentPoolToken": 2132937.48,
-      "currentPriceUSD": 3.5504428230599616e-7,
-      "currentPoolEth": 0.000301350291625344,
-      "currentMarketCap": 0.75728725679016
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 24,
-    "holderCountOld": 23,
-    "txCount": 83,
-    "createdAtTimestamp": "1619391820",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9942540279666194,
-    "isRugged": true
   }
 ]
