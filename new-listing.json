@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x2c22c05f4cde4dc608e7cd90f81b037b95b2d55b",
+    "tokenName": "ALPHR",
+    "idPair": "0x6947250846b66db05e003695900f0b81707cc68b",
+    "idToken": "0x2c22c05f4cde4dc608e7cd90f81b037b95b2d55b",
+    "dateCreationToken": "2021-04-27T10:14:11Z",
+    "initialInfos": {
+      "initialPoolToken": 600000,
+      "initialPriceUSD": 1.4767491666666666,
+      "initialPoolEth": 350,
+      "initialMarketCap": 886049.5
+    },
+    "currentInfos": {
+      "currentPoolToken": 600000,
+      "currentPriceUSD": 1.4767491666666666,
+      "currentPoolEth": 350,
+      "currentMarketCap": 886049.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619518451",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
+    "_id": "0xa94e08c7758b3546d55f1d0b0cd24f558fc50a4c",
+    "tokenName": "ELON",
+    "idPair": "0x326558d1a29c3f9b60efe0b1f7f77fbc824f9a4b",
+    "idToken": "0xa94e08c7758b3546d55f1d0b0cd24f558fc50a4c",
+    "dateCreationToken": "2021-04-27T10:13:27Z",
+    "initialInfos": {
+      "initialPoolToken": 10000000000,
+      "initialPriceUSD": 6.075768e-7,
+      "initialPoolEth": 2.4,
+      "initialMarketCap": 6075.768
+    },
+    "currentInfos": {
+      "currentPoolToken": 9958630190.417309,
+      "currentPriceUSD": 6.126428618537083e-7,
+      "currentPoolEth": 2.41,
+      "currentMarketCap": 6101.0837
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619518407",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.008338142361111042,
+    "isRugged": false
+  },
+  {
     "_id": "0x440c3ea23a4c2c56664f1eb8dd7614554af10a7b",
     "tokenName": "SMTY",
     "idPair": "0xacd27af51bc62309683d68adebd048ee7bfc627d",
@@ -12,22 +74,22 @@
       "initialMarketCap": 253157
     },
     "currentInfos": {
-      "currentPoolToken": 9011712.209178964,
-      "currentPriceUSD": 0.031182117612874993,
-      "currentPoolEth": 111,
-      "currentMarketCap": 281004.27
+      "currentPoolToken": 8860500.97497274,
+      "currentPriceUSD": 0.032257121104924805,
+      "currentPoolEth": 112.9,
+      "currentMarketCap": 285814.253
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 3,
+    "txCount": 4,
     "createdAtTimestamp": "1619518211",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.23173041286138613,
+    "priceChange": 0.27419431834493235,
     "isRugged": false
   },
   {
@@ -105,22 +167,22 @@
       "initialMarketCap": 89261.95310197516
     },
     "currentInfos": {
-      "currentPoolToken": 3127046.27138087,
-      "currentPriceUSD": 0.03172511397830763,
-      "currentPoolEth": 39.1875,
-      "currentMarketCap": 99205.899375
+      "currentPoolToken": 3097884.4570937296,
+      "currentPriceUSD": 0.032326118569621684,
+      "currentPoolEth": 39.5575,
+      "currentMarketCap": 100142.580275
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 8,
     "holderCountOld": 0,
-    "txCount": 8,
+    "txCount": 9,
     "createdAtTimestamp": "1619516769",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.25317940954852636,
+    "priceChange": 0.27691979955607327,
     "isRugged": false
   },
   {
@@ -186,37 +248,6 @@
     "isRugged": false
   },
   {
-    "_id": "0xfd5c7adbab950e42da59d742e62e4c530a0b3fe7",
-    "tokenName": "SafeElon",
-    "idPair": "0xf4c7dbcada5d468be22d9c426208975e7ab3804e",
-    "idToken": "0xfd5c7adbab950e42da59d742e62e4c530a0b3fe7",
-    "dateCreationToken": "2021-04-27T09:03:00Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000,
-      "initialPriceUSD": 0.000005822565,
-      "initialPoolEth": 2.3,
-      "initialMarketCap": 5844.109379113084
-    },
-    "currentInfos": {
-      "currentPoolToken": 885255609.3352352,
-      "currentPriceUSD": 0.000007432486437540154,
-      "currentPoolEth": 2.5990599870203295,
-      "currentMarketCap": 6579.650310140481
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 8,
-    "holderCountOld": 0,
-    "txCount": 9,
-    "createdAtTimestamp": "1619514180",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.2764969455111543,
-    "isRugged": false
-  },
-  {
     "_id": "0x725e391ddbee937ff10f7dfd6dbc5c769b2f9392",
     "tokenName": "PUPY",
     "idPair": "0x4f6788ef8d7b183a0799df8d741ec6109f81b363",
@@ -246,6 +277,37 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
+  },
+  {
+    "_id": "0xfd5c7adbab950e42da59d742e62e4c530a0b3fe7",
+    "tokenName": "SafeElon",
+    "idPair": "0xf4c7dbcada5d468be22d9c426208975e7ab3804e",
+    "idToken": "0xfd5c7adbab950e42da59d742e62e4c530a0b3fe7",
+    "dateCreationToken": "2021-04-27T09:03:00Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000,
+      "initialPriceUSD": 0.000005822565,
+      "initialPoolEth": 2.3,
+      "initialMarketCap": 5844.109379113084
+    },
+    "currentInfos": {
+      "currentPoolToken": 885255609.3352352,
+      "currentPriceUSD": 0.000007432486437540154,
+      "currentPoolEth": 2.5990599870203295,
+      "currentMarketCap": 6579.650310140481
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 8,
+    "holderCountOld": 0,
+    "txCount": 9,
+    "createdAtTimestamp": "1619514180",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.2764969455111543,
+    "isRugged": false
   },
   {
     "_id": "0xa792cba3dd118fa25ad418605a285e6cb1d25a82",
@@ -6131,68 +6193,6 @@
     "holderCountOld": 28,
     "txCount": 29,
     "createdAtTimestamp": "1619415433",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x886092084394fbcf416923e3d0eb738f49fa2963",
-    "tokenName": "SUBZERO",
-    "idPair": "0x2fc450a88fe8b93c2a213218768c6df44143b696",
-    "idToken": "0x886092084394fbcf416923e3d0eb738f49fa2963",
-    "dateCreationToken": "2021-04-26T05:26:57Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 1.241735e-8,
-      "initialPoolEth": 5,
-      "initialMarketCap": 12417.35
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.78953091e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 11,
-    "holderCountOld": 10,
-    "txCount": 24,
-    "createdAtTimestamp": "1619414817",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x34bd4ad48d23b0ff71d3065a71a8ee133baf190d",
-    "tokenName": "AKITAKI",
-    "idPair": "0xa951141cb022dad3da960805660ec6aaac0f3067",
-    "idToken": "0x34bd4ad48d23b0ff71d3065a71a8ee133baf190d",
-    "dateCreationToken": "2021-04-26T05:26:46Z",
-    "initialInfos": {
-      "initialPoolToken": 60000000000,
-      "initialPriceUSD": 7.036498333333334e-7,
-      "initialPoolEth": 17,
-      "initialMarketCap": 42218.99
-    },
-    "currentInfos": {
-      "currentPoolToken": 5.5421405e-11,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 8,
-    "createdAtTimestamp": "1619414806",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
