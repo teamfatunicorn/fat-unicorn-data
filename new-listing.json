@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xed542a080c72ceea1d039525eda8c04c31e5ffc1",
+    "tokenName": "ANOMA",
+    "idPair": "0x5c16df9ed36cb42ad4fca9d2fe65ee3e15b338c8",
+    "idToken": "0xed542a080c72ceea1d039525eda8c04c31e5ffc1",
+    "dateCreationToken": "2021-04-27T23:09:10Z",
+    "initialInfos": {
+      "initialPoolToken": 2000000,
+      "initialPriceUSD": 0.06585275,
+      "initialPoolEth": 50,
+      "initialMarketCap": 130532.53783215967
+    },
+    "currentInfos": {
+      "currentPoolToken": 2000000,
+      "currentPriceUSD": 0.06585275,
+      "currentPoolEth": 50,
+      "currentMarketCap": 131705.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619564950",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x884072b619031994022286e1657a3fe7f26b8669",
     "tokenName": "MARSDOGE",
     "idPair": "0x7efa351eaeca52865d3134dd5f30b96d02879d1f",
@@ -20,7 +51,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 3,
+    "holderCount": 4,
     "holderCountOld": 0,
     "txCount": 5,
     "createdAtTimestamp": "1619564196",
@@ -43,23 +74,23 @@
       "initialMarketCap": 11256.9744494
     },
     "currentInfos": {
-      "currentPoolToken": 30764701983400612,
-      "currentPriceUSD": 6.013012377978101e-13,
-      "currentPoolEth": 7.022809747163464,
-      "currentMarketCap": 18498.85338309953
+      "currentPoolToken": 0.002831744,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-18,
+      "currentMarketCap": 0
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 2,
+    "holderCount": 20,
     "holderCountOld": 0,
-    "txCount": 29,
+    "txCount": 45,
     "createdAtTimestamp": "1619564101",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.6707941840885128,
-    "isRugged": false
+    "priceChange": -1,
+    "isRugged": true
   },
   {
     "_id": "0x022cc93b66a7d28ad6887d1d5a60642d5b02837b",
@@ -1395,37 +1426,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x0b1753f29578b7e23a88c7219a850f2cab06e15f",
-    "tokenName": "SPIC",
-    "idPair": "0x567bfd62fb700ed8cbe7c324bd02a643bd04b486",
-    "idToken": "0x0b1753f29578b7e23a88c7219a850f2cab06e15f",
-    "dateCreationToken": "2021-04-27T15:28:36Z",
-    "initialInfos": {
-      "initialPoolToken": 50000000000000,
-      "initialPriceUSD": 7.92459e-11,
-      "initialPoolEth": 1.5,
-      "initialMarketCap": 3962.295
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.745014759e-9,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 11,
-    "holderCountOld": 14,
-    "txCount": 33,
-    "createdAtTimestamp": "1619537316",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0xbb08f85952d8ae8f2b4aaf707beaa38ed0c9b5bc",
     "tokenName": "ELONPUMP",
     "idPair": "0x09f6daa67c1658da6c09c72c9745cc667ce02245",
@@ -1448,6 +1448,37 @@
     "contractVerified": false,
     "holderCount": 29,
     "holderCountOld": 28,
+    "txCount": 33,
+    "createdAtTimestamp": "1619537316",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0x0b1753f29578b7e23a88c7219a850f2cab06e15f",
+    "tokenName": "SPIC",
+    "idPair": "0x567bfd62fb700ed8cbe7c324bd02a643bd04b486",
+    "idToken": "0x0b1753f29578b7e23a88c7219a850f2cab06e15f",
+    "dateCreationToken": "2021-04-27T15:28:36Z",
+    "initialInfos": {
+      "initialPoolToken": 50000000000000,
+      "initialPriceUSD": 7.92459e-11,
+      "initialPoolEth": 1.5,
+      "initialMarketCap": 3962.295
+    },
+    "currentInfos": {
+      "currentPoolToken": 4.745014759e-9,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 11,
+    "holderCountOld": 14,
     "txCount": 33,
     "createdAtTimestamp": "1619537316",
     "isCodeGenerator": false,
@@ -6162,37 +6193,6 @@
     "holderCountOld": 6,
     "txCount": 8,
     "createdAtTimestamp": "1619453317",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x6e15211db608e9435f6a9e7a937c5f875746e0d6",
-    "tokenName": "ELOND",
-    "idPair": "0x37c5849d184bb6ded2ae5b6817e09d779738f5c7",
-    "idToken": "0x6e15211db608e9435f6a9e7a937c5f875746e0d6",
-    "dateCreationToken": "2021-04-26T15:59:53Z",
-    "initialInfos": {
-      "initialPoolToken": 50000000000000000,
-      "initialPriceUSD": 3.468304e-13,
-      "initialPoolEth": 7,
-      "initialMarketCap": 17341.52
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.002517119,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 11,
-    "holderCountOld": 0,
-    "txCount": 37,
-    "createdAtTimestamp": "1619452793",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
