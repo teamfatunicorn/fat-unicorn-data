@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x038539c8966d0981df9bacaade7551453e185c9f",
+    "tokenName": "CRONJE",
+    "idPair": "0x3b32ceda4959ebcb5418b9f57906f22348c84446",
+    "idToken": "0x038539c8966d0981df9bacaade7551453e185c9f",
+    "dateCreationToken": "2021-04-27T22:25:48Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 1.061392e-8,
+      "initialPoolEth": 4,
+      "initialMarketCap": 10613.92
+    },
+    "currentInfos": {
+      "currentPoolToken": 808600639690.03,
+      "currentPriceUSD": 1.6243282362144717e-8,
+      "currentPoolEth": 4.9498502,
+      "currentMarketCap": 13134.328508696
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1619562348",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.5303754279422417,
+    "isRugged": false
+  },
+  {
     "_id": "0x361d971c5220075af4bb6cb4147dc172b863bef3",
     "tokenName": "STAR",
     "idPair": "0xe78e6f35ce44ada02a8864be26013517f37d9747",
@@ -162,9 +193,9 @@
     "dateCreationToken": "2021-04-27T21:19:45Z",
     "initialInfos": {
       "initialPoolToken": 10000000,
-      "initialPriceUSD": 0.0106152,
+      "initialPriceUSD": 0.01061392,
       "initialPoolEth": 40,
-      "initialMarketCap": 106152
+      "initialMarketCap": 106139.2
     },
     "currentInfos": {
       "currentPoolToken": 4.98166e-13,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.5966205879248325,
     "isRugged": false
-  },
-  {
-    "_id": "0x1ff32bb32f219c1e45808a01133a50ce322b444e",
-    "tokenName": "TESLADOGE",
-    "idPair": "0x873885af2b96c7e5bb7bce1ffe950c11d1139b84",
-    "idToken": "0x1ff32bb32f219c1e45808a01133a50ce322b444e",
-    "dateCreationToken": "2021-04-26T15:12:02Z",
-    "initialInfos": {
-      "initialPoolToken": 40000000000,
-      "initialPriceUSD": 3.752325e-7,
-      "initialPoolEth": 6,
-      "initialMarketCap": 15009.3
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.000002389,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 4.21e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 11,
-    "holderCountOld": 0,
-    "txCount": 21,
-    "createdAtTimestamp": "1619449922",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
