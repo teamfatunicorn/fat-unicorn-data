@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xfaec7d7f0d7c836c17f890fa0d467703d8ec651a",
+    "tokenName": "PupInu",
+    "idPair": "0xb08b78dc8e81186de10dd5edec5f22aaecf48b94",
+    "idToken": "0xfaec7d7f0d7c836c17f890fa0d467703d8ec651a",
+    "dateCreationToken": "2021-04-27T05:20:34Z",
+    "initialInfos": {
+      "initialPoolToken": 100000000000,
+      "initialPriceUSD": 1.008228e-7,
+      "initialPoolEth": 4,
+      "initialMarketCap": 10089.793953966157
+    },
+    "currentInfos": {
+      "currentPoolToken": 100000000000,
+      "currentPriceUSD": 1.008228e-7,
+      "currentPoolEth": 4,
+      "currentMarketCap": 10082.28
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619500834",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x960af11ddbfed1f330779a025e23f717b8e6ac5e",
     "tokenName": "SAFELON",
     "idPair": "0x28ff61979cb14d0c2e7f8c037ea98b7a83e728db",
@@ -43,22 +74,22 @@
       "initialMarketCap": 882199.5
     },
     "currentInfos": {
-      "currentPoolToken": 47494797.333501264,
-      "currentPriceUSD": 0.019557408713223458,
-      "currentPoolEth": 368.5179,
-      "currentMarketCap": 928875.163203
+      "currentPoolToken": 47223114.442418225,
+      "currentPriceUSD": 0.019783431100552782,
+      "currentPoolEth": 370.64443,
+      "currentMarketCap": 934235.2309251
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 5,
     "holderCountOld": 0,
-    "txCount": 7,
+    "txCount": 9,
     "createdAtTimestamp": "1619500240",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.10844591916133821,
+    "priceChange": 0.12125608213067361,
     "isRugged": false
   },
   {
@@ -198,23 +229,23 @@
       "initialMarketCap": 49959.4216342434
     },
     "currentInfos": {
-      "currentPoolToken": 59628561.67867353,
-      "currentPriceUSD": 0.0009075941183954691,
-      "currentPoolEth": 21.470751404621,
-      "currentMarketCap": 54118.53186794555
+      "currentPoolToken": 5.3e-8,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1.8978e-14,
+      "currentMarketCap": 0
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 9,
     "holderCountOld": 0,
-    "txCount": 9,
+    "txCount": 10,
     "createdAtTimestamp": "1619497771",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.15223984212519426,
-    "isRugged": false
+    "priceChange": -1,
+    "isRugged": true
   },
   {
     "_id": "0x99dab0ae4f82fb792c780515c7e9036240e8e627",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x1854b6f73eb896b0b1b46bd2858aaf12dd7ae297",
-    "tokenName": "NELK",
-    "idPair": "0xc6a929d11af152ccd1393063a8ecf776dcb231d8",
-    "idToken": "0x1854b6f73eb896b0b1b46bd2858aaf12dd7ae297",
-    "dateCreationToken": "2021-04-26T01:35:09Z",
-    "initialInfos": {
-      "initialPoolToken": 500000000000,
-      "initialPriceUSD": 2.0559375e-8,
-      "initialPoolEth": 4.25,
-      "initialMarketCap": 10279.6875
-    },
-    "currentInfos": {
-      "currentPoolToken": 621667733937.1089,
-      "currentPriceUSD": 1.4673381116964183e-8,
-      "currentPoolEth": 3.657506530841495,
-      "currentMarketCap": 9121.967588178688
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 38,
-    "holderCountOld": 39,
-    "txCount": 112,
-    "createdAtTimestamp": "1619400909",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.28629245213124505,
-    "isRugged": false
   }
 ]
