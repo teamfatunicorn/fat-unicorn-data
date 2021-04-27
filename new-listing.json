@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xd02d2e83cf16fc321a7bad49ad223e32413ff506",
+    "tokenName": "SON",
+    "idPair": "0x05299ae987fc8dd8a14faf4c30a6d519706b96a1",
+    "idToken": "0xd02d2e83cf16fc321a7bad49ad223e32413ff506",
+    "dateCreationToken": "2021-04-27T20:17:13Z",
+    "initialInfos": {
+      "initialPoolToken": 295774647887323.94,
+      "initialPriceUSD": 3.561671047619048e-11,
+      "initialPoolEth": 4,
+      "initialMarketCap": 10521.156877933081
+    },
+    "currentInfos": {
+      "currentPoolToken": 295774647887323.94,
+      "currentPriceUSD": 3.561671047619048e-11,
+      "currentPoolEth": 4,
+      "currentMarketCap": 10534.52
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619554633",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xabb0290564c1a6fa3f8369f64db27d1ec35aac5f",
     "tokenName": "KIKI",
     "idPair": "0x1ed912a00e6afddc5c7145273b1e9d4ea94a1c78",
@@ -20,7 +51,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 1,
+    "holderCount": 4,
     "holderCountOld": 0,
     "txCount": 3,
     "createdAtTimestamp": "1619554009",
@@ -82,7 +113,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 36,
+    "holderCount": 30,
     "holderCountOld": 0,
     "txCount": 81,
     "createdAtTimestamp": "1619552600",
@@ -136,22 +167,22 @@
       "initialMarketCap": 31603.56
     },
     "currentInfos": {
-      "currentPoolToken": 1533929958.8563194,
-      "currentPriceUSD": 0.00009875902683001909,
-      "currentPoolEth": 57.52115140018211,
-      "currentMarketCap": 151489.42996206132
+      "currentPoolToken": 1586303816.0976114,
+      "currentPriceUSD": 0.00009244980321310022,
+      "currentPoolEth": 55.68491991449618,
+      "currentMarketCap": 146653.4756344141
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 108,
+    "holderCount": 154,
     "holderCountOld": 0,
-    "txCount": 402,
+    "txCount": 418,
     "createdAtTimestamp": "1619551628",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 20.874535267866456,
+    "priceChange": 19.47707987618172,
     "isRugged": false
   },
   {
@@ -806,37 +837,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x0b1753f29578b7e23a88c7219a850f2cab06e15f",
-    "tokenName": "SPIC",
-    "idPair": "0x567bfd62fb700ed8cbe7c324bd02a643bd04b486",
-    "idToken": "0x0b1753f29578b7e23a88c7219a850f2cab06e15f",
-    "dateCreationToken": "2021-04-27T15:28:36Z",
-    "initialInfos": {
-      "initialPoolToken": 50000000000000,
-      "initialPriceUSD": 7.92459e-11,
-      "initialPoolEth": 1.5,
-      "initialMarketCap": 3962.295
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.745014759e-9,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 11,
-    "holderCountOld": 14,
-    "txCount": 33,
-    "createdAtTimestamp": "1619537316",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0xbb08f85952d8ae8f2b4aaf707beaa38ed0c9b5bc",
     "tokenName": "ELONPUMP",
     "idPair": "0x09f6daa67c1658da6c09c72c9745cc667ce02245",
@@ -859,6 +859,37 @@
     "contractVerified": false,
     "holderCount": 29,
     "holderCountOld": 28,
+    "txCount": 33,
+    "createdAtTimestamp": "1619537316",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0x0b1753f29578b7e23a88c7219a850f2cab06e15f",
+    "tokenName": "SPIC",
+    "idPair": "0x567bfd62fb700ed8cbe7c324bd02a643bd04b486",
+    "idToken": "0x0b1753f29578b7e23a88c7219a850f2cab06e15f",
+    "dateCreationToken": "2021-04-27T15:28:36Z",
+    "initialInfos": {
+      "initialPoolToken": 50000000000000,
+      "initialPriceUSD": 7.92459e-11,
+      "initialPoolEth": 1.5,
+      "initialMarketCap": 3962.295
+    },
+    "currentInfos": {
+      "currentPoolToken": 4.745014759e-9,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 11,
+    "holderCountOld": 14,
     "txCount": 33,
     "createdAtTimestamp": "1619537316",
     "isCodeGenerator": false,
@@ -2077,37 +2108,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x725e391ddbee937ff10f7dfd6dbc5c769b2f9392",
-    "tokenName": "PUPY",
-    "idPair": "0x4f6788ef8d7b183a0799df8d741ec6109f81b363",
-    "idToken": "0x725e391ddbee937ff10f7dfd6dbc5c769b2f9392",
-    "dateCreationToken": "2021-04-27T09:03:00Z",
-    "initialInfos": {
-      "initialPoolToken": 95000000000,
-      "initialPriceUSD": 4.263663157894737e-8,
-      "initialPoolEth": 1.6,
-      "initialMarketCap": 4050.48
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.43669859e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1619514180",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0xfd5c7adbab950e42da59d742e62e4c530a0b3fe7",
     "tokenName": "SafeElon",
     "idPair": "0xf4c7dbcada5d468be22d9c426208975e7ab3804e",
@@ -2131,6 +2131,37 @@
     "holderCount": 10,
     "holderCountOld": 8,
     "txCount": 10,
+    "createdAtTimestamp": "1619514180",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0x725e391ddbee937ff10f7dfd6dbc5c769b2f9392",
+    "tokenName": "PUPY",
+    "idPair": "0x4f6788ef8d7b183a0799df8d741ec6109f81b363",
+    "idToken": "0x725e391ddbee937ff10f7dfd6dbc5c769b2f9392",
+    "dateCreationToken": "2021-04-27T09:03:00Z",
+    "initialInfos": {
+      "initialPoolToken": 95000000000,
+      "initialPriceUSD": 4.263663157894737e-8,
+      "initialPoolEth": 1.6,
+      "initialMarketCap": 4050.48
+    },
+    "currentInfos": {
+      "currentPoolToken": 2.43669859e-10,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 2,
     "createdAtTimestamp": "1619514180",
     "isCodeGenerator": false,
     "linksSocial": [],
@@ -6162,37 +6193,6 @@
     "holderCountOld": 9,
     "txCount": 15,
     "createdAtTimestamp": "1619447497",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x64bd8ca0d2603955dc7af63dba4899968848a121",
-    "tokenName": "DFYN",
-    "idPair": "0xa4bb2a55fb0bfc80ffc36f4c3670e0220f80e069",
-    "idToken": "0x64bd8ca0d2603955dc7af63dba4899968848a121",
-    "dateCreationToken": "2021-04-26T14:30:36Z",
-    "initialInfos": {
-      "initialPoolToken": 10000000,
-      "initialPriceUSD": 0.000992912,
-      "initialPoolEth": 4,
-      "initialMarketCap": 9929.12
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.581139e-12,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1619447436",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
