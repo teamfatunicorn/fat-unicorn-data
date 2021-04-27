@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xdb38b446998e92841eb79f78565e14cacfba3006",
+    "tokenName": "GATEMUSK",
+    "idPair": "0x530f4c243d7246a0b99deaade9fef00c62474192",
+    "idToken": "0xdb38b446998e92841eb79f78565e14cacfba3006",
+    "dateCreationToken": "2021-04-27T00:38:36Z",
+    "initialInfos": {
+      "initialPoolToken": 500000000000000000,
+      "initialPriceUSD": 3.001368e-14,
+      "initialPoolEth": 6,
+      "initialMarketCap": 15077.26160028626
+    },
+    "currentInfos": {
+      "currentPoolToken": 419256717632107300,
+      "currentPriceUSD": 4.28580317158514e-14,
+      "currentPoolEth": 7.184131116754519,
+      "currentMarketCap": 17968.5177013606
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 7,
+    "createdAtTimestamp": "1619483916",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.4279499120351585,
+    "isRugged": false
+  },
+  {
     "_id": "0x0efcc698612539d1c6620c4ceeddd55d9a21a761",
     "tokenName": "BurnMoon",
     "idPair": "0x9731010291c79437bfd738b29b1858d1ecbd1ae8",
@@ -12,22 +43,22 @@
       "initialMarketCap": 2000.912
     },
     "currentInfos": {
-      "currentPoolToken": 50751286137.774055,
-      "currentPriceUSD": 7.392344678350154e-8,
-      "currentPoolEth": 1.5,
-      "currentMarketCap": 3751.71
+      "currentPoolToken": 34639365357.14365,
+      "currentPriceUSD": 1.5885129370204304e-7,
+      "currentPoolEth": 2.2,
+      "currentMarketCap": 5502.508
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 1,
+    "holderCount": 8,
     "holderCountOld": 0,
-    "txCount": 4,
+    "txCount": 7,
     "createdAtTimestamp": "1619483399",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.509763270165128,
+    "priceChange": 6.541997300078209,
     "isRugged": false
   },
   {
@@ -51,7 +82,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 15,
+    "holderCount": 22,
     "holderCountOld": 0,
     "txCount": 39,
     "createdAtTimestamp": "1619482917",
@@ -144,8 +175,8 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 11,
-    "holderCountOld": 0,
+    "holderCount": 10,
+    "holderCountOld": 11,
     "txCount": 14,
     "createdAtTimestamp": "1619482250",
     "isCodeGenerator": false,
@@ -2449,37 +2480,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x79a8341cf7541fd2deff5a9cc2f925aaaed83199",
-    "tokenName": "PAINAL",
-    "idPair": "0x3cbc85ec4f4ab5ef8a951947b624ff9092ce82c7",
-    "idToken": "0x79a8341cf7541fd2deff5a9cc2f925aaaed83199",
-    "dateCreationToken": "2021-04-26T14:42:02Z",
-    "initialInfos": {
-      "initialPoolToken": 10000000000,
-      "initialPriceUSD": 2.4882e-7,
-      "initialPoolEth": 1,
-      "initialMarketCap": 2488.2
-    },
-    "currentInfos": {
-      "currentPoolToken": 4312975845.443311,
-      "currentPriceUSD": 0.0000013672221409102486,
-      "currentPoolEth": 2.3341260753105213,
-      "currentMarketCap": 5896.796069101192
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 21,
-    "holderCountOld": 24,
-    "txCount": 32,
-    "createdAtTimestamp": "1619448122",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 4.494824133551357,
-    "isRugged": false
-  },
-  {
     "_id": "0x7849f2667f94889255996330168505826932636a",
     "tokenName": "SAFEDOGE",
     "idPair": "0x98b1fd989a3bc7fe34f76cdb6d502a2d44352014",
@@ -2508,6 +2508,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.015328349811108446,
+    "isRugged": false
+  },
+  {
+    "_id": "0x79a8341cf7541fd2deff5a9cc2f925aaaed83199",
+    "tokenName": "PAINAL",
+    "idPair": "0x3cbc85ec4f4ab5ef8a951947b624ff9092ce82c7",
+    "idToken": "0x79a8341cf7541fd2deff5a9cc2f925aaaed83199",
+    "dateCreationToken": "2021-04-26T14:42:02Z",
+    "initialInfos": {
+      "initialPoolToken": 10000000000,
+      "initialPriceUSD": 2.4882e-7,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2488.2
+    },
+    "currentInfos": {
+      "currentPoolToken": 4312975845.443311,
+      "currentPriceUSD": 0.0000013672221409102486,
+      "currentPoolEth": 2.3341260753105213,
+      "currentMarketCap": 5896.796069101192
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 21,
+    "holderCountOld": 24,
+    "txCount": 32,
+    "createdAtTimestamp": "1619448122",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 4.494824133551357,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -0.9942540279666194,
-    "isRugged": true
-  },
-  {
-    "_id": "0xee937735687ac1a8157c173015efe4aba45fa375",
-    "tokenName": "VSO",
-    "idPair": "0xc45cf8c2c8553029290259fe817111f34ea2daa5",
-    "idToken": "0xee937735687ac1a8157c173015efe4aba45fa375",
-    "dateCreationToken": "2021-04-25T22:59:26Z",
-    "initialInfos": {
-      "initialPoolToken": 100000000,
-      "initialPriceUSD": 0.0008992434,
-      "initialPoolEth": 38,
-      "initialMarketCap": 86465.37828766277
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.606874e-12,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 8,
-    "holderCountOld": 0,
-    "txCount": 13,
-    "createdAtTimestamp": "1619391566",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
