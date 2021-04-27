@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x79e3899125160bd3bd62d0d98ad07a7183ee5f38",
+    "tokenName": "DETS",
+    "idPair": "0x0459967f279383e269aaa5e1cbb4d758e31b2c39",
+    "idToken": "0x79e3899125160bd3bd62d0d98ad07a7183ee5f38",
+    "dateCreationToken": "2021-04-27T18:51:43Z",
+    "initialInfos": {
+      "initialPoolToken": 125000,
+      "initialPriceUSD": 0.4220304,
+      "initialPoolEth": 20,
+      "initialMarketCap": 52753.8
+    },
+    "currentInfos": {
+      "currentPoolToken": 125000,
+      "currentPriceUSD": 0.4220304,
+      "currentPoolEth": 20,
+      "currentMarketCap": 52753.8
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619549503",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x03f616f8fdc4147ca572756d6b890acb8cf63eb8",
     "tokenName": "MOON",
     "idPair": "0x1d38a030035ea98ea4858c1bafd480164b6460a0",
@@ -12,22 +43,22 @@
       "initialMarketCap": 10550.76
     },
     "currentInfos": {
-      "currentPoolToken": 867413408106.5111,
-      "currentPriceUSD": 1.4028442023463412e-8,
-      "currentPoolEth": 4.6133013,
-      "currentMarketCap": 12168.458705997
+      "currentPoolToken": 514355373189.21155,
+      "currentPriceUSD": 3.9968915185727864e-8,
+      "currentPoolEth": 7.7940267,
+      "currentMarketCap": 20558.226286323
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 3,
+    "txCount": 15,
     "createdAtTimestamp": "1619549386",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.32961436175814945,
+    "priceChange": 2.7882498687988226,
     "isRugged": false
   },
   {
@@ -74,22 +105,22 @@
       "initialMarketCap": 2584.9362
     },
     "currentInfos": {
-      "currentPoolToken": 146127392398858.97,
-      "currentPriceUSD": 7.279564369489982e-11,
-      "currentPoolEth": 4.032861174411056,
-      "currentMarketCap": 10637.437591132151
+      "currentPoolToken": 142601999692665.7,
+      "currentPriceUSD": 7.644497703136221e-11,
+      "currentPoolEth": 4.132861174411056,
+      "currentMarketCap": 10901.20659113215
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 19,
     "holderCountOld": 0,
-    "txCount": 19,
+    "txCount": 20,
     "createdAtTimestamp": "1619547934",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 15.86872990259682,
+    "priceChange": 16.71437965926817,
     "isRugged": false
   },
   {
@@ -558,37 +589,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x0b1753f29578b7e23a88c7219a850f2cab06e15f",
-    "tokenName": "SPIC",
-    "idPair": "0x567bfd62fb700ed8cbe7c324bd02a643bd04b486",
-    "idToken": "0x0b1753f29578b7e23a88c7219a850f2cab06e15f",
-    "dateCreationToken": "2021-04-27T15:28:36Z",
-    "initialInfos": {
-      "initialPoolToken": 50000000000000,
-      "initialPriceUSD": 7.92459e-11,
-      "initialPoolEth": 1.5,
-      "initialMarketCap": 3962.295
-    },
-    "currentInfos": {
-      "currentPoolToken": 18119191362999.523,
-      "currentPriceUSD": 6.10381355670843e-10,
-      "currentPoolEth": 4.190740865234954,
-      "currentMarketCap": 11059.616587807079
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 14,
-    "holderCountOld": 0,
-    "txCount": 29,
-    "createdAtTimestamp": "1619537316",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 6.7023714245259765,
-    "isRugged": false
-  },
-  {
     "_id": "0xbb08f85952d8ae8f2b4aaf707beaa38ed0c9b5bc",
     "tokenName": "ELONPUMP",
     "idPair": "0x09f6daa67c1658da6c09c72c9745cc667ce02245",
@@ -617,6 +617,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 7.958625414826409,
+    "isRugged": false
+  },
+  {
+    "_id": "0x0b1753f29578b7e23a88c7219a850f2cab06e15f",
+    "tokenName": "SPIC",
+    "idPair": "0x567bfd62fb700ed8cbe7c324bd02a643bd04b486",
+    "idToken": "0x0b1753f29578b7e23a88c7219a850f2cab06e15f",
+    "dateCreationToken": "2021-04-27T15:28:36Z",
+    "initialInfos": {
+      "initialPoolToken": 50000000000000,
+      "initialPriceUSD": 7.92459e-11,
+      "initialPoolEth": 1.5,
+      "initialMarketCap": 3962.295
+    },
+    "currentInfos": {
+      "currentPoolToken": 18119191362999.523,
+      "currentPriceUSD": 6.10381355670843e-10,
+      "currentPoolEth": 4.190740865234954,
+      "currentMarketCap": 11059.616587807079
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 14,
+    "holderCountOld": 0,
+    "txCount": 29,
+    "createdAtTimestamp": "1619537316",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 6.7023714245259765,
     "isRugged": false
   },
   {
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 7,
     "createdAtTimestamp": "1619445825",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xe0e4abf649f22d96102aa8426b438bb11e105486",
-    "tokenName": "GELON",
-    "idPair": "0x410363bccf2b93387b5c46457441886e88c087d6",
-    "idToken": "0xe0e4abf649f22d96102aa8426b438bb11e105486",
-    "dateCreationToken": "2021-04-26T13:51:15Z",
-    "initialInfos": {
-      "initialPoolToken": 500000000000000000,
-      "initialPriceUSD": 2.985648e-14,
-      "initialPoolEth": 6,
-      "initialMarketCap": 15025.136552174932
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.006649987,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 21,
-    "holderCountOld": 0,
-    "txCount": 22,
-    "createdAtTimestamp": "1619445075",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
