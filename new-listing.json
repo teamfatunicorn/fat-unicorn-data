@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x037ccca2a09acf981364ca01c3e9785dd347fc5c",
+    "tokenName": "HYPER",
+    "idPair": "0xadd371c66526017e569f22a7def0ad62ccd36bbf",
+    "idToken": "0x037ccca2a09acf981364ca01c3e9785dd347fc5c",
+    "dateCreationToken": "2021-04-27T20:36:42Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 1.053756e-8,
+      "initialPoolEth": 4,
+      "initialMarketCap": 10537.56
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000000,
+      "currentPriceUSD": 1.053868e-8,
+      "currentPoolEth": 4,
+      "currentMarketCap": 10538.68
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619555802",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.00010628646479827225,
+    "isRugged": false
+  },
+  {
     "_id": "0x0663ed872ac9baa5efad2c29dd73ea5a782179ad",
     "tokenName": "ISP",
     "idPair": "0x395f1e58fda60e71cf974f0723df44119d843f66",
@@ -198,22 +229,22 @@
       "initialMarketCap": 31612.68
     },
     "currentInfos": {
-      "currentPoolToken": 1703838189.8955414,
-      "currentPriceUSD": 0.0000811358032732758,
-      "currentPoolEth": 52.476011594660946,
-      "currentMarketCap": 138242.280184859
+      "currentPoolToken": 1778086912.7914789,
+      "currentPriceUSD": 0.00007454099163456331,
+      "currentPoolEth": 50.31159459757939,
+      "currentMarketCap": 132540.36169191613
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 158,
     "holderCountOld": 0,
-    "txCount": 580,
+    "txCount": 592,
     "createdAtTimestamp": "1619551628",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 16.96591187184796,
+    "priceChange": 15.505621840411605,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x7ac84796e8a1bf55d264aa3673b08f516c9246a6",
-    "tokenName": "ZYG",
-    "idPair": "0x76c70b6452afa159b0c7c83c3721879f83e21471",
-    "idToken": "0x7ac84796e8a1bf55d264aa3673b08f516c9246a6",
-    "dateCreationToken": "2021-04-26T14:33:17Z",
-    "initialInfos": {
-      "initialPoolToken": 10000000,
-      "initialPriceUSD": 0.00000248228,
-      "initialPoolEth": 0.01,
-      "initialMarketCap": 24.8228
-    },
-    "currentInfos": {
-      "currentPoolToken": 9999999.901,
-      "currentPriceUSD": 0.0000026212000521618805,
-      "currentPoolEth": 0.0100000001,
-      "currentMarketCap": 26.21200026212
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1619447597",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.055964698648774784,
     "isRugged": true
   }
 ]
