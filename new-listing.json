@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x440c3ea23a4c2c56664f1eb8dd7614554af10a7b",
+    "tokenName": "SMTY",
+    "idPair": "0xacd27af51bc62309683d68adebd048ee7bfc627d",
+    "idToken": "0x440c3ea23a4c2c56664f1eb8dd7614554af10a7b",
+    "dateCreationToken": "2021-04-27T10:10:11Z",
+    "initialInfos": {
+      "initialPoolToken": 10000000,
+      "initialPriceUSD": 0.0253155,
+      "initialPoolEth": 100,
+      "initialMarketCap": 253155
+    },
+    "currentInfos": {
+      "currentPoolToken": 10000000,
+      "currentPriceUSD": 0.0253157,
+      "currentPoolEth": 100,
+      "currentMarketCap": 253157
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619518211",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.0000079002982362115,
+    "isRugged": false
+  },
+  {
+    "_id": "0x700356cd4b6778b2c631c67f445923454e1fae1e",
+    "tokenName": "ALPHR",
+    "idPair": "0x1cad199a8306f1eff5bc8b822c2c5ce8686f13af",
+    "idToken": "0x700356cd4b6778b2c631c67f445923454e1fae1e",
+    "dateCreationToken": "2021-04-27T10:08:46Z",
+    "initialInfos": {
+      "initialPoolToken": 720000,
+      "initialPriceUSD": 1.45564125,
+      "initialPoolEth": 414,
+      "initialMarketCap": 1048061.7
+    },
+    "currentInfos": {
+      "currentPoolToken": 720000,
+      "currentPriceUSD": 1.45565275,
+      "currentPoolEth": 414,
+      "currentMarketCap": 1048069.98
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619518126",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.000007900298236294922,
+    "isRugged": false
+  },
+  {
     "_id": "0xa7743f91cf294b5230705b84dc068c51b8425ef2",
     "tokenName": "DogeBurn",
     "idPair": "0x30d0309291cd9ddd436c0caa80a160f9ba00366d",
@@ -43,22 +105,22 @@
       "initialMarketCap": 89261.95310197516
     },
     "currentInfos": {
-      "currentPoolToken": 3192018.7782139117,
-      "currentPriceUSD": 0.030444644088020317,
-      "currentPoolEth": 38.3875,
-      "currentMarketCap": 97179.875625
+      "currentPoolToken": 3127046.27138087,
+      "currentPriceUSD": 0.03172511397830763,
+      "currentPoolEth": 39.1875,
+      "currentMarketCap": 99205.899375
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 5,
+    "holderCount": 8,
     "holderCountOld": 0,
-    "txCount": 7,
+    "txCount": 8,
     "createdAtTimestamp": "1619516769",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.20260883996051096,
+    "priceChange": 0.25318931003960526,
     "isRugged": false
   },
   {
@@ -75,21 +137,21 @@
     },
     "currentInfos": {
       "currentPoolToken": 1092792.00094961,
-      "currentPriceUSD": 0.0012914984038806838,
+      "currentPriceUSD": 0.0012915086071032462,
       "currentPoolEth": 0.5574999999999969,
-      "currentMarketCap": 1411.339125
+      "currentMarketCap": 1411.350275
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 5,
+    "holderCount": 6,
     "holderCountOld": 0,
     "txCount": 4,
     "createdAtTimestamp": "1619515310",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.12235448185400416,
+    "priceChange": 0.1223633487891377,
     "isRugged": false
   },
   {
@@ -124,37 +186,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x725e391ddbee937ff10f7dfd6dbc5c769b2f9392",
-    "tokenName": "PUPY",
-    "idPair": "0x4f6788ef8d7b183a0799df8d741ec6109f81b363",
-    "idToken": "0x725e391ddbee937ff10f7dfd6dbc5c769b2f9392",
-    "dateCreationToken": "2021-04-27T09:03:00Z",
-    "initialInfos": {
-      "initialPoolToken": 95000000000,
-      "initialPriceUSD": 4.263663157894737e-8,
-      "initialPoolEth": 1.6,
-      "initialMarketCap": 4050.48
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.43669859e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1619514180",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0xfd5c7adbab950e42da59d742e62e4c530a0b3fe7",
     "tokenName": "SafeElon",
     "idPair": "0xf4c7dbcada5d468be22d9c426208975e7ab3804e",
@@ -184,6 +215,37 @@
     "officialSite": null,
     "priceChange": 0.2764969455111543,
     "isRugged": false
+  },
+  {
+    "_id": "0x725e391ddbee937ff10f7dfd6dbc5c769b2f9392",
+    "tokenName": "PUPY",
+    "idPair": "0x4f6788ef8d7b183a0799df8d741ec6109f81b363",
+    "idToken": "0x725e391ddbee937ff10f7dfd6dbc5c769b2f9392",
+    "dateCreationToken": "2021-04-27T09:03:00Z",
+    "initialInfos": {
+      "initialPoolToken": 95000000000,
+      "initialPriceUSD": 4.263663157894737e-8,
+      "initialPoolEth": 1.6,
+      "initialMarketCap": 4050.48
+    },
+    "currentInfos": {
+      "currentPoolToken": 2.43669859e-10,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619514180",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
   },
   {
     "_id": "0xa792cba3dd118fa25ad418605a285e6cb1d25a82",
@@ -6131,68 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 8,
     "createdAtTimestamp": "1619414806",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x0087feb9d0884720347fdd360a51dbff799b3d1e",
-    "tokenName": "1MIL",
-    "idPair": "0x3ece98da2ddb96e5fed63d4c18b7487af3c45baf",
-    "idToken": "0x0087feb9d0884720347fdd360a51dbff799b3d1e",
-    "dateCreationToken": "2021-04-26T05:17:22Z",
-    "initialInfos": {
-      "initialPoolToken": 390000,
-      "initialPriceUSD": 1.6529733333333334,
-      "initialPoolEth": 260,
-      "initialMarketCap": 644659.6
-    },
-    "currentInfos": {
-      "currentPoolToken": 3.2359e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 3.1e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 22,
-    "holderCountOld": 0,
-    "txCount": 22,
-    "createdAtTimestamp": "1619414242",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x27262744a51d52566f5875ddf99b09edd67d6142",
-    "tokenName": "GRLC",
-    "idPair": "0x15f58cd3774405f4fa5caaab48ff73a1e8e16610",
-    "idToken": "0x27262744a51d52566f5875ddf99b09edd67d6142",
-    "dateCreationToken": "2021-04-26T05:17:19Z",
-    "initialInfos": {
-      "initialPoolToken": 70000,
-      "initialPriceUSD": 0.3187877142857143,
-      "initialPoolEth": 9,
-      "initialMarketCap": 22315.14
-    },
-    "currentInfos": {
-      "currentPoolToken": 8.1194e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.3e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 7,
-    "holderCountOld": 6,
-    "txCount": 8,
-    "createdAtTimestamp": "1619414239",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
