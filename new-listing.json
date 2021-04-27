@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x10e790a1c02fd30867722705129e9b2178af950f",
+    "tokenName": "MAFIA",
+    "idPair": "0x75df6ed14cab3e8fdb3ea476a260fed1b2086f6b",
+    "idToken": "0x10e790a1c02fd30867722705129e9b2178af950f",
+    "dateCreationToken": "2021-04-27T07:28:46Z",
+    "initialInfos": {
+      "initialPoolToken": 17,
+      "initialPriceUSD": 0.9939697411764706,
+      "initialPoolEth": 0.00666,
+      "initialMarketCap": 16.8974856
+    },
+    "currentInfos": {
+      "currentPoolToken": 17,
+      "currentPriceUSD": 0.9939697411764706,
+      "currentPoolEth": 0.00666,
+      "currentMarketCap": 16.8974856
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619508526",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x494c2bd6fd92263f9c8fb0d3f96aecdc084fc7d4",
     "tokenName": "LAIKA",
     "idPair": "0x67331c5b3f942b5bd55c3e032aeb721c4e953e9a",
@@ -43,22 +74,22 @@
       "initialMarketCap": 380574
     },
     "currentInfos": {
-      "currentPoolToken": 2582039.2910484266,
-      "currentPriceUSD": 0.1713276407951113,
-      "currentPoolEth": 174.3582194956595,
-      "currentMarketCap": 442374.70017560874
+      "currentPoolToken": 2565681.3159929854,
+      "currentPriceUSD": 0.17352257694689696,
+      "currentPoolEth": 175.47321949565952,
+      "currentMarketCap": 445203.6335756087
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 8,
+    "holderCount": 19,
     "holderCountOld": 0,
-    "txCount": 18,
+    "txCount": 20,
     "createdAtTimestamp": "1619507546",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.3505466016736139,
+    "priceChange": 0.3678489093860613,
     "isRugged": false
   },
   {
@@ -136,22 +167,22 @@
       "initialMarketCap": 507432
     },
     "currentInfos": {
-      "currentPoolToken": 4002254.732477913,
-      "currentPriceUSD": 0.15849855568265672,
-      "currentPoolEth": 250.02427697576283,
-      "currentMarketCap": 634351.5945718269
+      "currentPoolToken": 3995881.1218403173,
+      "currentPriceUSD": 0.15900534555422574,
+      "currentPoolEth": 250.4242769757628,
+      "currentMarketCap": 635366.4585718268
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 18,
     "holderCountOld": 0,
-    "txCount": 21,
+    "txCount": 22,
     "createdAtTimestamp": "1619504016",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.5617713869312215,
+    "priceChange": 0.5667650596949516,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x0b9e114d26d81126f014ec80d0522b6c8cdc797d",
-    "tokenName": "AMOGUS",
-    "idPair": "0xf23ca98b191046ad82e6c8a8b8e282973c0d0f59",
-    "idToken": "0x0b9e114d26d81126f014ec80d0522b6c8cdc797d",
-    "dateCreationToken": "2021-04-26T02:52:47Z",
-    "initialInfos": {
-      "initialPoolToken": 303000000000,
-      "initialPriceUSD": 1.623815181518152e-8,
-      "initialPoolEth": 2,
-      "initialMarketCap": 4920.16
-    },
-    "currentInfos": {
-      "currentPoolToken": 352279671477.36914,
-      "currentPriceUSD": 1.2918912890991876e-8,
-      "currentPoolEth": 1.7832439527305541,
-      "currentMarketCap": 4551.070389083367
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 47,
-    "holderCountOld": 48,
-    "txCount": 123,
-    "createdAtTimestamp": "1619405567",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.20440989602562962,
-    "isRugged": false
   }
 ]
