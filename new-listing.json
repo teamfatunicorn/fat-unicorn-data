@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x8dd4228605e467671941ffb4cae15cf7959c8d9d",
+    "tokenName": "ZITI",
+    "idPair": "0x08b57d4e6404da14d41290fd4e4cc281eff7c517",
+    "idToken": "0x8dd4228605e467671941ffb4cae15cf7959c8d9d",
+    "dateCreationToken": "2021-04-27T09:21:50Z",
+    "initialInfos": {
+      "initialPoolToken": 110000,
+      "initialPriceUSD": 0.0011472909090909091,
+      "initialPoolEth": 0.05,
+      "initialMarketCap": 126.202
+    },
+    "currentInfos": {
+      "currentPoolToken": 104776.87288661,
+      "currentPriceUSD": 0.0012647075289544591,
+      "currentPoolEth": 0.0525,
+      "currentMarketCap": 132.5121
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619515310",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.10234249999992472,
+    "isRugged": true
+  },
+  {
     "_id": "0x00c300c5ae4734abc8b19b71bb2f5f03e829dd4c",
     "tokenName": "EG",
     "idPair": "0x712436cbf125a425fbb69995a548665a64e39140",
@@ -105,22 +136,22 @@
       "initialMarketCap": 378606
     },
     "currentInfos": {
-      "currentPoolToken": 8637146.471158892,
-      "currentPriceUSD": 0.050773459718271394,
-      "currentPoolEth": 173.7443972497255,
-      "currentMarketCap": 438537.8084341959
+      "currentPoolToken": 8627245.301737618,
+      "currentPriceUSD": 0.0508902437659641,
+      "currentPoolEth": 173.94439724972548,
+      "currentMarketCap": 439042.6164341959
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 20,
     "holderCountOld": 0,
-    "txCount": 19,
+    "txCount": 20,
     "createdAtTimestamp": "1619513289",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.34106326149800564,
+    "priceChange": 0.34414784144900235,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x071a01448360b1d6572863ec29bdf4eef955a8eb",
-    "tokenName": "REDPILL",
-    "idPair": "0xe5bdba616731fbb861a6e0179fcb9c58e81b1fef",
-    "idToken": "0x071a01448360b1d6572863ec29bdf4eef955a8eb",
-    "dateCreationToken": "2021-04-26T04:28:20Z",
-    "initialInfos": {
-      "initialPoolToken": 225736712813573.44,
-      "initialPriceUSD": 8.708481555782609e-11,
-      "initialPoolEth": 8,
-      "initialMarketCap": 19658.24
-    },
-    "currentInfos": {
-      "currentPoolToken": 206193460333639.88,
-      "currentPriceUSD": 1.0798583497277065e-10,
-      "currentPoolEth": 8.807289569781853,
-      "currentMarketCap": 22265.972980052968
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 64,
-    "holderCountOld": 65,
-    "txCount": 139,
-    "createdAtTimestamp": "1619411300",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.24000762108826945,
-    "isRugged": false
   }
 ]
