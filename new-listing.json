@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x9c37a9186405cc422b6459bd6a24a21fdad1bc7d",
+    "tokenName": "ROT",
+    "idPair": "0xce9f65f29be8be74f870eb944c876fa1ff7855d5",
+    "idToken": "0x9c37a9186405cc422b6459bd6a24a21fdad1bc7d",
+    "dateCreationToken": "2021-04-28T10:14:21Z",
+    "initialInfos": {
+      "initialPoolToken": 9000000000,
+      "initialPriceUSD": 5.23458e-7,
+      "initialPoolEth": 1.8,
+      "initialMarketCap": 4711.122
+    },
+    "currentInfos": {
+      "currentPoolToken": 9000000000,
+      "currentPriceUSD": 5.23458e-7,
+      "currentPoolEth": 1.8,
+      "currentMarketCap": 4711.122
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619604861",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x26cfe9cf76fda7ec3eec533d82e1b6e8673d3823",
     "tokenName": "ITACHI",
     "idPair": "0x69363bd49d2b001d299b337da303a6caa5839238",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-28T10:10:57Z",
     "initialInfos": {
       "initialPoolToken": 459183673469386.8,
-      "initialPriceUSD": 5.685154222222234e-11,
+      "initialPriceUSD": 5.6998760000000115e-11,
       "initialPoolEth": 10,
-      "initialMarketCap": 26105.3
+      "initialMarketCap": 26172.9
     },
     "currentInfos": {
-      "currentPoolToken": 429485432397928.44,
-      "currentPriceUSD": 6.503752838377931e-11,
-      "currentPoolEth": 10.7,
-      "currentMarketCap": 27932.671
+      "currentPoolToken": 414181378702069.6,
+      "currentPriceUSD": 7.014298685044873e-11,
+      "currentPoolEth": 11.1,
+      "currentMarketCap": 29051.919
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 2,
     "holderCountOld": 0,
-    "txCount": 3,
+    "txCount": 5,
     "createdAtTimestamp": "1619604657",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.14398881440294864,
+    "priceChange": 0.23060548774128756,
     "isRugged": false
   },
   {
@@ -38,27 +69,27 @@
     "dateCreationToken": "2021-04-28T09:58:26Z",
     "initialInfos": {
       "initialPoolToken": 10000000000000,
-      "initialPriceUSD": 3.915795e-9,
+      "initialPriceUSD": 3.925935e-9,
       "initialPoolEth": 15,
-      "initialMarketCap": 39157.95
+      "initialMarketCap": 39259.35
     },
     "currentInfos": {
-      "currentPoolToken": 9499180371503.771,
-      "currentPriceUSD": 4.340246004507226e-9,
-      "currentPoolEth": 15.793260239688232,
-      "currentMarketCap": 41228.77965351271
+      "currentPoolToken": 9438405783613.525,
+      "currentPriceUSD": 4.407789474887924e-9,
+      "currentPoolEth": 15.895260239688232,
+      "currentMarketCap": 41602.50567273301
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 7,
     "holderCountOld": 0,
-    "txCount": 8,
+    "txCount": 10,
     "createdAtTimestamp": "1619603906",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.10839459279845501,
+    "priceChange": 0.12273623350562957,
     "isRugged": false
   },
   {
@@ -69,15 +100,15 @@
     "dateCreationToken": "2021-04-28T09:35:25Z",
     "initialInfos": {
       "initialPoolToken": 0.6,
-      "initialPriceUSD": 43.508833333333335,
+      "initialPriceUSD": 43.6215,
       "initialPoolEth": 0.01,
-      "initialMarketCap": 26.1053
+      "initialMarketCap": 26.1729
     },
     "currentInfos": {
       "currentPoolToken": 0.6,
-      "currentPriceUSD": 43.508833333333335,
+      "currentPriceUSD": 43.6215,
       "currentPoolEth": 0.01,
-      "currentMarketCap": 26.1053
+      "currentMarketCap": 26.1729
     },
     "trustScore": null,
     "contractId": null,
@@ -100,15 +131,15 @@
     "dateCreationToken": "2021-04-28T09:24:44Z",
     "initialInfos": {
       "initialPoolToken": 1000,
-      "initialPriceUSD": 0.3915795,
+      "initialPriceUSD": 0.3925935,
       "initialPoolEth": 0.15,
       "initialMarketCap": 389.99840781128404
     },
     "currentInfos": {
       "currentPoolToken": 1000,
-      "currentPriceUSD": 0.3915795,
+      "currentPriceUSD": 0.3925935,
       "currentPoolEth": 0.15,
-      "currentMarketCap": 391.5795
+      "currentMarketCap": 392.5935
     },
     "trustScore": null,
     "contractId": null,
@@ -930,37 +961,6 @@
     "isRugged": false
   },
   {
-    "_id": "0xd3b67b063ac89da2c5360dd5dcf78cc9f1ddfdfc",
-    "tokenName": "WDOGE",
-    "idPair": "0x3ff9a9ff0d1ac32a9fd242c3a48b5c22680a3249",
-    "idToken": "0xd3b67b063ac89da2c5360dd5dcf78cc9f1ddfdfc",
-    "dateCreationToken": "2021-04-28T05:26:11Z",
-    "initialInfos": {
-      "initialPoolToken": 900000000000000,
-      "initialPriceUSD": 7.202166666666667e-12,
-      "initialPoolEth": 2.5,
-      "initialMarketCap": 6588.287294661623
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.7572183675e-8,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 4,
-    "createdAtTimestamp": "1619587571",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0x806e3c4ebafffcac0d34a3c1b6174bc67afa684b",
     "tokenName": "SAFERUG",
     "idPair": "0x42182882f672b717228f91dfc4619e8212e3ed9c",
@@ -986,6 +986,37 @@
     "txCount": 13,
     "createdAtTimestamp": "1619587571",
     "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0xd3b67b063ac89da2c5360dd5dcf78cc9f1ddfdfc",
+    "tokenName": "WDOGE",
+    "idPair": "0x3ff9a9ff0d1ac32a9fd242c3a48b5c22680a3249",
+    "idToken": "0xd3b67b063ac89da2c5360dd5dcf78cc9f1ddfdfc",
+    "dateCreationToken": "2021-04-28T05:26:11Z",
+    "initialInfos": {
+      "initialPoolToken": 900000000000000,
+      "initialPriceUSD": 7.202166666666667e-12,
+      "initialPoolEth": 2.5,
+      "initialMarketCap": 6588.287294661623
+    },
+    "currentInfos": {
+      "currentPoolToken": 1.7572183675e-8,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1619587571",
+    "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 12,
     "createdAtTimestamp": "1619483399",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xb1f0365a1173bc2309888fedc8bd0c15490a8037",
-    "tokenName": "SafeElonMusk",
-    "idPair": "0x0ae881054a778b2c45e472d8134c8758b2b4e593",
-    "idToken": "0xb1f0365a1173bc2309888fedc8bd0c15490a8037",
-    "dateCreationToken": "2021-04-27T00:21:57Z",
-    "initialInfos": {
-      "initialPoolToken": 50000000000000000,
-      "initialPriceUSD": 1.90142784e-13,
-      "initialPoolEth": 3.79,
-      "initialMarketCap": 9507.1392
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.002307244,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 22,
-    "holderCountOld": 0,
-    "txCount": 39,
-    "createdAtTimestamp": "1619482917",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
