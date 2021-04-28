@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xf9a5aed30d91d0ad5e7fb4aaefbe4610edeb415c",
+    "tokenName": "ALPHR",
+    "idPair": "0xa6b8219ae3548a09ffd098e908a015afe285ceb9",
+    "idToken": "0xf9a5aed30d91d0ad5e7fb4aaefbe4610edeb415c",
+    "dateCreationToken": "2021-04-28T22:52:32Z",
+    "initialInfos": {
+      "initialPoolToken": 10000000,
+      "initialPriceUSD": 0.003808686,
+      "initialPoolEth": 14,
+      "initialMarketCap": 38030.09615583778
+    },
+    "currentInfos": {
+      "currentPoolToken": 10000000,
+      "currentPriceUSD": 0.003808686,
+      "currentPoolEth": 14,
+      "currentMarketCap": 38086.86
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619650352",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x3338176fc91910f7d722c8b749ab0325be96ca6f",
     "tokenName": "ELONGATE",
     "idPair": "0x06a16146b2b351537a8ac45e3c1ffcef2d293ead",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-04-28T22:49:09Z",
     "initialInfos": {
       "initialPoolToken": 882000000,
-      "initialPriceUSD": 0.00009253061224489796,
+      "initialPriceUSD": 0.00009253367346938775,
       "initialPoolEth": 30,
-      "initialMarketCap": 81612
+      "initialMarketCap": 81614.7
     },
     "currentInfos": {
-      "currentPoolToken": 832220317.8572377,
-      "currentPriceUSD": 0.00010394930061637842,
-      "currentPoolEth": 31.8,
-      "currentMarketCap": 86508.72
+      "currentPoolToken": 805972128.4700278,
+      "currentPriceUSD": 0.00011085102397051202,
+      "currentPoolEth": 32.84071462589253,
+      "currentMarketCap": 89342.83573259565
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 4,
     "holderCountOld": 0,
-    "txCount": 9,
+    "txCount": 17,
     "createdAtTimestamp": "1619650149",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.1234044398329383,
+    "priceChange": 0.1979533483795395,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 13.28870309245729,
     "isRugged": false
-  },
-  {
-    "_id": "0xf1a9e17babf880dbfb25dfa6db6275a406160268",
-    "tokenName": "C3",
-    "idPair": "0x2a3f9a6510550ea615c80bd62fb51f70a17e3a54",
-    "idToken": "0xf1a9e17babf880dbfb25dfa6db6275a406160268",
-    "dateCreationToken": "2021-04-27T12:48:23Z",
-    "initialInfos": {
-      "initialPoolToken": 5016858,
-      "initialPriceUSD": 0.04022820657869926,
-      "initialPoolEth": 80,
-      "initialMarketCap": 204872.70181781764
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.06448e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 5e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 31,
-    "holderCountOld": 30,
-    "txCount": 30,
-    "createdAtTimestamp": "1619527703",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
