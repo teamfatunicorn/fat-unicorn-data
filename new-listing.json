@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x71452717769c25bbca648b96b0882f0bbfed8269",
+    "tokenName": "BBANK",
+    "idPair": "0x3d29f89e5eefb5168f3cb047d2bffc96fd96d0de",
+    "idToken": "0x71452717769c25bbca648b96b0882f0bbfed8269",
+    "dateCreationToken": "2021-04-28T05:45:50Z",
+    "initialInfos": {
+      "initialPoolToken": 10000000,
+      "initialPriceUSD": 0.0787938,
+      "initialPoolEth": 300,
+      "initialMarketCap": 787938
+    },
+    "currentInfos": {
+      "currentPoolToken": 10000000,
+      "currentPriceUSD": 0.0787938,
+      "currentPoolEth": 300,
+      "currentMarketCap": 787938
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619588750",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x390d0a1580e2c95836c2a610dc9dc1801617a48f",
     "tokenName": "AKSC",
     "idPair": "0x1987a9b73d93a66fe311a6c0f3d9a0d5d6d3b31a",
@@ -28,6 +59,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0,
+    "isRugged": false
+  },
+  {
+    "_id": "0xd3b67b063ac89da2c5360dd5dcf78cc9f1ddfdfc",
+    "tokenName": "WDOGE",
+    "idPair": "0x3ff9a9ff0d1ac32a9fd242c3a48b5c22680a3249",
+    "idToken": "0xd3b67b063ac89da2c5360dd5dcf78cc9f1ddfdfc",
+    "dateCreationToken": "2021-04-28T05:26:11Z",
+    "initialInfos": {
+      "initialPoolToken": 900000000000000,
+      "initialPriceUSD": 7.295722222222222e-12,
+      "initialPoolEth": 2.5,
+      "initialMarketCap": 6588.287294661623
+    },
+    "currentInfos": {
+      "currentPoolToken": 833521858116456.6,
+      "currentPriceUSD": 8.507805681334886e-12,
+      "currentPoolEth": 2.7,
+      "currentMarketCap": 7091.442
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1619587571",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.16613618531428567,
     "isRugged": false
   },
   {
@@ -60,37 +122,6 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xd3b67b063ac89da2c5360dd5dcf78cc9f1ddfdfc",
-    "tokenName": "WDOGE",
-    "idPair": "0x3ff9a9ff0d1ac32a9fd242c3a48b5c22680a3249",
-    "idToken": "0xd3b67b063ac89da2c5360dd5dcf78cc9f1ddfdfc",
-    "dateCreationToken": "2021-04-28T05:26:11Z",
-    "initialInfos": {
-      "initialPoolToken": 900000000000000,
-      "initialPriceUSD": 7.295722222222222e-12,
-      "initialPoolEth": 2.5,
-      "initialMarketCap": 6588.287294661623
-    },
-    "currentInfos": {
-      "currentPoolToken": 833521858116456.6,
-      "currentPriceUSD": 8.507805681334886e-12,
-      "currentPoolEth": 2.7,
-      "currentMarketCap": 7091.442
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 3,
-    "createdAtTimestamp": "1619587571",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.16613618531428567,
-    "isRugged": false
   },
   {
     "_id": "0xda7b01690f01262f381adc236e64237496d4c3ae",
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 34,
     "createdAtTimestamp": "1619469780",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x86c2a5465c9f7f9090a9475d875ddb64bf3bc09d",
-    "tokenName": "$BURN",
-    "idPair": "0x9f1049afa6da7cb1a4218d381926f943c886233e",
-    "idToken": "0x86c2a5465c9f7f9090a9475d875ddb64bf3bc09d",
-    "dateCreationToken": "2021-04-26T20:40:54Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000000000,
-      "initialPriceUSD": 1.972104e-14,
-      "initialPoolEth": 8,
-      "initialMarketCap": 19721.04
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.03278157,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 4,
-    "holderCountOld": 3,
-    "txCount": 4,
-    "createdAtTimestamp": "1619469654",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
