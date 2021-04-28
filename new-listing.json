@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x684bc6044c9d5eaf1c000c0be60e80bc56002c42",
+    "tokenName": "DOUGH",
+    "idPair": "0xdc9f12eb3faa7b9068e0f0df5e3557c0efc66f59",
+    "idToken": "0x684bc6044c9d5eaf1c000c0be60e80bc56002c42",
+    "dateCreationToken": "2021-04-28T10:34:17Z",
+    "initialInfos": {
+      "initialPoolToken": 500000000,
+      "initialPriceUSD": 1.8776812705e-7,
+      "initialPoolEth": 0.0358015,
+      "initialMarketCap": 93.884063525
+    },
+    "currentInfos": {
+      "currentPoolToken": 500000000,
+      "currentPriceUSD": 1.8776812705e-7,
+      "currentPoolEth": 0.0358015,
+      "currentMarketCap": 93.884063525
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619606057",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
+    "_id": "0xe587dbd6f60a9121c465d8e5c2187d4bf151d538",
+    "tokenName": "MAKI",
+    "idPair": "0xdf05958d60351a81be98e2f5807e1a42dbde7aab",
+    "idToken": "0xe587dbd6f60a9121c465d8e5c2187d4bf151d538",
+    "dateCreationToken": "2021-04-28T10:33:27Z",
+    "initialInfos": {
+      "initialPoolToken": 218866667,
+      "initialPriceUSD": 0.0006350192649481887,
+      "initialPoolEth": 53,
+      "initialMarketCap": 138904.21124196588
+    },
+    "currentInfos": {
+      "currentPoolToken": 218453713.964458,
+      "currentPriceUSD": 0.0006374259649002501,
+      "currentPoolEth": 53.10048979344384,
+      "currentMarketCap": 139248.06940983786
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1619606007",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.003789963682846346,
+    "isRugged": false
+  },
+  {
     "_id": "0x9fb1433da5564c28c0345b9d4776befea78067f2",
     "tokenName": "MEGAMUSK",
     "idPair": "0x4ddb62b60aa8c7f3f70f9f6ffbf255b143c49225",
@@ -12,23 +74,23 @@
       "initialMarketCap": 10489.4
     },
     "currentInfos": {
-      "currentPoolToken": 27560191492.635784,
-      "currentPriceUSD": 4.567652242400903e-7,
-      "currentPoolEth": 4.800479359061323,
-      "currentMarketCap": 12588.537047233613
+      "currentPoolToken": 0.000002399,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 4.18e-16,
+      "currentMarketCap": 0
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 8,
     "holderCountOld": 0,
-    "txCount": 14,
+    "txCount": 15,
     "createdAtTimestamp": "1619605086",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.43699853184385956,
-    "isRugged": false
+    "priceChange": -1,
+    "isRugged": true
   },
   {
     "_id": "0x9c37a9186405cc422b6459bd6a24a21fdad1bc7d",
@@ -105,22 +167,22 @@
       "initialMarketCap": 39335.25
     },
     "currentInfos": {
-      "currentPoolToken": 9052644542071.424,
-      "currentPriceUSD": 4.801384563725814e-9,
-      "currentPoolEth": 16.574914776897753,
-      "currentMarketCap": 43465.22776519847
+      "currentPoolToken": 8945033748683.006,
+      "currentPriceUSD": 4.917778848142989e-9,
+      "currentPoolEth": 16.774914776897752,
+      "currentMarketCap": 43989.69776519847
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 10,
     "holderCountOld": 0,
-    "txCount": 16,
+    "txCount": 17,
     "createdAtTimestamp": "1619603906",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.22063151085243232,
+    "priceChange": 0.2502218361756921,
     "isRugged": false
   },
   {
@@ -6131,68 +6193,6 @@
     "holderCountOld": 2,
     "txCount": 5,
     "createdAtTimestamp": "1619484577",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x2a363a8e460e20bc27411c4028d36ce5a0290ca6",
-    "tokenName": "SNELON",
-    "idPair": "0xc382f67886598b40b55ccc387eec57cace882eb2",
-    "idToken": "0x2a363a8e460e20bc27411c4028d36ce5a0290ca6",
-    "dateCreationToken": "2021-04-27T00:41:56Z",
-    "initialInfos": {
-      "initialPoolToken": 450000000000,
-      "initialPriceUSD": 6.410662222222223e-8,
-      "initialPoolEth": 11.5,
-      "initialMarketCap": 28847.98
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.74923131e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 12,
-    "holderCountOld": 11,
-    "txCount": 11,
-    "createdAtTimestamp": "1619484116",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xdb38b446998e92841eb79f78565e14cacfba3006",
-    "tokenName": "GATEMUSK",
-    "idPair": "0x530f4c243d7246a0b99deaade9fef00c62474192",
-    "idToken": "0xdb38b446998e92841eb79f78565e14cacfba3006",
-    "dateCreationToken": "2021-04-27T00:38:36Z",
-    "initialInfos": {
-      "initialPoolToken": 500000000000000000,
-      "initialPriceUSD": 3.010224e-14,
-      "initialPoolEth": 6,
-      "initialMarketCap": 15077.26160028626
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.006517053,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 20,
-    "holderCountOld": 0,
-    "txCount": 23,
-    "createdAtTimestamp": "1619483916",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
