@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x9fb1433da5564c28c0345b9d4776befea78067f2",
+    "tokenName": "MEGAMUSK",
+    "idPair": "0x4ddb62b60aa8c7f3f70f9f6ffbf255b143c49225",
+    "idToken": "0x9fb1433da5564c28c0345b9d4776befea78067f2",
+    "dateCreationToken": "2021-04-28T10:18:06Z",
+    "initialInfos": {
+      "initialPoolToken": 33000000000,
+      "initialPriceUSD": 3.1732242424242426e-7,
+      "initialPoolEth": 4,
+      "initialMarketCap": 10471.64
+    },
+    "currentInfos": {
+      "currentPoolToken": 32934158495.097057,
+      "currentPriceUSD": 3.1897312867909926e-7,
+      "currentPoolEth": 4.012785609739894,
+      "currentMarketCap": 10505.111575594443
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1619605086",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.005201978525835024,
+    "isRugged": false
+  },
+  {
     "_id": "0x9c37a9186405cc422b6459bd6a24a21fdad1bc7d",
     "tokenName": "ROT",
     "idPair": "0xce9f65f29be8be74f870eb944c876fa1ff7855d5",
@@ -7,9 +38,9 @@
     "dateCreationToken": "2021-04-28T10:14:21Z",
     "initialInfos": {
       "initialPoolToken": 9000000000,
-      "initialPriceUSD": 5.23458e-7,
+      "initialPriceUSD": 5.23582e-7,
       "initialPoolEth": 1.8,
-      "initialMarketCap": 4711.122
+      "initialMarketCap": 4712.238
     },
     "currentInfos": {
       "currentPoolToken": 9000000000,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.00023688624493280213,
+    "priceChange": 0,
     "isRugged": false
   },
   {
@@ -38,9 +69,9 @@
     "dateCreationToken": "2021-04-28T10:10:57Z",
     "initialInfos": {
       "initialPoolToken": 459183673469386.8,
-      "initialPriceUSD": 5.6998760000000115e-11,
+      "initialPriceUSD": 5.7012262222222336e-11,
       "initialPoolEth": 10,
-      "initialMarketCap": 26172.9
+      "initialMarketCap": 26179.1
     },
     "currentInfos": {
       "currentPoolToken": 6.339919775e-9,
@@ -51,8 +82,8 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
+    "holderCount": 8,
+    "holderCountOld": 2,
     "txCount": 10,
     "createdAtTimestamp": "1619604657",
     "isCodeGenerator": false,
@@ -69,9 +100,9 @@
     "dateCreationToken": "2021-04-28T09:58:26Z",
     "initialInfos": {
       "initialPoolToken": 10000000000000,
-      "initialPriceUSD": 3.925935e-9,
+      "initialPriceUSD": 3.926865e-9,
       "initialPoolEth": 15,
-      "initialMarketCap": 39259.35
+      "initialMarketCap": 39268.65
     },
     "currentInfos": {
       "currentPoolToken": 9385424321738.066,
@@ -82,14 +113,14 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 7,
-    "holderCountOld": 0,
+    "holderCount": 11,
+    "holderCountOld": 7,
     "txCount": 11,
     "createdAtTimestamp": "1619603906",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.13573603635070575,
+    "priceChange": 0.13546705982265944,
     "isRugged": false
   },
   {
@@ -100,9 +131,9 @@
     "dateCreationToken": "2021-04-28T09:35:25Z",
     "initialInfos": {
       "initialPoolToken": 0.6,
-      "initialPriceUSD": 43.6215,
+      "initialPriceUSD": 43.63183333333333,
       "initialPoolEth": 0.01,
-      "initialMarketCap": 26.1729
+      "initialMarketCap": 26.1791
     },
     "currentInfos": {
       "currentPoolToken": 0.6,
@@ -120,7 +151,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.00023688624493278096,
+    "priceChange": 0,
     "isRugged": true
   },
   {
@@ -131,7 +162,7 @@
     "dateCreationToken": "2021-04-28T09:24:44Z",
     "initialInfos": {
       "initialPoolToken": 1000,
-      "initialPriceUSD": 0.3925935,
+      "initialPriceUSD": 0.3926865,
       "initialPoolEth": 0.15,
       "initialMarketCap": 389.99840781128404
     },
@@ -151,7 +182,7 @@
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.00023688624493276058,
+    "priceChange": 0,
     "isRugged": false
   },
   {
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 23,
     "createdAtTimestamp": "1619483916",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x0efcc698612539d1c6620c4ceeddd55d9a21a761",
-    "tokenName": "BurnMoon",
-    "idPair": "0x9731010291c79437bfd738b29b1858d1ecbd1ae8",
-    "idToken": "0x0efcc698612539d1c6620c4ceeddd55d9a21a761",
-    "dateCreationToken": "2021-04-27T00:29:59Z",
-    "initialInfos": {
-      "initialPoolToken": 95000000000,
-      "initialPriceUSD": 2.1124042105263158e-8,
-      "initialPoolEth": 0.8,
-      "initialMarketCap": 2006.784
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.74642141e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 7,
-    "holderCountOld": 0,
-    "txCount": 12,
-    "createdAtTimestamp": "1619483399",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
