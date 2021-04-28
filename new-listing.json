@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xdb5b736a9cd1977b18905da035b0d9349d283d5c",
+    "tokenName": "9JA",
+    "idPair": "0xb5906677b4a1c3ded414b1fa790fad5b1848737a",
+    "idToken": "0xdb5b736a9cd1977b18905da035b0d9349d283d5c",
+    "dateCreationToken": "2021-04-28T03:57:55Z",
+    "initialInfos": {
+      "initialPoolToken": 500000000,
+      "initialPriceUSD": 1.8624318779982e-7,
+      "initialPoolEth": 0.035136379,
+      "initialMarketCap": 92.56720559681288
+    },
+    "currentInfos": {
+      "currentPoolToken": 500000000,
+      "currentPriceUSD": 1.8624318779982e-7,
+      "currentPoolEth": 0.035136379,
+      "currentMarketCap": 93.12159389991
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619582275",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x8e421c763ba4ede113614d82c622f1f51f8b42de",
     "tokenName": "SAFENEPTUNE",
     "idPair": "0x4e317a899269c6a07db7b8ce49b22e713bb21d1b",
@@ -50,12 +81,12 @@
     },
     "trustScore": null,
     "contractId": null,
-    "contractVerified": true,
+    "contractVerified": false,
     "holderCount": 11,
     "holderCountOld": 0,
     "txCount": 1,
     "createdAtTimestamp": "1619580062",
-    "isCodeGenerator": true,
+    "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0,
@@ -143,7 +174,7 @@
     },
     "trustScore": null,
     "contractId": null,
-    "contractVerified": true,
+    "contractVerified": false,
     "holderCount": 1,
     "holderCountOld": 0,
     "txCount": 7,
@@ -5500,7 +5531,7 @@
     },
     "currentInfos": {
       "currentPoolToken": 26928.282118970383,
-      "currentPriceUSD": 0.1943277273377738,
+      "currentPriceUSD": 0.162322707014422,
       "currentPoolEth": 1.952025494744416,
       "currentMarketCap": 5232.911865289925
     },
@@ -5514,7 +5545,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.787479063709519,
+    "priceChange": -0.8224804347351373,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xf5cb350b40726b5bcf170d12e162b6193b291b41",
-    "tokenName": "wBIS",
-    "idPair": "0xf4f82f8d84c529987201609cecee8ab136a50c8c",
-    "idToken": "0xf5cb350b40726b5bcf170d12e162b6193b291b41",
-    "dateCreationToken": "2021-04-26T18:21:38Z",
-    "initialInfos": {
-      "initialPoolToken": 51375,
-      "initialPriceUSD": 0.33281066666666664,
-      "initialPoolEth": 6.85,
-      "initialMarketCap": 17128.633415088425
-    },
-    "currentInfos": {
-      "currentPoolToken": 128001.00067476,
-      "currentPriceUSD": 0.49985113576807216,
-      "currentPoolEth": 23.86690549199796,
-      "currentMarketCap": 63981.44556672856
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 26,
-    "holderCountOld": 25,
-    "txCount": 46,
-    "createdAtTimestamp": "1619461298",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.5019083996749069,
-    "isRugged": false
   }
 ]
