@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x2b7d89eddfcc21e9bc1b0d4ac4406223364566e0",
+    "tokenName": "MAKI",
+    "idPair": "0xb04471981660d4e950940b105b4964eed6e7f901",
+    "idToken": "0x2b7d89eddfcc21e9bc1b0d4ac4406223364566e0",
+    "dateCreationToken": "2021-04-28T02:17:50Z",
+    "initialInfos": {
+      "initialPoolToken": 38666666,
+      "initialPriceUSD": 0.000558136561347182,
+      "initialPoolEth": 8,
+      "initialMarketCap": 21581.28
+    },
+    "currentInfos": {
+      "currentPoolToken": 38666666,
+      "currentPriceUSD": 0.000558136561347182,
+      "currentPoolEth": 8,
+      "currentMarketCap": 21581.28
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619576270",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
+    "_id": "0x4bf7ed0ae0359b19a13711ed8cfaf7026e3f4d2f",
+    "tokenName": "SAFEGALAXY",
+    "idPair": "0xbf4ce984802aecd0ec4c47093966d98075faa002",
+    "idToken": "0x4bf7ed0ae0359b19a13711ed8cfaf7026e3f4d2f",
+    "dateCreationToken": "2021-04-28T02:16:21Z",
+    "initialInfos": {
+      "initialPoolToken": 890991883.7675351,
+      "initialPriceUSD": 0.00006812334781697775,
+      "initialPoolEth": 22.5,
+      "initialMarketCap": 60697.35
+    },
+    "currentInfos": {
+      "currentPoolToken": 715184411.5608107,
+      "currentPriceUSD": 0.00010599258705117137,
+      "currentPoolEth": 28.1,
+      "currentMarketCap": 75804.246
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 6,
+    "createdAtTimestamp": "1619576181",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.5558922226772277,
+    "isRugged": false
+  },
+  {
     "_id": "0xde0adb17b5e9abee88da8657c80c1104e70c2641",
     "tokenName": "BEAD",
     "idPair": "0xfb9ec4e57e15b8df940f34c8d46fd4120c5c297e",
@@ -43,23 +105,23 @@
       "initialMarketCap": 24278.94
     },
     "currentInfos": {
-      "currentPoolToken": 11857959.68668559,
-      "currentPriceUSD": 0.002597383901965066,
-      "currentPoolEth": 11.417181409201625,
-      "currentMarketCap": 30799.67360034787
+      "currentPoolToken": 1.085012e-12,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-18,
+      "currentMarketCap": 0
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 13,
     "holderCountOld": 0,
-    "txCount": 30,
+    "txCount": 34,
     "createdAtTimestamp": "1619574999",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.6047141485367974,
-    "isRugged": false
+    "priceChange": -1,
+    "isRugged": true
   },
   {
     "_id": "0xf03029bb14ab0f783585c5117404d585da41f63b",
@@ -105,22 +167,22 @@
       "initialMarketCap": 2697.66
     },
     "currentInfos": {
-      "currentPoolToken": 10584797.205226203,
-      "currentPriceUSD": 0.0009533421311555418,
-      "currentPoolEth": 3.7406245136445935,
-      "currentMarketCap": 10090.93312547957
+      "currentPoolToken": 18194677.752959102,
+      "currentPriceUSD": 0.00032354440580942913,
+      "currentPoolEth": 2.182182410858004,
+      "currentMarketCap": 5886.786202475192
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 5,
     "holderCountOld": 0,
-    "txCount": 20,
+    "txCount": 27,
     "createdAtTimestamp": "1619572865",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 12.429046278593518,
+    "priceChange": 3.5575377997072675,
     "isRugged": false
   },
   {
@@ -6135,68 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 3.7611799528279795,
-    "isRugged": false
-  },
-  {
-    "_id": "0xb84ddb3a84622a90daa51d1d228a82e988c73e79",
-    "tokenName": "ANDR",
-    "idPair": "0x6cc8eab985acb02b4d98f7ae42b0f8fd20d5a9fa",
-    "idToken": "0xb84ddb3a84622a90daa51d1d228a82e988c73e79",
-    "dateCreationToken": "2021-04-26T17:31:52Z",
-    "initialInfos": {
-      "initialPoolToken": 500000000000000,
-      "initialPriceUSD": 2.49645408e-12,
-      "initialPoolEth": 0.498,
-      "initialMarketCap": 1248.22704
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.249693809e-9,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 20,
-    "holderCountOld": 19,
-    "txCount": 22,
-    "createdAtTimestamp": "1619458312",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x59680b5ce8a4655ccbc69f1018e2a5d4be549ce0",
-    "tokenName": "Themis",
-    "idPair": "0xfa1d88bbf29a979427c641e3196e8217e6f417e5",
-    "idToken": "0x59680b5ce8a4655ccbc69f1018e2a5d4be549ce0",
-    "dateCreationToken": "2021-04-26T17:01:12Z",
-    "initialInfos": {
-      "initialPoolToken": 22189818433109030,
-      "initialPriceUSD": 4.541596421971265e-12,
-      "initialPoolEth": 40,
-      "initialMarketCap": 100777.2
-    },
-    "currentInfos": {
-      "currentPoolToken": 36222260391096320,
-      "currentPriceUSD": 1.8885556144874946e-12,
-      "currentPoolEth": 25.389805601096352,
-      "currentMarketCap": 68407.75323103296
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 637,
-    "holderCountOld": 638,
-    "txCount": 1530,
-    "createdAtTimestamp": "1619456472",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.5841648092395287,
     "isRugged": false
   }
 ]
