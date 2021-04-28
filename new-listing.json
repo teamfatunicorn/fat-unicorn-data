@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x27565fb962430d3b1a2a459673eecbfeb5dacf06",
+    "tokenName": "LIQLOCK",
+    "idPair": "0xaaa4ca4fcc88ad93116a05841301612d80657ef9",
+    "idToken": "0x27565fb962430d3b1a2a459673eecbfeb5dacf06",
+    "dateCreationToken": "2021-04-28T02:38:10Z",
+    "initialInfos": {
+      "initialPoolToken": 50000000,
+      "initialPriceUSD": 0.0004848264,
+      "initialPoolEth": 9,
+      "initialMarketCap": 24241.32
+    },
+    "currentInfos": {
+      "currentPoolToken": 48391779.84966287,
+      "currentPriceUSD": 0.000517636757272,
+      "currentPoolEth": 9.3,
+      "currentMarketCap": 25049.364
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619577490",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.06767444444444443,
+    "isRugged": false
+  },
+  {
     "_id": "0x2b7d89eddfcc21e9bc1b0d4ac4406223364566e0",
     "tokenName": "MAKI",
     "idPair": "0xb04471981660d4e950940b105b4964eed6e7f901",
@@ -20,7 +51,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 1,
+    "holderCount": 2,
     "holderCountOld": 0,
     "txCount": 2,
     "createdAtTimestamp": "1619576270",
@@ -43,9 +74,9 @@
       "initialMarketCap": 60603.3
     },
     "currentInfos": {
-      "currentPoolToken": 1.8e-7,
+      "currentPoolToken": 9171294.726464413,
       "currentPriceUSD": 0,
-      "currentPoolEth": 5.617e-15,
+      "currentPoolEth": 1e-18,
       "currentMarketCap": 0
     },
     "trustScore": null,
@@ -53,7 +84,7 @@
     "contractVerified": true,
     "holderCount": 25,
     "holderCountOld": 0,
-    "txCount": 35,
+    "txCount": 36,
     "createdAtTimestamp": "1619576181",
     "isCodeGenerator": false,
     "linksSocial": [],
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x7bd9a1e82f563ae24ffde50a506ffe9b6567c798",
-    "tokenName": "BLM",
-    "idPair": "0xb504cfcb82d129a83d1cc543a51afa2f6baa280f",
-    "idToken": "0x7bd9a1e82f563ae24ffde50a506ffe9b6567c798",
-    "dateCreationToken": "2021-04-26T17:39:17Z",
-    "initialInfos": {
-      "initialPoolToken": 100000000000,
-      "initialPriceUSD": 2.50648e-9,
-      "initialPoolEth": 0.1,
-      "initialMarketCap": 250.648
-    },
-    "currentInfos": {
-      "currentPoolToken": 571310444274.2507,
-      "currentPriceUSD": 1.1933802328164273e-8,
-      "currentPoolEth": 2.5304924878387394,
-      "currentMarketCap": 6817.905909984618
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 11,
-    "holderCountOld": 10,
-    "txCount": 23,
-    "createdAtTimestamp": "1619458757",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 3.7611799528279795,
-    "isRugged": false
   }
 ]
