@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x3c7dbce6d80071369a6efc3a2e1aa576e9eeb218",
+    "tokenName": "KRILL",
+    "idPair": "0xff90d1fbf2b742a680155195d1af49f1a76c9c40",
+    "idToken": "0x3c7dbce6d80071369a6efc3a2e1aa576e9eeb218",
+    "dateCreationToken": "2021-04-28T04:14:29Z",
+    "initialInfos": {
+      "initialPoolToken": 890991883.7675351,
+      "initialPriceUSD": 0.00005945014872191594,
+      "initialPoolEth": 20,
+      "initialMarketCap": 52969.6
+    },
+    "currentInfos": {
+      "currentPoolToken": 873978754.6579607,
+      "currentPriceUSD": 0.00006180316971041837,
+      "currentPoolEth": 20.394587573788264,
+      "currentMarketCap": 54014.65729742604
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1619583269",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.03957973258416765,
+    "isRugged": false
+  },
+  {
     "_id": "0xdb5b736a9cd1977b18905da035b0d9349d283d5c",
     "tokenName": "9JA",
     "idPair": "0xb5906677b4a1c3ded414b1fa790fad5b1848737a",
@@ -75,9 +106,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 100000,
-      "currentPriceUSD": 0.00000264848,
+      "currentPriceUSD": 0.00000264916,
       "currentPoolEth": 0.0001,
-      "currentMarketCap": 0.264848
+      "currentMarketCap": 0.264916
     },
     "trustScore": null,
     "contractId": null,
@@ -89,7 +120,7 @@
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.00025675104210722216,
     "isRugged": true
   },
   {
@@ -6162,37 +6193,6 @@
     "holderCountOld": 1,
     "txCount": 3,
     "createdAtTimestamp": "1619461495",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x46644a8bb7109d73dfef661bb4893609696121f5",
-    "tokenName": "SKI",
-    "idPair": "0xdff66b6a9649ff1f753dc9a7245eea8faa8f791a",
-    "idToken": "0x46644a8bb7109d73dfef661bb4893609696121f5",
-    "dateCreationToken": "2021-04-26T18:21:58Z",
-    "initialInfos": {
-      "initialPoolToken": 100000,
-      "initialPriceUSD": 0.62402,
-      "initialPoolEth": 25,
-      "initialMarketCap": 62402
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.2746e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.6e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 0,
-    "txCount": 3,
-    "createdAtTimestamp": "1619461318",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
