@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x8889e606a7990af3d388a5054cecc625bcf7ef68",
+    "tokenName": "CODE",
+    "idPair": "0xab42faa171ec2e19306c662a45b7621af7a0871e",
+    "idToken": "0x8889e606a7990af3d388a5054cecc625bcf7ef68",
+    "dateCreationToken": "2021-04-28T23:29:53Z",
+    "initialInfos": {
+      "initialPoolToken": 2000,
+      "initialPriceUSD": 0.01001760144,
+      "initialPoolEth": 0.007336,
+      "initialMarketCap": 20.03520288
+    },
+    "currentInfos": {
+      "currentPoolToken": 2000,
+      "currentPriceUSD": 0.01001760144,
+      "currentPoolEth": 0.007336,
+      "currentMarketCap": 20.03520288
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619652593",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x7749afdd4f60a0ec3568a32c886b199d67e09443",
     "tokenName": "SENDWHALE",
     "idPair": "0xc6225dd144bcd9dfd70285b521de6898b68dab43",
@@ -20,7 +51,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 3,
+    "holderCount": 16,
     "holderCountOld": 0,
     "txCount": 17,
     "createdAtTimestamp": "1619651888",
@@ -51,7 +82,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 6,
+    "holderCount": 7,
     "holderCountOld": 0,
     "txCount": 10,
     "createdAtTimestamp": "1619651825",
@@ -74,22 +105,22 @@
       "initialMarketCap": 22394.856
     },
     "currentInfos": {
-      "currentPoolToken": 118188788.58007179,
-      "currentPriceUSD": 0.000629609678752772,
-      "currentPoolEth": 27.246658907859597,
-      "currentMarketCap": 74412.8052100783
+      "currentPoolToken": 125903818.67385578,
+      "currentPriceUSD": 0.0005560865135056443,
+      "currentPoolEth": 25.63579813238409,
+      "currentMarketCap": 70013.41556339129
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 68,
+    "holderCount": 102,
     "holderCountOld": 0,
-    "txCount": 121,
+    "txCount": 132,
     "createdAtTimestamp": "1619651598",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 9.746330292500668,
+    "priceChange": 8.491419123630294,
     "isRugged": false
   },
   {
@@ -105,22 +136,22 @@
       "initialMarketCap": 9558.78
     },
     "currentInfos": {
-      "currentPoolToken": 130063066632.77118,
-      "currentPriceUSD": 2.488653370539211e-7,
-      "currentPoolEth": 11.851790835798196,
-      "currentMarketCap": 32368.1889158312
+      "currentPoolToken": 134008025151.50769,
+      "currentPriceUSD": 2.3462129094553201e-7,
+      "currentPoolEth": 11.512345247340564,
+      "currentMarketCap": 31441.135858108057
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 36,
+    "holderCount": 51,
     "holderCountOld": 0,
-    "txCount": 34,
+    "txCount": 47,
     "createdAtTimestamp": "1619651528",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 10.41177647765804,
+    "priceChange": 9.758612512556818,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x3dd35a2f8deacb3f248672f3e4fad6ccb2ec9ae8",
-    "tokenName": "SafeSpacex",
-    "idPair": "0xd9f94fa6714dd1a5a8660e6746b435265ae366b4",
-    "idToken": "0x3dd35a2f8deacb3f248672f3e4fad6ccb2ec9ae8",
-    "dateCreationToken": "2021-04-27T14:00:48Z",
-    "initialInfos": {
-      "initialPoolToken": 115972958.35586804,
-      "initialPriceUSD": 0.00017997919770185698,
-      "initialPoolEth": 8,
-      "initialMarketCap": 20872.72
-    },
-    "currentInfos": {
-      "currentPoolToken": 103887309.38936803,
-      "currentPriceUSD": 0.0002540940857508651,
-      "currentPoolEth": 9.722743325171717,
-      "currentMarketCap": 26397.150900408727
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 276,
-    "holderCountOld": 277,
-    "txCount": 756,
-    "createdAtTimestamp": "1619532048",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.4117969687351451,
-    "isRugged": false
   }
 ]
