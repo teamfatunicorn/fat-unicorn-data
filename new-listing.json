@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x579e211b2e5a046a1e5e631cf2d087e59412916e",
+    "tokenName": "YOFI",
+    "idPair": "0xba704224d432f80276f45a4de371677bf78ab451",
+    "idToken": "0x579e211b2e5a046a1e5e631cf2d087e59412916e",
+    "dateCreationToken": "2021-04-28T09:35:25Z",
+    "initialInfos": {
+      "initialPoolToken": 0.6,
+      "initialPriceUSD": 43.19383333333333,
+      "initialPoolEth": 0.01,
+      "initialMarketCap": 25.9163
+    },
+    "currentInfos": {
+      "currentPoolToken": 0.6,
+      "currentPriceUSD": 43.19383333333333,
+      "currentPoolEth": 0.01,
+      "currentMarketCap": 25.9163
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 5,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619602525",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0xd354d449e070630f07d2f9ad3ac380c875cf0dcb",
     "tokenName": "SSTK",
     "idPair": "0x01b96de8d0c45637107c3865ae7416f82b49f1b6",
@@ -7,7 +38,7 @@
     "dateCreationToken": "2021-04-28T09:24:44Z",
     "initialInfos": {
       "initialPoolToken": 1000,
-      "initialPriceUSD": 0.3891315,
+      "initialPriceUSD": 0.3887445,
       "initialPoolEth": 0.15,
       "initialMarketCap": 389.99840781128404
     },
@@ -27,7 +58,7 @@
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.0009945224172292046,
+    "priceChange": 0,
     "isRugged": false
   },
   {
@@ -38,9 +69,9 @@
     "dateCreationToken": "2021-04-28T08:43:24Z",
     "initialInfos": {
       "initialPoolToken": 480000000000000,
-      "initialPriceUSD": 8.10690625e-12,
+      "initialPriceUSD": 8.09884375e-12,
       "initialPoolEth": 1.5,
-      "initialMarketCap": 3891.315
+      "initialMarketCap": 3887.445
     },
     "currentInfos": {
       "currentPoolToken": 18,
@@ -69,9 +100,9 @@
     "dateCreationToken": "2021-04-28T08:24:53Z",
     "initialInfos": {
       "initialPoolToken": 6300000,
-      "initialPriceUSD": 0.0008235587301587302,
+      "initialPriceUSD": 0.0008227396825396825,
       "initialPoolEth": 2,
-      "initialMarketCap": 5188.42
+      "initialMarketCap": 5183.26
     },
     "currentInfos": {
       "currentPoolToken": 1.774824e-12,
@@ -837,37 +868,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x806e3c4ebafffcac0d34a3c1b6174bc67afa684b",
-    "tokenName": "SAFERUG",
-    "idPair": "0x42182882f672b717228f91dfc4619e8212e3ed9c",
-    "idToken": "0x806e3c4ebafffcac0d34a3c1b6174bc67afa684b",
-    "dateCreationToken": "2021-04-28T05:26:11Z",
-    "initialInfos": {
-      "initialPoolToken": 9000000,
-      "initialPriceUSD": 0.005761733333333333,
-      "initialPoolEth": 20,
-      "initialMarketCap": 51855.6
-    },
-    "currentInfos": {
-      "currentPoolToken": 5.43794e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 11,
-    "holderCountOld": 0,
-    "txCount": 13,
-    "createdAtTimestamp": "1619587571",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0xd3b67b063ac89da2c5360dd5dcf78cc9f1ddfdfc",
     "tokenName": "WDOGE",
     "idPair": "0x3ff9a9ff0d1ac32a9fd242c3a48b5c22680a3249",
@@ -893,6 +893,37 @@
     "txCount": 4,
     "createdAtTimestamp": "1619587571",
     "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0x806e3c4ebafffcac0d34a3c1b6174bc67afa684b",
+    "tokenName": "SAFERUG",
+    "idPair": "0x42182882f672b717228f91dfc4619e8212e3ed9c",
+    "idToken": "0x806e3c4ebafffcac0d34a3c1b6174bc67afa684b",
+    "dateCreationToken": "2021-04-28T05:26:11Z",
+    "initialInfos": {
+      "initialPoolToken": 9000000,
+      "initialPriceUSD": 0.005761733333333333,
+      "initialPoolEth": 20,
+      "initialMarketCap": 51855.6
+    },
+    "currentInfos": {
+      "currentPoolToken": 5.43794e-13,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 2e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 11,
+    "holderCountOld": 0,
+    "txCount": 13,
+    "createdAtTimestamp": "1619587571",
+    "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 195.0689536264412,
     "isRugged": false
-  },
-  {
-    "_id": "0x65e31d768cba67d8d11fe7df054addcd4e97bdf3",
-    "tokenName": "SHIB2",
-    "idPair": "0x0377065048d8262e0c21e7590ad981540d2e0d64",
-    "idToken": "0x65e31d768cba67d8d11fe7df054addcd4e97bdf3",
-    "dateCreationToken": "2021-04-27T00:10:50Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 1.1045848e-7,
-      "initialPoolEth": 44,
-      "initialMarketCap": 110458.48
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.48119023e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 10,
-    "holderCountOld": 0,
-    "txCount": 14,
-    "createdAtTimestamp": "1619482250",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
