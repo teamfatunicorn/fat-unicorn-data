@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x587810537ccb69ab6ce0e06c06462c733de70ccd",
+    "tokenName": "UNO",
+    "idPair": "0xcd4c34d07794eddccfe7e78051f4cea45c4c9a38",
+    "idToken": "0x587810537ccb69ab6ce0e06c06462c733de70ccd",
+    "dateCreationToken": "2021-04-28T11:11:52Z",
+    "initialInfos": {
+      "initialPoolToken": 10350000,
+      "initialPriceUSD": 0.11938154589371981,
+      "initialPoolEth": 466,
+      "initialMarketCap": 1235599
+    },
+    "currentInfos": {
+      "currentPoolToken": 10350000,
+      "currentPriceUSD": 0.11938154589371981,
+      "currentPoolEth": 466,
+      "currentMarketCap": 1235599
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619608312",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x4ca097578911d5b731449a0f8bb91b321e1bcdd0",
     "tokenName": "BANE",
     "idPair": "0x82b905e040b75aefd0dcaafce0bea4c9db11d85e",
@@ -12,22 +43,22 @@
       "initialMarketCap": 11931.75
     },
     "currentInfos": {
-      "currentPoolToken": 436432812.6179669,
-      "currentPriceUSD": 0.000027339259686792852,
-      "currentPoolEth": 4.5,
-      "currentMarketCap": 11931.75
+      "currentPoolToken": 277347870.0101414,
+      "currentPriceUSD": 0.00006962930415126444,
+      "currentPoolEth": 7.2832506870225036,
+      "currentMarketCap": 19311.539196641483
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 12,
     "holderCountOld": 0,
-    "txCount": 1,
+    "txCount": 8,
     "createdAtTimestamp": "1619608221",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 1.5468613616081643,
     "isRugged": false
   },
   {
@@ -38,9 +69,9 @@
     "dateCreationToken": "2021-04-28T11:02:47Z",
     "initialInfos": {
       "initialPoolToken": 5,
-      "initialPriceUSD": 1058.596,
+      "initialPriceUSD": 1060.6,
       "initialPoolEth": 2,
-      "initialMarketCap": 5292.98
+      "initialMarketCap": 5303
     },
     "currentInfos": {
       "currentPoolToken": 5,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.0018930734671205119,
+    "priceChange": 0,
     "isRugged": false
   },
   {
@@ -224,9 +255,9 @@
     "dateCreationToken": "2021-04-28T10:10:57Z",
     "initialInfos": {
       "initialPoolToken": 459183673469386.8,
-      "initialPriceUSD": 5.7634671111111224e-11,
+      "initialPriceUSD": 5.774377777777789e-11,
       "initialPoolEth": 10,
-      "initialMarketCap": 26464.9
+      "initialMarketCap": 26515
     },
     "currentInfos": {
       "currentPoolToken": 6.339919775e-9,
@@ -1147,37 +1178,6 @@
     "isRugged": false
   },
   {
-    "_id": "0xd3b67b063ac89da2c5360dd5dcf78cc9f1ddfdfc",
-    "tokenName": "WDOGE",
-    "idPair": "0x3ff9a9ff0d1ac32a9fd242c3a48b5c22680a3249",
-    "idToken": "0xd3b67b063ac89da2c5360dd5dcf78cc9f1ddfdfc",
-    "dateCreationToken": "2021-04-28T05:26:11Z",
-    "initialInfos": {
-      "initialPoolToken": 900000000000000,
-      "initialPriceUSD": 7.202166666666667e-12,
-      "initialPoolEth": 2.5,
-      "initialMarketCap": 6588.287294661623
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.7572183675e-8,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 4,
-    "createdAtTimestamp": "1619587571",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0x806e3c4ebafffcac0d34a3c1b6174bc67afa684b",
     "tokenName": "SAFERUG",
     "idPair": "0x42182882f672b717228f91dfc4619e8212e3ed9c",
@@ -1203,6 +1203,37 @@
     "txCount": 13,
     "createdAtTimestamp": "1619587571",
     "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0xd3b67b063ac89da2c5360dd5dcf78cc9f1ddfdfc",
+    "tokenName": "WDOGE",
+    "idPair": "0x3ff9a9ff0d1ac32a9fd242c3a48b5c22680a3249",
+    "idToken": "0xd3b67b063ac89da2c5360dd5dcf78cc9f1ddfdfc",
+    "dateCreationToken": "2021-04-28T05:26:11Z",
+    "initialInfos": {
+      "initialPoolToken": 900000000000000,
+      "initialPriceUSD": 7.202166666666667e-12,
+      "initialPoolEth": 2.5,
+      "initialMarketCap": 6588.287294661623
+    },
+    "currentInfos": {
+      "currentPoolToken": 1.7572183675e-8,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1619587571",
+    "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x9126c64ae1e879f561d866280f943a37ab5f0e41",
-    "tokenName": "GERSH",
-    "idPair": "0x8e8490e2641b29449719226583d3d9fef859989b",
-    "idToken": "0x9126c64ae1e879f561d866280f943a37ab5f0e41",
-    "dateCreationToken": "2021-04-27T01:37:52Z",
-    "initialInfos": {
-      "initialPoolToken": 10000,
-      "initialPriceUSD": 0.01258525,
-      "initialPoolEth": 0.05,
-      "initialMarketCap": 125.8525
-    },
-    "currentInfos": {
-      "currentPoolToken": 9995,
-      "currentPriceUSD": 0.013160627117592527,
-      "currentPoolEth": 0.05002508776956181,
-      "currentMarketCap": 131.5404680403373
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1619487472",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.045718370123162266,
     "isRugged": true
   }
 ]
