@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xb12dc83f33681e9defb825b4cd0181cd4404fc1b",
+    "tokenName": "AYAN",
+    "idPair": "0xf5f1bf64ad9411387cacb3dab298efba185f41a9",
+    "idToken": "0xb12dc83f33681e9defb825b4cd0181cd4404fc1b",
+    "dateCreationToken": "2021-04-29T07:49:39Z",
+    "initialInfos": {
+      "initialPoolToken": 7000000,
+      "initialPriceUSD": 0.0007769828571428572,
+      "initialPoolEth": 2,
+      "initialMarketCap": 5438.88
+    },
+    "currentInfos": {
+      "currentPoolToken": 6089339.306685225,
+      "currentPriceUSD": 0.001027157739942857,
+      "currentPoolEth": 2.3,
+      "currentMarketCap": 6254.712
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619682579",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.3219824999999999,
+    "isRugged": false
+  },
+  {
     "_id": "0xd5562371b854fe0b2a19be9c53957cabeac742a7",
     "tokenName": "LINK",
     "idPair": "0xf18da4731f6dc811c0ce078714ab6e05eef5e0c8",
@@ -136,22 +167,22 @@
       "initialMarketCap": 951804
     },
     "currentInfos": {
-      "currentPoolToken": 16727479.33633395,
-      "currentPriceUSD": 0.06465549419034815,
-      "currentPoolEth": 397.700792460767,
-      "currentMarketCap": 1081523.4430495081
+      "currentPoolToken": 16644029.177798485,
+      "currentPriceUSD": 0.06530644181394551,
+      "currentPoolEth": 399.700792460767,
+      "currentMarketCap": 1086962.3230495083
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 17,
-    "holderCountOld": 0,
-    "txCount": 20,
+    "holderCount": 19,
+    "holderCountOld": 17,
+    "txCount": 21,
     "createdAtTimestamp": "1619679743",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.2906589903137777,
+    "priceChange": 0.30365326733756615,
     "isRugged": false
   },
   {
@@ -6163,37 +6194,6 @@
     "txCount": 2,
     "createdAtTimestamp": "1619562548",
     "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xe5554191ed4805bda771b517f995f03d29d90e56",
-    "tokenName": "1MLN",
-    "idPair": "0x5b44e6a033edad812b1a28728078203999ad07e5",
-    "idToken": "0xe5554191ed4805bda771b517f995f03d29d90e56",
-    "dateCreationToken": "2021-04-27T22:27:37Z",
-    "initialInfos": {
-      "initialPoolToken": 90000000,
-      "initialPriceUSD": 0.00008901333333333333,
-      "initialPoolEth": 3,
-      "initialMarketCap": 7915.1331699983475
-    },
-    "currentInfos": {
-      "currentPoolToken": 5.477226e-12,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1619562457",
-    "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
