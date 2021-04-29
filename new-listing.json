@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x9984f527a6cf356d94b6d3b91a11e9d387f7a193",
+    "tokenName": "HYDRAM",
+    "idPair": "0x150f82ab1e0f310b9c76091ee34a1fb34288d4e5",
+    "idToken": "0x9984f527a6cf356d94b6d3b91a11e9d387f7a193",
+    "dateCreationToken": "2021-04-29T15:50:39Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000000,
+      "initialPriceUSD": 1.3882e-11,
+      "initialPoolEth": 5,
+      "initialMarketCap": 13882
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000000000,
+      "currentPriceUSD": 1.3882e-11,
+      "currentPoolEth": 5,
+      "currentMarketCap": 13882
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619711439",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
+    "_id": "0xe4bbadf4128325c02a9abfdfe240ef30fd9e50b0",
+    "tokenName": "SSTARS",
+    "idPair": "0xf04c9db33fed8cc7b1f8402df6758737fdb93d7f",
+    "idToken": "0xe4bbadf4128325c02a9abfdfe240ef30fd9e50b0",
+    "dateCreationToken": "2021-04-29T15:49:26Z",
+    "initialInfos": {
+      "initialPoolToken": 10000000000000,
+      "initialPriceUSD": 1.26631604e-9,
+      "initialPoolEth": 4.561,
+      "initialMarketCap": 12723.031425899766
+    },
+    "currentInfos": {
+      "currentPoolToken": 10000000000000,
+      "currentPriceUSD": 1.26631604e-9,
+      "currentPoolEth": 4.561,
+      "currentMarketCap": 12663.1604
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619711366",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xa6f6ddc7e705c782986678530017a88a13621527",
     "tokenName": "YZY",
     "idPair": "0x051e309cc5a94fcea3d6bb61ad6f92c0d4c28b26",
@@ -7,15 +69,15 @@
     "dateCreationToken": "2021-04-29T14:50:52Z",
     "initialInfos": {
       "initialPoolToken": 500000,
-      "initialPriceUSD": 0.00555384,
+      "initialPriceUSD": 0.0055528,
       "initialPoolEth": 1,
-      "initialMarketCap": 2776.92
+      "initialMarketCap": 2776.4
     },
     "currentInfos": {
       "currentPoolToken": 4168.751042187761,
-      "currentPriceUSD": 0.007998855406690762,
+      "currentPriceUSD": 0.007997357558423084,
       "currentPoolEth": 0.012007993320887273,
-      "currentMarketCap": 33.34523681295132
+      "currentMarketCap": 33.3389926564244
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.44023871892073985,
+    "priceChange": 0.44023871892073974,
     "isRugged": true
   },
   {
@@ -144,7 +206,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 31,
+    "holderCount": 29,
     "holderCountOld": 0,
     "txCount": 78,
     "createdAtTimestamp": "1619705448",
@@ -6135,68 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x806e3c4ebafffcac0d34a3c1b6174bc67afa684b",
-    "tokenName": "SAFERUG",
-    "idPair": "0x42182882f672b717228f91dfc4619e8212e3ed9c",
-    "idToken": "0x806e3c4ebafffcac0d34a3c1b6174bc67afa684b",
-    "dateCreationToken": "2021-04-28T05:26:11Z",
-    "initialInfos": {
-      "initialPoolToken": 9000000,
-      "initialPriceUSD": 0.005761733333333333,
-      "initialPoolEth": 20,
-      "initialMarketCap": 51855.6
-    },
-    "currentInfos": {
-      "currentPoolToken": 5.43794e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 11,
-    "holderCountOld": 0,
-    "txCount": 13,
-    "createdAtTimestamp": "1619587571",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xda7b01690f01262f381adc236e64237496d4c3ae",
-    "tokenName": "DATBOI",
-    "idPair": "0x1803139134b1f0f821bb1c2ab725374d823f1128",
-    "idToken": "0xda7b01690f01262f381adc236e64237496d4c3ae",
-    "dateCreationToken": "2021-04-28T05:23:41Z",
-    "initialInfos": {
-      "initialPoolToken": 10000000,
-      "initialPriceUSD": 0.00000259708,
-      "initialPoolEth": 0.01,
-      "initialMarketCap": 26.380283526436923
-    },
-    "currentInfos": {
-      "currentPoolToken": 20000000,
-      "currentPriceUSD": 0.00000275921,
-      "currentPoolEth": 0.02,
-      "currentMarketCap": 55.1842
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1619587421",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.06242780353319886,
     "isRugged": true
   }
 ]
