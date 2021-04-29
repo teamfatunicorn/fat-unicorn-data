@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xda5843e4ffdca6085e2e0e9634430e4e4d7f4f8b",
+    "tokenName": "DFND",
+    "idPair": "0xd230cfbc7390f78f538e83bd5100e012d6dac324",
+    "idToken": "0xda5843e4ffdca6085e2e0e9634430e4e4d7f4f8b",
+    "dateCreationToken": "2021-04-29T22:32:22Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000,
+      "initialPriceUSD": 0.00012327525,
+      "initialPoolEth": 45,
+      "initialMarketCap": 123677.07094642163
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000,
+      "currentPriceUSD": 0.00012327525,
+      "currentPoolEth": 45,
+      "currentMarketCap": 123275.25
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619735542",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xd613d3b8e57e1d9a096af32d3cff0e9d3d838264",
     "tokenName": "MUSKY",
     "idPair": "0xf7a02c059a9dbcc0067c4046c93859c90ce986eb",
@@ -229,22 +260,22 @@
       "initialMarketCap": 205458.75
     },
     "currentInfos": {
-      "currentPoolToken": 836485.511012648,
-      "currentPriceUSD": 0.29379170472060895,
-      "currentPoolEth": 89.70870220463824,
-      "currentMarketCap": 245752.50425449558
+      "currentPoolToken": 826485.511012648,
+      "currentPriceUSD": 0.30095496210214256,
+      "currentPoolEth": 90.79739204759447,
+      "currentMarketCap": 248734.91564478137
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 26,
     "holderCountOld": 0,
-    "txCount": 24,
+    "txCount": 25,
     "createdAtTimestamp": "1619732438",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.42993036179091404,
+    "priceChange": 0.4647950603327557,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 2.983676425470085,
-    "isRugged": true
-  },
-  {
-    "_id": "0x587810537ccb69ab6ce0e06c06462c733de70ccd",
-    "tokenName": "UNO",
-    "idPair": "0xcd4c34d07794eddccfe7e78051f4cea45c4c9a38",
-    "idToken": "0x587810537ccb69ab6ce0e06c06462c733de70ccd",
-    "dateCreationToken": "2021-04-28T11:11:52Z",
-    "initialInfos": {
-      "initialPoolToken": 10350000,
-      "initialPriceUSD": 0.12095784154589372,
-      "initialPoolEth": 466,
-      "initialMarketCap": 1251913.66
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.48905e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 7e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 7,
-    "holderCountOld": 5,
-    "txCount": 7,
-    "createdAtTimestamp": "1619608312",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
