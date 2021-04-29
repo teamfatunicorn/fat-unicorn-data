@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x9040b3d45821fd5a76ec58511630f2e51368999d",
+    "tokenName": "STND",
+    "idPair": "0x93d5ff39f2147e3c120648c1e82b6590d7d503c7",
+    "idToken": "0x9040b3d45821fd5a76ec58511630f2e51368999d",
+    "dateCreationToken": "2021-04-29T13:10:02Z",
+    "initialInfos": {
+      "initialPoolToken": 600000,
+      "initialPriceUSD": 0.370024,
+      "initialPoolEth": 80,
+      "initialMarketCap": 222014.4
+    },
+    "currentInfos": {
+      "currentPoolToken": 597023.8361766593,
+      "currentPriceUSD": 0.3737279124882,
+      "currentPoolEth": 80.4,
+      "currentMarketCap": 223124.472
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619701802",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.010009924999999881,
+    "isRugged": false
+  },
+  {
     "_id": "0xd4ca98c88928dcd5eb8b565f820209cf40b48211",
     "tokenName": "SHIBLON",
     "idPair": "0xc6bf0dfaf868f851d458f32f22d77daa2c3b261a",
@@ -12,22 +43,22 @@
       "initialMarketCap": 15642.7968969436
     },
     "currentInfos": {
-      "currentPoolToken": 369775796816469.2,
-      "currentPriceUSD": 7.517076207624073e-11,
-      "currentPoolEth": 10.016045245369003,
-      "currentMarketCap": 27796.32844404314
+      "currentPoolToken": 329064030065439.7,
+      "currentPriceUSD": 9.495436675834422e-11,
+      "currentPoolEth": 11.259113498156202,
+      "currentMarketCap": 31246.06659781257
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 8,
+    "holderCount": 13,
     "holderCountOld": 0,
-    "txCount": 18,
+    "txCount": 24,
     "createdAtTimestamp": "1619700727",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.192373555841351,
+    "priceChange": 3.0325493726344637,
     "isRugged": false
   },
   {
@@ -100,27 +131,27 @@
     "dateCreationToken": "2021-04-29T11:59:54Z",
     "initialInfos": {
       "initialPoolToken": 1000000,
-      "initialPriceUSD": 0.10021284,
+      "initialPriceUSD": 0.09990648,
       "initialPoolEth": 36,
-      "initialMarketCap": 100212.84
+      "initialMarketCap": 99906.48
     },
     "currentInfos": {
-      "currentPoolToken": 486386.6753925037,
-      "currentPriceUSD": 0.4323006607923649,
-      "currentPoolEth": 75.76635792012817,
-      "currentMarketCap": 210265.28117278081
+      "currentPoolToken": 496839.93595813867,
+      "currentPriceUSD": 0.4143274301786245,
+      "currentPoolEth": 74.17695928755894,
+      "currentMarketCap": 205854.413875648
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 173,
+    "holderCount": 178,
     "holderCountOld": 0,
-    "txCount": 343,
+    "txCount": 345,
     "createdAtTimestamp": "1619697594",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 3.3138250626602828,
+    "priceChange": 3.147152719009062,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 1.3679280183280174,
     "isRugged": false
-  },
-  {
-    "_id": "0x3c7dbce6d80071369a6efc3a2e1aa576e9eeb218",
-    "tokenName": "KRILL",
-    "idPair": "0xff90d1fbf2b742a680155195d1af49f1a76c9c40",
-    "idToken": "0x3c7dbce6d80071369a6efc3a2e1aa576e9eeb218",
-    "dateCreationToken": "2021-04-28T04:14:29Z",
-    "initialInfos": {
-      "initialPoolToken": 890991883.7675351,
-      "initialPriceUSD": 0.000059194703072919006,
-      "initialPoolEth": 20,
-      "initialMarketCap": 52742
-    },
-    "currentInfos": {
-      "currentPoolToken": 13553493.676107166,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 9,
-    "holderCountOld": 0,
-    "txCount": 16,
-    "createdAtTimestamp": "1619583269",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
