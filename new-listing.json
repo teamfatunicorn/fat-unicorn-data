@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xdc67d70646f071aff5e42aba817468522521aca1",
+    "tokenName": "KOGE",
+    "idPair": "0x3d480ee0c286d8c0ba505c14e793909c3ef9dd4a",
+    "idToken": "0xdc67d70646f071aff5e42aba817468522521aca1",
+    "dateCreationToken": "2021-04-29T14:40:02Z",
+    "initialInfos": {
+      "initialPoolToken": 55000000000,
+      "initialPriceUSD": 3.0093163636363637e-7,
+      "initialPoolEth": 6,
+      "initialMarketCap": 16570.953808088336
+    },
+    "currentInfos": {
+      "currentPoolToken": 55000000000,
+      "currentPriceUSD": 3.0093163636363637e-7,
+      "currentPoolEth": 6,
+      "currentMarketCap": 16551.24
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619707202",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x5eed5621b92be4473f99bacac77acfa27deb57d9",
     "tokenName": "NYAX",
     "idPair": "0xa45178f80af7af84060d5b9f836aa9dec5dfb4c6",
@@ -136,22 +167,22 @@
       "initialMarketCap": 98739.18076
     },
     "currentInfos": {
-      "currentPoolToken": 166282.0194708209,
-      "currentPriceUSD": 1.673890345756722,
-      "currentPoolEth": 100.9004281486362,
-      "currentMarketCap": 278337.86706513836
+      "currentPoolToken": 144326.82745007979,
+      "currentPriceUSD": 2.2263915566816914,
+      "currentPoolEth": 116.48481806952742,
+      "currentMarketCap": 321328.030037513
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 588,
     "holderCountOld": 0,
-    "txCount": 600,
+    "txCount": 615,
     "createdAtTimestamp": "1619704249",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 5.781058270375392,
+    "priceChange": 8.019283083149176,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.06344818026398875,
     "isRugged": false
-  },
-  {
-    "_id": "0x74a42b26517c433dcb7d211341756a4c459a4ef8",
-    "tokenName": "LUXD",
-    "idPair": "0xb1a062e760b242a9002000e742b0cd4cade31293",
-    "idToken": "0x74a42b26517c433dcb7d211341756a4c459a4ef8",
-    "dateCreationToken": "2021-04-28T05:19:05Z",
-    "initialInfos": {
-      "initialPoolToken": 200000000000,
-      "initialPriceUSD": 1.29854e-8,
-      "initialPoolEth": 1,
-      "initialMarketCap": 2597.08
-    },
-    "currentInfos": {
-      "currentPoolToken": 3.31556542e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6,
-    "holderCountOld": 0,
-    "txCount": 7,
-    "createdAtTimestamp": "1619587145",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
