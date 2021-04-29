@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x05c26a876ce988f0ca83f367d77d4d68e90805c6",
+    "tokenName": "CZ100",
+    "idPair": "0xdf3adcc12116e579c3fbc3082393c38bd2d421f2",
+    "idToken": "0x05c26a876ce988f0ca83f367d77d4d68e90805c6",
+    "dateCreationToken": "2021-04-29T11:27:37Z",
+    "initialInfos": {
+      "initialPoolToken": 6000000,
+      "initialPriceUSD": 0.013290453,
+      "initialPoolEth": 29.7,
+      "initialMarketCap": 79742.718
+    },
+    "currentInfos": {
+      "currentPoolToken": 5749441.956968623,
+      "currentPriceUSD": 0.01455187385152749,
+      "currentPoolEth": 31.160902692233993,
+      "currentMarketCap": 83665.15407448675
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 8,
+    "holderCountOld": 0,
+    "txCount": 6,
+    "createdAtTimestamp": "1619695657",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.09491180259450073,
+    "isRugged": false
+  },
+  {
     "_id": "0x752f0c560d38f9a7dee01e07409b4c4c956b0d7a",
     "tokenName": "TURBOMOON",
     "idPair": "0x603543d84238b1c51dd648f3d4bd702e909e8d61",
@@ -144,7 +175,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 22,
+    "holderCount": 24,
     "holderCountOld": 0,
     "txCount": 23,
     "createdAtTimestamp": "1619692762",
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 4,
     "createdAtTimestamp": "1619579294",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x01cd82cdf05741e4aadb18edd6db073e5b3a01b3",
-    "tokenName": "VSO",
-    "idPair": "0x9f95194be361dff0bbb0c249dd44a981b68d5c2c",
-    "idToken": "0x01cd82cdf05741e4aadb18edd6db073e5b3a01b3",
-    "dateCreationToken": "2021-04-28T02:42:06Z",
-    "initialInfos": {
-      "initialPoolToken": 100000000,
-      "initialPriceUSD": 0.0012191334,
-      "initialPoolEth": 46,
-      "initialMarketCap": 121913.34
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.47442e-12,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1,
-    "holderCountOld": 0,
-    "txCount": 8,
-    "createdAtTimestamp": "1619577726",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
