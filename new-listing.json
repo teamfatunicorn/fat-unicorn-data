@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x9187c98018d588c4e709bc7845b4f886aaa33159",
+    "tokenName": "BOKK",
+    "idPair": "0xea73b791078b8e961e83306867652d25628439d5",
+    "idToken": "0x9187c98018d588c4e709bc7845b4f886aaa33159",
+    "dateCreationToken": "2021-04-29T04:04:51Z",
+    "initialInfos": {
+      "initialPoolToken": 106198125000,
+      "initialPriceUSD": 2.2926760712583203e-8,
+      "initialPoolEth": 0.9,
+      "initialMarketCap": 2434.779
+    },
+    "currentInfos": {
+      "currentPoolToken": 80061844739.47072,
+      "currentPriceUSD": 4.054830375897558e-8,
+      "currentPoolEth": 1.2,
+      "currentMarketCap": 3246.372
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619669091",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.76860151625,
+    "isRugged": false
+  },
+  {
+    "_id": "0xf2d41bdb763a68c37a173d0ded95fe055804464d",
+    "tokenName": "ALLEY",
+    "idPair": "0x0ffd77d7332bc3912b0d720fcbb410da94678fc0",
+    "idToken": "0xf2d41bdb763a68c37a173d0ded95fe055804464d",
+    "dateCreationToken": "2021-04-29T04:03:39Z",
+    "initialInfos": {
+      "initialPoolToken": 3000000,
+      "initialPriceUSD": 0.1352655,
+      "initialPoolEth": 150,
+      "initialMarketCap": 403634.42612687714
+    },
+    "currentInfos": {
+      "currentPoolToken": 2958702.4314616583,
+      "currentPriceUSD": 0.139073685350886,
+      "currentPoolEth": 152.1,
+      "currentMarketCap": 411477.651
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619669019",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.02815341199999984,
+    "isRugged": false
+  },
+  {
     "_id": "0xe1d47b51cd9ba55cf92f99615ff7c409f5b95b40",
     "tokenName": "TM",
     "idPair": "0x1eacbf2b5a709a2f1eb5bba071fbcd34b6fe6380",
@@ -43,22 +105,22 @@
       "initialMarketCap": 865699.2
     },
     "currentInfos": {
-      "currentPoolToken": 3967711.997215445,
-      "currentPriceUSD": 0.23651563067609,
-      "currentPoolEth": 346.88294700514916,
-      "currentMarketCap": 938425.9053624996
+      "currentPoolToken": 3966582.7436216953,
+      "currentPriceUSD": 0.2366505206359966,
+      "currentPoolEth": 346.98199889248696,
+      "currentMarketCap": 938693.871423834
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 19,
     "holderCountOld": 0,
-    "txCount": 19,
+    "txCount": 20,
     "createdAtTimestamp": "1619666278",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.17479282862590959,
+    "priceChange": 0.17546283828700016,
     "isRugged": false
   },
   {
@@ -6131,68 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 7,
     "createdAtTimestamp": "1619547320",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x806f0f541ef1c4f78a4e4ed0066f8bb8c697d4af",
-    "tokenName": "ELONX",
-    "idPair": "0xa3cd421c8dbcf0ae283da496c56e35e6bea77d9a",
-    "idToken": "0x806f0f541ef1c4f78a4e4ed0066f8bb8c697d4af",
-    "dateCreationToken": "2021-04-27T18:14:58Z",
-    "initialInfos": {
-      "initialPoolToken": 59999369000000,
-      "initialPriceUSD": 4.3981795875219956e-11,
-      "initialPoolEth": 1,
-      "initialMarketCap": 2638.88
-    },
-    "currentInfos": {
-      "currentPoolToken": 7.745925962e-9,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 36,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1619547298",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x8f3aee350e780d07be79d41630dd0c3dd76b744d",
-    "tokenName": "EDASH",
-    "idPair": "0xaf4c96c84939c49c29f15231c8a9eba7a22899c5",
-    "idToken": "0x8f3aee350e780d07be79d41630dd0c3dd76b744d",
-    "dateCreationToken": "2021-04-27T18:05:47Z",
-    "initialInfos": {
-      "initialPoolToken": 485000000000000,
-      "initialPriceUSD": 5.44098969072165e-12,
-      "initialPoolEth": 1,
-      "initialMarketCap": 2638.88
-    },
-    "currentInfos": {
-      "currentPoolToken": 18,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 5.7725e-14,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 8,
-    "holderCountOld": 0,
-    "txCount": 7,
-    "createdAtTimestamp": "1619546747",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
