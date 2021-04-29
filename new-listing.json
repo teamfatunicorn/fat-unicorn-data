@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xa10fa4cb49304b0a746efbcfb7fb5b3b8e5a0c10",
+    "tokenName": "SHIBALON",
+    "idPair": "0xf4e14274ede57e7bcfde54e0978d05af3ee5c815",
+    "idToken": "0xa10fa4cb49304b0a746efbcfb7fb5b3b8e5a0c10",
+    "dateCreationToken": "2021-04-29T10:28:07Z",
+    "initialInfos": {
+      "initialPoolToken": 45000000000,
+      "initialPriceUSD": 3.0635444444444445e-7,
+      "initialPoolEth": 5,
+      "initialMarketCap": 13785.95
+    },
+    "currentInfos": {
+      "currentPoolToken": 44925187593.7969,
+      "currentPriceUSD": 3.076815566410204e-7,
+      "currentPoolEth": 5.013311252125939,
+      "currentMarketCap": 13822.651651249285
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1619692087",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.004331950199000974,
+    "isRugged": false
+  },
+  {
     "_id": "0x3270aefc1ed275faa3295843b2f2618a54447a5b",
     "tokenName": "ALLEY",
     "idPair": "0x6a95274c15e1a2df28e68781853e2468eb569003",
@@ -12,22 +43,22 @@
       "initialMarketCap": 441150.4
     },
     "currentInfos": {
-      "currentPoolToken": 7477336.661887422,
-      "currentPriceUSD": 0.06313485386129958,
-      "currentPoolEth": 171.218,
-      "currentMarketCap": 472080.55742
+      "currentPoolToken": 7211928.526512089,
+      "currentPriceUSD": 0.06787449382235353,
+      "currentPoolEth": 177.538,
+      "currentMarketCap": 489505.99822
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 2,
+    "holderCount": 10,
     "holderCountOld": 0,
-    "txCount": 9,
+    "txCount": 10,
     "createdAtTimestamp": "1619691486",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.14491300674417756,
+    "priceChange": 0.2308635571424807,
     "isRugged": false
   },
   {
@@ -51,7 +82,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 2,
+    "holderCount": 3,
     "holderCountOld": 0,
     "txCount": 3,
     "createdAtTimestamp": "1619691142",
@@ -74,22 +105,22 @@
       "initialMarketCap": 405306.93
     },
     "currentInfos": {
-      "currentPoolToken": 761677.318609216,
-      "currentPriceUSD": 0.43451020761667664,
-      "currentPoolEth": 120.03400920712902,
-      "currentMarketCap": 330956.569845804
+      "currentPoolToken": 799478.3987577581,
+      "currentPriceUSD": 0.3944710148820341,
+      "currentPoolEth": 114.38132857519327,
+      "currentMarketCap": 315371.0553342364
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 473,
+    "holderCount": 492,
     "holderCountOld": 0,
-    "txCount": 149,
+    "txCount": 155,
     "createdAtTimestamp": "1619689704",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": -0.34156051470608667,
+    "priceChange": -0.4022343147541617,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.255716951016573,
     "isRugged": false
-  },
-  {
-    "_id": "0x47d6c79fe61311e1f7a01ed936d938594194a4b1",
-    "tokenName": "CDOGE",
-    "idPair": "0x4bb00f318a0d03035b61654cdd9f4c96a8e14e0b",
-    "idToken": "0x47d6c79fe61311e1f7a01ed936d938594194a4b1",
-    "dateCreationToken": "2021-04-28T01:56:39Z",
-    "initialInfos": {
-      "initialPoolToken": 15000000,
-      "initialPriceUSD": 0.001601448,
-      "initialPoolEth": 9,
-      "initialMarketCap": 24021.72
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.085012e-12,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 15,
-    "holderCountOld": 0,
-    "txCount": 34,
-    "createdAtTimestamp": "1619574999",
-    "isCodeGenerator": true,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
