@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x6373c2ed6a283034545d261704055dd8a6d5c9e3",
+    "tokenName": "ECON",
+    "idPair": "0x075736ffcc2321f886312211212304db0c157ca0",
+    "idToken": "0x6373c2ed6a283034545d261704055dd8a6d5c9e3",
+    "dateCreationToken": "2021-04-29T22:20:23Z",
+    "initialInfos": {
+      "initialPoolToken": 210000000,
+      "initialPriceUSD": 0.000014342638095238095,
+      "initialPoolEth": 1.1,
+      "initialMarketCap": 3011.954
+    },
+    "currentInfos": {
+      "currentPoolToken": 210000000,
+      "currentPriceUSD": 0.000018254266666666666,
+      "currentPoolEth": 1.4,
+      "currentMarketCap": 3833.396
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619734823",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.27272727272727265,
+    "isRugged": false
+  },
+  {
     "_id": "0xae995957aa1bd3e083faa13400144a06bee26b6a",
     "tokenName": "$LONDON",
     "idPair": "0x55695a247eed3c656cc2b61e8044506ac00f11c3",
@@ -43,22 +74,22 @@
       "initialMarketCap": 14424.980554286389
     },
     "currentInfos": {
-      "currentPoolToken": 7119.061639142193,
-      "currentPriceUSD": 2.852258893790711,
-      "currentPoolEth": 7.415766496850569,
-      "currentMarketCap": 20305.406875687597
+      "currentPoolToken": 6824.842047092809,
+      "currentPriceUSD": 3.1039042796959775,
+      "currentPoolEth": 7.736513267480625,
+      "currentMarketCap": 21183.656438220427
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 33,
     "holderCountOld": 0,
-    "txCount": 8,
+    "txCount": 11,
     "createdAtTimestamp": "1619734249",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.9750343680395849,
+    "priceChange": 1.149285130059631,
     "isRugged": false
   },
   {
@@ -167,22 +198,22 @@
       "initialMarketCap": 205360.5
     },
     "currentInfos": {
-      "currentPoolToken": 864507.060758301,
-      "currentPriceUSD": 0.274896159746835,
-      "currentPoolEth": 86.79237404825203,
-      "currentMarketCap": 237649.67107648074
+      "currentPoolToken": 859570.0410012323,
+      "currentPriceUSD": 0.27806778933112913,
+      "currentPoolEth": 87.29237404825203,
+      "currentMarketCap": 239018.74107648074
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 24,
     "holderCountOld": 0,
-    "txCount": 19,
+    "txCount": 20,
     "createdAtTimestamp": "1619732438",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.3386028946503101,
+    "priceChange": 0.35404709927726674,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.4751953740637038,
-    "isRugged": false
-  },
-  {
-    "_id": "0x428f7fa1bfbb1222db5aeb74bc66efe40eb71164",
-    "tokenName": "CHIA",
-    "idPair": "0x1bb4008a5cbca68d61ac433e87883f71ced69e12",
-    "idToken": "0x428f7fa1bfbb1222db5aeb74bc66efe40eb71164",
-    "dateCreationToken": "2021-04-28T11:02:47Z",
-    "initialInfos": {
-      "initialPoolToken": 5,
-      "initialPriceUSD": 1072.956,
-      "initialPoolEth": 2,
-      "initialMarketCap": 5364.78
-    },
-    "currentInfos": {
-      "currentPoolToken": 5,
-      "currentPriceUSD": 1093.664,
-      "currentPoolEth": 2,
-      "currentMarketCap": 5468.32
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 1,
-    "createdAtTimestamp": "1619607767",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.019299952654162972,
     "isRugged": false
   }
 ]
