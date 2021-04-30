@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x61d15893308aab5005ab0611b0f0accd30ebefb3",
+    "tokenName": "NAOS",
+    "idPair": "0xfcd6de3ed9f3dc19981782bc04bdf70a2c72027f",
+    "idToken": "0x61d15893308aab5005ab0611b0f0accd30ebefb3",
+    "dateCreationToken": "2021-04-30T05:52:48Z",
+    "initialInfos": {
+      "initialPoolToken": 6000000,
+      "initialPriceUSD": 0.18465133333333333,
+      "initialPoolEth": 400,
+      "initialMarketCap": 1107908
+    },
+    "currentInfos": {
+      "currentPoolToken": 6000000,
+      "currentPriceUSD": 0.18465133333333333,
+      "currentPoolEth": 400,
+      "currentMarketCap": 1107908
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619761968",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xd052cd533f5eedc4b7f77f19cc1ea3af67dd5e7a",
     "tokenName": "NTVRK",
     "idPair": "0xa5dc07f0e8e47fa9a8d966e4a020f94a7a31fc6b",
@@ -1643,37 +1674,6 @@
     "isRugged": true
   },
   {
-    "_id": "0xae995957aa1bd3e083faa13400144a06bee26b6a",
-    "tokenName": "$LONDON",
-    "idPair": "0x55695a247eed3c656cc2b61e8044506ac00f11c3",
-    "idToken": "0xae995957aa1bd3e083faa13400144a06bee26b6a",
-    "dateCreationToken": "2021-04-29T22:10:49Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000000,
-      "initialPriceUSD": 1.653948e-11,
-      "initialPoolEth": 6,
-      "initialMarketCap": 16539.48
-    },
-    "currentInfos": {
-      "currentPoolToken": 954028576871004.1,
-      "currentPriceUSD": 1.8231618865177666e-11,
-      "currentPoolEth": 6.29,
-      "currentMarketCap": 17393.4854
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 2,
-    "holderCountOld": 1,
-    "txCount": 3,
-    "createdAtTimestamp": "1619734249",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.1023090729078343,
-    "isRugged": false
-  },
-  {
     "_id": "0xf94d66fb399a98b33563d87447b41a6a75bffdf0",
     "tokenName": "VOTX",
     "idPair": "0x042fe42c75d50f43fdc6d618baede04768e98a42",
@@ -1702,6 +1702,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 4.811987270588009,
+    "isRugged": false
+  },
+  {
+    "_id": "0xae995957aa1bd3e083faa13400144a06bee26b6a",
+    "tokenName": "$LONDON",
+    "idPair": "0x55695a247eed3c656cc2b61e8044506ac00f11c3",
+    "idToken": "0xae995957aa1bd3e083faa13400144a06bee26b6a",
+    "dateCreationToken": "2021-04-29T22:10:49Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000000,
+      "initialPriceUSD": 1.653948e-11,
+      "initialPoolEth": 6,
+      "initialMarketCap": 16539.48
+    },
+    "currentInfos": {
+      "currentPoolToken": 954028576871004.1,
+      "currentPriceUSD": 1.8231618865177666e-11,
+      "currentPoolEth": 6.29,
+      "currentMarketCap": 17393.4854
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 2,
+    "holderCountOld": 1,
+    "txCount": 3,
+    "createdAtTimestamp": "1619734249",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.1023090729078343,
     "isRugged": false
   },
   {
@@ -6162,37 +6193,6 @@
     "holderCountOld": 5,
     "txCount": 8,
     "createdAtTimestamp": "1619638147",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x119080f510453d92433c0cf169f3d557ea10b7bb",
-    "tokenName": "VINCI",
-    "idPair": "0x49953a9fc5416cfe03e11e298592759d768deb9c",
-    "idToken": "0x119080f510453d92433c0cf169f3d557ea10b7bb",
-    "dateCreationToken": "2021-04-28T19:01:41Z",
-    "initialInfos": {
-      "initialPoolToken": 100000000000000000,
-      "initialPriceUSD": 1.102672e-13,
-      "initialPoolEth": 4,
-      "initialMarketCap": 11026.72
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.01499101,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 13,
-    "holderCountOld": 12,
-    "txCount": 14,
-    "createdAtTimestamp": "1619636501",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
