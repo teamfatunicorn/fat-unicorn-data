@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x64db737d46a53f9e89a94755323e30f664335d83",
+    "tokenName": "CDOGE",
+    "idPair": "0xa2c589b8a8d2c71c0cd110fe93b48ef1246d0142",
+    "idToken": "0x64db737d46a53f9e89a94755323e30f664335d83",
+    "dateCreationToken": "2021-04-30T17:56:35Z",
+    "initialInfos": {
+      "initialPoolToken": 19155937419.851242,
+      "initialPriceUSD": 0.0000028784704601748586,
+      "initialPoolEth": 20,
+      "initialMarketCap": 55139.8
+    },
+    "currentInfos": {
+      "currentPoolToken": 7463012814.507143,
+      "currentPriceUSD": 0.000019126955832397108,
+      "currentPoolEth": 51.77556555507698,
+      "currentMarketCap": 142744.71647969174
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 37,
+    "holderCountOld": 0,
+    "txCount": 52,
+    "createdAtTimestamp": "1619805395",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 5.644833114332256,
+    "isRugged": false
+  },
+  {
     "_id": "0xef2e239b21a81719abaabc6239e2e90859b44d9b",
     "tokenName": "TTX",
     "idPair": "0x74c6fc49d31f8fed7e004a7dbe1166c41cefd05e",
@@ -12,22 +43,22 @@
       "initialMarketCap": 138304.09100485378
     },
     "currentInfos": {
-      "currentPoolToken": 336778.5188699112,
-      "currentPriceUSD": 0.5860429561114127,
-      "currentPoolEth": 71.58773834991983,
-      "currentMarketCap": 197366.67875334594
+      "currentPoolToken": 337562.21478127537,
+      "currentPriceUSD": 0.5833290232109685,
+      "currentPoolEth": 71.42203527081837,
+      "currentMarketCap": 196909.8370212925
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 261,
     "holderCountOld": 0,
-    "txCount": 72,
+    "txCount": 73,
     "createdAtTimestamp": "1619802787",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.4613927955001514,
+    "priceChange": 0.4546251653344439,
     "isRugged": false
   },
   {
@@ -1643,37 +1674,6 @@
     "isRugged": true
   },
   {
-    "_id": "0x9fe869c3cb5101566476d8f476585946f4fe2b4d",
-    "tokenName": "iKITA",
-    "idPair": "0xde21d481fcd7983623e4a5abd2adcf068ac7c623",
-    "idToken": "0x9fe869c3cb5101566476d8f476585946f4fe2b4d",
-    "dateCreationToken": "2021-04-30T06:13:24Z",
-    "initialInfos": {
-      "initialPoolToken": 45100000000,
-      "initialPriceUSD": 4.954838137472284e-8,
-      "initialPoolEth": 0.8,
-      "initialMarketCap": 2234.632
-    },
-    "currentInfos": {
-      "currentPoolToken": 27451897870.80809,
-      "currentPriceUSD": 1.4520250708504554e-7,
-      "currentPoolEth": 1.441595774066568,
-      "currentMarketCap": 3986.0843950839585
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 47,
-    "holderCountOld": 49,
-    "txCount": 186,
-    "createdAtTimestamp": "1619763204",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.9305196871500783,
-    "isRugged": false
-  },
-  {
     "_id": "0xce30610081ad93ad38c6c36250a1eb189d7fefa7",
     "tokenName": "FWD",
     "idPair": "0x93285f0f469f499150e78207cfcda3fa1aa4cf7e",
@@ -1703,6 +1703,37 @@
     "officialSite": null,
     "priceChange": -0.18168586643689627,
     "isRugged": true
+  },
+  {
+    "_id": "0x9fe869c3cb5101566476d8f476585946f4fe2b4d",
+    "tokenName": "iKITA",
+    "idPair": "0xde21d481fcd7983623e4a5abd2adcf068ac7c623",
+    "idToken": "0x9fe869c3cb5101566476d8f476585946f4fe2b4d",
+    "dateCreationToken": "2021-04-30T06:13:24Z",
+    "initialInfos": {
+      "initialPoolToken": 45100000000,
+      "initialPriceUSD": 4.954838137472284e-8,
+      "initialPoolEth": 0.8,
+      "initialMarketCap": 2234.632
+    },
+    "currentInfos": {
+      "currentPoolToken": 27451897870.80809,
+      "currentPriceUSD": 1.4520250708504554e-7,
+      "currentPoolEth": 1.441595774066568,
+      "currentMarketCap": 3986.0843950839585
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 47,
+    "holderCountOld": 49,
+    "txCount": 186,
+    "createdAtTimestamp": "1619763204",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.9305196871500783,
+    "isRugged": false
   },
   {
     "_id": "0x63867b97f748d349865de16d7c2b054af00fddc4",
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 4,
     "createdAtTimestamp": "1619677535",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x539be1687d914eb9f92ba4958fd3e9c02745ef5e",
-    "tokenName": "ELMD",
-    "idPair": "0xb587209cb1f8612a965b7bff4179ccd4fccff3b8",
-    "idToken": "0x539be1687d914eb9f92ba4958fd3e9c02745ef5e",
-    "dateCreationToken": "2021-04-29T06:19:21Z",
-    "initialInfos": {
-      "initialPoolToken": 939999998999,
-      "initialPriceUSD": 1.1006053203209638e-8,
-      "initialPoolEth": 3.8,
-      "initialMarketCap": 10345.69
-    },
-    "currentInfos": {
-      "currentPoolToken": 4.57722428e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 7,
-    "holderCountOld": 0,
-    "txCount": 11,
-    "createdAtTimestamp": "1619677161",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
