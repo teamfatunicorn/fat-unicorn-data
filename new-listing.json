@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x68b1cadb8d5ab0c97fe9d9fbe0eb60acb329fe3f",
+    "tokenName": "uAXIE",
+    "idPair": "0x65de1a5d1c5ae8f995305c1c6f6427073dc460bd",
+    "idToken": "0x68b1cadb8d5ab0c97fe9d9fbe0eb60acb329fe3f",
+    "dateCreationToken": "2021-04-30T00:45:54Z",
+    "initialInfos": {
+      "initialPoolToken": 231220,
+      "initialPriceUSD": 0.2987068592682294,
+      "initialPoolEth": 25,
+      "initialMarketCap": 69067
+    },
+    "currentInfos": {
+      "currentPoolToken": 231220,
+      "currentPriceUSD": 0.2987068592682294,
+      "currentPoolEth": 25,
+      "currentMarketCap": 69067
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 44,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619743554",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x37e4dcac228328c6875cc94d77b62a487736a6a5",
     "tokenName": "ELONGER",
     "idPair": "0x07cb535eef796a6e812e816d38f02f289cac351c",
@@ -12,22 +43,22 @@
       "initialMarketCap": 82880.4
     },
     "currentInfos": {
-      "currentPoolToken": 8614610238.932104,
-      "currentPriceUSD": 0.00000994556300159636,
-      "currentPoolEth": 31.012331817473058,
-      "currentMarketCap": 85677.1488654963
+      "currentPoolToken": 8700393714.919128,
+      "currentPriceUSD": 0.000009745687767731695,
+      "currentPoolEth": 30.708920116741467,
+      "currentMarketCap": 84791.32060193708
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 9,
     "holderCountOld": 0,
-    "txCount": 15,
+    "txCount": 19,
     "createdAtTimestamp": "1619743052",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.06809107537065308,
+    "priceChange": 0.046625729120852645,
     "isRugged": false
   },
   {
@@ -434,37 +465,6 @@
     "isRugged": true
   },
   {
-    "_id": "0xf94d66fb399a98b33563d87447b41a6a75bffdf0",
-    "tokenName": "VOTX",
-    "idPair": "0x042fe42c75d50f43fdc6d618baede04768e98a42",
-    "idToken": "0xf94d66fb399a98b33563d87447b41a6a75bffdf0",
-    "dateCreationToken": "2021-04-29T22:10:49Z",
-    "initialInfos": {
-      "initialPoolToken": 10000,
-      "initialPriceUSD": 1.453882258348513,
-      "initialPoolEth": 5.2742247943049465,
-      "initialMarketCap": 14424.980554286389
-    },
-    "currentInfos": {
-      "currentPoolToken": 4163.169632640474,
-      "currentPriceUSD": 8.44565207261323,
-      "currentPoolEth": 12.721608515807642,
-      "currentMarketCap": 35076.14621587098
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 35,
-    "holderCountOld": 37,
-    "txCount": 41,
-    "createdAtTimestamp": "1619734249",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 4.809034413974331,
-    "isRugged": false
-  },
-  {
     "_id": "0xae995957aa1bd3e083faa13400144a06bee26b6a",
     "tokenName": "$LONDON",
     "idPair": "0x55695a247eed3c656cc2b61e8044506ac00f11c3",
@@ -493,6 +493,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.09910012039092506,
+    "isRugged": false
+  },
+  {
+    "_id": "0xf94d66fb399a98b33563d87447b41a6a75bffdf0",
+    "tokenName": "VOTX",
+    "idPair": "0x042fe42c75d50f43fdc6d618baede04768e98a42",
+    "idToken": "0xf94d66fb399a98b33563d87447b41a6a75bffdf0",
+    "dateCreationToken": "2021-04-29T22:10:49Z",
+    "initialInfos": {
+      "initialPoolToken": 10000,
+      "initialPriceUSD": 1.453882258348513,
+      "initialPoolEth": 5.2742247943049465,
+      "initialMarketCap": 14424.980554286389
+    },
+    "currentInfos": {
+      "currentPoolToken": 4163.169632640474,
+      "currentPriceUSD": 8.44565207261323,
+      "currentPoolEth": 12.721608515807642,
+      "currentMarketCap": 35076.14621587098
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 35,
+    "holderCountOld": 37,
+    "txCount": 41,
+    "createdAtTimestamp": "1619734249",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 4.809034413974331,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xcc0014ccb39f6e86b1be0f17859a783b6722722f",
-    "tokenName": "SHO",
-    "idPair": "0x73bb0374ff7a5cce866c9d74e9b468b06953b39f",
-    "idToken": "0xcc0014ccb39f6e86b1be0f17859a783b6722722f",
-    "dateCreationToken": "2021-04-28T12:34:44Z",
-    "initialInfos": {
-      "initialPoolToken": 316300,
-      "initialPriceUSD": 0.07419103699019917,
-      "initialPoolEth": 8.75,
-      "initialMarketCap": 23734.630580065288
-    },
-    "currentInfos": {
-      "currentPoolToken": 751540.6309948909,
-      "currentPriceUSD": 0.2845516762063414,
-      "currentPoolEth": 77.68080403884065,
-      "currentMarketCap": 213852.14628676773
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 337,
-    "holderCountOld": 336,
-    "txCount": 385,
-    "createdAtTimestamp": "1619613284",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 2.8353915479565464,
-    "isRugged": false
   }
 ]
