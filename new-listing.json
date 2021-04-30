@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x88cc09a52d7396af9cb75722995d35094c80a53b",
+    "tokenName": "HRS",
+    "idPair": "0x52a0180ef7e47a12e6e9547b029ae6268bc58107",
+    "idToken": "0x88cc09a52d7396af9cb75722995d35094c80a53b",
+    "dateCreationToken": "2021-04-30T13:24:27Z",
+    "initialInfos": {
+      "initialPoolToken": 18000,
+      "initialPriceUSD": 4.284217777777778,
+      "initialPoolEth": 28,
+      "initialMarketCap": 77115.92
+    },
+    "currentInfos": {
+      "currentPoolToken": 18000,
+      "currentPriceUSD": 4.284217777777778,
+      "currentPoolEth": 28,
+      "currentMarketCap": 77115.92
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619789067",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xd6d6da0f10db9ac1aef4fa1798f1585e71ce4523",
     "tokenName": "Cronje",
     "idPair": "0x69e3da419d42b97c206ccc84c9a8d44ca25e903e",
@@ -74,22 +105,22 @@
       "initialMarketCap": 550828
     },
     "currentInfos": {
-      "currentPoolToken": 12265341.964676384,
-      "currentPriceUSD": 0.05128078202080822,
-      "currentPoolEth": 228.37485665261832,
-      "currentMarketCap": 628976.3277012414
+      "currentPoolToken": 12181912.662923636,
+      "currentPriceUSD": 0.05198665835212765,
+      "currentPoolEth": 229.94362366577877,
+      "currentMarketCap": 633296.9316828686
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 5,
     "holderCountOld": 0,
-    "txCount": 9,
+    "txCount": 13,
     "createdAtTimestamp": "1619788380",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.3033668373635965,
+    "priceChange": 0.3213075895375456,
     "isRugged": false
   },
   {
@@ -136,22 +167,22 @@
       "initialMarketCap": 82624.2
     },
     "currentInfos": {
-      "currentPoolToken": 541453508.0340378,
-      "currentPriceUSD": 0.00022572422790296788,
-      "currentPoolEth": 44.37652953239,
-      "currentMarketCap": 122219.17504633659
+      "currentPoolToken": 534038310.00995517,
+      "currentPriceUSD": 0.00023204578097507002,
+      "currentPoolEth": 44.99456698529,
+      "currentMarketCap": 123921.3367168666
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 26,
     "holderCountOld": 0,
-    "txCount": 44,
+    "txCount": 49,
     "createdAtTimestamp": "1619788095",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 1.1855507505352463,
+    "priceChange": 1.2467585136080714,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.035058206042661896,
-    "isRugged": true
-  },
-  {
-    "_id": "0x02d6b2dc550aa2eec80932180ec633e8e529d18b",
-    "tokenName": "STND",
-    "idPair": "0x393a90265fd0fbd17f022463760f274111baa2b6",
-    "idToken": "0x02d6b2dc550aa2eec80932180ec633e8e529d18b",
-    "dateCreationToken": "2021-04-29T03:17:58Z",
-    "initialInfos": {
-      "initialPoolToken": 4300000,
-      "initialPriceUSD": 0.2003653953488372,
-      "initialPoolEth": 320,
-      "initialMarketCap": 861571.2
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.02947e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 38,
-    "holderCountOld": 37,
-    "txCount": 42,
-    "createdAtTimestamp": "1619666278",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
