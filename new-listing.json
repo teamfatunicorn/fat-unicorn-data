@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xdfadf0c464eec8621ff1d73754d85cf64eb813cf",
+    "tokenName": "MTEER",
+    "idPair": "0x3111bc91644d261b0f6580a26138fd4c726228bd",
+    "idToken": "0xdfadf0c464eec8621ff1d73754d85cf64eb813cf",
+    "dateCreationToken": "2021-04-30T18:36:38Z",
+    "initialInfos": {
+      "initialPoolToken": 100000000000,
+      "initialPriceUSD": 1.651002e-9,
+      "initialPoolEth": 0.06,
+      "initialMarketCap": 165.50710600147787
+    },
+    "currentInfos": {
+      "currentPoolToken": 19401778496.362167,
+      "currentPriceUSD": 4.4011810575e-8,
+      "currentPoolEth": 0.31,
+      "currentMarketCap": 853.9074
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619807798",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 25.657636135510437,
+    "isRugged": false
+  },
+  {
     "_id": "0xea941a6dd8fc51ffa5ec1ab2255e38bfefe5d158",
     "tokenName": "TRKR",
     "idPair": "0x7d478b916b1b703b9f1766e274f61d23c504c832",
@@ -13,9 +44,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 69593311.476312,
-      "currentPriceUSD": 0.000009094036288464581,
+      "currentPriceUSD": 0.000009103521395380707,
       "currentPoolEth": 0.23,
-      "currentMarketCap": 632.8841
+      "currentMarketCap": 633.5442
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.321966120714269,
+    "priceChange": 0.32334493531284003,
     "isRugged": false
   },
   {
@@ -105,22 +136,22 @@
       "initialMarketCap": 55033.4
     },
     "currentInfos": {
-      "currentPoolToken": 9718494498.232315,
-      "currentPriceUSD": 0.000011606524030828097,
-      "currentPoolEth": 40.99253905344899,
-      "currentMarketCap": 112797.939937204
+      "currentPoolToken": 9244169065.731169,
+      "currentPriceUSD": 0.00001285331584418557,
+      "currentPoolEth": 43.13541452253135,
+      "currentMarketCap": 118818.22471889254
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 296,
     "holderCountOld": 0,
-    "txCount": 537,
+    "txCount": 554,
     "createdAtTimestamp": "1619805395",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 3.0399802301246632,
+    "priceChange": 3.4739615206184107,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xf150b9054013552a6288320dc4afe1beebb79d8e",
-    "tokenName": "ANGEL",
-    "idPair": "0x3e09657b21477ea980b4fdb59a3485dc672c23bf",
-    "idToken": "0xf150b9054013552a6288320dc4afe1beebb79d8e",
-    "dateCreationToken": "2021-04-29T07:00:06Z",
-    "initialInfos": {
-      "initialPoolToken": 285000,
-      "initialPriceUSD": 0.0033442315789473684,
-      "initialPoolEth": 0.35,
-      "initialMarketCap": 955.9852321582212
-    },
-    "currentInfos": {
-      "currentPoolToken": 278000,
-      "currentPriceUSD": 0.003570749588612081,
-      "currentPoolEth": 0.358839468044421,
-      "currentMarketCap": 992.6683856341585
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 13977,
-    "holderCountOld": 13976,
-    "txCount": 2,
-    "createdAtTimestamp": "1619679606",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.06773394853714398,
-    "isRugged": false
   }
 ]
