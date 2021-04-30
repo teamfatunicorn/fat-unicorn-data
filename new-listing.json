@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xe88199ba72775b17d8b91eb26775204e0aa5dac3",
+    "tokenName": "DogeFather",
+    "idPair": "0xf7aec714c9cf7b53ccea65d711cc5128ff32b02f",
+    "idToken": "0xe88199ba72775b17d8b91eb26775204e0aa5dac3",
+    "dateCreationToken": "2021-04-30T02:42:33Z",
+    "initialInfos": {
+      "initialPoolToken": 950000000000,
+      "initialPriceUSD": 1.3366922105263157e-7,
+      "initialPoolEth": 46,
+      "initialMarketCap": 125876.70259530368
+    },
+    "currentInfos": {
+      "currentPoolToken": 950000000000,
+      "currentPriceUSD": 1.3366922105263157e-7,
+      "currentPoolEth": 46,
+      "currentMarketCap": 126985.76
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": null,
+    "txCount": 1,
+    "createdAtTimestamp": "1619750553",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x83224eaa1a1d0e42048b21b253562217f4cc0ec8",
     "tokenName": "S3XY",
     "idPair": "0x3a894ff79f09b99c91c1b74775e3747bf779cf4a",
@@ -136,22 +167,22 @@
       "initialMarketCap": 1380.28
     },
     "currentInfos": {
-      "currentPoolToken": 182101644.17370594,
-      "currentPriceUSD": 0.000016957103778975353,
-      "currentPoolEth": 1.118583359381887,
-      "currentMarketCap": 3087.916478575574
+      "currentPoolToken": 155729196.05733022,
+      "currentPriceUSD": 0.000023196824808918264,
+      "currentPoolEth": 1.308583359381887,
+      "currentMarketCap": 3612.422878575574
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 11,
     "holderCountOld": 0,
-    "txCount": 39,
+    "txCount": 40,
     "createdAtTimestamp": "1619748976",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 3.914105479750588,
+    "priceChange": 5.722353380160044,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xcdb9d30a3ba48cdfcb0ecbe19317e6cf783672f1",
-    "tokenName": "MNDCC",
-    "idPair": "0xb580887f41929aaef1e5994f07df2623c1842bf8",
-    "idToken": "0xcdb9d30a3ba48cdfcb0ecbe19317e6cf783672f1",
-    "dateCreationToken": "2021-04-28T15:37:14Z",
-    "initialInfos": {
-      "initialPoolToken": 1000,
-      "initialPriceUSD": 2.1127158,
-      "initialPoolEth": 0.78,
-      "initialMarketCap": 2090.055827261331
-    },
-    "currentInfos": {
-      "currentPoolToken": 2054.103260138359,
-      "currentPriceUSD": 4.118479234892508,
-      "currentPoolEth": 3.067616814746674,
-      "currentMarketCap": 8459.781623204834
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 17,
-    "holderCountOld": 15,
-    "txCount": 13,
-    "createdAtTimestamp": "1619624234",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.9493768328388076,
-    "isRugged": false
   }
 ]
