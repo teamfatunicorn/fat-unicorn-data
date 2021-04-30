@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x5113c50fa941e425e930dfc690d27f9e1e8cff73",
+    "tokenName": "EDongD",
+    "idPair": "0x0b5493a4e2c6fa1816ac10882f174ded732d1e6b",
+    "idToken": "0x5113c50fa941e425e930dfc690d27f9e1e8cff73",
+    "dateCreationToken": "2021-04-30T09:06:45Z",
+    "initialInfos": {
+      "initialPoolToken": 69696969696,
+      "initialPriceUSD": 3.995668695707766e-7,
+      "initialPoolEth": 10,
+      "initialMarketCap": 27848.6
+    },
+    "currentInfos": {
+      "currentPoolToken": 69696969696,
+      "currentPriceUSD": 3.995668695707766e-7,
+      "currentPoolEth": 10,
+      "currentMarketCap": 27848.6
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619773605",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xb620a54154baf5db3564a64127fa449d52d4325e",
     "tokenName": "LINK",
     "idPair": "0x3f2094a1191cc40f11dba7c83fbca31dba10057f",
@@ -43,22 +74,22 @@
       "initialMarketCap": 50127.48
     },
     "currentInfos": {
-      "currentPoolToken": 276530.8696815979,
-      "currentPriceUSD": 0.33215803997067345,
-      "currentPoolEth": 32.98261013653346,
-      "currentMarketCap": 91851.95166482529
+      "currentPoolToken": 299313.9235268306,
+      "currentPriceUSD": 0.2835816406219505,
+      "currentPoolEth": 30.479066629823627,
+      "currentMarketCap": 84879.93349473167
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 65,
     "holderCountOld": 0,
-    "txCount": 133,
+    "txCount": 135,
     "createdAtTimestamp": "1619768621",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 2.3131332352102425,
+    "priceChange": 1.8286045959416921,
     "isRugged": false
   },
   {
@@ -341,37 +372,6 @@
     "isRugged": true
   },
   {
-    "_id": "0xce30610081ad93ad38c6c36250a1eb189d7fefa7",
-    "tokenName": "FWD",
-    "idPair": "0x93285f0f469f499150e78207cfcda3fa1aa4cf7e",
-    "idToken": "0xce30610081ad93ad38c6c36250a1eb189d7fefa7",
-    "dateCreationToken": "2021-04-30T06:13:24Z",
-    "initialInfos": {
-      "initialPoolToken": 1000,
-      "initialPriceUSD": 0.0279329,
-      "initialPoolEth": 0.01,
-      "initialMarketCap": 27.683740033082625
-    },
-    "currentInfos": {
-      "currentPoolToken": 1100,
-      "currentPriceUSD": 0.023008506451869654,
-      "currentPoolEth": 0.009093389106119851,
-      "currentMarketCap": 25.30935709705662
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1619763204",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.17629367334327425,
-    "isRugged": true
-  },
-  {
     "_id": "0x9fe869c3cb5101566476d8f476585946f4fe2b4d",
     "tokenName": "iKITA",
     "idPair": "0xde21d481fcd7983623e4a5abd2adcf068ac7c623",
@@ -401,6 +401,37 @@
     "officialSite": null,
     "priceChange": 16.950454407081402,
     "isRugged": false
+  },
+  {
+    "_id": "0xce30610081ad93ad38c6c36250a1eb189d7fefa7",
+    "tokenName": "FWD",
+    "idPair": "0x93285f0f469f499150e78207cfcda3fa1aa4cf7e",
+    "idToken": "0xce30610081ad93ad38c6c36250a1eb189d7fefa7",
+    "dateCreationToken": "2021-04-30T06:13:24Z",
+    "initialInfos": {
+      "initialPoolToken": 1000,
+      "initialPriceUSD": 0.0279329,
+      "initialPoolEth": 0.01,
+      "initialMarketCap": 27.683740033082625
+    },
+    "currentInfos": {
+      "currentPoolToken": 1100,
+      "currentPriceUSD": 0.023008506451869654,
+      "currentPoolEth": 0.009093389106119851,
+      "currentMarketCap": 25.30935709705662
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619763204",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -0.17629367334327425,
+    "isRugged": true
   },
   {
     "_id": "0x63867b97f748d349865de16d7c2b054af00fddc4",
@@ -961,37 +992,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x6195774d2d3d191a7f13140afd73e324449ac0c2",
-    "tokenName": "CC",
-    "idPair": "0x36a2188ec8e562bf31df221d46f57f7da79ff8a8",
-    "idToken": "0x6195774d2d3d191a7f13140afd73e324449ac0c2",
-    "dateCreationToken": "2021-04-30T03:06:26Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 2.76907e-10,
-      "initialPoolEth": 0.1,
-      "initialMarketCap": 276.907
-    },
-    "currentInfos": {
-      "currentPoolToken": 900000000000,
-      "currentPriceUSD": 3.437169745026846e-10,
-      "currentPoolEth": 0.11114454474534716,
-      "currentMarketCap": 309.3452770524161
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 1,
-    "txCount": 2,
-    "createdAtTimestamp": "1619751986",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.24127224845411846,
-    "isRugged": false
-  },
-  {
     "_id": "0xe65af0bb9fd3c1c67c9735d316615e135c7d740b",
     "tokenName": "ELONF",
     "idPair": "0x7c058c59d4913b1fc26bf6e2c71a5d3fdf133959",
@@ -1020,6 +1020,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 3.398549989596208,
+    "isRugged": false
+  },
+  {
+    "_id": "0x6195774d2d3d191a7f13140afd73e324449ac0c2",
+    "tokenName": "CC",
+    "idPair": "0x36a2188ec8e562bf31df221d46f57f7da79ff8a8",
+    "idToken": "0x6195774d2d3d191a7f13140afd73e324449ac0c2",
+    "dateCreationToken": "2021-04-30T03:06:26Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 2.76907e-10,
+      "initialPoolEth": 0.1,
+      "initialMarketCap": 276.907
+    },
+    "currentInfos": {
+      "currentPoolToken": 900000000000,
+      "currentPriceUSD": 3.437169745026846e-10,
+      "currentPoolEth": 0.11114454474534716,
+      "currentMarketCap": 309.3452770524161
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 1,
+    "txCount": 2,
+    "createdAtTimestamp": "1619751986",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.24127224845411846,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x3338176fc91910f7d722c8b749ab0325be96ca6f",
-    "tokenName": "ELONGATE",
-    "idPair": "0x06a16146b2b351537a8ac45e3c1ffcef2d293ead",
-    "idToken": "0x3338176fc91910f7d722c8b749ab0325be96ca6f",
-    "dateCreationToken": "2021-04-28T22:49:09Z",
-    "initialInfos": {
-      "initialPoolToken": 882000000,
-      "initialPriceUSD": 0.00009304285714285715,
-      "initialPoolEth": 30,
-      "initialMarketCap": 82063.8
-    },
-    "currentInfos": {
-      "currentPoolToken": 9e-9,
-      "currentPriceUSD": 3445323331.2446976,
-      "currentPoolEth": 0.01114081996435014,
-      "currentMarketCap": 31.00790998120228
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 20,
-    "holderCountOld": 19,
-    "txCount": 29,
-    "createdAtTimestamp": "1619650149",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 37029423182423.2,
     "isRugged": true
   }
 ]
