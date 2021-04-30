@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x357b3018a7249ff5ed90f6653dafabd6c1243a66",
+    "tokenName": "DFND",
+    "idPair": "0x699ba2e9f5c0f69e507ba9b235d69dffc50bfccc",
+    "idToken": "0x357b3018a7249ff5ed90f6653dafabd6c1243a66",
+    "dateCreationToken": "2021-04-30T12:25:04Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000,
+      "initialPriceUSD": 0.000166011,
+      "initialPoolEth": 60,
+      "initialMarketCap": 166011
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000,
+      "currentPriceUSD": 0.000166011,
+      "currentPoolEth": 60,
+      "currentMarketCap": 166011
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619785504",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x6839ac5ea8082688b706c773d5d2afd7d503fdd4",
     "tokenName": "NXL",
     "idPair": "0xdb903d9a0d20b746d6d4ddc20d45de6bcb96a012",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-04-30T12:03:00Z",
     "initialInfos": {
       "initialPoolToken": 1000,
-      "initialPriceUSD": 0.138381,
+      "initialPriceUSD": 0.1383425,
       "initialPoolEth": 0.05,
-      "initialMarketCap": 138.381
+      "initialMarketCap": 138.3425
     },
     "currentInfos": {
       "currentPoolToken": 1000,
-      "currentPriceUSD": 0.138381,
+      "currentPriceUSD": 0.1383425,
       "currentPoolEth": 0.05,
-      "currentMarketCap": 138.381
+      "currentMarketCap": 138.3425
     },
     "trustScore": null,
     "contractId": null,
@@ -2604,37 +2635,6 @@
     "isRugged": true
   },
   {
-    "_id": "0xae995957aa1bd3e083faa13400144a06bee26b6a",
-    "tokenName": "$LONDON",
-    "idPair": "0x55695a247eed3c656cc2b61e8044506ac00f11c3",
-    "idToken": "0xae995957aa1bd3e083faa13400144a06bee26b6a",
-    "dateCreationToken": "2021-04-29T22:10:49Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000000,
-      "initialPriceUSD": 1.653948e-11,
-      "initialPoolEth": 6,
-      "initialMarketCap": 16539.48
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.00123165,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 9e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 3,
-    "holderCountOld": 2,
-    "txCount": 4,
-    "createdAtTimestamp": "1619734249",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0xf94d66fb399a98b33563d87447b41a6a75bffdf0",
     "tokenName": "VOTX",
     "idPair": "0x042fe42c75d50f43fdc6d618baede04768e98a42",
@@ -2664,6 +2664,37 @@
     "officialSite": null,
     "priceChange": 2.29429528611081,
     "isRugged": false
+  },
+  {
+    "_id": "0xae995957aa1bd3e083faa13400144a06bee26b6a",
+    "tokenName": "$LONDON",
+    "idPair": "0x55695a247eed3c656cc2b61e8044506ac00f11c3",
+    "idToken": "0xae995957aa1bd3e083faa13400144a06bee26b6a",
+    "dateCreationToken": "2021-04-29T22:10:49Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000000,
+      "initialPriceUSD": 1.653948e-11,
+      "initialPoolEth": 6,
+      "initialMarketCap": 16539.48
+    },
+    "currentInfos": {
+      "currentPoolToken": 0.00123165,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 9e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 3,
+    "holderCountOld": 2,
+    "txCount": 4,
+    "createdAtTimestamp": "1619734249",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
   },
   {
     "_id": "0x840cd151f3a18eb640458ebd40d1228aa88db255",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.01741540482789415,
-    "isRugged": true
-  },
-  {
-    "_id": "0xe462f04931370cdaa3f831aff9444639a958d850",
-    "tokenName": "SAFERMOON",
-    "idPair": "0x909b2e70fd7862e0c81b62b4d06bbc0972588e18",
-    "idToken": "0xe462f04931370cdaa3f831aff9444639a958d850",
-    "dateCreationToken": "2021-04-29T01:06:08Z",
-    "initialInfos": {
-      "initialPoolToken": 790373983.7398374,
-      "initialPriceUSD": 0.00010285017178242264,
-      "initialPoolEth": 30,
-      "initialMarketCap": 81561.95222647478
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.57e-7,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 6.491e-15,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 11,
-    "holderCountOld": 0,
-    "txCount": 12,
-    "createdAtTimestamp": "1619658368",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
