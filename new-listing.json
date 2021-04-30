@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x563824afbbc007131e9d3e59883c9dc37fddeb7b",
+    "tokenName": "ALB",
+    "idPair": "0xb58f0b9cc27e4cdfec52e4e10d249c7b29f90edc",
+    "idToken": "0x563824afbbc007131e9d3e59883c9dc37fddeb7b",
+    "dateCreationToken": "2021-04-30T21:10:13Z",
+    "initialInfos": {
+      "initialPoolToken": 2000000000000000,
+      "initialPriceUSD": 1.7920396694275e-14,
+      "initialPoolEth": 0.012969395,
+      "initialMarketCap": 35.84079338855
+    },
+    "currentInfos": {
+      "currentPoolToken": 2000000000000000,
+      "currentPriceUSD": 1.7920396694275e-14,
+      "currentPoolEth": 0.012969395,
+      "currentMarketCap": 35.84079338855
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619817013",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x43de2fe59cdfff8ffaf3d51620d3c33c44c2a44f",
     "tokenName": "WikiLeaks",
     "idPair": "0xf23fb83f95de3eabbab9ef3073d7b2de4f51e597",
@@ -12,22 +43,22 @@
       "initialMarketCap": 27634.9
     },
     "currentInfos": {
-      "currentPoolToken": 137979178310.71188,
-      "currentPriceUSD": 4.927417850398739e-7,
-      "currentPoolEth": 24.602262580706135,
-      "currentMarketCap": 67988.10661915522
+      "currentPoolToken": 136933369256.49252,
+      "currentPriceUSD": 5.010496123874505e-7,
+      "currentPoolEth": 24.827450647143113,
+      "currentMarketCap": 68610.4115888732
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 79,
     "holderCountOld": 0,
-    "txCount": 117,
+    "txCount": 127,
     "createdAtTimestamp": "1619815799",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 4.888756885517355,
+    "priceChange": 4.988043726987015,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 115.63841634116862,
-    "isRugged": false
-  },
-  {
-    "_id": "0x3b4102dfe101ec3fc22f4c95fbef78ef6213656b",
-    "tokenName": "MICRO",
-    "idPair": "0x02c377495eb6b063f15827fcc79bd65e744438f2",
-    "idToken": "0x3b4102dfe101ec3fc22f4c95fbef78ef6213656b",
-    "dateCreationToken": "2021-04-29T08:06:45Z",
-    "initialInfos": {
-      "initialPoolToken": 3136000,
-      "initialPriceUSD": 0.03366625,
-      "initialPoolEth": 39.2,
-      "initialMarketCap": 105577.36
-    },
-    "currentInfos": {
-      "currentPoolToken": 7665337.672426061,
-      "currentPriceUSD": 0.006739082639394312,
-      "currentPoolEth": 18.696783826175537,
-      "currentMarketCap": 51657.34403334167
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 255,
-    "holderCountOld": 257,
-    "txCount": 2654,
-    "createdAtTimestamp": "1619683605",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.7998267511411484,
     "isRugged": false
   }
 ]
