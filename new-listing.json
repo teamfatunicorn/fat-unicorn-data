@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x428be91cb9a9093dfec1db9e85a6a04ac11dae5e",
+    "tokenName": "R223",
+    "idPair": "0xce4d5f388082eb7d3e7859a7dc31d93a5ee6da4f",
+    "idToken": "0x428be91cb9a9093dfec1db9e85a6a04ac11dae5e",
+    "dateCreationToken": "2021-04-30T07:21:37Z",
+    "initialInfos": {
+      "initialPoolToken": 100,
+      "initialPriceUSD": 0.279232,
+      "initialPoolEth": 0.01,
+      "initialMarketCap": 27.9232
+    },
+    "currentInfos": {
+      "currentPoolToken": 100,
+      "currentPriceUSD": 0.279232,
+      "currentPoolEth": 0.01,
+      "currentMarketCap": 27.9232
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619767297",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x6f5a276c6f9b721a595e0e8fb2bc74b92d39a871",
     "tokenName": "YFDAI",
     "idPair": "0x6d34a0062528537de46c1b6e9da08acacffb8310",
@@ -12,22 +43,22 @@
       "initialMarketCap": 558464
     },
     "currentInfos": {
-      "currentPoolToken": 50000,
-      "currentPriceUSD": 11.16928,
-      "currentPoolEth": 200,
-      "currentMarketCap": 558464
+      "currentPoolToken": 48733.57390425692,
+      "currentPriceUSD": 11.758225762095115,
+      "currentPoolEth": 205.213,
+      "currentMarketCap": 573020.36416
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 2,
     "holderCountOld": 0,
-    "txCount": 1,
+    "txCount": 3,
     "createdAtTimestamp": "1619767023",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.05272907135420679,
     "isRugged": false
   },
   {
@@ -43,22 +74,22 @@
       "initialMarketCap": 20.1611647104
     },
     "currentInfos": {
-      "currentPoolToken": 2025.1415924352334,
-      "currentPriceUSD": 0.12381065688792717,
-      "currentPoolEth": 0.0897941893656058,
-      "currentMarketCap": 250.7341108504691
+      "currentPoolToken": 2194.1748327708506,
+      "currentPriceUSD": 0.10549375177340088,
+      "currentPoolEth": 0.08289584831084444,
+      "currentMarketCap": 231.4717351557715
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 4650,
     "holderCountOld": 0,
-    "txCount": 6,
+    "txCount": 7,
     "createdAtTimestamp": "1619765887",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 152.52617106498352,
+    "priceChange": 129.81306721206272,
     "isRugged": true
   },
   {
@@ -775,37 +806,6 @@
     "isRugged": false
   },
   {
-    "_id": "0xe65af0bb9fd3c1c67c9735d316615e135c7d740b",
-    "tokenName": "ELONF",
-    "idPair": "0x7c058c59d4913b1fc26bf6e2c71a5d3fdf133959",
-    "idToken": "0xe65af0bb9fd3c1c67c9735d316615e135c7d740b",
-    "dateCreationToken": "2021-04-30T03:06:26Z",
-    "initialInfos": {
-      "initialPoolToken": 6000000000000,
-      "initialPriceUSD": 4.153605e-9,
-      "initialPoolEth": 9,
-      "initialMarketCap": 24644.335050126607
-    },
-    "currentInfos": {
-      "currentPoolToken": 2875455540795.5293,
-      "currentPriceUSD": 1.8342570160658522e-8,
-      "currentPoolEth": 18.8749601878417,
-      "currentMarketCap": 52743.24500089629
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 29,
-    "holderCountOld": 28,
-    "txCount": 64,
-    "createdAtTimestamp": "1619751986",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 3.416060304400279,
-    "isRugged": false
-  },
-  {
     "_id": "0x6195774d2d3d191a7f13140afd73e324449ac0c2",
     "tokenName": "CC",
     "idPair": "0x36a2188ec8e562bf31df221d46f57f7da79ff8a8",
@@ -834,6 +834,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.24621366502989878,
+    "isRugged": false
+  },
+  {
+    "_id": "0xe65af0bb9fd3c1c67c9735d316615e135c7d740b",
+    "tokenName": "ELONF",
+    "idPair": "0x7c058c59d4913b1fc26bf6e2c71a5d3fdf133959",
+    "idToken": "0xe65af0bb9fd3c1c67c9735d316615e135c7d740b",
+    "dateCreationToken": "2021-04-30T03:06:26Z",
+    "initialInfos": {
+      "initialPoolToken": 6000000000000,
+      "initialPriceUSD": 4.153605e-9,
+      "initialPoolEth": 9,
+      "initialMarketCap": 24644.335050126607
+    },
+    "currentInfos": {
+      "currentPoolToken": 2875455540795.5293,
+      "currentPriceUSD": 1.8342570160658522e-8,
+      "currentPoolEth": 18.8749601878417,
+      "currentMarketCap": 52743.24500089629
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 29,
+    "holderCountOld": 28,
+    "txCount": 64,
+    "createdAtTimestamp": "1619751986",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 3.416060304400279,
     "isRugged": false
   },
   {
@@ -1922,37 +1953,6 @@
     "isRugged": true
   },
   {
-    "_id": "0xae995957aa1bd3e083faa13400144a06bee26b6a",
-    "tokenName": "$LONDON",
-    "idPair": "0x55695a247eed3c656cc2b61e8044506ac00f11c3",
-    "idToken": "0xae995957aa1bd3e083faa13400144a06bee26b6a",
-    "dateCreationToken": "2021-04-29T22:10:49Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000000,
-      "initialPriceUSD": 1.653948e-11,
-      "initialPoolEth": 6,
-      "initialMarketCap": 16539.48
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.00123165,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 9e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 3,
-    "holderCountOld": 2,
-    "txCount": 4,
-    "createdAtTimestamp": "1619734249",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0xf94d66fb399a98b33563d87447b41a6a75bffdf0",
     "tokenName": "VOTX",
     "idPair": "0x042fe42c75d50f43fdc6d618baede04768e98a42",
@@ -1982,6 +1982,37 @@
     "officialSite": null,
     "priceChange": 2.159936392209275,
     "isRugged": false
+  },
+  {
+    "_id": "0xae995957aa1bd3e083faa13400144a06bee26b6a",
+    "tokenName": "$LONDON",
+    "idPair": "0x55695a247eed3c656cc2b61e8044506ac00f11c3",
+    "idToken": "0xae995957aa1bd3e083faa13400144a06bee26b6a",
+    "dateCreationToken": "2021-04-29T22:10:49Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000000,
+      "initialPriceUSD": 1.653948e-11,
+      "initialPoolEth": 6,
+      "initialMarketCap": 16539.48
+    },
+    "currentInfos": {
+      "currentPoolToken": 0.00123165,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 9e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 3,
+    "holderCountOld": 2,
+    "txCount": 4,
+    "createdAtTimestamp": "1619734249",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
   },
   {
     "_id": "0x840cd151f3a18eb640458ebd40d1228aa88db255",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 1.186834070975337,
-    "isRugged": true
-  },
-  {
-    "_id": "0x1d1e061ffadaf760c4c68d572d1f41e057bf7e26",
-    "tokenName": "DogeFather",
-    "idPair": "0xfa5ec0e89fd0a7a74459df997c1d0fd3e3e23d69",
-    "idToken": "0x1d1e061ffadaf760c4c68d572d1f41e057bf7e26",
-    "dateCreationToken": "2021-04-28T20:45:21Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 2.72023e-8,
-      "initialPoolEth": 10,
-      "initialMarketCap": 27202.3
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.62813058e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 16,
-    "holderCountOld": 15,
-    "txCount": 20,
-    "createdAtTimestamp": "1619642721",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
