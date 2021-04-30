@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x63867b97f748d349865de16d7c2b054af00fddc4",
+    "tokenName": "MiSHI",
+    "idPair": "0x422866ba322fa6ca2c465fdc970b179df22f9953",
+    "idToken": "0x63867b97f748d349865de16d7c2b054af00fddc4",
+    "dateCreationToken": "2021-04-30T06:11:00Z",
+    "initialInfos": {
+      "initialPoolToken": 919999999199,
+      "initialPriceUSD": 1.1462121749109956e-8,
+      "initialPoolEth": 3.8,
+      "initialMarketCap": 10545.152
+    },
+    "currentInfos": {
+      "currentPoolToken": 918087887464.1628,
+      "currentPriceUSD": 1.152832465506343e-8,
+      "currentPoolEth": 3.814004565183987,
+      "currentMarketCap": 10584.015228568207
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 6,
+    "createdAtTimestamp": "1619763060",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.005775798530373743,
+    "isRugged": false
+  },
+  {
     "_id": "0x61d15893308aab5005ab0611b0f0accd30ebefb3",
     "tokenName": "NAOS",
     "idPair": "0xfcd6de3ed9f3dc19981782bc04bdf70a2c72027f",
@@ -43,22 +74,22 @@
       "initialMarketCap": 552715.4154606633
     },
     "currentInfos": {
-      "currentPoolToken": 194295.3388735607,
-      "currentPriceUSD": 2.9406417514308605,
-      "currentPoolEth": 205.89,
-      "currentMarketCap": 571352.9856
+      "currentPoolToken": 193359.01879130834,
+      "currentPriceUSD": 2.969233238712564,
+      "currentPoolEth": 206.89,
+      "currentMarketCap": 574128.0256
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 8,
     "holderCountOld": 0,
-    "txCount": 7,
+    "txCount": 8,
     "createdAtTimestamp": "1619761837",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.059675446635313475,
+    "priceChange": 0.06997853678237566,
     "isRugged": false
   },
   {
@@ -527,37 +558,6 @@
     "isRugged": false
   },
   {
-    "_id": "0xe65af0bb9fd3c1c67c9735d316615e135c7d740b",
-    "tokenName": "ELONF",
-    "idPair": "0x7c058c59d4913b1fc26bf6e2c71a5d3fdf133959",
-    "idToken": "0xe65af0bb9fd3c1c67c9735d316615e135c7d740b",
-    "dateCreationToken": "2021-04-30T03:06:26Z",
-    "initialInfos": {
-      "initialPoolToken": 6000000000000,
-      "initialPriceUSD": 4.153605e-9,
-      "initialPoolEth": 9,
-      "initialMarketCap": 24644.335050126607
-    },
-    "currentInfos": {
-      "currentPoolToken": 2929667892830.8213,
-      "currentPriceUSD": 1.7546607421855494e-8,
-      "currentPoolEth": 18.524655004853223,
-      "currentMarketCap": 51405.73239191702
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 28,
-    "holderCountOld": 25,
-    "txCount": 63,
-    "createdAtTimestamp": "1619751986",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 3.2244285197690905,
-    "isRugged": false
-  },
-  {
     "_id": "0x6195774d2d3d191a7f13140afd73e324449ac0c2",
     "tokenName": "CC",
     "idPair": "0x36a2188ec8e562bf31df221d46f57f7da79ff8a8",
@@ -586,6 +586,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.23757956530904092,
+    "isRugged": false
+  },
+  {
+    "_id": "0xe65af0bb9fd3c1c67c9735d316615e135c7d740b",
+    "tokenName": "ELONF",
+    "idPair": "0x7c058c59d4913b1fc26bf6e2c71a5d3fdf133959",
+    "idToken": "0xe65af0bb9fd3c1c67c9735d316615e135c7d740b",
+    "dateCreationToken": "2021-04-30T03:06:26Z",
+    "initialInfos": {
+      "initialPoolToken": 6000000000000,
+      "initialPriceUSD": 4.153605e-9,
+      "initialPoolEth": 9,
+      "initialMarketCap": 24644.335050126607
+    },
+    "currentInfos": {
+      "currentPoolToken": 2929667892830.8213,
+      "currentPriceUSD": 1.7546607421855494e-8,
+      "currentPoolEth": 18.524655004853223,
+      "currentMarketCap": 51405.73239191702
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 28,
+    "holderCountOld": 25,
+    "txCount": 63,
+    "createdAtTimestamp": "1619751986",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 3.2244285197690905,
     "isRugged": false
   },
   {
@@ -6162,37 +6193,6 @@
     "holderCountOld": 34,
     "txCount": 46,
     "createdAtTimestamp": "1619638307",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xfffff4ff386013f4b9dac8874f856dec0e802467",
-    "tokenName": "MOGE",
-    "idPair": "0xee5d99744dad4186efc7ac27c57ef582bab2c37d",
-    "idToken": "0xfffff4ff386013f4b9dac8874f856dec0e802467",
-    "dateCreationToken": "2021-04-28T19:29:07Z",
-    "initialInfos": {
-      "initialPoolToken": 100000000000,
-      "initialPriceUSD": 5.43928e-8,
-      "initialPoolEth": 2,
-      "initialMarketCap": 5444.5073572025685
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.80785101e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 6,
-    "holderCountOld": 5,
-    "txCount": 8,
-    "createdAtTimestamp": "1619638147",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
