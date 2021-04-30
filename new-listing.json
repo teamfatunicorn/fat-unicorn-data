@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x52109b0a390b2a8e91e322dc0396df1fe3fcd943",
+    "tokenName": "Lassie",
+    "idPair": "0xadc13fcc0fa04ead92b5d6ec11e078b414f06fb1",
+    "idToken": "0x52109b0a390b2a8e91e322dc0396df1fe3fcd943",
+    "dateCreationToken": "2021-04-30T23:41:45Z",
+    "initialInfos": {
+      "initialPoolToken": 49494949494949496,
+      "initialPriceUSD": 1.677274163265306e-13,
+      "initialPoolEth": 3,
+      "initialMarketCap": 8301.66
+    },
+    "currentInfos": {
+      "currentPoolToken": 43243731243967290,
+      "currentPriceUSD": 2.201298668307671e-13,
+      "currentPoolEth": 3.44,
+      "currentMarketCap": 9519.2368
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1619826105",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.31242626668868345,
+    "isRugged": false
+  },
+  {
     "_id": "0x3d6e8e15be65efa71734cf9d5d83b2da95f1c918",
     "tokenName": "DHElon",
     "idPair": "0xe816391f54cec07075347b07050e98d5db69ce0d",
@@ -7,58 +38,27 @@
     "dateCreationToken": "2021-04-30T23:21:18Z",
     "initialInfos": {
       "initialPoolToken": 100000000000,
-      "initialPriceUSD": 8.29845e-8,
+      "initialPriceUSD": 8.30166e-8,
       "initialPoolEth": 3,
-      "initialMarketCap": 8298.45
+      "initialMarketCap": 8301.66
     },
     "currentInfos": {
-      "currentPoolToken": 82653610088.11032,
-      "currentPriceUSD": 1.2154016533669552e-7,
-      "currentPoolEth": 3.631666191560072,
-      "currentMarketCap": 10045.733435783693
+      "currentPoolToken": 82621329921.70453,
+      "currentPriceUSD": 1.2168234922590203e-7,
+      "currentPoolEth": 3.633089353590072,
+      "currentMarketCap": 10053.557521041319
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 11,
     "holderCountOld": 0,
-    "txCount": 13,
+    "txCount": 14,
     "createdAtTimestamp": "1619824878",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.4646128534448665,
-    "isRugged": false
-  },
-  {
-    "_id": "0xd9196f014c10b97b570f1822b253f36d6144ee93",
-    "tokenName": "HOGELON",
-    "idPair": "0x4367421778f2e14c6e606b920fdaead285e941a1",
-    "idToken": "0xd9196f014c10b97b570f1822b253f36d6144ee93",
-    "dateCreationToken": "2021-04-30T23:20:14Z",
-    "initialInfos": {
-      "initialPoolToken": 470015113288476160,
-      "initialPriceUSD": 1.76557088599548e-14,
-      "initialPoolEth": 3,
-      "initialMarketCap": 8250.470217627022
-    },
-    "currentInfos": {
-      "currentPoolToken": 93732166591849140,
-      "currentPriceUSD": 4.569005122939083e-13,
-      "currentPoolEth": 15.482267749122443,
-      "currentMarketCap": 42826.27493423382
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 78,
-    "holderCountOld": 0,
-    "txCount": 156,
-    "createdAtTimestamp": "1619824814",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 24.878344274820467,
+    "priceChange": 0.4657592484623802,
     "isRugged": false
   },
   {
@@ -69,27 +69,58 @@
     "dateCreationToken": "2021-04-30T23:20:14Z",
     "initialInfos": {
       "initialPoolToken": 950000000,
-      "initialPriceUSD": 0.0000029117368421052634,
+      "initialPriceUSD": 0.0000029128631578947367,
       "initialPoolEth": 1,
-      "initialMarketCap": 2766.15
+      "initialMarketCap": 2767.22
     },
     "currentInfos": {
-      "currentPoolToken": 950000000,
-      "currentPriceUSD": 0.0000029117368421052634,
-      "currentPoolEth": 1,
-      "currentMarketCap": 2766.15
+      "currentPoolToken": 9.75e-7,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1.026e-15,
+      "currentMarketCap": 0
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 2,
     "holderCountOld": 0,
-    "txCount": 1,
+    "txCount": 2,
     "createdAtTimestamp": "1619824814",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0xd9196f014c10b97b570f1822b253f36d6144ee93",
+    "tokenName": "HOGELON",
+    "idPair": "0x4367421778f2e14c6e606b920fdaead285e941a1",
+    "idToken": "0xd9196f014c10b97b570f1822b253f36d6144ee93",
+    "dateCreationToken": "2021-04-30T23:20:14Z",
+    "initialInfos": {
+      "initialPoolToken": 470015113288476160,
+      "initialPriceUSD": 1.76625384275777e-14,
+      "initialPoolEth": 3,
+      "initialMarketCap": 8250.470217627022
+    },
+    "currentInfos": {
+      "currentPoolToken": 92462074814665310,
+      "currentPriceUSD": 4.700722890678586e-13,
+      "currentPoolEth": 15.706687274626868,
+      "currentMarketCap": 43463.85916009333
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 78,
+    "holderCountOld": 0,
+    "txCount": 171,
+    "createdAtTimestamp": "1619824814",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 25.61408443612518,
     "isRugged": false
   },
   {
@@ -100,27 +131,27 @@
     "dateCreationToken": "2021-04-30T23:14:09Z",
     "initialInfos": {
       "initialPoolToken": 300,
-      "initialPriceUSD": 7.3764,
+      "initialPriceUSD": 7.379253333333334,
       "initialPoolEth": 0.8,
       "initialMarketCap": 2199.8431815776785
     },
     "currentInfos": {
-      "currentPoolToken": 276.3540716312048,
-      "currentPriceUSD": 8.784736700917133,
-      "currentPoolEth": 0.877645014011314,
-      "currentMarketCap": 2427.6977555065278
+      "currentPoolToken": 326.3540716312048,
+      "currentPriceUSD": 6.304491048915766,
+      "currentPoolEth": 0.7435246649620632,
+      "currentMarketCap": 2057.4963233761455
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 51,
     "holderCountOld": 0,
-    "txCount": 32,
+    "txCount": 33,
     "createdAtTimestamp": "1619824449",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.19092466527264418,
+    "priceChange": -0.14564648154342183,
     "isRugged": false
   },
   {
@@ -131,15 +162,15 @@
     "dateCreationToken": "2021-04-30T23:10:52Z",
     "initialInfos": {
       "initialPoolToken": 1200,
-      "initialPriceUSD": 9.2205,
+      "initialPriceUSD": 9.224066666666667,
       "initialPoolEth": 4,
-      "initialMarketCap": 11064.6
+      "initialMarketCap": 11068.88
     },
     "currentInfos": {
       "currentPoolToken": 1129.8050235616595,
-      "currentPriceUSD": 10.455030404866358,
+      "currentPriceUSD": 10.459074611627816,
       "currentPoolEth": 4.27024777141806,
-      "currentMarketCap": 11812.1458729079
+      "currentMarketCap": 11816.715038023318
     },
     "trustScore": null,
     "contractId": null,
@@ -151,7 +182,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.1338897462031732,
+    "priceChange": 0.1338897462031731,
     "isRugged": false
   },
   {
@@ -162,9 +193,9 @@
     "dateCreationToken": "2021-04-30T23:02:45Z",
     "initialInfos": {
       "initialPoolToken": 796747967479674.8,
-      "initialPriceUSD": 5.207700765306122e-12,
+      "initialPriceUSD": 5.2097152040816325e-12,
       "initialPoolEth": 1.5,
-      "initialMarketCap": 4149.225
+      "initialMarketCap": 4150.83
     },
     "currentInfos": {
       "currentPoolToken": 25650989434126.863,
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 3.420848070694323,
-    "isRugged": true
-  },
-  {
-    "_id": "0x270cb74c0c3858450b374e8d55322a109c44f18b",
-    "tokenName": "FalconX",
-    "idPair": "0x34e07830f7e7bfdbdf4dec943d60f244a22ccaf2",
-    "idToken": "0x270cb74c0c3858450b374e8d55322a109c44f18b",
-    "dateCreationToken": "2021-04-29T10:39:22Z",
-    "initialInfos": {
-      "initialPoolToken": 1260000000000,
-      "initialPriceUSD": 1.062388142857143e-9,
-      "initialPoolEth": 0.498,
-      "initialMarketCap": 1338.60906
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.36709781e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 24,
-    "holderCountOld": 0,
-    "txCount": 25,
-    "createdAtTimestamp": "1619692762",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
