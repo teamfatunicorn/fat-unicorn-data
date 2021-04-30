@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x5fa776db271a0076aa9a22fb8bced9bbc84bf342",
+    "tokenName": "NOBUY",
+    "idPair": "0x4746a4dcfa051469e831844c3ea1d57c4886d9dc",
+    "idToken": "0x5fa776db271a0076aa9a22fb8bced9bbc84bf342",
+    "dateCreationToken": "2021-04-30T18:05:03Z",
+    "initialInfos": {
+      "initialPoolToken": 900000000,
+      "initialPriceUSD": 0.000012243466666666667,
+      "initialPoolEth": 4,
+      "initialMarketCap": 11019.12
+    },
+    "currentInfos": {
+      "currentPoolToken": 900000000,
+      "currentPriceUSD": 0.000012243466666666667,
+      "currentPoolEth": 4,
+      "currentMarketCap": 11019.12
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619805903",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
+    "_id": "0xd5cad81bfedfc1823819377a7085d316f8d0d006",
+    "tokenName": "ZUB",
+    "idPair": "0xf16158f28da696b03abec621cdb04e0fff911bb0",
+    "idToken": "0xd5cad81bfedfc1823819377a7085d316f8d0d006",
+    "dateCreationToken": "2021-04-30T18:04:35Z",
+    "initialInfos": {
+      "initialPoolToken": 979600163198.6945,
+      "initialPriceUSD": 6.467938897959183e-9,
+      "initialPoolEth": 2.3,
+      "initialMarketCap": 6356.862102785002
+    },
+    "currentInfos": {
+      "currentPoolToken": 979500645325.8828,
+      "currentPriceUSD": 6.4899890346031375e-9,
+      "currentPoolEth": 2.3076065774951156,
+      "currentMarketCap": 6356.9484475516765
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1619805875",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.003409144240820166,
+    "isRugged": false
+  },
+  {
     "_id": "0x64db737d46a53f9e89a94755323e30f664335d83",
     "tokenName": "CDOGE",
     "idPair": "0xa2c589b8a8d2c71c0cd110fe93b48ef1246d0142",
@@ -12,22 +74,22 @@
       "initialMarketCap": 55095.6
     },
     "currentInfos": {
-      "currentPoolToken": 7563273947.316474,
-      "currentPriceUSD": 0.00001887277630939336,
-      "currentPoolEth": 51.815381763467606,
-      "currentMarketCap": 142739.97737436637
+      "currentPoolToken": 7366200546.353313,
+      "currentPriceUSD": 0.000019916747303887124,
+      "currentPoolEth": 53.25679541432451,
+      "currentMarketCap": 146710.75487147423
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 133,
     "holderCountOld": 0,
-    "txCount": 269,
+    "txCount": 288,
     "createdAtTimestamp": "1619805395",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 5.56178936106677,
+    "priceChange": 5.924762866004776,
     "isRugged": false
   },
   {
@@ -43,22 +105,22 @@
       "initialMarketCap": 138304.09100485378
     },
     "currentInfos": {
-      "currentPoolToken": 336625.3785622983,
-      "currentPriceUSD": 0.6074142265111319,
-      "currentPoolEth": 74.22409192147259,
-      "currentMarketCap": 204471.0439434354
+      "currentPoolToken": 334683.9549247987,
+      "currentPriceUSD": 0.6146711037492515,
+      "currentPoolEth": 74.67767153122574,
+      "currentMarketCap": 205720.55598079076
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 267,
     "holderCountOld": 0,
-    "txCount": 78,
+    "txCount": 82,
     "createdAtTimestamp": "1619802787",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.5159006553205815,
+    "priceChange": 0.5340113687031647,
     "isRugged": false
   },
   {
@@ -6131,68 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 11,
     "createdAtTimestamp": "1619679601",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xca23ff49a0984f4291e1d465b5e2f4e30e093694",
-    "tokenName": "ELONMOON",
-    "idPair": "0x4e9db269539b3f815eeeb4e728237b229c659ede",
-    "idToken": "0xca23ff49a0984f4291e1d465b5e2f4e30e093694",
-    "dateCreationToken": "2021-04-29T06:36:28Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 1.36133e-8,
-      "initialPoolEth": 5,
-      "initialMarketCap": 13621.51427477174
-    },
-    "currentInfos": {
-      "currentPoolToken": 7.9950685e-11,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 69,
-    "holderCountOld": 67,
-    "txCount": 80,
-    "createdAtTimestamp": "1619678188",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x8f5625250dfaaddae5f20050484ad34479ffb1d7",
-    "tokenName": "T-INU",
-    "idPair": "0x1aaa76e552b77b38ff83019554e647832d5f0fce",
-    "idToken": "0x8f5625250dfaaddae5f20050484ad34479ffb1d7",
-    "dateCreationToken": "2021-04-29T06:25:35Z",
-    "initialInfos": {
-      "initialPoolToken": 6538008400000000,
-      "initialPriceUSD": 7.370613809550933e-12,
-      "initialPoolEth": 17.7,
-      "initialMarketCap": 48189.135
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.00059503,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 4,
-    "holderCountOld": 0,
-    "txCount": 4,
-    "createdAtTimestamp": "1619677535",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
