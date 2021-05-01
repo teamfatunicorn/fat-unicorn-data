@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x603ca4019562ddab171ffd8e917a7a212f74c9af",
+    "tokenName": "LEV",
+    "idPair": "0xd05a150427dcd2f464308d903e8b71a03cc38c83",
+    "idToken": "0x603ca4019562ddab171ffd8e917a7a212f74c9af",
+    "dateCreationToken": "2021-05-01T13:26:32Z",
+    "initialInfos": {
+      "initialPoolToken": 1140000,
+      "initialPriceUSD": 0.5032245614035088,
+      "initialPoolEth": 200,
+      "initialMarketCap": 573676
+    },
+    "currentInfos": {
+      "currentPoolToken": 1140000,
+      "currentPriceUSD": 0.5032245614035088,
+      "currentPoolEth": 200,
+      "currentMarketCap": 573676
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619875592",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x93030c19ad59e4f77d47f5d5fe2e68cddd14aeff",
     "tokenName": "MPL",
     "idPair": "0x093068c20c80aaea4d92a909bf3f5ff70851829f",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-05-01T13:17:05Z",
     "initialInfos": {
       "initialPoolToken": 390000,
-      "initialPriceUSD": 1.9132333333333333,
+      "initialPriceUSD": 1.9122533333333334,
       "initialPoolEth": 260,
-      "initialMarketCap": 746161
+      "initialMarketCap": 745778.8
     },
     "currentInfos": {
-      "currentPoolToken": 378829.33147870546,
-      "currentPriceUSD": 2.0279056626933425,
-      "currentPoolEth": 267.69,
-      "currentMarketCap": 768230.1465
+      "currentPoolToken": 373844.652320937,
+      "currentPriceUSD": 2.081360366583536,
+      "currentPoolEth": 271.27,
+      "currentMarketCap": 778105.4426
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 4,
     "holderCountOld": 0,
-    "txCount": 6,
+    "txCount": 7,
     "createdAtTimestamp": "1619875025",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.05993640574943419,
+    "priceChange": 0.08843338395725255,
     "isRugged": false
   },
   {
@@ -38,9 +69,9 @@
     "dateCreationToken": "2021-05-01T13:03:54Z",
     "initialInfos": {
       "initialPoolToken": 62950359341,
-      "initialPriceUSD": 1.8235638557385308e-7,
+      "initialPriceUSD": 1.8226297864081004e-7,
       "initialPoolEth": 4,
-      "initialMarketCap": 11479.4
+      "initialMarketCap": 11473.52
     },
     "currentInfos": {
       "currentPoolToken": 0.000002899,
@@ -69,9 +100,9 @@
     "dateCreationToken": "2021-05-01T12:23:04Z",
     "initialInfos": {
       "initialPoolToken": 678000000000,
-      "initialPriceUSD": 8.465634218289086e-8,
+      "initialPriceUSD": 8.462920353982301e-8,
       "initialPoolEth": 20,
-      "initialMarketCap": 57397
+      "initialMarketCap": 57378.6
     },
     "currentInfos": {
       "currentPoolToken": 1.77548241e-10,
@@ -124,37 +155,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x7c15561590fc9eb063b3803b55165633eef207ec",
-    "tokenName": "BAYC20",
-    "idPair": "0xa39ce99cc323472a27602017eeec4f2ea828a737",
-    "idToken": "0x7c15561590fc9eb063b3803b55165633eef207ec",
-    "dateCreationToken": "2021-05-01T12:07:57Z",
-    "initialInfos": {
-      "initialPoolToken": 100,
-      "initialPriceUSD": 4.300965,
-      "initialPoolEth": 0.15,
-      "initialMarketCap": 430.0965
-    },
-    "currentInfos": {
-      "currentPoolToken": 171.4923962653373,
-      "currentPriceUSD": 4.183285553062871,
-      "currentPoolEth": 0.25020024474449903,
-      "currentMarketCap": 717.4016637569187
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 7,
-    "createdAtTimestamp": "1619870877",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.02736117288495232,
-    "isRugged": false
-  },
-  {
     "_id": "0x5114c15aae142488466043ae69c6c1f1bb862f90",
     "tokenName": "D&G",
     "idPair": "0xc2f26aca9f9f5ceb4a3e44481ac0ab0ed0510ffd",
@@ -183,6 +183,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.14766171127574262,
+    "isRugged": false
+  },
+  {
+    "_id": "0x7c15561590fc9eb063b3803b55165633eef207ec",
+    "tokenName": "BAYC20",
+    "idPair": "0xa39ce99cc323472a27602017eeec4f2ea828a737",
+    "idToken": "0x7c15561590fc9eb063b3803b55165633eef207ec",
+    "dateCreationToken": "2021-05-01T12:07:57Z",
+    "initialInfos": {
+      "initialPoolToken": 100,
+      "initialPriceUSD": 4.300965,
+      "initialPoolEth": 0.15,
+      "initialMarketCap": 430.0965
+    },
+    "currentInfos": {
+      "currentPoolToken": 171.4923962653373,
+      "currentPriceUSD": 4.183285553062871,
+      "currentPoolEth": 0.25020024474449903,
+      "currentMarketCap": 717.4016637569187
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 7,
+    "createdAtTimestamp": "1619870877",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -0.02736117288495232,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.4820044973310311,
     "isRugged": false
-  },
-  {
-    "_id": "0x2d6dcf48585b014d0f5c3299767242596055feb7",
-    "tokenName": "COON",
-    "idPair": "0xf0067a34564b1487a7aca5b8bafa02af3bacb4c1",
-    "idToken": "0x2d6dcf48585b014d0f5c3299767242596055feb7",
-    "dateCreationToken": "2021-04-29T21:18:31Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000,
-      "initialPriceUSD": 0.00001095256,
-      "initialPoolEth": 4,
-      "initialMarketCap": 10952.56
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.5426881e-11,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 3,
-    "txCount": 4,
-    "createdAtTimestamp": "1619731111",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
