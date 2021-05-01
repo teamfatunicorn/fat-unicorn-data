@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x56beb06a47d1fecb66c1613933bc5677949bd0da",
+    "tokenName": "Math",
+    "idPair": "0x332dc529a524e0efafc6ab8047e2de7f9bd01870",
+    "idToken": "0x56beb06a47d1fecb66c1613933bc5677949bd0da",
+    "dateCreationToken": "2021-05-01T11:40:33Z",
+    "initialInfos": {
+      "initialPoolToken": 300,
+      "initialPriceUSD": 0.285358,
+      "initialPoolEth": 0.03,
+      "initialMarketCap": 85.6074
+    },
+    "currentInfos": {
+      "currentPoolToken": 300,
+      "currentPriceUSD": 0.285358,
+      "currentPoolEth": 0.03,
+      "currentMarketCap": 85.6074
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619869233",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0x9d3f3d0fde655a498cea9b36a647eaf86547e685",
     "tokenName": "MEOW",
     "idPair": "0x31540cfbab562a9af4d676af99a731a59e3ee265",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-05-01T11:07:41Z",
     "initialInfos": {
       "initialPoolToken": 10000000000000000,
-      "initialPriceUSD": 1.711782e-12,
+      "initialPriceUSD": 1.712148e-12,
       "initialPoolEth": 6,
-      "initialMarketCap": 17117.82
+      "initialMarketCap": 17121.48
     },
     "currentInfos": {
       "currentPoolToken": 9748914945888412,
-      "currentPriceUSD": 1.801229208323939e-12,
+      "currentPriceUSD": 1.8016143332348487e-12,
       "currentPoolEth": 6.155,
-      "currentMarketCap": 17560.03035
+      "currentMarketCap": 17563.7849
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.05225385494411034,
+    "priceChange": 0.05225385494411037,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-05-01T11:04:03Z",
     "initialInfos": {
       "initialPoolToken": 33191666,
-      "initialPriceUSD": 0.030084042783510775,
+      "initialPriceUSD": 0.030090475121074066,
       "initialPoolEth": 350,
       "initialMarketCap": 997663.3028793281
     },
     "currentInfos": {
       "currentPoolToken": 30758936.563785464,
-      "currentPriceUSD": 0.035041098816444766,
+      "currentPriceUSD": 0.03504859103342498,
       "currentPoolEth": 377.79119150231605,
-      "currentMarketCap": 1077826.9356203624
+      "currentMarketCap": 1078057.3882471789
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.1647736000312757,
+    "priceChange": 0.1647736000312759,
     "isRugged": false
   },
   {
@@ -69,7 +100,7 @@
     "dateCreationToken": "2021-05-01T10:44:48Z",
     "initialInfos": {
       "initialPoolToken": 100000000000,
-      "initialPriceUSD": 1.997079e-7,
+      "initialPriceUSD": 1.997506e-7,
       "initialPoolEth": 7,
       "initialMarketCap": 19853.67583570151
     },
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 4.7482251906668127e+30,
-    "isRugged": true
-  },
-  {
-    "_id": "0x276172bd74ea9400a9754e5d4c8b0662f02d29ad",
-    "tokenName": "MINI",
-    "idPair": "0x7e47937f2c8c5cb206b83fbd1906e546a53defb6",
-    "idToken": "0x276172bd74ea9400a9754e5d4c8b0662f02d29ad",
-    "dateCreationToken": "2021-04-29T19:36:44Z",
-    "initialInfos": {
-      "initialPoolToken": 5000000,
-      "initialPriceUSD": 0.018394952,
-      "initialPoolEth": 34,
-      "initialMarketCap": 91974.76
-    },
-    "currentInfos": {
-      "currentPoolToken": 3.09628e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 4e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 33,
-    "holderCountOld": 32,
-    "txCount": 32,
-    "createdAtTimestamp": "1619725004",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
