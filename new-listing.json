@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xf200c3b82b4f5baaca8898549ec3f3d7aa8f85af",
+    "tokenName": "CROSS",
+    "idPair": "0x4024c695bdad5bf9d61bfe54cad98f75b38aa2a2",
+    "idToken": "0xf200c3b82b4f5baaca8898549ec3f3d7aa8f85af",
+    "dateCreationToken": "2021-05-01T03:18:37Z",
+    "initialInfos": {
+      "initialPoolToken": 39236111,
+      "initialPriceUSD": 0.01796744075884585,
+      "initialPoolEth": 250,
+      "initialMarketCap": 706578.9186798375
+    },
+    "currentInfos": {
+      "currentPoolToken": 39236111,
+      "currentPriceUSD": 0.01796744075884585,
+      "currentPoolEth": 250,
+      "currentMarketCap": 704972.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619839117",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x8177778c6b87b643830c9d9816cddbc735b66231",
     "tokenName": "Friday",
     "idPair": "0x2599bc5323335d3f6201e2dd5398adb18b556de1",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-05-01T03:09:09Z",
     "initialInfos": {
       "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 2.396388e-8,
+      "initialPriceUSD": 2.3969065e-8,
       "initialPoolEth": 8.5,
-      "initialMarketCap": 23963.88
+      "initialMarketCap": 23969.065
     },
     "currentInfos": {
       "currentPoolToken": 966007887170.2788,
-      "currentPriceUSD": 2.56826722944e-8,
+      "currentPriceUSD": 2.568822918484706e-8,
       "currentPoolEth": 8.8,
-      "currentMarketCap": 24809.664
+      "currentMarketCap": 24815.032
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 1,
+    "holderCount": 2,
     "holderCountOld": 0,
     "txCount": 2,
     "createdAtTimestamp": "1619838549",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.0717242906574394,
+    "priceChange": 0.0717242906574395,
     "isRugged": false
   },
   {
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-05-01T02:19:36Z",
     "initialInfos": {
       "initialPoolToken": 50000000,
-      "initialPriceUSD": 5.63856e-7,
+      "initialPriceUSD": 5.63978e-7,
       "initialPoolEth": 0.01,
-      "initialMarketCap": 28.1928
+      "initialMarketCap": 28.1989
     },
     "currentInfos": {
       "currentPoolToken": 14156542.78564358,
-      "currentPriceUSD": 0.000007089816431212936,
+      "currentPriceUSD": 0.0000070913504356477704,
       "currentPoolEth": 0.03560032691007101,
-      "currentMarketCap": 100.3672896508248
+      "currentMarketCap": 100.3890058502399
     },
     "trustScore": null,
     "contractId": null,
@@ -341,37 +372,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x620ce1892ec942720090ec7553dcf94facd80211",
-    "tokenName": "DOMOKUN",
-    "idPair": "0x0ac7b4f6c05bed092752596c3f9128dfaeed4a2a",
-    "idToken": "0x620ce1892ec942720090ec7553dcf94facd80211",
-    "dateCreationToken": "2021-04-30T23:20:14Z",
-    "initialInfos": {
-      "initialPoolToken": 950000000,
-      "initialPriceUSD": 0.000002930136842105263,
-      "initialPoolEth": 1,
-      "initialMarketCap": 2783.63
-    },
-    "currentInfos": {
-      "currentPoolToken": 9.75e-7,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.026e-15,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1619824814",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0xd9196f014c10b97b570f1822b253f36d6144ee93",
     "tokenName": "HOGELON",
     "idPair": "0x4367421778f2e14c6e606b920fdaead285e941a1",
@@ -401,6 +401,37 @@
     "officialSite": null,
     "priceChange": 4.259812098129903,
     "isRugged": false
+  },
+  {
+    "_id": "0x620ce1892ec942720090ec7553dcf94facd80211",
+    "tokenName": "DOMOKUN",
+    "idPair": "0x0ac7b4f6c05bed092752596c3f9128dfaeed4a2a",
+    "idToken": "0x620ce1892ec942720090ec7553dcf94facd80211",
+    "dateCreationToken": "2021-04-30T23:20:14Z",
+    "initialInfos": {
+      "initialPoolToken": 950000000,
+      "initialPriceUSD": 0.000002930136842105263,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2783.63
+    },
+    "currentInfos": {
+      "currentPoolToken": 9.75e-7,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1.026e-15,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 3,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619824814",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
+    "isRugged": true
   },
   {
     "_id": "0xd5a14d945c818d4e38d3627c6a28b5a1c6df6b9c",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xd4ca98c88928dcd5eb8b565f820209cf40b48211",
-    "tokenName": "SHIBLON",
-    "idPair": "0xc6bf0dfaf868f851d458f32f22d77daa2c3b261a",
-    "idToken": "0xd4ca98c88928dcd5eb8b565f820209cf40b48211",
-    "dateCreationToken": "2021-04-29T12:52:07Z",
-    "initialInfos": {
-      "initialPoolToken": 660000000000000,
-      "initialPriceUSD": 2.3433963636363636e-11,
-      "initialPoolEth": 5.6,
-      "initialMarketCap": 15642.7968969436
-    },
-    "currentInfos": {
-      "currentPoolToken": 4340894006993196,
-      "currentPriceUSD": 5.572936964139339e-13,
-      "currentPoolEth": 0.8585863383370713,
-      "currentMarketCap": 2419.152866898331
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 35,
-    "holderCountOld": 32,
-    "txCount": 71,
-    "createdAtTimestamp": "1619700727",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.9762185473587937,
-    "isRugged": false
   }
 ]
