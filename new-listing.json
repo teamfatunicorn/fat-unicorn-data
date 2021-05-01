@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x8177778c6b87b643830c9d9816cddbc735b66231",
+    "tokenName": "Friday",
+    "idPair": "0x2599bc5323335d3f6201e2dd5398adb18b556de1",
+    "idToken": "0x8177778c6b87b643830c9d9816cddbc735b66231",
+    "dateCreationToken": "2021-05-01T03:09:09Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 2.395232e-8,
+      "initialPoolEth": 8.5,
+      "initialMarketCap": 23952.32
+    },
+    "currentInfos": {
+      "currentPoolToken": 966007887170.2788,
+      "currentPriceUSD": 2.56702831616e-8,
+      "currentPoolEth": 8.8,
+      "currentMarketCap": 24797.696
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619838549",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.07172429065743946,
+    "isRugged": false
+  },
+  {
     "_id": "0x40225e0e18a94b5e1ad236ac8baf845e443236d5",
     "tokenName": "TWG",
     "idPair": "0xa311d7eea6871734bf70ecf64a36286fbf782559",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-05-01T02:19:36Z",
     "initialInfos": {
       "initialPoolToken": 50000000,
-      "initialPriceUSD": 5.63504e-7,
+      "initialPriceUSD": 5.63584e-7,
       "initialPoolEth": 0.01,
-      "initialMarketCap": 28.1752
+      "initialMarketCap": 28.1792
     },
     "currentInfos": {
       "currentPoolToken": 14156542.78564358,
-      "currentPriceUSD": 0.000007085390451204233,
+      "currentPriceUSD": 0.000007086396355751666,
       "currentPoolEth": 0.03560032691007101,
-      "currentMarketCap": 100.3046330754632
+      "currentMarketCap": 100.3188732062272
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 11.573806842904812,
+    "priceChange": 11.573806842904816,
     "isRugged": true
   },
   {
@@ -310,37 +341,6 @@
     "isRugged": false
   },
   {
-    "_id": "0xd9196f014c10b97b570f1822b253f36d6144ee93",
-    "tokenName": "HOGELON",
-    "idPair": "0x4367421778f2e14c6e606b920fdaead285e941a1",
-    "idToken": "0xd9196f014c10b97b570f1822b253f36d6144ee93",
-    "dateCreationToken": "2021-04-30T23:20:14Z",
-    "initialInfos": {
-      "initialPoolToken": 470015113288476160,
-      "initialPriceUSD": 1.77672797403741e-14,
-      "initialPoolEth": 3,
-      "initialMarketCap": 8250.470217627022
-    },
-    "currentInfos": {
-      "currentPoolToken": 212557822303014240,
-      "currentPriceUSD": 9.3452552929278e-14,
-      "currentPoolEth": 7.0499968552331955,
-      "currentMarketCap": 19864.071139304502
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 119,
-    "holderCountOld": 112,
-    "txCount": 372,
-    "createdAtTimestamp": "1619824814",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 4.259812098129903,
-    "isRugged": false
-  },
-  {
     "_id": "0x620ce1892ec942720090ec7553dcf94facd80211",
     "tokenName": "DOMOKUN",
     "idPair": "0x0ac7b4f6c05bed092752596c3f9128dfaeed4a2a",
@@ -370,6 +370,37 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
+  },
+  {
+    "_id": "0xd9196f014c10b97b570f1822b253f36d6144ee93",
+    "tokenName": "HOGELON",
+    "idPair": "0x4367421778f2e14c6e606b920fdaead285e941a1",
+    "idToken": "0xd9196f014c10b97b570f1822b253f36d6144ee93",
+    "dateCreationToken": "2021-04-30T23:20:14Z",
+    "initialInfos": {
+      "initialPoolToken": 470015113288476160,
+      "initialPriceUSD": 1.77672797403741e-14,
+      "initialPoolEth": 3,
+      "initialMarketCap": 8250.470217627022
+    },
+    "currentInfos": {
+      "currentPoolToken": 212557822303014240,
+      "currentPriceUSD": 9.3452552929278e-14,
+      "currentPoolEth": 7.0499968552331955,
+      "currentMarketCap": 19864.071139304502
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 119,
+    "holderCountOld": 112,
+    "txCount": 372,
+    "createdAtTimestamp": "1619824814",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 4.259812098129903,
+    "isRugged": false
   },
   {
     "_id": "0xd5a14d945c818d4e38d3627c6a28b5a1c6df6b9c",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -0.9762185473587937,
     "isRugged": false
-  },
-  {
-    "_id": "0xcec9f23700f8c2d5a5ece02321c1094cde78fe2b",
-    "tokenName": "WELON",
-    "idPair": "0xf6d112e1c0cc6eee3c05e0bc282e0f8439022429",
-    "idToken": "0xcec9f23700f8c2d5a5ece02321c1094cde78fe2b",
-    "dateCreationToken": "2021-04-29T12:43:16Z",
-    "initialInfos": {
-      "initialPoolToken": 33000000000,
-      "initialPriceUSD": 5.033290909090909e-7,
-      "initialPoolEth": 6,
-      "initialMarketCap": 16745.299927952958
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.000002083,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 4.81e-16,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 10,
-    "holderCountOld": 0,
-    "txCount": 9,
-    "createdAtTimestamp": "1619700196",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
