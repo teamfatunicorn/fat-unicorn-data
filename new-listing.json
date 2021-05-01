@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x24f3638c628899cffd7a4ba4f93fe6decfc0236d",
+    "tokenName": "ELON",
+    "idPair": "0x8fb2dabc29bd79809aa9ca6892c070b8a6ad8b81",
+    "idToken": "0x24f3638c628899cffd7a4ba4f93fe6decfc0236d",
+    "dateCreationToken": "2021-05-01T05:30:11Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 1.140088e-8,
+      "initialPoolEth": 4,
+      "initialMarketCap": 11400.88
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000000,
+      "currentPriceUSD": 1.139848e-8,
+      "currentPoolEth": 4,
+      "currentMarketCap": 11398.48
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619847011",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -0.0002105100658897152,
+    "isRugged": false
+  },
+  {
     "_id": "0x2a039b1d9bbdccbb91be28691b730ca893e5e743",
     "tokenName": "RNB",
     "idPair": "0x08ad72b16d56a5a9f2189afb972dbdfe72920cac",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-05-01T05:14:34Z",
     "initialInfos": {
       "initialPoolToken": 1925000,
-      "initialPriceUSD": 0.022209506493506493,
+      "initialPriceUSD": 0.02220483116883117,
       "initialPoolEth": 15,
-      "initialMarketCap": 42753.3
+      "initialMarketCap": 42744.3
     },
     "currentInfos": {
-      "currentPoolToken": 1475538.4351983867,
-      "currentPriceUSD": 0.03788969657352353,
-      "currentPoolEth": 19.615223944901725,
-      "currentMarketCap": 55907.70359223858
+      "currentPoolToken": 1405744.9401739577,
+      "currentPriceUSD": 0.04174271994110035,
+      "currentPoolEth": 20.592085031091802,
+      "currentMarketCap": 58679.61734630039
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 20,
+    "holderCount": 37,
     "holderCountOld": 0,
-    "txCount": 31,
+    "txCount": 38,
     "createdAtTimestamp": "1619846074",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.7060125394772518,
+    "priceChange": 0.8798935971958406,
     "isRugged": false
   },
   {
@@ -44,9 +75,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 1e-17,
-      "currentPriceUSD": 2850220000000000000,
+      "currentPriceUSD": 2849620000000000000,
       "currentPoolEth": 0.01,
-      "currentMarketCap": 28.5022
+      "currentMarketCap": 28.4962
     },
     "trustScore": null,
     "contractId": null,
@@ -58,7 +89,7 @@
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": -0.00021051006588965063,
     "isRugged": true
   },
   {
@@ -82,7 +113,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 26,
+    "holderCount": 27,
     "holderCountOld": 0,
     "txCount": 26,
     "createdAtTimestamp": "1619843324",
@@ -144,7 +175,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 21,
+    "holderCount": 22,
     "holderCountOld": 0,
     "txCount": 21,
     "createdAtTimestamp": "1619842576",
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xa6f6ddc7e705c782986678530017a88a13621527",
-    "tokenName": "YZY",
-    "idPair": "0x051e309cc5a94fcea3d6bb61ad6f92c0d4c28b26",
-    "idToken": "0xa6f6ddc7e705c782986678530017a88a13621527",
-    "dateCreationToken": "2021-04-29T14:50:52Z",
-    "initialInfos": {
-      "initialPoolToken": 500000,
-      "initialPriceUSD": 0.00554466,
-      "initialPoolEth": 1,
-      "initialMarketCap": 2772.33
-    },
-    "currentInfos": {
-      "currentPoolToken": 4168.751042187761,
-      "currentPriceUSD": 0.00815912517133226,
-      "currentPoolEth": 0.012007993320887273,
-      "currentMarketCap": 34.01336156133176
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 0,
-    "txCount": 5,
-    "createdAtTimestamp": "1619707852",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.4715284925193359,
     "isRugged": true
   }
 ]
