@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x756ee9eb10d14d0685c8adbf4dba7e6f5456d0c0",
+    "tokenName": "DOMOKUN",
+    "idPair": "0xb845f4231eab4307788b47bbc84f4a1b9aa8896a",
+    "idToken": "0x756ee9eb10d14d0685c8adbf4dba7e6f5456d0c0",
+    "dateCreationToken": "2021-05-01T00:21:24Z",
+    "initialInfos": {
+      "initialPoolToken": 950000000,
+      "initialPriceUSD": 0.000002930136842105263,
+      "initialPoolEth": 1,
+      "initialMarketCap": 2783.63
+    },
+    "currentInfos": {
+      "currentPoolToken": 311708929.1579067,
+      "currentPriceUSD": 0.00002768368882890923,
+      "currentPoolEth": 3.1,
+      "currentMarketCap": 8629.253
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 13,
+    "holderCountOld": 0,
+    "txCount": 13,
+    "createdAtTimestamp": "1619828484",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 8.447916708565351,
+    "isRugged": false
+  },
+  {
     "_id": "0xe222bb53b134c51de8bd982609493763829e88c8",
     "tokenName": "GUCCI",
     "idPair": "0x68a687cb04ddb5535de9b79275bc6584bb442fb3",
@@ -12,22 +43,22 @@
       "initialMarketCap": 24945.08131557413
     },
     "currentInfos": {
-      "currentPoolToken": 5733915481.15,
-      "currentPriceUSD": 0.000005233599081380456,
-      "currentPoolEth": 10.780532899436972,
-      "currentMarketCap": 30009.014794859817
+      "currentPoolToken": 6487479645.03,
+      "currentPriceUSD": 0.000004089843216654243,
+      "currentPoolEth": 9.531717440682783,
+      "currentMarketCap": 26532.774619408417
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 7,
+    "holderCount": 13,
     "holderCountOld": 0,
-    "txCount": 10,
+    "txCount": 12,
     "createdAtTimestamp": "1619828333",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.42620891484186113,
+    "priceChange": 0.11452382293663246,
     "isRugged": false
   },
   {
@@ -82,7 +113,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 15,
+    "holderCount": 16,
     "holderCountOld": 0,
     "txCount": 17,
     "createdAtTimestamp": "1619824878",
@@ -90,37 +121,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.8326600598385794,
-    "isRugged": false
-  },
-  {
-    "_id": "0xd9196f014c10b97b570f1822b253f36d6144ee93",
-    "tokenName": "HOGELON",
-    "idPair": "0x4367421778f2e14c6e606b920fdaead285e941a1",
-    "idToken": "0xd9196f014c10b97b570f1822b253f36d6144ee93",
-    "dateCreationToken": "2021-04-30T23:20:14Z",
-    "initialInfos": {
-      "initialPoolToken": 470015113288476160,
-      "initialPriceUSD": 1.77672797403741e-14,
-      "initialPoolEth": 3,
-      "initialMarketCap": 8250.470217627022
-    },
-    "currentInfos": {
-      "currentPoolToken": 98910130575676340,
-      "currentPriceUSD": 4.224352267635829e-13,
-      "currentPoolEth": 15.01030073643098,
-      "currentMarketCap": 41783.12343895142
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 106,
-    "holderCountOld": 0,
-    "txCount": 295,
-    "createdAtTimestamp": "1619824814",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 22.77602159342645,
     "isRugged": false
   },
   {
@@ -153,6 +153,37 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
+  },
+  {
+    "_id": "0xd9196f014c10b97b570f1822b253f36d6144ee93",
+    "tokenName": "HOGELON",
+    "idPair": "0x4367421778f2e14c6e606b920fdaead285e941a1",
+    "idToken": "0xd9196f014c10b97b570f1822b253f36d6144ee93",
+    "dateCreationToken": "2021-04-30T23:20:14Z",
+    "initialInfos": {
+      "initialPoolToken": 470015113288476160,
+      "initialPriceUSD": 1.77672797403741e-14,
+      "initialPoolEth": 3,
+      "initialMarketCap": 8250.470217627022
+    },
+    "currentInfos": {
+      "currentPoolToken": 103407410426165360,
+      "currentPriceUSD": 3.865405136630389e-13,
+      "currentPoolEth": 14.359362969465545,
+      "currentMarketCap": 39971.15354269464
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 109,
+    "holderCountOld": 0,
+    "txCount": 296,
+    "createdAtTimestamp": "1619824814",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 20.755750982220988,
+    "isRugged": false
   },
   {
     "_id": "0xd5a14d945c818d4e38d3627c6a28b5a1c6df6b9c",
@@ -6162,37 +6193,6 @@
     "holderCountOld": 13,
     "txCount": 14,
     "createdAtTimestamp": "1619694615",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x787efd338a9e069ad16c84060c3a78a80250a2dd",
-    "tokenName": "SEX",
-    "idPair": "0x4c85c69fe448ba152702fffb198187d329a6eab8",
-    "idToken": "0x787efd338a9e069ad16c84060c3a78a80250a2dd",
-    "dateCreationToken": "2021-04-29T11:08:14Z",
-    "initialInfos": {
-      "initialPoolToken": 100000,
-      "initialPriceUSD": 0.269091,
-      "initialPoolEth": 10,
-      "initialMarketCap": 26909.1
-    },
-    "currentInfos": {
-      "currentPoolToken": 9.5052e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.1e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 6,
-    "holderCountOld": 0,
-    "txCount": 5,
-    "createdAtTimestamp": "1619694494",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
