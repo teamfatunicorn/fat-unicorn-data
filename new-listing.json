@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x30b5120455a91a6c336785daa2356a98d3365f2f",
+    "tokenName": "NFTIFY",
+    "idPair": "0xca42f018892b3181a30e5216fdd458be2d60391f",
+    "idToken": "0x30b5120455a91a6c336785daa2356a98d3365f2f",
+    "dateCreationToken": "2021-05-01T04:28:44Z",
+    "initialInfos": {
+      "initialPoolToken": 4800000,
+      "initialPriceUSD": 0.141669,
+      "initialPoolEth": 240,
+      "initialMarketCap": 680011.2
+    },
+    "currentInfos": {
+      "currentPoolToken": 4800000,
+      "currentPriceUSD": 0.141669,
+      "currentPoolEth": 240,
+      "currentMarketCap": 680011.2
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 0,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619843324",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xd26520d752f9766d3531589c08a0131cda6d0135",
     "tokenName": "TRI",
     "idPair": "0x04f9d513e3a22f4a0ceb89e209200d5c8b448d0d",
@@ -43,22 +74,22 @@
       "initialMarketCap": 504341.64
     },
     "currentInfos": {
-      "currentPoolToken": 16654554.523861334,
-      "currentPriceUSD": 0.032371658192812604,
-      "currentPoolEth": 190.28,
-      "currentMarketCap": 539135.5464
+      "currentPoolToken": 16145793.302323297,
+      "currentPriceUSD": 0.03444708372675434,
+      "currentPoolEth": 196.294,
+      "currentMarketCap": 556175.49372
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 3,
     "holderCountOld": 0,
-    "txCount": 7,
+    "txCount": 10,
     "createdAtTimestamp": "1619842576",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.1425102948708823,
+    "priceChange": 0.21575940137765995,
     "isRugged": false
   },
   {
@@ -589,37 +620,6 @@
     "isRugged": false
   },
   {
-    "_id": "0xd9196f014c10b97b570f1822b253f36d6144ee93",
-    "tokenName": "HOGELON",
-    "idPair": "0x4367421778f2e14c6e606b920fdaead285e941a1",
-    "idToken": "0xd9196f014c10b97b570f1822b253f36d6144ee93",
-    "dateCreationToken": "2021-04-30T23:20:14Z",
-    "initialInfos": {
-      "initialPoolToken": 470015113288476160,
-      "initialPriceUSD": 1.77672797403741e-14,
-      "initialPoolEth": 3,
-      "initialMarketCap": 8250.470217627022
-    },
-    "currentInfos": {
-      "currentPoolToken": 211284331612113400,
-      "currentPriceUSD": 9.5079445142988e-14,
-      "currentPoolEth": 7.09420317583854,
-      "currentMarketCap": 20088.797017086814
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 118,
-    "holderCountOld": 119,
-    "txCount": 374,
-    "createdAtTimestamp": "1619824814",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 4.351378856659237,
-    "isRugged": false
-  },
-  {
     "_id": "0x620ce1892ec942720090ec7553dcf94facd80211",
     "tokenName": "DOMOKUN",
     "idPair": "0x0ac7b4f6c05bed092752596c3f9128dfaeed4a2a",
@@ -649,6 +649,37 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
+  },
+  {
+    "_id": "0xd9196f014c10b97b570f1822b253f36d6144ee93",
+    "tokenName": "HOGELON",
+    "idPair": "0x4367421778f2e14c6e606b920fdaead285e941a1",
+    "idToken": "0xd9196f014c10b97b570f1822b253f36d6144ee93",
+    "dateCreationToken": "2021-04-30T23:20:14Z",
+    "initialInfos": {
+      "initialPoolToken": 470015113288476160,
+      "initialPriceUSD": 1.77672797403741e-14,
+      "initialPoolEth": 3,
+      "initialMarketCap": 8250.470217627022
+    },
+    "currentInfos": {
+      "currentPoolToken": 211284331612113400,
+      "currentPriceUSD": 9.5079445142988e-14,
+      "currentPoolEth": 7.09420317583854,
+      "currentMarketCap": 20088.797017086814
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 118,
+    "holderCountOld": 119,
+    "txCount": 374,
+    "createdAtTimestamp": "1619824814",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 4.351378856659237,
+    "isRugged": false
   },
   {
     "_id": "0xd5a14d945c818d4e38d3627c6a28b5a1c6df6b9c",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x5eed5621b92be4473f99bacac77acfa27deb57d9",
-    "tokenName": "NYAX",
-    "idPair": "0xa45178f80af7af84060d5b9f836aa9dec5dfb4c6",
-    "idToken": "0x5eed5621b92be4473f99bacac77acfa27deb57d9",
-    "dateCreationToken": "2021-04-29T14:26:53Z",
-    "initialInfos": {
-      "initialPoolToken": 100000,
-      "initialPriceUSD": 0.015448765118222853,
-      "initialPoolEth": 0.5563273381380397,
-      "initialMarketCap": 1544.8765118222852
-    },
-    "currentInfos": {
-      "currentPoolToken": 66769.90211390528,
-      "currentPriceUSD": 0.03561404150596263,
-      "currentPoolEth": 0.839682080691205,
-      "currentMarketCap": 2377.9460652336843
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 18,
-    "holderCountOld": 17,
-    "txCount": 17,
-    "createdAtTimestamp": "1619706413",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.305300212245022,
-    "isRugged": false
   }
 ]
