@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x3fcefb833ddda8c6f2d62ee13e087fb4e2f4ee9b",
+    "tokenName": "KAWAI",
+    "idPair": "0xa726c7d0b5e71f96ea9d2596d5f12a77c8cfc73e",
+    "idToken": "0x3fcefb833ddda8c6f2d62ee13e087fb4e2f4ee9b",
+    "dateCreationToken": "2021-05-02T15:29:59Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000000,
+      "initialPriceUSD": 9.537938450708494e-12,
+      "initialPoolEth": 3.271043788203347,
+      "initialMarketCap": 9537.938450708494
+    },
+    "currentInfos": {
+      "currentPoolToken": 916221861710920,
+      "currentPriceUSD": 1.1364823178594733e-11,
+      "currentPoolEth": 3.5710437882033474,
+      "currentMarketCap": 10412.699450707481
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619969399",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.1915387415558899,
+    "isRugged": false
+  },
+  {
+    "_id": "0x75117afb279079aa5725334e1fdfae5ecb0c814b",
+    "tokenName": "PRARE",
+    "idPair": "0x2e63ee5050a57ad2b11fe9edc93c6dc4862fab7d",
+    "idToken": "0x75117afb279079aa5725334e1fdfae5ecb0c814b",
+    "dateCreationToken": "2021-05-02T15:28:28Z",
+    "initialInfos": {
+      "initialPoolToken": 10538712230,
+      "initialPriceUSD": 0.000013834090619248269,
+      "initialPoolEth": 50,
+      "initialMarketCap": 145793.5
+    },
+    "currentInfos": {
+      "currentPoolToken": 10538712230,
+      "currentPriceUSD": 0.000013834090619248269,
+      "currentPoolEth": 50,
+      "currentMarketCap": 145793.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619969308",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x5575dcd51d5bde1a386835ebb03fcd00a5037f8e",
     "tokenName": "VIHERO",
     "idPair": "0xdea890d59c8ee973d76ce312cad96b6405783835",
@@ -12,22 +74,22 @@
       "initialMarketCap": 27700.765
     },
     "currentInfos": {
-      "currentPoolToken": 177945756.7221351,
-      "currentPriceUSD": 0.00015747220510436784,
-      "currentPoolEth": 9.61,
-      "currentMarketCap": 28021.5107
+      "currentPoolToken": 176118595.02350417,
+      "currentPriceUSD": 0.00016076154648077585,
+      "currentPoolEth": 9.71,
+      "currentMarketCap": 28313.0977
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 0,
+    "holderCount": 2,
     "holderCountOld": 0,
-    "txCount": 2,
+    "txCount": 3,
     "createdAtTimestamp": "1619969124",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.02325682770083108,
+    "priceChange": 0.04463101891011505,
     "isRugged": false
   },
   {
@@ -43,22 +105,22 @@
       "initialMarketCap": 9622.371
     },
     "currentInfos": {
-      "currentPoolToken": 84265829967752820,
-      "currentPriceUSD": 1.35580950739663e-13,
-      "currentPoolEth": 3.918158677134037,
-      "currentMarketCap": 11424.841341894717
+      "currentPoolToken": 82765829967752820,
+      "currentPriceUSD": 1.405473925570022e-13,
+      "currentPoolEth": 3.9893827896252665,
+      "currentMarketCap": 11632.52159478385
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 5,
+    "holderCount": 10,
     "holderCountOld": 0,
-    "txCount": 10,
+    "txCount": 11,
     "createdAtTimestamp": "1619967190",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.40901811767248436,
+    "priceChange": 0.46063161103435113,
     "isRugged": false
   },
   {
@@ -82,7 +144,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 1,
+    "holderCount": 2,
     "holderCountOld": 0,
     "txCount": 2,
     "createdAtTimestamp": "1619966748",
@@ -6131,68 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 29,
     "createdAtTimestamp": "1619823765",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x120b6946e30a65ba7bbd974d15b56c8b24280e32",
-    "tokenName": "NTOKEN",
-    "idPair": "0x2a3092849a3ba6724c65047c6a211e9d4f46b2b9",
-    "idToken": "0x120b6946e30a65ba7bbd974d15b56c8b24280e32",
-    "dateCreationToken": "2021-04-30T22:36:36Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000,
-      "initialPriceUSD": 0.055323,
-      "initialPoolEth": 20,
-      "initialMarketCap": 55323
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.23607e-13,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 5e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1619822196",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x0101d8142fad2057c20481646eef5b2159b4712d",
-    "tokenName": "STARSHIP",
-    "idPair": "0x0247915c8d690225b8c99764d173bdab5b3df046",
-    "idToken": "0x0101d8142fad2057c20481646eef5b2159b4712d",
-    "dateCreationToken": "2021-04-30T22:13:25Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 8.26569e-9,
-      "initialPoolEth": 3,
-      "initialMarketCap": 8265.69
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.9700559e-11,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 69,
-    "holderCountOld": 68,
-    "txCount": 80,
-    "createdAtTimestamp": "1619820805",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
