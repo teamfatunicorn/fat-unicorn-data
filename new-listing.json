@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x79f4fb9de652dd6a3ace7d25bb085072c727b373",
+    "tokenName": "GTU",
+    "idPair": "0x3551430efc035fd5b7a8ff60d89e3a5e296c77a4",
+    "idToken": "0x79f4fb9de652dd6a3ace7d25bb085072c727b373",
+    "dateCreationToken": "2021-05-02T09:17:50Z",
+    "initialInfos": {
+      "initialPoolToken": 21000000,
+      "initialPriceUSD": 0.07343008571428572,
+      "initialPoolEth": 534,
+      "initialMarketCap": 1542031.8
+    },
+    "currentInfos": {
+      "currentPoolToken": 21000000,
+      "currentPriceUSD": 0.07343008571428572,
+      "currentPoolEth": 534,
+      "currentMarketCap": 1542031.8
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619947070",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xe93afaa2038511a658461bafb4fce2eb59c38179",
     "tokenName": "WIT",
     "idPair": "0xa8ba7ee1a6122cfadef7b0f6ad16b95ae1252aba",
@@ -51,7 +82,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 21,
+    "holderCount": 22,
     "holderCountOld": 0,
     "txCount": 22,
     "createdAtTimestamp": "1619943570",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0xb9fec7dc13aca12d269fbcd253fd4f207aded14e",
-    "tokenName": "CyberSHiba",
-    "idPair": "0xfddc8c6511f46c7d10315c78a7f34779a69e0723",
-    "idToken": "0xb9fec7dc13aca12d269fbcd253fd4f207aded14e",
-    "dateCreationToken": "2021-04-30T15:46:08Z",
-    "initialInfos": {
-      "initialPoolToken": 50000000000000000,
-      "initialPriceUSD": 2.249248e-13,
-      "initialPoolEth": 4,
-      "initialMarketCap": 11246.24
-    },
-    "currentInfos": {
-      "currentPoolToken": 32451057984433308,
-      "currentPriceUSD": 5.604518644595178e-13,
-      "currentPoolEth": 6.307726119126316,
-      "currentMarketCap": 18187.25595105957
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 42,
-    "holderCountOld": 43,
-    "txCount": 153,
-    "createdAtTimestamp": "1619797568",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.4917299669023505,
-    "isRugged": false
   }
 ]
