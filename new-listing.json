@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xa3d989142c2055f5b5a5d27e6ae941c843c3df5c",
+    "tokenName": "AFCN",
+    "idPair": "0x27d07fe75775628f09ceb59adadaef8e51ecab32",
+    "idToken": "0xa3d989142c2055f5b5a5d27e6ae941c843c3df5c",
+    "dateCreationToken": "2021-05-02T18:14:15Z",
+    "initialInfos": {
+      "initialPoolToken": 16000,
+      "initialPriceUSD": 0.010806751125,
+      "initialPoolEth": 0.0589,
+      "initialMarketCap": 172.908018
+    },
+    "currentInfos": {
+      "currentPoolToken": 16000,
+      "currentPriceUSD": 0.010806751125,
+      "currentPoolEth": 0.0589,
+      "currentMarketCap": 172.908018
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619979255",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0xa25c780132be018a4064f0aa62ff54a32687ae14",
     "tokenName": "BONE",
     "idPair": "0xb804863a9edb7b85d1dbd2f234be2988f5f81199",
@@ -12,22 +43,22 @@
       "initialMarketCap": 88068.6
     },
     "currentInfos": {
-      "currentPoolToken": 194852127915965.9,
-      "currentPriceUSD": 4.644799495317272e-10,
-      "currentPoolEth": 30.829912093716683,
-      "currentMarketCap": 90504.9065405575
+      "currentPoolToken": 191532644893649.7,
+      "currentPriceUSD": 4.80744176056454e-10,
+      "currentPoolEth": 31.365845564926545,
+      "currentMarketCap": 92078.203557311
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 3,
     "holderCountOld": 0,
-    "txCount": 4,
+    "txCount": 7,
     "createdAtTimestamp": "1619979074",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.05481397349731279,
+    "priceChange": 0.09174933189911963,
     "isRugged": false
   },
   {
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x756ee9eb10d14d0685c8adbf4dba7e6f5456d0c0",
-    "tokenName": "DOMOKUN",
-    "idPair": "0xb845f4231eab4307788b47bbc84f4a1b9aa8896a",
-    "idToken": "0x756ee9eb10d14d0685c8adbf4dba7e6f5456d0c0",
-    "dateCreationToken": "2021-05-01T00:21:24Z",
-    "initialInfos": {
-      "initialPoolToken": 950000000,
-      "initialPriceUSD": 0.000002963873684210526,
-      "initialPoolEth": 1,
-      "initialMarketCap": 2815.68
-    },
-    "currentInfos": {
-      "currentPoolToken": 695591599.0048836,
-      "currentPriceUSD": 0.000006070768666524251,
-      "currentPoolEth": 1.4384759738026953,
-      "currentMarketCap": 4222.775683936349
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 21,
-    "holderCountOld": 23,
-    "txCount": 83,
-    "createdAtTimestamp": "1619828484",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.0482548560909046,
-    "isRugged": false
   }
 ]
