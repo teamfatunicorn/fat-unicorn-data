@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xe93afaa2038511a658461bafb4fce2eb59c38179",
+    "tokenName": "WIT",
+    "idPair": "0xa8ba7ee1a6122cfadef7b0f6ad16b95ae1252aba",
+    "idToken": "0xe93afaa2038511a658461bafb4fce2eb59c38179",
+    "dateCreationToken": "2021-05-02T08:39:00Z",
+    "initialInfos": {
+      "initialPoolToken": 560000000,
+      "initialPriceUSD": 0.000051422321428571425,
+      "initialPoolEth": 10,
+      "initialMarketCap": 28651.67379576116
+    },
+    "currentInfos": {
+      "currentPoolToken": 560000000,
+      "currentPriceUSD": 0.000051422321428571425,
+      "currentPoolEth": 10,
+      "currentMarketCap": 28796.5
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619944740",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xa8007b46aab6695346c89be8b377276662cbd6c3",
     "tokenName": "GTU",
     "idPair": "0x14a2db4ad7080942e8c0614d86429b000856296b",
@@ -7,27 +38,27 @@
     "dateCreationToken": "2021-05-02T08:19:30Z",
     "initialInfos": {
       "initialPoolToken": 17400000,
-      "initialPriceUSD": 0.0496448275862069,
+      "initialPriceUSD": 0.04964913793103448,
       "initialPoolEth": 300,
-      "initialMarketCap": 863820
+      "initialMarketCap": 863895
     },
     "currentInfos": {
-      "currentPoolToken": 16674544.849108923,
-      "currentPriceUSD": 0.054065457169988854,
-      "currentPoolEth": 313.0919255291232,
-      "currentMarketCap": 901516.8903685567
+      "currentPoolToken": 16634544.849108923,
+      "currentPriceUSD": 0.05433089404912429,
+      "currentPoolEth": 313.8470625778626,
+      "currentMarketCap": 903769.6937523432
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 6,
+    "holderCount": 13,
     "holderCountOld": 0,
-    "txCount": 11,
+    "txCount": 12,
     "createdAtTimestamp": "1619943570",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.08904511907319351,
+    "priceChange": 0.09429682595079578,
     "isRugged": false
   },
   {
@@ -38,9 +69,9 @@
     "dateCreationToken": "2021-05-02T07:20:58Z",
     "initialInfos": {
       "initialPoolToken": 33000000000,
-      "initialPriceUSD": 3.4901818181818184e-7,
+      "initialPriceUSD": 3.4904848484848484e-7,
       "initialPoolEth": 4,
-      "initialMarketCap": 11517.6
+      "initialMarketCap": 11518.6
     },
     "currentInfos": {
       "currentPoolToken": 0.000002553,
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 1.5227855413592037,
-    "isRugged": false
-  },
-  {
-    "_id": "0xcc1230436557f1250812fabbee5b8524b43250f3",
-    "tokenName": "NARUTO",
-    "idPair": "0xa46e1f17d1148b85ef8a6637cc38b9159766c8e4",
-    "idToken": "0xcc1230436557f1250812fabbee5b8524b43250f3",
-    "dateCreationToken": "2021-04-30T15:24:37Z",
-    "initialInfos": {
-      "initialPoolToken": 459183673469387.75,
-      "initialPriceUSD": 6.122952888888888e-11,
-      "initialPoolEth": 10,
-      "initialMarketCap": 27457.954623370777
-    },
-    "currentInfos": {
-      "currentPoolToken": 367606141802364.2,
-      "currentPriceUSD": 9.906103066898214e-11,
-      "currentPoolEth": 12.606213642581764,
-      "currentMarketCap": 36415.443287190195
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 12,
-    "holderCountOld": 11,
-    "txCount": 35,
-    "createdAtTimestamp": "1619796277",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.6178636756906097,
     "isRugged": false
   }
 ]
