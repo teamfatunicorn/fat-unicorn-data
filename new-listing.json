@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x75fd64357b57687d12053b248b74d224da82a731",
+    "tokenName": "fLP",
+    "idPair": "0xa467c525ed1e7a84786a1ea0cdd0c0cc264d02c2",
+    "idToken": "0x75fd64357b57687d12053b248b74d224da82a731",
+    "dateCreationToken": "2021-05-02T17:26:55Z",
+    "initialInfos": {
+      "initialPoolToken": 1,
+      "initialPriceUSD": 647.12809336,
+      "initialPoolEth": 0.221096,
+      "initialMarketCap": 647.12809336
+    },
+    "currentInfos": {
+      "currentPoolToken": 1,
+      "currentPriceUSD": 647.12809336,
+      "currentPoolEth": 0.221096,
+      "currentMarketCap": 647.12809336
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 7,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619976415",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x7912e792a7947c0e627eff1447d8084d15b89a3b",
     "tokenName": "BEEPCRAP",
     "idPair": "0xd849c61e304bbb5c43b1a54a421d0f182c5f50a2",
@@ -12,22 +43,22 @@
       "initialMarketCap": 1463.455
     },
     "currentInfos": {
-      "currentPoolToken": 362848883539.41315,
-      "currentPriceUSD": 1.953505683263336e-8,
-      "currentPoolEth": 2.42176,
-      "currentMarketCap": 7088.2735616
+      "currentPoolToken": 335245811854.44965,
+      "currentPriceUSD": 2.2889638856790835e-8,
+      "currentPoolEth": 2.62176,
+      "currentMarketCap": 7673.6555616
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 7,
     "holderCountOld": 0,
-    "txCount": 17,
+    "txCount": 18,
     "createdAtTimestamp": "1619975732",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 22.36002778159109,
+    "priceChange": 26.37143813741042,
     "isRugged": false
   },
   {
@@ -434,37 +465,6 @@
     "isRugged": true
   },
   {
-    "_id": "0x179c79a32781070ab57b091a1bc84dfeded2b9c8",
-    "tokenName": "YOU",
-    "idPair": "0xa5c3ac9d2ed6b2d7898788d332ac40ea24d6fa87",
-    "idToken": "0x179c79a32781070ab57b091a1bc84dfeded2b9c8",
-    "dateCreationToken": "2021-05-02T13:21:00Z",
-    "initialInfos": {
-      "initialPoolToken": 210000000,
-      "initialPriceUSD": 0.0006117152380952381,
-      "initialPoolEth": 44,
-      "initialMarketCap": 128460.2
-    },
-    "currentInfos": {
-      "currentPoolToken": 2.18441e-12,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 1,
-    "holderCountOld": 0,
-    "txCount": 3,
-    "createdAtTimestamp": "1619961660",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
     "_id": "0x8c6b5bd47ae4d6b5afbabc383ec4e3f78e2f6bb4",
     "tokenName": "TSU",
     "idPair": "0x74b4cf6412f557b7f41ca61d8f212e5517fcba05",
@@ -493,6 +493,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.2558155202150658,
+    "isRugged": true
+  },
+  {
+    "_id": "0x179c79a32781070ab57b091a1bc84dfeded2b9c8",
+    "tokenName": "YOU",
+    "idPair": "0xa5c3ac9d2ed6b2d7898788d332ac40ea24d6fa87",
+    "idToken": "0x179c79a32781070ab57b091a1bc84dfeded2b9c8",
+    "dateCreationToken": "2021-05-02T13:21:00Z",
+    "initialInfos": {
+      "initialPoolToken": 210000000,
+      "initialPriceUSD": 0.0006117152380952381,
+      "initialPoolEth": 44,
+      "initialMarketCap": 128460.2
+    },
+    "currentInfos": {
+      "currentPoolToken": 2.18441e-12,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-18,
+      "currentMarketCap": 0
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1619961660",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -1,
     "isRugged": true
   },
   {
@@ -6162,37 +6193,6 @@
     "holderCountOld": 16,
     "txCount": 20,
     "createdAtTimestamp": "1619824878",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x620ce1892ec942720090ec7553dcf94facd80211",
-    "tokenName": "DOMOKUN",
-    "idPair": "0x0ac7b4f6c05bed092752596c3f9128dfaeed4a2a",
-    "idToken": "0x620ce1892ec942720090ec7553dcf94facd80211",
-    "dateCreationToken": "2021-04-30T23:20:14Z",
-    "initialInfos": {
-      "initialPoolToken": 950000000,
-      "initialPriceUSD": 0.000002930136842105263,
-      "initialPoolEth": 1,
-      "initialMarketCap": 2783.63
-    },
-    "currentInfos": {
-      "currentPoolToken": 9.75e-7,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.026e-15,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1619824814",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
