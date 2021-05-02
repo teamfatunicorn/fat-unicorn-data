@@ -1,5 +1,67 @@
 [
   {
+    "_id": "0x1cf954fad8a16e143dd8ac5e1691d648591130fe",
+    "tokenName": "DOGE-FATHER",
+    "idPair": "0x68c4dbeeb47c4d0c6bb13c3c4873b23afd507a30",
+    "idToken": "0x1cf954fad8a16e143dd8ac5e1691d648591130fe",
+    "dateCreationToken": "2021-05-02T18:47:19Z",
+    "initialInfos": {
+      "initialPoolToken": 1000000000000,
+      "initialPriceUSD": 3.1817448e-9,
+      "initialPoolEth": 1.08,
+      "initialMarketCap": 3181.7448
+    },
+    "currentInfos": {
+      "currentPoolToken": 1000000000000,
+      "currentPriceUSD": 3.1817448e-9,
+      "currentPoolEth": 1.08,
+      "currentMarketCap": 3181.7448
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619981239",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
+    "_id": "0xc234c017550d5ab10c58cac5f54133249f9ee6e6",
+    "tokenName": "KEESH",
+    "idPair": "0xa8e29fcca47ad2693dd5f0388a5966f352383536",
+    "idToken": "0xc234c017550d5ab10c58cac5f54133249f9ee6e6",
+    "dateCreationToken": "2021-05-02T18:47:14Z",
+    "initialInfos": {
+      "initialPoolToken": 100000000000,
+      "initialPriceUSD": 1.47303e-9,
+      "initialPoolEth": 0.05,
+      "initialMarketCap": 147.4938629248722
+    },
+    "currentInfos": {
+      "currentPoolToken": 100000000000,
+      "currentPriceUSD": 1.47303e-9,
+      "currentPoolEth": 0.05,
+      "currentMarketCap": 147.303
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619981234",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0xa3d989142c2055f5b5a5d27e6ae941c843c3df5c",
     "tokenName": "AFCN",
     "idPair": "0x27d07fe75775628f09ceb59adadaef8e51ecab32",
@@ -43,22 +105,22 @@
       "initialMarketCap": 88381.8
     },
     "currentInfos": {
-      "currentPoolToken": 174109849371502.66,
-      "currentPriceUSD": 5.860575019632345e-10,
-      "currentPoolEth": 34.63554149944588,
-      "currentMarketCap": 102038.38338985789
+      "currentPoolToken": 172508012635874.53,
+      "currentPriceUSD": 5.970083587024124e-10,
+      "currentPoolEth": 34.95812219939848,
+      "currentMarketCap": 102988.72548675847
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 10,
+    "holderCount": 13,
     "holderCountOld": 0,
-    "txCount": 35,
+    "txCount": 37,
     "createdAtTimestamp": "1619979074",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.32619499028812365,
+    "priceChange": 0.35097578619673375,
     "isRugged": false
   },
   {
@@ -589,37 +651,6 @@
     "isRugged": true
   },
   {
-    "_id": "0x8c6b5bd47ae4d6b5afbabc383ec4e3f78e2f6bb4",
-    "tokenName": "TSU",
-    "idPair": "0x74b4cf6412f557b7f41ca61d8f212e5517fcba05",
-    "idToken": "0x8c6b5bd47ae4d6b5afbabc383ec4e3f78e2f6bb4",
-    "dateCreationToken": "2021-05-02T13:21:00Z",
-    "initialInfos": {
-      "initialPoolToken": 1200000000,
-      "initialPriceUSD": 3.8953884207625e-8,
-      "initialPoolEth": 0.016010913,
-      "initialMarketCap": 46.74466104915
-    },
-    "currentInfos": {
-      "currentPoolToken": 1073057135.1875643,
-      "currentPriceUSD": 4.899650774818249e-8,
-      "currentPoolEth": 0.017910913,
-      "currentMarketCap": 52.57605223846
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 5,
-    "holderCountOld": 0,
-    "txCount": 4,
-    "createdAtTimestamp": "1619961660",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.2578080143954349,
-    "isRugged": true
-  },
-  {
     "_id": "0x179c79a32781070ab57b091a1bc84dfeded2b9c8",
     "tokenName": "YOU",
     "idPair": "0xa5c3ac9d2ed6b2d7898788d332ac40ea24d6fa87",
@@ -648,6 +679,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0x8c6b5bd47ae4d6b5afbabc383ec4e3f78e2f6bb4",
+    "tokenName": "TSU",
+    "idPair": "0x74b4cf6412f557b7f41ca61d8f212e5517fcba05",
+    "idToken": "0x8c6b5bd47ae4d6b5afbabc383ec4e3f78e2f6bb4",
+    "dateCreationToken": "2021-05-02T13:21:00Z",
+    "initialInfos": {
+      "initialPoolToken": 1200000000,
+      "initialPriceUSD": 3.8953884207625e-8,
+      "initialPoolEth": 0.016010913,
+      "initialMarketCap": 46.74466104915
+    },
+    "currentInfos": {
+      "currentPoolToken": 1073057135.1875643,
+      "currentPriceUSD": 4.899650774818249e-8,
+      "currentPoolEth": 0.017910913,
+      "currentMarketCap": 52.57605223846
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 5,
+    "holderCountOld": 0,
+    "txCount": 4,
+    "createdAtTimestamp": "1619961660",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.2578080143954349,
     "isRugged": true
   },
   {
@@ -6136,67 +6198,5 @@
     "officialSite": null,
     "priceChange": 116.91744614341374,
     "isRugged": false
-  },
-  {
-    "_id": "0x12399e1bcd24cdf49adba6fdb69c0b53c73fd078",
-    "tokenName": "Wishu",
-    "idPair": "0x3c3b659792f7bce7f06e9c72ea63d3eae9cee93c",
-    "idToken": "0x12399e1bcd24cdf49adba6fdb69c0b53c73fd078",
-    "dateCreationToken": "2021-05-01T00:46:27Z",
-    "initialInfos": {
-      "initialPoolToken": 459183673469387.75,
-      "initialPriceUSD": 6.131925333333333e-11,
-      "initialPoolEth": 10,
-      "initialMarketCap": 28156.8
-    },
-    "currentInfos": {
-      "currentPoolToken": 5.567598262e-9,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 120,
-    "holderCountOld": 122,
-    "txCount": 352,
-    "createdAtTimestamp": "1619829987",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x528851996ad173313eb71f1d0ce7f4bed6a49a32",
-    "tokenName": "mELON",
-    "idPair": "0xc0280f600c1349ec6c7701a5df343530cc8374b4",
-    "idToken": "0x528851996ad173313eb71f1d0ce7f4bed6a49a32",
-    "dateCreationToken": "2021-05-01T00:45:29Z",
-    "initialInfos": {
-      "initialPoolToken": 49494949494949496,
-      "initialPriceUSD": 1.137764571428571e-13,
-      "initialPoolEth": 2,
-      "initialMarketCap": 5631.36
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.003694914,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 11,
-    "holderCountOld": 0,
-    "txCount": 14,
-    "createdAtTimestamp": "1619829929",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
