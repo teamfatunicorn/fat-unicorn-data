@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x1bf64b110c07ef85dad3083adaae089ef4c8f7b5",
+    "tokenName": "DOGEIN",
+    "idPair": "0x695cec383afe3903b8c5d269fb40e0293d55ad01",
+    "idToken": "0x1bf64b110c07ef85dad3083adaae089ef4c8f7b5",
+    "dateCreationToken": "2021-05-02T19:29:21Z",
+    "initialInfos": {
+      "initialPoolToken": 5000000000000,
+      "initialPriceUSD": 8.91129e-10,
+      "initialPoolEth": 1.5,
+      "initialMarketCap": 4455.645
+    },
+    "currentInfos": {
+      "currentPoolToken": 3430237426350.2993,
+      "currentPriceUSD": 1.896083099175244e-9,
+      "currentPoolEth": 2.1915643872502097,
+      "currentMarketCap": 6504.015210261187
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 6,
+    "createdAtTimestamp": "1619983761",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 1.1277313376348923,
+    "isRugged": false
+  },
+  {
     "_id": "0x2929b5eabf49dff336379dd5677f2cb17f0e5d2f",
     "tokenName": "TINU",
     "idPair": "0x3292454299b5ed07b178fac7f7905c8aa39a1990",
@@ -12,22 +43,22 @@
       "initialMarketCap": 34159.945
     },
     "currentInfos": {
-      "currentPoolToken": 633522895814087.5,
-      "currentPriceUSD": 5.5327241101458195e-11,
-      "currentPoolEth": 11.8,
-      "currentMarketCap": 35051.074
+      "currentPoolToken": 628741794019396,
+      "currentPriceUSD": 5.61224779959696e-11,
+      "currentPoolEth": 11.89,
+      "currentMarketCap": 35286.5475
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 0,
+    "holderCount": 2,
     "holderCountOld": 0,
-    "txCount": 2,
+    "txCount": 3,
     "createdAtTimestamp": "1619983567",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.05277413988657846,
+    "priceChange": 0.06790601382350703,
     "isRugged": false
   },
   {
@@ -51,7 +82,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 10,
+    "holderCount": 11,
     "holderCountOld": 0,
     "txCount": 14,
     "createdAtTimestamp": "1619981971",
@@ -137,9 +168,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 93142743886.30704,
-      "currentPriceUSD": 1.5451264595664051e-9,
+      "currentPriceUSD": 1.5437324058732906e-9,
       "currentPoolEth": 0.048449994813911636,
-      "currentMarketCap": 143.91731809535003
+      "currentMarketCap": 143.7874721092485
     },
     "trustScore": null,
     "contractId": null,
@@ -151,7 +182,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.04033857695108459,
+    "priceChange": 0.03939995614997869,
     "isRugged": true
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x40225e0e18a94b5e1ad236ac8baf845e443236d5",
-    "tokenName": "TWG",
-    "idPair": "0xa311d7eea6871734bf70ecf64a36286fbf782559",
-    "idToken": "0x40225e0e18a94b5e1ad236ac8baf845e443236d5",
-    "dateCreationToken": "2021-05-01T02:19:36Z",
-    "initialInfos": {
-      "initialPoolToken": 50000000,
-      "initialPriceUSD": 5.66232e-7,
-      "initialPoolEth": 0.01,
-      "initialMarketCap": 28.3116
-    },
-    "currentInfos": {
-      "currentPoolToken": 56353847.02695754,
-      "currentPriceUSD": 0.000001268118327293488,
-      "currentPoolEth": 0.02412875706191988,
-      "currentMarketCap": 71.4633462283785
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 4,
-    "holderCountOld": 5,
-    "txCount": 13,
-    "createdAtTimestamp": "1619835576",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 1.239573756505263,
     "isRugged": true
   }
 ]
