@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xa8007b46aab6695346c89be8b377276662cbd6c3",
+    "tokenName": "GTU",
+    "idPair": "0x14a2db4ad7080942e8c0614d86429b000856296b",
+    "idToken": "0xa8007b46aab6695346c89be8b377276662cbd6c3",
+    "dateCreationToken": "2021-05-02T08:19:30Z",
+    "initialInfos": {
+      "initialPoolToken": 17400000,
+      "initialPriceUSD": 0.049512758620689656,
+      "initialPoolEth": 300,
+      "initialMarketCap": 861522
+    },
+    "currentInfos": {
+      "currentPoolToken": 17400000,
+      "currentPriceUSD": 0.049512758620689656,
+      "currentPoolEth": 300,
+      "currentMarketCap": 861522
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619943570",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0x299992528f36442192ac2ecd94fbe78d06ad8ae8",
     "tokenName": "BOGE",
     "idPair": "0xcd397e21ddbc0d95c05644c8a31882c69b33b493",
@@ -7,9 +38,9 @@
     "dateCreationToken": "2021-05-02T07:20:58Z",
     "initialInfos": {
       "initialPoolToken": 33000000000,
-      "initialPriceUSD": 3.4827757575757577e-7,
+      "initialPriceUSD": 3.48089696969697e-7,
       "initialPoolEth": 4,
-      "initialMarketCap": 11493.16
+      "initialMarketCap": 11486.96
     },
     "currentInfos": {
       "currentPoolToken": 0.000002553,
@@ -38,15 +69,15 @@
     "dateCreationToken": "2021-05-02T06:56:00Z",
     "initialInfos": {
       "initialPoolToken": 10000000,
-      "initialPriceUSD": 0.00000287329,
+      "initialPriceUSD": 0.00000287174,
       "initialPoolEth": 0.01,
-      "initialMarketCap": 28.7329
+      "initialMarketCap": 28.7174
     },
     "currentInfos": {
       "currentPoolToken": 9093389.10611985,
-      "currentPriceUSD": 0.0000034757327143,
+      "currentPriceUSD": 0.0000034738577258,
       "currentPoolEth": 0.011,
-      "currentMarketCap": 31.60619
+      "currentMarketCap": 31.58914
     },
     "trustScore": null,
     "contractId": null,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.6178636756906097,
     "isRugged": false
-  },
-  {
-    "_id": "0x98ee442b49c8f42048edc082e49f721d7f91ea43",
-    "tokenName": "ALLEY",
-    "idPair": "0xd82691c6ae9dfee059af19fbbe5b1c85b0a75a56",
-    "idToken": "0x98ee442b49c8f42048edc082e49f721d7f91ea43",
-    "dateCreationToken": "2021-04-30T15:21:59Z",
-    "initialInfos": {
-      "initialPoolToken": 1568000,
-      "initialPriceUSD": 0.6455112244897959,
-      "initialPoolEth": 360,
-      "initialMarketCap": 1012161.6
-    },
-    "currentInfos": {
-      "currentPoolToken": 6.2763e-14,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1.6e-17,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 18,
-    "holderCountOld": 0,
-    "txCount": 22,
-    "createdAtTimestamp": "1619796119",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
