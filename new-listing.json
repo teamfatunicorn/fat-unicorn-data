@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xaf2ca8461bdaf4aae6c8bf5d72eb7bc743668066",
+    "tokenName": "SIENNA",
+    "idPair": "0xb4cc65a9e7b2692c41df6e081c03012fe142765a",
+    "idToken": "0xaf2ca8461bdaf4aae6c8bf5d72eb7bc743668066",
+    "dateCreationToken": "2021-05-02T09:33:09Z",
+    "initialInfos": {
+      "initialPoolToken": 600000000000,
+      "initialPriceUSD": 8.883761666666667e-8,
+      "initialPoolEth": 18.5,
+      "initialMarketCap": 53302.57
+    },
+    "currentInfos": {
+      "currentPoolToken": 600000000000,
+      "currentPriceUSD": 8.883761666666667e-8,
+      "currentPoolEth": 18.5,
+      "currentMarketCap": 53302.57
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": false,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619947989",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xe1a1809fad2cb53b157454129466aca6d21bf4e8",
     "tokenName": "$DRAGONGOD",
     "idPair": "0xf0f5a0365243b8d89c8801130ec189c166470525",
@@ -12,22 +43,22 @@
       "initialMarketCap": 17545.343300150158
     },
     "currentInfos": {
-      "currentPoolToken": 10000000000000000,
-      "currentPriceUSD": 1.7575442e-12,
-      "currentPoolEth": 6.1,
-      "currentMarketCap": 17575.442
+      "currentPoolToken": 9839185767053244,
+      "currentPriceUSD": 1.8155530775540985e-12,
+      "currentPoolEth": 6.2,
+      "currentMarketCap": 17863.564
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 1,
     "holderCountOld": 0,
-    "txCount": 1,
+    "txCount": 2,
     "createdAtTimestamp": "1619947594",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": 0.033005643644181744,
     "isRugged": false
   },
   {
@@ -3317,37 +3348,6 @@
     "isRugged": false
   },
   {
-    "_id": "0x2f63ea3c478bf92f619853b50fba21e638451184",
-    "tokenName": "MNW",
-    "idPair": "0xcabdaefb7fceb6d369e27c85f8a31de5f0a9729c",
-    "idToken": "0x2f63ea3c478bf92f619853b50fba21e638451184",
-    "dateCreationToken": "2021-05-01T14:20:27Z",
-    "initialInfos": {
-      "initialPoolToken": 200,
-      "initialPriceUSD": 0.1424195,
-      "initialPoolEth": 0.01,
-      "initialMarketCap": 28.4839
-    },
-    "currentInfos": {
-      "currentPoolToken": 330,
-      "currentPriceUSD": 0.1441665,
-      "currentPoolEth": 0.0165,
-      "currentMarketCap": 47.574945
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1619878827",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.012266578663736346,
-    "isRugged": true
-  },
-  {
     "_id": "0x4378c1c01b2bfc3673535d85935e0db0c1cd55bc",
     "tokenName": "$SDOGE",
     "idPair": "0xb72f3fcb5eeb6cdc82e48de4204944e9358f34b9",
@@ -3376,6 +3376,37 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": -1,
+    "isRugged": true
+  },
+  {
+    "_id": "0x2f63ea3c478bf92f619853b50fba21e638451184",
+    "tokenName": "MNW",
+    "idPair": "0xcabdaefb7fceb6d369e27c85f8a31de5f0a9729c",
+    "idToken": "0x2f63ea3c478bf92f619853b50fba21e638451184",
+    "dateCreationToken": "2021-05-01T14:20:27Z",
+    "initialInfos": {
+      "initialPoolToken": 200,
+      "initialPriceUSD": 0.1424195,
+      "initialPoolEth": 0.01,
+      "initialMarketCap": 28.4839
+    },
+    "currentInfos": {
+      "currentPoolToken": 330,
+      "currentPriceUSD": 0.1441665,
+      "currentPoolEth": 0.0165,
+      "currentMarketCap": 47.574945
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 2,
+    "createdAtTimestamp": "1619878827",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.012266578663736346,
     "isRugged": true
   },
   {
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 33,
     "createdAtTimestamp": "1619801331",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0x61488a1ee646e15e0fe9332882a8214706ae813a",
-    "tokenName": "CDOGE",
-    "idPair": "0x3fa2326628dff97f055d45545acd639351c40a93",
-    "idToken": "0x61488a1ee646e15e0fe9332882a8214706ae813a",
-    "dateCreationToken": "2021-04-30T16:14:36Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000000000,
-      "initialPriceUSD": 8.27097e-9,
-      "initialPoolEth": 3,
-      "initialMarketCap": 8270.97
-    },
-    "currentInfos": {
-      "currentPoolToken": 1.21075672e-10,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 40,
-    "holderCountOld": 39,
-    "txCount": 47,
-    "createdAtTimestamp": "1619799276",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
