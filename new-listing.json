@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x06574cb369069b4abc1f2bf7e9bbf19b80c9cda6",
+    "tokenName": "POLX",
+    "idPair": "0x3618c20d5a7f676c7e975a5cf7bf2e208a43549e",
+    "idToken": "0x06574cb369069b4abc1f2bf7e9bbf19b80c9cda6",
+    "dateCreationToken": "2021-05-02T10:08:08Z",
+    "initialInfos": {
+      "initialPoolToken": 23000000000,
+      "initialPriceUSD": 0.00003892616086956522,
+      "initialPoolEth": 310,
+      "initialMarketCap": 895301.7
+    },
+    "currentInfos": {
+      "currentPoolToken": 23000000000,
+      "currentPriceUSD": 0.00003892616086956522,
+      "currentPoolEth": 310,
+      "currentMarketCap": 895301.7
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 2,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1619950088",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": false
+  },
+  {
     "_id": "0xa2a53374dc86962e8773b92a077b0c1fcc02a943",
     "tokenName": "$SPLASH",
     "idPair": "0x2fa69011c458942427e23913d43abcc8f1b80574",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": -1,
     "isRugged": true
-  },
-  {
-    "_id": "0x64db737d46a53f9e89a94755323e30f664335d83",
-    "tokenName": "CDOGE",
-    "idPair": "0xa2c589b8a8d2c71c0cd110fe93b48ef1246d0142",
-    "idToken": "0x64db737d46a53f9e89a94755323e30f664335d83",
-    "dateCreationToken": "2021-04-30T17:56:35Z",
-    "initialInfos": {
-      "initialPoolToken": 19155937419.851242,
-      "initialPriceUSD": 0.000002896376135709408,
-      "initialPoolEth": 20,
-      "initialMarketCap": 55482.8
-    },
-    "currentInfos": {
-      "currentPoolToken": 28556351895.276028,
-      "currentPriceUSD": 0.0000014444719993320205,
-      "currentPoolEth": 14.312528657359824,
-      "currentMarketCap": 41248.85071579809
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 328,
-    "holderCountOld": 330,
-    "txCount": 953,
-    "createdAtTimestamp": "1619805395",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -0.5012830061941431,
-    "isRugged": false
   }
 ]
