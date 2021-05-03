@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xd3ff42d07d25ff6a1caf87f366145efb5f8a9b5c",
+    "tokenName": "PKD",
+    "idPair": "0x44265d82eec37f46ac431e2f81a12ee6200b7105",
+    "idToken": "0xd3ff42d07d25ff6a1caf87f366145efb5f8a9b5c",
+    "dateCreationToken": "2021-05-03T05:16:01Z",
+    "initialInfos": {
+      "initialPoolToken": 800000000,
+      "initialPriceUSD": 0.000038191375,
+      "initialPoolEth": 10,
+      "initialMarketCap": 30655.09248385975
+    },
+    "currentInfos": {
+      "currentPoolToken": 769320181.3717479,
+      "currentPriceUSD": 0.0000413029903145693,
+      "currentPoolEth": 10.4,
+      "currentMarketCap": 31775.224
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 3,
+    "createdAtTimestamp": "1620018961",
+    "isCodeGenerator": true,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.08147429398834947,
+    "isRugged": false
+  },
+  {
     "_id": "0xad42f4d0af7417d79bab99f282ec4a9a7a408361",
     "tokenName": "STNLEE",
     "idPair": "0xae776b3ef24aa1c774ef2e20827c3002e5efca52",
@@ -43,22 +74,22 @@
       "initialMarketCap": 48420.0166425419
     },
     "currentInfos": {
-      "currentPoolToken": 19707405.935111526,
-      "currentPriceUSD": 0.007899589333699724,
-      "currentPoolEth": 50.95404843367653,
-      "currentMarketCap": 155680.41371989768
+      "currentPoolToken": 19413289.860626124,
+      "currentPriceUSD": 0.00814114155215948,
+      "currentPoolEth": 51.728414055679586,
+      "currentMarketCap": 158046.34074845965
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 127,
     "holderCountOld": 0,
-    "txCount": 235,
+    "txCount": 240,
     "createdAtTimestamp": "1620015981",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 9.180384241953563,
+    "priceChange": 9.491678195922297,
     "isRugged": false
   },
   {
@@ -6162,37 +6193,6 @@
     "holderCountOld": 0,
     "txCount": 17,
     "createdAtTimestamp": "1619885222",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
-  },
-  {
-    "_id": "0xd0d8d3141451d925a0a3cb60a250ec405fd8a029",
-    "tokenName": "PBF",
-    "idPair": "0x48e251a29b6bfee283bdedff18f3168a5b2d0ccb",
-    "idToken": "0xd0d8d3141451d925a0a3cb60a250ec405fd8a029",
-    "dateCreationToken": "2021-05-01T16:01:53Z",
-    "initialInfos": {
-      "initialPoolToken": 400000000000000,
-      "initialPriceUSD": 1.451415e-11,
-      "initialPoolEth": 2,
-      "initialMarketCap": 5735.760063512292
-    },
-    "currentInfos": {
-      "currentPoolToken": 23939969984992.504,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 49,
-    "holderCountOld": 0,
-    "txCount": 85,
-    "createdAtTimestamp": "1619884913",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
