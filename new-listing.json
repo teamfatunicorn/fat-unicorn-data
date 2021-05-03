@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xf28f254a1ed76521b976e08b0eabc5acf8ecf2bc",
+    "tokenName": "WELON",
+    "idPair": "0xac9556100a6cf6b58fd3dfe21e9bba7b9249f7e8",
+    "idToken": "0xf28f254a1ed76521b976e08b0eabc5acf8ecf2bc",
+    "dateCreationToken": "2021-05-03T02:39:12Z",
+    "initialInfos": {
+      "initialPoolToken": 100000000,
+      "initialPriceUSD": 0.00002116331,
+      "initialPoolEth": 0.7,
+      "initialMarketCap": 2115.40787477961
+    },
+    "currentInfos": {
+      "currentPoolToken": 85120059.4508737,
+      "currentPriceUSD": 0.00002943895044559174,
+      "currentPoolEth": 0.8288361548690635,
+      "currentMarketCap": 2505.8452121000937
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 7,
+    "createdAtTimestamp": "1620009552",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.3910371508800722,
+    "isRugged": false
+  },
+  {
     "_id": "0x75d2c794935e4d7a6616cc0e220010731318b0e5",
     "tokenName": "LYON",
     "idPair": "0xad7118d1ceb5747765a20e0be10b25a8ecc1710e",
@@ -12,22 +43,22 @@
       "initialMarketCap": 1511.665
     },
     "currentInfos": {
-      "currentPoolToken": 33352995.862722717,
-      "currentPriceUSD": 0.00013941758207984184,
-      "currentPoolEth": 1.538037210062764,
-      "currentMarketCap": 4649.99403829977
+      "currentPoolToken": 27953230.735121828,
+      "currentPriceUSD": 0.00019879609233567722,
+      "currentPoolEth": 1.838037210062764,
+      "currentMarketCap": 5556.99303829977
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
-    "holderCount": 1,
+    "holderCount": 7,
     "holderCountOld": 0,
-    "txCount": 9,
+    "txCount": 10,
     "createdAtTimestamp": "1620009037",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 8.222782963146058,
+    "priceChange": 12.15080340787656,
     "isRugged": false
   },
   {
@@ -51,7 +82,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 3,
+    "holderCount": 7,
     "holderCountOld": 0,
     "txCount": 6,
     "createdAtTimestamp": "1620007828",
@@ -105,22 +136,22 @@
       "initialMarketCap": 17677.41051
     },
     "currentInfos": {
-      "currentPoolToken": 1639.55305691669,
-      "currentPriceUSD": 12.394124052434774,
-      "currentPoolEth": 6.721338384487723,
-      "currentMarketCap": 20320.823977974105
+      "currentPoolToken": 1719.55305691669,
+      "currentPriceUSD": 11.269282015597309,
+      "currentPoolEth": 6.40953132445868,
+      "currentMarketCap": 19378.12833917663
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 174,
+    "holderCount": 175,
     "holderCountOld": 0,
-    "txCount": 21,
+    "txCount": 22,
     "createdAtTimestamp": "1620006142",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.3086196629908374,
+    "priceChange": 0.18985448031743943,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.049803573246641,
-    "isRugged": true
-  },
-  {
-    "_id": "0xf2975e674e48655cff76e1c60dcd30340df3dc3e",
-    "tokenName": "ElonSky",
-    "idPair": "0xdf1a8ca6b35ded095781b853bd6277acf307d053",
-    "idToken": "0xf2975e674e48655cff76e1c60dcd30340df3dc3e",
-    "dateCreationToken": "2021-05-01T14:12:40Z",
-    "initialInfos": {
-      "initialPoolToken": 49500000000,
-      "initialPriceUSD": 1.7262969696969696e-7,
-      "initialPoolEth": 3,
-      "initialMarketCap": 8593.015832763782
-    },
-    "currentInfos": {
-      "currentPoolToken": 3516091639.0033,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 1e-18,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 23,
-    "holderCountOld": 0,
-    "txCount": 27,
-    "createdAtTimestamp": "1619878360",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
     "isRugged": true
   }
 ]
