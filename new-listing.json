@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x75fef397d74a2d11b64e6915cd847c1e7f8e5520",
+    "tokenName": "RWLD",
+    "idPair": "0x4e1bbe2102d6b440b0d4df1878aac8de21e35d74",
+    "idToken": "0x75fef397d74a2d11b64e6915cd847c1e7f8e5520",
+    "dateCreationToken": "2021-05-03T04:26:21Z",
+    "initialInfos": {
+      "initialPoolToken": 62400000,
+      "initialPriceUSD": 0.0007714741279455706,
+      "initialPoolEth": 15.84782449,
+      "initialMarketCap": 48139.9855838036
+    },
+    "currentInfos": {
+      "currentPoolToken": 48120459.47098158,
+      "currentPriceUSD": 0.0012996843397098281,
+      "currentPoolEth": 20.588814867488264,
+      "currentMarketCap": 62541.40759407625
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 24,
+    "holderCountOld": 0,
+    "txCount": 8,
+    "createdAtTimestamp": "1620015981",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0.684676507779823,
+    "isRugged": false
+  },
+  {
     "_id": "0x7b6dabe70411186ed077d50469913c2586aef285",
     "tokenName": "FBOOK",
     "idPair": "0x5baaca6f5d3f5df66eb1e05aaef57364e970c6b9",
@@ -7,15 +38,15 @@
     "dateCreationToken": "2021-05-03T04:16:59Z",
     "initialInfos": {
       "initialPoolToken": 1430000000,
-      "initialPriceUSD": 0.00012955930769230768,
+      "initialPriceUSD": 0.00012957765034965035,
       "initialPoolEth": 61,
-      "initialMarketCap": 185269.81
+      "initialMarketCap": 185296.04
     },
     "currentInfos": {
       "currentPoolToken": 1430000000,
-      "currentPriceUSD": 0.00012955930769230768,
+      "currentPriceUSD": 0.00012957765034965035,
       "currentPoolEth": 61,
-      "currentMarketCap": 185269.81
+      "currentMarketCap": 185296.04
     },
     "trustScore": null,
     "contractId": null,
@@ -38,28 +69,28 @@
     "dateCreationToken": "2021-05-03T04:15:09Z",
     "initialInfos": {
       "initialPoolToken": 50000000000000,
-      "initialPriceUSD": 1.214884e-10,
+      "initialPriceUSD": 1.215056e-10,
       "initialPoolEth": 2,
-      "initialMarketCap": 6074.42
+      "initialMarketCap": 6075.28
     },
     "currentInfos": {
-      "currentPoolToken": 50000000000000,
-      "currentPriceUSD": 1.215844209691836e-10,
-      "currentPoolEth": 2.001580743003516,
-      "currentMarketCap": 6079.221048459179
+      "currentPoolToken": 5e-9,
+      "currentPriceUSD": 0,
+      "currentPoolEth": 1e-18,
+      "currentMarketCap": 0
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
     "holderCount": 3,
     "holderCountOld": 0,
-    "txCount": 4,
+    "txCount": 5,
     "createdAtTimestamp": "1620015309",
     "isCodeGenerator": true,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.0007903715020001506,
-    "isRugged": false
+    "priceChange": -1,
+    "isRugged": true
   },
   {
     "_id": "0xb666625d9bd2e5d12072b8751101f31b4cac47d7",
@@ -69,15 +100,15 @@
     "dateCreationToken": "2021-05-03T04:12:52Z",
     "initialInfos": {
       "initialPoolToken": 100000000000000000,
-      "initialPriceUSD": 9.11163e-14,
+      "initialPriceUSD": 9.11292e-14,
       "initialPoolEth": 3,
-      "initialMarketCap": 9111.63
+      "initialMarketCap": 9112.92
     },
     "currentInfos": {
       "currentPoolToken": 100000000000000000,
-      "currentPriceUSD": 9.11163e-14,
+      "currentPriceUSD": 9.11292e-14,
       "currentPoolEth": 3,
-      "currentMarketCap": 9111.63
+      "currentMarketCap": 9112.92
     },
     "trustScore": null,
     "contractId": null,
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.31390905496940336,
     "isRugged": false
-  },
-  {
-    "_id": "0x956b5ce9572861d36e0993861f6ec2139f6a0f2e",
-    "tokenName": "WIN",
-    "idPair": "0x3241b810af3b0da17cae8c2bb1dcf8986f7ada6e",
-    "idToken": "0x956b5ce9572861d36e0993861f6ec2139f6a0f2e",
-    "dateCreationToken": "2021-05-01T15:34:06Z",
-    "initialInfos": {
-      "initialPoolToken": 390000000,
-      "initialPriceUSD": 0.0013311461538461538,
-      "initialPoolEth": 180,
-      "initialMarketCap": 519147
-    },
-    "currentInfos": {
-      "currentPoolToken": 0.000002,
-      "currentPriceUSD": 0.001495125,
-      "currentPoolEth": 6.79404e-13,
-      "currentMarketCap": 2.99025e-9
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 3,
-    "holderCountOld": 0,
-    "txCount": 3,
-    "createdAtTimestamp": "1619883246",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.12318620737478982,
-    "isRugged": true
   }
 ]
