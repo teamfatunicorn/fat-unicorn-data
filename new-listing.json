@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0xa164f328483c0d20fd664ff13f8479ff6bf2db8b",
+    "tokenName": "GIAN",
+    "idPair": "0xe4035a313971d08247e822650d40e7f31bc08a89",
+    "idToken": "0xa164f328483c0d20fd664ff13f8479ff6bf2db8b",
+    "dateCreationToken": "2021-05-03T06:18:29Z",
+    "initialInfos": {
+      "initialPoolToken": 20000,
+      "initialPriceUSD": 0.01548765,
+      "initialPoolEth": 0.1,
+      "initialMarketCap": 309.753
+    },
+    "currentInfos": {
+      "currentPoolToken": 20000,
+      "currentPriceUSD": 0.01548765,
+      "currentPoolEth": 0.1,
+      "currentMarketCap": 309.753
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 4,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1620022709",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": 0,
+    "isRugged": true
+  },
+  {
     "_id": "0xb9b5bea373074b869b721c1cb38cc837f1b061b5",
     "tokenName": "LOCG",
     "idPair": "0x167950ca62ed40870deebd648ba81cf94fbfe5d0",
@@ -12,22 +43,22 @@
       "initialMarketCap": 774382.5
     },
     "currentInfos": {
-      "currentPoolToken": 21442265.246198162,
-      "currentPriceUSD": 0.03625923012671675,
-      "currentPoolEth": 251,
-      "currentMarketCap": 777480.03
+      "currentPoolToken": 21370959.46479348,
+      "currentPriceUSD": 0.0365019622298712,
+      "currentPoolEth": 251.84,
+      "currentMarketCap": 780081.9552
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 0,
+    "holderCount": 4,
     "holderCountOld": 0,
-    "txCount": 2,
+    "txCount": 3,
     "createdAtTimestamp": "1620022377",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0.008003951999999955,
+    "priceChange": 0.014751886757629298,
     "isRugged": false
   },
   {
@@ -51,7 +82,7 @@
     "trustScore": null,
     "contractId": null,
     "contractVerified": true,
-    "holderCount": 14,
+    "holderCount": 12,
     "holderCountOld": 0,
     "txCount": 27,
     "createdAtTimestamp": "1620021664",
@@ -6167,36 +6198,5 @@
     "officialSite": null,
     "priceChange": 0.1902400807465636,
     "isRugged": false
-  },
-  {
-    "_id": "0x12c74261ddc21c7e3110e13e1fed44083ff5f910",
-    "tokenName": "MNK",
-    "idPair": "0xedb801e3a8223f9647516d0499fc05b3cafe0a54",
-    "idToken": "0x12c74261ddc21c7e3110e13e1fed44083ff5f910",
-    "dateCreationToken": "2021-05-01T16:46:31Z",
-    "initialInfos": {
-      "initialPoolToken": 1000000,
-      "initialPriceUSD": 0.01167492,
-      "initialPoolEth": 4,
-      "initialMarketCap": 11674.92
-    },
-    "currentInfos": {
-      "currentPoolToken": 5e-8,
-      "currentPriceUSD": 0,
-      "currentPoolEth": 2.2e-13,
-      "currentMarketCap": 0
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": false,
-    "holderCount": 3,
-    "holderCountOld": 2,
-    "txCount": 3,
-    "createdAtTimestamp": "1619887591",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": -1,
-    "isRugged": true
   }
 ]
