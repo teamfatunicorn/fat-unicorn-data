@@ -1,5 +1,36 @@
 [
   {
+    "_id": "0x20974b814786074ba04d9db8a2da728586777001",
+    "tokenName": "ELON",
+    "idPair": "0x782722cf7496939b14ecf585ffc801d1a9177c22",
+    "idToken": "0x20974b814786074ba04d9db8a2da728586777001",
+    "dateCreationToken": "2021-05-03T03:11:54Z",
+    "initialInfos": {
+      "initialPoolToken": 100000000,
+      "initialPriceUSD": 0.00002420632,
+      "initialPoolEth": 0.8,
+      "initialMarketCap": 2420.632
+    },
+    "currentInfos": {
+      "currentPoolToken": 100000000,
+      "currentPriceUSD": 0.00002420488,
+      "currentPoolEth": 0.8,
+      "currentMarketCap": 2420.488
+    },
+    "trustScore": null,
+    "contractId": null,
+    "contractVerified": true,
+    "holderCount": 1,
+    "holderCountOld": 0,
+    "txCount": 1,
+    "createdAtTimestamp": "1620011514",
+    "isCodeGenerator": false,
+    "linksSocial": [],
+    "officialSite": null,
+    "priceChange": -0.00005948859636653121,
+    "isRugged": false
+  },
+  {
     "_id": "0x806aa1b35df637b878450ab2da4488d0d417db98",
     "tokenName": "SuperMoonINU",
     "idPair": "0x372c9a978bfce8f4b1590b931cbaa95e7930d788",
@@ -13,9 +44,9 @@
     },
     "currentInfos": {
       "currentPoolToken": 90000000000,
-      "currentPriceUSD": 3.698187777777778e-8,
+      "currentPriceUSD": 3.697967777777778e-8,
       "currentPoolEth": 1.1,
-      "currentMarketCap": 3328.369
+      "currentMarketCap": 3328.171
     },
     "trustScore": null,
     "contractId": null,
@@ -27,7 +58,7 @@
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 0,
+    "priceChange": -0.000059488596366564615,
     "isRugged": false
   },
   {
@@ -105,22 +136,22 @@
       "initialMarketCap": 1512.895
     },
     "currentInfos": {
-      "currentPoolToken": 36483808.65136188,
-      "currentPriceUSD": 0.00011716296976111962,
-      "currentPoolEth": 1.4127058949195503,
-      "currentMarketCap": 4274.551369789987
+      "currentPoolToken": 37543775.25058073,
+      "currentPriceUSD": 0.00011065004955864918,
+      "currentPoolEth": 1.372937511227315,
+      "currentMarketCap": 4154.220592095544
     },
     "trustScore": null,
     "contractId": null,
     "contractVerified": false,
     "holderCount": 11,
     "holderCountOld": 0,
-    "txCount": 22,
+    "txCount": 23,
     "createdAtTimestamp": "1620009037",
     "isCodeGenerator": false,
     "linksSocial": [],
     "officialSite": null,
-    "priceChange": 6.744289574697492,
+    "priceChange": 6.313795706817009,
     "isRugged": false
   },
   {
@@ -6166,37 +6197,6 @@
     "linksSocial": [],
     "officialSite": null,
     "priceChange": 0.05149621516806292,
-    "isRugged": false
-  },
-  {
-    "_id": "0xf549abe026c3a10388b62d65a741544a9b4c1f9d",
-    "tokenName": "FACES20",
-    "idPair": "0x130ff366819574cf9d65ca90276d7985962802ca",
-    "idToken": "0xf549abe026c3a10388b62d65a741544a9b4c1f9d",
-    "dateCreationToken": "2021-05-01T14:51:50Z",
-    "initialInfos": {
-      "initialPoolToken": 190,
-      "initialPriceUSD": 0.9923447368421052,
-      "initialPoolEth": 0.066,
-      "initialMarketCap": 188.66895981804487
-    },
-    "currentInfos": {
-      "currentPoolToken": 370,
-      "currentPriceUSD": 1.0387184210488034,
-      "currentPoolEth": 0.12852631578947368,
-      "currentMarketCap": 384.32581578805724
-    },
-    "trustScore": null,
-    "contractId": null,
-    "contractVerified": true,
-    "holderCount": 2,
-    "holderCountOld": 0,
-    "txCount": 2,
-    "createdAtTimestamp": "1619880710",
-    "isCodeGenerator": false,
-    "linksSocial": [],
-    "officialSite": null,
-    "priceChange": 0.046731425567158355,
     "isRugged": false
   }
 ]
